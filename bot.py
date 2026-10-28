@@ -16,6 +16,9 @@ FEEDS = [
     ("Eurogamer", "https://www.eurogamer.net/feed"),
     ("Rock Paper Shotgun", "https://www.rockpapershotgun.com/feed"),
     ("Gematsu", "https://www.gematsu.com/feed"),
+    ("Push Square", "https://www.pushsquare.com/feeds/latest"),
+    ("Nintendo Life", "https://www.nintendolife.com/feeds/latest"),
+    ("Xbox Wire", "https://news.xbox.com/en-us/feed/"),
     # Трейлеры с YouTube: подставьте ID канала (UC...) и уберите #
     # ("IGN Video", "https://www.youtube.com/feeds/videos.xml?channel_id=ID_КАНАЛА"),
 ]
