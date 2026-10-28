@@ -140,13 +140,64 @@
   "https://www.rockpapershotgun.com/boltgun-2-and-warhammer-survivors-devs-auroch-digital-say-theyre-laying-of-25-of-their-staff-in-now-deleted-posts",
   "https://www.eurogamer.net/mass-effect-5-pitched-music-composer",
   "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-  "https://www.eurogamer.net/assassins-creed-black-flag-resynced-new-game-plus-final-update"
+  "https://www.eurogamer.net/assassins-creed-black-flag-resynced-new-game-plus-final-update",
+  "https://www.pushsquare.com/#article-208154",
+  "https://www.pushsquare.com/#article-208159",
+  "https://www.pushsquare.com/#article-208162",
+  "https://www.pushsquare.com/#article-208105",
+  "https://www.pushsquare.com/#article-208152",
+  "https://www.pushsquare.com/#article-208126",
+  "https://www.pushsquare.com/#article-208150",
+  "https://www.pushsquare.com/#article-208153",
+  "https://www.pushsquare.com/#article-208148",
+  "https://www.pushsquare.com/#article-208143",
+  "https://www.pushsquare.com/#article-208131",
+  "https://www.nintendolife.com/#article-208169",
+  "https://www.nintendolife.com/#article-208168",
+  "https://www.nintendolife.com/#article-208167",
+  "https://www.nintendolife.com/#article-208166",
+  "https://www.nintendolife.com/#article-208028",
+  "https://www.nintendolife.com/#article-208165",
+  "https://www.nintendolife.com/#article-208156",
+  "https://www.nintendolife.com/#article-205357",
+  "https://www.nintendolife.com/#article-208031",
+  "https://www.nintendolife.com/#article-208151",
+  "https://www.nintendolife.com/#article-208144",
+  "https://www.nintendolife.com/#article-208048",
+  "https://www.nintendolife.com/#article-208127",
+  "https://news.xbox.com/en-us/?p=227641",
+  "https://news.xbox.com/en-us/?p=227638",
+  "https://news.xbox.com/en-us/?p=227624",
+  "https://news.xbox.com/en-us/?p=227470",
+  "https://news.xbox.com/en-us/?p=227612",
+  "https://news.xbox.com/en-us/?p=227607",
+  "https://news.xbox.com/en-us/?p=227600",
+  "https://news.xbox.com/en-us/?p=227559",
+  "https://www.nintendolife.com/#article-208234",
+  "https://www.nintendolife.com/#article-208230",
+  "https://www.nintendolife.com/#article-208233"
  ],
  "titles": [
   "Карточные цифровые монстры идут на смартфоны",
   "Настолка Blade Runner 2099 расскажет совершенно другую историю",
-  "Точное время релиза Phantom Blade Zero для каждого региона"
+  "Точное время релиза Phantom Blade Zero для каждого региона",
+  "Minecraft добралась до Switch 2",
+  "Легендарный Shipment ворвался в Call Of Duty: Modern Warfare 4",
+  "Cyberpunk 2077 на Switch 2 штормит из-за патча"
  ],
- "queue": [],
- "last_post": null
+ "queue": [
+  {
+   "post": "<b>Легендарный Shipment ворвался в Call Of Duty: Modern Warfare 4</b>\n\nСпустя всего несколько дней после релиза шутера компания Activision добавила культовую карту в ротацию. Это первое пострелизное обновление контента для игры.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/05d66454fc586/small.jpg",
+   "ts": "2026-10-28T07:10:06.372269+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Cyberpunk 2077 на Switch 2 штормит из-за патча</b>\n\nСвежее обновление Edgerunners 2 на новой консоли Nintendo откровенно расстроило фанатов. Игроки массово жалуются на баги с загрузками, вылеты, просадки FPS и проблемы с сохранениями, а некоторые вообще называют порт неиграбельным.\n\n#новости #Nintendo\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/a6171b47a5392/small.jpg",
+   "ts": "2026-10-28T07:10:06.372269+00:00",
+   "tries": 0
+  }
+ ],
+ "last_post": "2026-10-28T07:10:06.372269+00:00"
 }
