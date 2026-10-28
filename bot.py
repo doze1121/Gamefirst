@@ -21,13 +21,12 @@ FEEDS = [
     # ("IGN Video", "https://www.youtube.com/feeds/videos.xml?channel_id=ID_КАНАЛА"),
 ]
 
-MAX_POSTS_PER_RUN = int(os.getenv("MAX_POSTS_PER_RUN", "3"))  # сколько постов за один запуск
-MAX_AGE_HOURS = int(os.getenv("MAX_AGE_HOURS", "24"))         # старше этого не публикуем
+MAX_POSTS_PER_RUN = int(os.getenv("MAX_POSTS_PER_RUN", "3"))
+MAX_AGE_HOURS = int(os.getenv("MAX_AGE_HOURS", "24"))
 STATE_FILE = "state.json"
 
 # Если задан GEMINI_API_KEY, используется бесплатный Gemini, иначе Claude.
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
 CLAUDE_MODEL = os.getenv("CLAUDE_MODEL", "claude-haiku-5-5")
 
 TG_TOKEN = os.environ["TELEGRAM_TOKEN"]
@@ -96,7 +95,7 @@ def find_image(e, link):
     return None
 
 
-# ====== ПЕРЕПИСЫВАНИЕ ЧЕРЕЗ CLAUDE ======
+# ====== ПЕРЕПИСЫВАНИЕ ЧЕРЕЗ ИИ ======
 def rewrite(title, text, source, video, recent_titles):
     recent = "\n".join(f"- {t}" for t in recent_titles) or "—"
     prompt = f"""Ты редактор русскоязычного Telegram-канала про игровую индустрию.
@@ -116,10 +115,47 @@ def rewrite(title, text, source, video, recent_titles):
     return None if out.upper().startswith("SKIP") else out
 
 
+_gemini_model = None
+
+
+def pick_gemini_model():
+    """Спрашивает у Google список моделей и выбирает дешёвую текстовую."""
+    global _gemini_model
+    if _gemini_model:
+        return _gemini_model
+    if os.getenv("GEMINI_MODEL"):
+        _gemini_model = os.environ["GEMINI_MODEL"]
+        return _gemini_model
+    r = requests.get(
+        "https://generativelanguage.googleapis.com/v1beta/models?pageSize=200",
+        headers={"x-goog-api-key": GEMINI_KEY},
+        timeout=30,
+    )
+    r.raise_for_status()
+    bad = ("image", "tts", "live", "audio", "embedding", "robotics", "veo", "imagen", "native")
+    names = []
+    for m in r.json().get("models", []):
+        n = m["name"].replace("models/", "")
+        if "generateContent" not in m.get("supportedGenerationMethods", []):
+            continue
+        if n.startswith("gemini") and not any(b in n for b in bad):
+            names.append(n)
+    print("Доступные модели Gemini:", ", ".join(names))
+    for key in ("flash-lite", "flash"):
+        stable = [n for n in names if key in n and "preview" not in n and "exp" not in n]
+        anyv = [n for n in names if key in n]
+        for group in (stable, anyv):
+            if group:
+                _gemini_model = sorted(group)[-1]
+                print("Выбрана модель:", _gemini_model)
+                return _gemini_model
+    raise RuntimeError("Не нашёл подходящую модель Gemini")
+
+
 def ask_llm(prompt):
     if GEMINI_KEY:
         r = requests.post(
-            f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent",
+            f"https://generativelanguage.googleapis.com/v1beta/models/{pick_gemini_model()}:generateContent",
             headers={"x-goog-api-key": GEMINI_KEY},
             json={"contents": [{"parts": [{"text": prompt}]}]},
             timeout=60,
@@ -197,7 +233,7 @@ def main():
         try:
             post = rewrite(title, text, name, video, state["titles"])
         except Exception as ex:
-            print("Claude error:", ex)
+            print("LLM error:", ex)
             continue  # не помечаем: попробуем в следующий запуск
         state["ids"].append(eid)
         if not post:
