@@ -4,7 +4,6 @@ import os
 import re
 import time
 from datetime import datetime, timedelta, timezone
-from urllib.parse import urlparse
 
 import feedparser
 import requests
@@ -27,6 +26,7 @@ MAX_LLM_CALLS = int(os.getenv("MAX_LLM_CALLS", "8"))           # лимит об
 MAX_AGE_HOURS = int(os.getenv("MAX_AGE_HOURS", "24"))          # новости старше не берём
 QUEUE_MAX_AGE_HOURS = int(os.getenv("QUEUE_MAX_AGE_HOURS", "12"))  # пост в очереди старше не публикуем
 STATE_FILE = "state.json"
+SIGNATURE = os.getenv("POST_SIGNATURE", "🎮 Первый игровой")  # подпись в конце каждого поста
 
 # Если задан GEMINI_API_KEY, используется бесплатный Gemini, иначе Claude.
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
@@ -116,7 +116,8 @@ def rewrite(title, text, source, video, recent_titles):
 
 Задача: напиши пост на русском СВОИМИ СЛОВАМИ, не дословным переводом.
 Формат: первая строка <b>цепкий заголовок</b>, затем пустая строка, затем {"1 предложение" if video else "2-3 предложения"} сути. Весь текст до 450 символов.
-Разрешён только тег <b>. Без markdown, без хэштегов. Названия игр и компаний оставляй на латинице.
+Разрешён только тег <b>. Без markdown. Названия игр и компаний оставляй на латинице.
+В конце, после пустой строки, добавь одну строку с 1-2 хэштегами только из списка: #новости #трейлер #релиз #анонс #индустрия (для видео обязательно #трейлер).
 Если это не игровая новость (скидки, промокоды, подборки «лучшие X», гайды, реклама) или то же событие уже публиковалось выше, ответь одним словом SKIP.
 Отвечай только текстом поста."""
     out = ask_llm(prompt).strip()
@@ -250,9 +251,9 @@ def fill_queue(state, now):
         state["ids"].append(eid)
         if not post:
             continue
-        host = urlparse(link).netloc.replace("www.", "")
-        label = "Смотреть" if video else f"Источник: {host}"
-        post += f'\n\n<a href="{html.escape(link, quote=True)}">{label}</a>'
+        if video:
+            post += f'\n\n<a href="{html.escape(link, quote=True)}">Смотреть трейлер</a>'
+        post += f"\n\n{SIGNATURE}"
         image = None if video else find_image(e, link)
         state["queue"].append({"post": post, "image": image, "ts": now.isoformat(), "tries": 0})
         state["titles"].append(re.sub(r"<[^>]+>", "", post.split("\n")[0]))
