@@ -176,7 +176,9 @@
   "https://www.nintendolife.com/#article-208234",
   "https://www.nintendolife.com/#article-208230",
   "https://www.nintendolife.com/#article-208233",
-  "https://www.nintendolife.com/#article-207856"
+  "https://www.nintendolife.com/#article-207856",
+  "https://www.pushsquare.com/#article-208133",
+  "https://www.eurogamer.net/gta-6-ps5-download-size"
  ],
  "titles": [
   "Карточные цифровые монстры идут на смартфоны",
@@ -185,28 +187,34 @@
   "Minecraft добралась до Switch 2",
   "Легендарный Shipment ворвался в Call Of Duty: Modern Warfare 4",
   "Cyberpunk 2077 на Switch 2 штормит из-за патча",
-  "Nintendo забирает первые игровые номинации"
+  "Nintendo забирает первые игровые номинации",
+  "GTA 6 займет рекордные 210 ГБ на PS5"
  ],
  "queue": [
-  {
-   "post": "<b>Cyberpunk 2077 на Switch 2 штормит из-за патча</b>\n\nСвежее обновление Edgerunners 2 на новой консоли Nintendo откровенно расстроило фанатов. Игроки массово жалуются на баги с загрузками, вылеты, просадки FPS и проблемы с сохранениями, а некоторые вообще называют порт неиграбельным.\n\n#новости #Nintendo\n\n🎮 Первый игровой",
-   "image": "https://images.nintendolife.com/a6171b47a5392/small.jpg",
-   "ts": "2026-10-28T07:10:06.372269+00:00",
-   "tries": 0
-  },
   {
    "post": "<b>Nintendo забирает первые игровые номинации</b>\n\nИгры Pokémon Pokopia и Fire Emblem: Fortune's Weave попали в шорт-лист престижной премии Console Game of the Year. Кроме того, Pokémon Pokopia претендует на звание главной игры года.\n\n#новости #Nintendo\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/03591e8b6cfa3/small.jpg",
    "ts": "2026-10-28T08:22:49.396023+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>GTA 6 займет рекордные 210 ГБ на PS5</b>\n\nРазмер шедевра от Rockstar не стал неожиданностью для геймеров, но теперь появились точные цифры. Консолям нового поколения явно придется подвинуться ради возвращения в Vice City.\n\n#новости #PlayStation\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/PS5-ssd-slot-gta.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": "2026-10-28T09:29:40.343454+00:00",
+   "tries": 0
   }
  ],
- "last_post": "2026-10-28T08:22:49.396023+00:00",
+ "last_post": "2026-10-28T09:29:40.343454+00:00",
  "published": [
   {
    "ts": "2026-10-28T08:22:49.396023+00:00",
    "title": "Легендарный Shipment ворвался в Call Of Duty: Modern Warfare 4",
    "body": "Спустя всего несколько дней после релиза шутера компания Activision добавила культовую карту в ротацию. Это первое пострелизное обновление контента для игры."
+  },
+  {
+   "ts": "2026-10-28T09:29:40.343454+00:00",
+   "title": "Cyberpunk 2077 на Switch 2 штормит из-за патча",
+   "body": "Свежее обновление Edgerunners 2 на новой консоли Nintendo откровенно расстроило фанатов. Игроки массово жалуются на баги с загрузками, вылеты, просадки FPS и проблемы с сохранениями, а некоторые вообще называют порт неиг"
   }
  ],
  "last_digest": null
