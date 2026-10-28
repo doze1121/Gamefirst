@@ -186,7 +186,11 @@
   "https://www.nintendolife.com/#article-144934",
   "https://www.nintendolife.com/#article-208184",
   "https://www.nintendolife.com/#article-208090",
-  "https://www.rockpapershotgun.com/hot-wax-sets-fire-to-the-tetris-playbook-with-slow-burn-puzzle-mechanics-and-a-dollop-of-eldritch-menace"
+  "https://www.rockpapershotgun.com/hot-wax-sets-fire-to-the-tetris-playbook-with-slow-burn-puzzle-mechanics-and-a-dollop-of-eldritch-menace",
+  "https://www.pushsquare.com/#article-208206",
+  "https://www.pushsquare.com/#article-208161",
+  "https://www.nintendolife.com/#article-207670",
+  "QDztX6986QXLoYGLBnkDS4"
  ],
  "titles": [
   "Карточные цифровые монстры идут на смартфоны",
@@ -198,23 +202,24 @@
   "Nintendo забирает первые игровые номинации",
   "GTA 6 займет рекордные 210 ГБ на PS5",
   "Сэм Хулик переписывает музыку для слитого трейлера Mass Effect 5",
-  "Свеча горела: авторы Shotgun King выпустили пазл Hot Wax"
+  "Свеча горела: авторы Shotgun King выпустили пазл Hot Wax",
+  "GOG меняет курс и пробует себя в роли издателя"
  ],
  "queue": [
-  {
-   "post": "<b>Сэм Хулик переписывает музыку для слитого трейлера Mass Effect 5</b>\n\nКомпозитор оригинальной трилогии BioWare решил самостоятельно озвучить утекший ролик к N7 Day. Таким образом он хочет поддержать фанатов и показать свое видение саундтрека для будущей ролевой игры.\n\n#новости #трейлер\n\n🎮 Первый игровой",
-   "image": "https://assetsio.gnwcdn.com/mass-effect-5-trailer-re-score-hulick-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "ts": "2026-10-28T10:37:20.173954+00:00",
-   "tries": 0
-  },
   {
    "post": "<b>Свеча горела: авторы Shotgun King выпустили пазл Hot Wax</b>\n\nСтудия PUNKCAKE Délicieux выпустила в Steam аркадный пазл Hot Wax, вдохновленный тетрисом. Вместо привычных фигур здесь падают свечи, а линии сгорают, если точно расставить пламя на фитилях под присмотром лавкрафтианского божества.\n\n#релиз\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/20261028123222_1.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": "2026-10-28T13:34:34.111106+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>GOG меняет курс и пробует себя в роли издателя</b>\n\nМагазин GOG решил выйти на новый уровень и теперь будет сам издавать игры. Платформа уже подписала контракты с разработчиками, так что скоро нас ждут анонсы первых внутренних проектов компании.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/HqK8hHXugcMpjSbh4NxPQS-1920-80.jpg",
+   "ts": "2026-10-28T15:06:37.400290+00:00",
+   "tries": 0
   }
  ],
- "last_post": "2026-10-28T13:34:34.111106+00:00",
+ "last_post": "2026-10-28T15:06:37.400290+00:00",
  "published": [
   {
    "ts": "2026-10-28T08:22:49.396023+00:00",
@@ -235,6 +240,11 @@
    "ts": "2026-10-28T13:34:34.111106+00:00",
    "title": "GTA 6 займет рекордные 210 ГБ на PS5",
    "body": "Размер шедевра от Rockstar не стал неожиданностью для геймеров, но теперь появились точные цифры. Консолям нового поколения явно придется подвинуться ради возвращения в Vice City."
+  },
+  {
+   "ts": "2026-10-28T15:06:37.400290+00:00",
+   "title": "Сэм Хулик переписывает музыку для слитого трейлера Mass Effect 5",
+   "body": "Композитор оригинальной трилогии BioWare решил самостоятельно озвучить утекший ролик к N7 Day. Таким образом он хочет поддержать фанатов и показать свое видение саундтрека для будущей ролевой игры."
   }
  ],
  "last_digest": null
