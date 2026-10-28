@@ -178,7 +178,9 @@
   "https://www.nintendolife.com/#article-208233",
   "https://www.nintendolife.com/#article-207856",
   "https://www.pushsquare.com/#article-208133",
-  "https://www.eurogamer.net/gta-6-ps5-download-size"
+  "https://www.eurogamer.net/gta-6-ps5-download-size",
+  "https://www.pushsquare.com/#article-208172",
+  "https://www.rockpapershotgun.com/leaked-mass-effect-5-trailer-is-being-re-scored-by-one-of-the-original-trilogys-composers-so-folks-can-get-a-taste-of-his-musical-vision-for-the-game"
  ],
  "titles": [
   "Карточные цифровые монстры идут на смартфоны",
@@ -188,23 +190,24 @@
   "Легендарный Shipment ворвался в Call Of Duty: Modern Warfare 4",
   "Cyberpunk 2077 на Switch 2 штормит из-за патча",
   "Nintendo забирает первые игровые номинации",
-  "GTA 6 займет рекордные 210 ГБ на PS5"
+  "GTA 6 займет рекордные 210 ГБ на PS5",
+  "Сэм Хулик переписывает музыку для слитого трейлера Mass Effect 5"
  ],
  "queue": [
-  {
-   "post": "<b>Nintendo забирает первые игровые номинации</b>\n\nИгры Pokémon Pokopia и Fire Emblem: Fortune's Weave попали в шорт-лист престижной премии Console Game of the Year. Кроме того, Pokémon Pokopia претендует на звание главной игры года.\n\n#новости #Nintendo\n\n🎮 Первый игровой",
-   "image": "https://images.nintendolife.com/03591e8b6cfa3/small.jpg",
-   "ts": "2026-10-28T08:22:49.396023+00:00",
-   "tries": 0
-  },
   {
    "post": "<b>GTA 6 займет рекордные 210 ГБ на PS5</b>\n\nРазмер шедевра от Rockstar не стал неожиданностью для геймеров, но теперь появились точные цифры. Консолям нового поколения явно придется подвинуться ради возвращения в Vice City.\n\n#новости #PlayStation\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/PS5-ssd-slot-gta.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": "2026-10-28T09:29:40.343454+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Сэм Хулик переписывает музыку для слитого трейлера Mass Effect 5</b>\n\nКомпозитор оригинальной трилогии BioWare решил самостоятельно озвучить утекший ролик к N7 Day. Таким образом он хочет поддержать фанатов и показать свое видение саундтрека для будущей ролевой игры.\n\n#новости #трейлер\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/mass-effect-5-trailer-re-score-hulick-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": "2026-10-28T10:37:20.173954+00:00",
+   "tries": 0
   }
  ],
- "last_post": "2026-10-28T09:29:40.343454+00:00",
+ "last_post": "2026-10-28T10:37:20.173954+00:00",
  "published": [
   {
    "ts": "2026-10-28T08:22:49.396023+00:00",
@@ -215,6 +218,11 @@
    "ts": "2026-10-28T09:29:40.343454+00:00",
    "title": "Cyberpunk 2077 на Switch 2 штормит из-за патча",
    "body": "Свежее обновление Edgerunners 2 на новой консоли Nintendo откровенно расстроило фанатов. Игроки массово жалуются на баги с загрузками, вылеты, просадки FPS и проблемы с сохранениями, а некоторые вообще называют порт неиг"
+  },
+  {
+   "ts": "2026-10-28T10:37:20.173954+00:00",
+   "title": "Nintendo забирает первые игровые номинации",
+   "body": "Игры Pokémon Pokopia и Fire Emblem: Fortune's Weave попали в шорт-лист престижной премии Console Game of the Year. Кроме того, Pokémon Pokopia претендует на звание главной игры года."
   }
  ],
  "last_digest": null
