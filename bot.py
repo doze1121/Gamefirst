@@ -113,7 +113,53 @@ def find_image(e, link):
         pass
     return None
 
+def meta_image(page):
+    """Достаёт большую обложку статьи (og:image / twitter:image) из кода страницы."""
+    for prop in ("og:image", "twitter:image"):
+        key = re.escape(prop)
+        m = re.search(r'<meta[^>]+(?:property|name)=["\']' + key + r'["\'][^>]*content=["\']([^"\']+)', page, re.I)
+        if not m:
+            m = re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]*(?:property|name)=["\']' + key + r'["\']', page, re.I)
+        if m:
+            return html.unescape(m.group(1))
+    return None
 
+def find_image(e, link):
+    """Ищет самую крупную картинку: сначала обложка статьи, потом картинки из ленты."""
+    from urllib.parse import urljoin
+
+    # 1. Обложка статьи: сайты делают её большой (для соцсетей)
+    try:
+        page = requests.get(link, timeout=10, headers={"User-Agent": "Mozilla/5.0"}).text
+        img = meta_image(page)
+        if img:
+            img = urljoin(link, img)
+            if img.startswith("http"):
+                return img
+    except Exception:
+        pass
+    # 2. Картинки из ленты: берём самую широкую
+    best, best_w = None, -1
+    for key in ("media_content", "media_thumbnail"):
+        for item in e.get(key, []) or []:
+            url = item.get("url")
+            if not url:
+                continue
+            try:
+                w = int(item.get("width") or 0)
+            except ValueError:
+                w = 0
+            if w > best_w:
+                best, best_w = url, w
+    if best:
+        return best
+    for enc in e.get("enclosures", []):
+        if str(enc.get("type", "")).startswith("image"):
+            return enc.get("href")
+    blob = (e.get("summary") or "") + " ".join(c.get("value", "") for c in e.get("content", []))
+    m = re.search(r'<img[^>]+src="([^"]+)"', blob)
+    return m.group(1) if m else None
+    
 # ====== ПЕРЕПИСЫВАНИЕ ЧЕРЕЗ ИИ ======
 def rewrite(title, text, source, video, recent_titles):
     recent = "\n".join(f"- {t}" for t in recent_titles) or "—"
