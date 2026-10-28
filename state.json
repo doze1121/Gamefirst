@@ -180,7 +180,13 @@
   "https://www.pushsquare.com/#article-208133",
   "https://www.eurogamer.net/gta-6-ps5-download-size",
   "https://www.pushsquare.com/#article-208172",
-  "https://www.rockpapershotgun.com/leaked-mass-effect-5-trailer-is-being-re-scored-by-one-of-the-original-trilogys-composers-so-folks-can-get-a-taste-of-his-musical-vision-for-the-game"
+  "https://www.rockpapershotgun.com/leaked-mass-effect-5-trailer-is-being-re-scored-by-one-of-the-original-trilogys-composers-so-folks-can-get-a-taste-of-his-musical-vision-for-the-game",
+  "https://www.pushsquare.com/#article-208186",
+  "https://www.pushsquare.com/#article-208185",
+  "https://www.nintendolife.com/#article-144934",
+  "https://www.nintendolife.com/#article-208184",
+  "https://www.nintendolife.com/#article-208090",
+  "https://www.rockpapershotgun.com/hot-wax-sets-fire-to-the-tetris-playbook-with-slow-burn-puzzle-mechanics-and-a-dollop-of-eldritch-menace"
  ],
  "titles": [
   "Карточные цифровые монстры идут на смартфоны",
@@ -191,23 +197,24 @@
   "Cyberpunk 2077 на Switch 2 штормит из-за патча",
   "Nintendo забирает первые игровые номинации",
   "GTA 6 займет рекордные 210 ГБ на PS5",
-  "Сэм Хулик переписывает музыку для слитого трейлера Mass Effect 5"
+  "Сэм Хулик переписывает музыку для слитого трейлера Mass Effect 5",
+  "Свеча горела: авторы Shotgun King выпустили пазл Hot Wax"
  ],
  "queue": [
-  {
-   "post": "<b>GTA 6 займет рекордные 210 ГБ на PS5</b>\n\nРазмер шедевра от Rockstar не стал неожиданностью для геймеров, но теперь появились точные цифры. Консолям нового поколения явно придется подвинуться ради возвращения в Vice City.\n\n#новости #PlayStation\n\n🎮 Первый игровой",
-   "image": "https://assetsio.gnwcdn.com/PS5-ssd-slot-gta.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "ts": "2026-10-28T09:29:40.343454+00:00",
-   "tries": 0
-  },
   {
    "post": "<b>Сэм Хулик переписывает музыку для слитого трейлера Mass Effect 5</b>\n\nКомпозитор оригинальной трилогии BioWare решил самостоятельно озвучить утекший ролик к N7 Day. Таким образом он хочет поддержать фанатов и показать свое видение саундтрека для будущей ролевой игры.\n\n#новости #трейлер\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/mass-effect-5-trailer-re-score-hulick-01.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": "2026-10-28T10:37:20.173954+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Свеча горела: авторы Shotgun King выпустили пазл Hot Wax</b>\n\nСтудия PUNKCAKE Délicieux выпустила в Steam аркадный пазл Hot Wax, вдохновленный тетрисом. Вместо привычных фигур здесь падают свечи, а линии сгорают, если точно расставить пламя на фитилях под присмотром лавкрафтианского божества.\n\n#релиз\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/20261028123222_1.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": "2026-10-28T13:34:34.111106+00:00",
+   "tries": 0
   }
  ],
- "last_post": "2026-10-28T10:37:20.173954+00:00",
+ "last_post": "2026-10-28T13:34:34.111106+00:00",
  "published": [
   {
    "ts": "2026-10-28T08:22:49.396023+00:00",
@@ -223,6 +230,11 @@
    "ts": "2026-10-28T10:37:20.173954+00:00",
    "title": "Nintendo забирает первые игровые номинации",
    "body": "Игры Pokémon Pokopia и Fire Emblem: Fortune's Weave попали в шорт-лист престижной премии Console Game of the Year. Кроме того, Pokémon Pokopia претендует на звание главной игры года."
+  },
+  {
+   "ts": "2026-10-28T13:34:34.111106+00:00",
+   "title": "GTA 6 займет рекордные 210 ГБ на PS5",
+   "body": "Размер шедевра от Rockstar не стал неожиданностью для геймеров, но теперь появились точные цифры. Консолям нового поколения явно придется подвинуться ради возвращения в Vice City."
   }
  ],
  "last_digest": null
