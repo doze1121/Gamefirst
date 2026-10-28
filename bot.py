@@ -31,6 +31,12 @@ QUEUE_MAX_AGE_HOURS = int(os.getenv("QUEUE_MAX_AGE_HOURS", "12"))  # пост в
 STATE_FILE = "state.json"
 SIGNATURE = os.getenv("POST_SIGNATURE", "🎮 Первый игровой")  # подпись в конце каждого поста
 
+# Еженедельный дайджест «Итоги недели»
+DIGEST_WEEKDAY = int(os.getenv("DIGEST_WEEKDAY", "6"))  # 0=понедельник ... 6=воскресенье
+DIGEST_HOUR = int(os.getenv("DIGEST_HOUR", "18"))       # час по Москве, раньше не публикуем
+DIGEST_MIN_POSTS = int(os.getenv("DIGEST_MIN_POSTS", "5"))  # меньше постов за неделю: дайджест пропускаем
+MSK = timezone(timedelta(hours=3))
+
 # Если задан GEMINI_API_KEY, используется бесплатный Gemini, иначе Claude.
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 CLAUDE_MODEL = os.getenv("CLAUDE_MODEL", "claude-haiku-5-5")
@@ -51,6 +57,8 @@ def load_state():
     state.setdefault("titles", [])
     state.setdefault("queue", [])
     state.setdefault("last_post", None)
+    state.setdefault("published", [])
+    state.setdefault("last_digest", None)
     return state
 
 
@@ -262,6 +270,53 @@ def fill_queue(state, now):
         state["titles"].append(re.sub(r"<[^>]+>", "", post.split("\n")[0]))
 
 
+def post_parts(post):
+    """Достаёт из готового поста заголовок и краткое описание без хэштегов, ссылок и подписи."""
+    lines = [re.sub(r"<[^>]+>", "", l).strip() for l in post.split("\n")]
+    lines = [l for l in lines if l and not l.startswith("#") and l != SIGNATURE and l != "Смотреть трейлер"]
+    if not lines:
+        return "", ""
+    return lines[0], " ".join(lines[1:])[:220]
+
+
+def maybe_queue_digest(state, now):
+    """В воскресенье вечером готовит пост «Итоги недели» и ставит его первым в очередь."""
+    local = now.astimezone(MSK)
+    if local.weekday() != DIGEST_WEEKDAY or local.hour < DIGEST_HOUR:
+        return
+    iso = local.isocalendar()
+    week_id = f"{iso[0]}-W{iso[1]}"
+    if state.get("last_digest") == week_id:
+        return
+    week_ago = now - timedelta(days=7)
+    posts = [p for p in state["published"] if datetime.fromisoformat(p["ts"]) >= week_ago]
+    if len(posts) < DIGEST_MIN_POSTS:
+        state["last_digest"] = week_id
+        return
+    lines = "\n".join(f"- {p['title']}: {p['body']}" for p in posts[-60:])
+    prompt = f"""Ты редактор русскоязычного Telegram-канала про игровую индустрию.
+Ниже посты канала за неделю (заголовок: описание).
+
+{lines}
+
+Задача: составь пост «Итоги недели». Выбери 5-7 самых важных событий (не повторяй одно и то же), по каждому одно короткое предложение своими словами.
+Формат: первая строка <b>Итоги недели</b>, пустая строка, затем нумерованный список (1., 2., ...), одно событие на строку.
+Разрешён только тег <b>. Без markdown. Весь текст до 1200 символов.
+В конце, после пустой строки, одна строка: #итогинедели
+Отвечай только текстом поста."""
+    try:
+        text = ask_llm(prompt).strip()
+    except Exception as ex:
+        print("LLM error (digest):", ex)
+        return  # попробуем в следующий запуск, пока не кончилось воскресенье
+    if not text:
+        return
+    text += f"\n\n{SIGNATURE}"
+    state["queue"].insert(0, {"post": text, "image": None, "ts": now.isoformat(), "tries": 0, "digest": True})
+    state["last_digest"] = week_id
+    print("Дайджест поставлен в очередь")
+
+
 def publish_due(state, now):
     """Публикует один пост из очереди, если с прошлой публикации прошла пауза."""
     if not state["queue"]:
@@ -277,6 +332,9 @@ def publish_due(state, now):
     if send_post(item["post"], item["image"]):
         state["queue"].pop(0)
         state["last_post"] = now.isoformat()
+        if not item.get("digest"):
+            title, body = post_parts(item["post"])
+            state["published"].append({"ts": now.isoformat(), "title": title, "body": body})
         print("Опубликован пост, осталось в очереди:", len(state["queue"]))
     else:
         item["tries"] = item.get("tries", 0) + 1
@@ -289,7 +347,11 @@ def main():
     now = datetime.now(timezone.utc)
     fresh = timedelta(hours=QUEUE_MAX_AGE_HOURS)
     state["queue"] = [q for q in state["queue"] if now - datetime.fromisoformat(q["ts"]) < fresh]
+    state["published"] = [
+        p for p in state["published"] if now - datetime.fromisoformat(p["ts"]) < timedelta(days=8)
+    ]
     fill_queue(state, now)
+    maybe_queue_digest(state, now)
     publish_due(state, now)
     save_state(state)
 
