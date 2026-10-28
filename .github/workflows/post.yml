@@ -2,7 +2,7 @@ name: Post game news
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
