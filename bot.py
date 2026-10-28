@@ -21,8 +21,11 @@ FEEDS = [
     # ("IGN Video", "https://www.youtube.com/feeds/videos.xml?channel_id=ID_КАНАЛА"),
 ]
 
-MAX_POSTS_PER_RUN = int(os.getenv("MAX_POSTS_PER_RUN", "3"))
-MAX_AGE_HOURS = int(os.getenv("MAX_AGE_HOURS", "24"))
+POST_INTERVAL_MIN = int(os.getenv("POST_INTERVAL_MIN", "45"))  # пауза между постами
+MAX_QUEUE = int(os.getenv("MAX_QUEUE", "3"))                   # сколько постов держим в очереди
+MAX_LLM_CALLS = int(os.getenv("MAX_LLM_CALLS", "8"))           # лимит обращений к ИИ за запуск
+MAX_AGE_HOURS = int(os.getenv("MAX_AGE_HOURS", "24"))          # новости старше не берём
+QUEUE_MAX_AGE_HOURS = int(os.getenv("QUEUE_MAX_AGE_HOURS", "12"))  # пост в очереди старше не публикуем
 STATE_FILE = "state.json"
 
 # Если задан GEMINI_API_KEY, используется бесплатный Gemini, иначе Claude.
@@ -37,10 +40,15 @@ feedparser.USER_AGENT = "Mozilla/5.0 (compatible; GameNewsBot/1.0)"
 
 # ====== СОСТОЯНИЕ ======
 def load_state():
+    state = {}
     if os.path.exists(STATE_FILE):
         with open(STATE_FILE, encoding="utf-8") as f:
-            return json.load(f)
-    return {"ids": [], "titles": []}
+            state = json.load(f)
+    state.setdefault("ids", [])
+    state.setdefault("titles", [])
+    state.setdefault("queue", [])
+    state.setdefault("last_post", None)
+    return state
 
 
 def save_state(state):
@@ -196,12 +204,8 @@ def send_post(text, image):
     return r.ok
 
 
-# ====== ОСНОВНОЙ ПРОЦЕСС ======
-def main():
-    state = load_state()
-    seen = set(state["ids"])
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)
-
+# ====== ОЧЕРЕДЬ ======
+def collect_candidates(state, seen, cutoff):
     candidates = []
     for name, url in FEEDS:
         try:
@@ -219,22 +223,30 @@ def main():
                 seen.add(eid)
                 continue
             candidates.append((t, name, e, eid))
-
     candidates.sort(key=lambda c: c[0], reverse=True)
-    posted = 0
+    return candidates
+
+
+def fill_queue(state, now):
+    """Готовит посты (перевод и переписывание) и кладёт их в очередь."""
+    if len(state["queue"]) >= MAX_QUEUE:
+        return
+    seen = set(state["ids"])
+    candidates = collect_candidates(state, seen, now - timedelta(hours=MAX_AGE_HOURS))
+    calls = 0
     for t, name, e, eid in candidates:
-        if posted >= MAX_POSTS_PER_RUN:
-            state["ids"].append(eid)  # лишнее не копим, чтобы не было потока
-            continue
+        if len(state["queue"]) >= MAX_QUEUE or calls >= MAX_LLM_CALLS:
+            break
         link = e.get("link", "")
-        title = clean(e.get("title"))
-        text = clean(e.get("summary") or "")
         video = is_video(link)
+        recent = state["titles"]
         try:
-            post = rewrite(title, text, name, video, state["titles"])
+            calls += 1
+            post = rewrite(clean(e.get("title")), clean(e.get("summary") or ""), name, video, recent)
         except Exception as ex:
             print("LLM error:", ex)
-            continue  # не помечаем: попробуем в следующий запуск
+            break  # скорее всего лимит или сбой: попробуем в следующий запуск
+        time.sleep(4)  # бесплатный тариф ограничивает запросы в минуту
         state["ids"].append(eid)
         if not post:
             continue
@@ -242,14 +254,40 @@ def main():
         label = "Смотреть" if video else f"Источник: {host}"
         post += f'\n\n<a href="{html.escape(link, quote=True)}">{label}</a>'
         image = None if video else find_image(e, link)
-        if send_post(post, image):
-            posted += 1
-            first_line = re.sub(r"<[^>]+>", "", post.split("\n")[0])
-            state["titles"].append(first_line)
-            time.sleep(2)
+        state["queue"].append({"post": post, "image": image, "ts": now.isoformat(), "tries": 0})
+        state["titles"].append(re.sub(r"<[^>]+>", "", post.split("\n")[0]))
 
+
+def publish_due(state, now):
+    """Публикует один пост из очереди, если с прошлой публикации прошла пауза."""
+    if not state["queue"]:
+        print("Очередь пуста")
+        return
+    last = state.get("last_post")
+    # допуск 5 минут: расписание GitHub срабатывает не секунда в секунду
+    need = timedelta(minutes=max(POST_INTERVAL_MIN - 5, 0))
+    if last and now - datetime.fromisoformat(last) < need:
+        print("Ещё рано публиковать, в очереди:", len(state["queue"]))
+        return
+    item = state["queue"][0]
+    if send_post(item["post"], item["image"]):
+        state["queue"].pop(0)
+        state["last_post"] = now.isoformat()
+        print("Опубликован пост, осталось в очереди:", len(state["queue"]))
+    else:
+        item["tries"] = item.get("tries", 0) + 1
+        if item["tries"] >= 3:
+            state["queue"].pop(0)  # не блокируем очередь из-за проблемного поста
+
+
+def main():
+    state = load_state()
+    now = datetime.now(timezone.utc)
+    fresh = timedelta(hours=QUEUE_MAX_AGE_HOURS)
+    state["queue"] = [q for q in state["queue"] if now - datetime.fromisoformat(q["ts"]) < fresh]
+    fill_queue(state, now)
+    publish_due(state, now)
     save_state(state)
-    print(f"Опубликовано: {posted}, кандидатов: {len(candidates)}")
 
 
 if __name__ == "__main__":
