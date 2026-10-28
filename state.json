@@ -175,7 +175,8 @@
   "https://news.xbox.com/en-us/?p=227559",
   "https://www.nintendolife.com/#article-208234",
   "https://www.nintendolife.com/#article-208230",
-  "https://www.nintendolife.com/#article-208233"
+  "https://www.nintendolife.com/#article-208233",
+  "https://www.nintendolife.com/#article-207856"
  ],
  "titles": [
   "Карточные цифровые монстры идут на смартфоны",
@@ -183,21 +184,30 @@
   "Точное время релиза Phantom Blade Zero для каждого региона",
   "Minecraft добралась до Switch 2",
   "Легендарный Shipment ворвался в Call Of Duty: Modern Warfare 4",
-  "Cyberpunk 2077 на Switch 2 штормит из-за патча"
+  "Cyberpunk 2077 на Switch 2 штормит из-за патча",
+  "Nintendo забирает первые игровые номинации"
  ],
  "queue": [
-  {
-   "post": "<b>Легендарный Shipment ворвался в Call Of Duty: Modern Warfare 4</b>\n\nСпустя всего несколько дней после релиза шутера компания Activision добавила культовую карту в ротацию. Это первое пострелизное обновление контента для игры.\n\n#новости\n\n🎮 Первый игровой",
-   "image": "https://images.nintendolife.com/05d66454fc586/small.jpg",
-   "ts": "2026-10-28T07:10:06.372269+00:00",
-   "tries": 0
-  },
   {
    "post": "<b>Cyberpunk 2077 на Switch 2 штормит из-за патча</b>\n\nСвежее обновление Edgerunners 2 на новой консоли Nintendo откровенно расстроило фанатов. Игроки массово жалуются на баги с загрузками, вылеты, просадки FPS и проблемы с сохранениями, а некоторые вообще называют порт неиграбельным.\n\n#новости #Nintendo\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/a6171b47a5392/small.jpg",
    "ts": "2026-10-28T07:10:06.372269+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Nintendo забирает первые игровые номинации</b>\n\nИгры Pokémon Pokopia и Fire Emblem: Fortune's Weave попали в шорт-лист престижной премии Console Game of the Year. Кроме того, Pokémon Pokopia претендует на звание главной игры года.\n\n#новости #Nintendo\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/03591e8b6cfa3/small.jpg",
+   "ts": "2026-10-28T08:22:49.396023+00:00",
+   "tries": 0
   }
  ],
- "last_post": "2026-10-28T07:10:06.372269+00:00"
+ "last_post": "2026-10-28T08:22:49.396023+00:00",
+ "published": [
+  {
+   "ts": "2026-10-28T08:22:49.396023+00:00",
+   "title": "Легендарный Shipment ворвался в Call Of Duty: Modern Warfare 4",
+   "body": "Спустя всего несколько дней после релиза шутера компания Activision добавила культовую карту в ротацию. Это первое пострелизное обновление контента для игры."
+  }
+ ],
+ "last_digest": null
 }
