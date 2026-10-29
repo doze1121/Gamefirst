@@ -228,10 +228,11 @@
   "https://www.nintendolife.com/#article-208297",
   "12e58bf0-24c9-4e0e-a53b-dd40f17d13f3",
   "23f4aad0-7beb-4d39-9e62-e6878ad4ffb0",
-  "https://www.nintendolife.com/#article-208296"
+  "https://www.nintendolife.com/#article-208296",
+  "https://www.rockpapershotgun.com/part-idle-game-part-automation-game-moon-sweepers-exploits-the-sickness-in-me-that-adores-both-satisfactory-and-cookie-clicker",
+  "https://www.pushsquare.com/#article-208299"
  ],
  "titles": [
-  "Мертвые дожди Witchbrook затянутся еще на год",
   "Еноты-мошенники готовы забрать все ваше свободное время",
   "Самый безумный симулятор гольфа доберется до консолей",
   "Hit Webtoon покоряет PlayStation",
@@ -250,7 +251,8 @@
   "Palworld все-таки может заглянуть на Switch 2",
   "Легендарный мем из GTA 4 станет официальной механикой в GTA 6",
   "GTA 6 не станет держать игроков на поводке у сюжета",
-  "TAITO возвращается с новой порцией ретро"
+  "TAITO возвращается с новой порцией ретро",
+  "GTA 6 засветилась в... South Park"
  ],
  "queue": [
   {
@@ -263,6 +265,12 @@
    "post": "<b>TAITO возвращается с новой порцией ретро</b>\n\nКомпания Taito анонсировала сборник Taito Milestones 5 для Nintendo Switch, релиз которого намечен на январь 2027 года в Японии. В компиляцию войдут десять культовых аркадных игр из богатого наследия студии, созданных в сотрудничестве с Hamster Corp.\n\n#Nintendo #анонс\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/72ff767112752/1280x720.jpg",
    "ts": "2026-10-29T08:49:55.033079+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>GTA 6 засветилась в... South Park</b>\n\nДо релиза GTA 6 остаются считанные недели, но Rockstar продолжает подогревать интерес. Игра неожиданно появилась в новом эпизоде South Park, где в мультселяре показали реальный геймплей с метанием собачьих фекалий в прохожих. \n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/98426c4608c94/1280x720.jpg",
+   "ts": "2026-10-29T09:45:37.140661+00:00",
    "tries": 0
   }
  ],
