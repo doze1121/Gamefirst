@@ -297,10 +297,11 @@
   "https://news.xbox.com/en-us/?p=227615",
   "https://www.pushsquare.com/#article-208145",
   "https://www.pushsquare.com/#article-208285",
-  "https://www.rockpapershotgun.com/it-sounds-like-you-shouldnt-expect-destiny-2s-campaign-unvaulting-to-be-ready-until-2028-as-bungie-tease-their-plans-for-the-future-of-the-series"
+  "https://www.rockpapershotgun.com/it-sounds-like-you-shouldnt-expect-destiny-2s-campaign-unvaulting-to-be-ready-until-2028-as-bungie-tease-their-plans-for-the-future-of-the-series",
+  "https://www.eurogamer.net/alien-isolation-2-commit-physical-edition",
+  "mAVV7ZijAhQbamyx5BGmWF"
  ],
  "titles": [
-  "Магическая школа откроет двери для фанатов визуальных новелл",
   "OLED-гейминг становится ближе: Gigabyte анонсировала доступный монитор GO27Q24A",
   "Космос стал чуточку страшнее",
   "Palworld все-таки может заглянуть на Switch 2",
@@ -319,7 +320,8 @@
   "Метро стало еще ближе к некстгенам",
   "Google теряет полтриллиона долларов, но босс компании смотрит в будущее с оптимизмом",
   "Набег викингов отменяется — он уже начался!",
-  "Кампании из «хранилища» Destiny 2 придется ждать еще очень долго"
+  "Кампании из «хранилища» Destiny 2 придется ждать еще очень долго",
+  "Дональд Гловер снимет сериал по PUBG для Netflix"
  ],
  "queue": [
   {
@@ -332,6 +334,12 @@
    "post": "<b>Кампании из «хранилища» Destiny 2 придется ждать еще очень долго</b>\n\nBungie поделилась планами на будущее серии и шокировала фанатов сроками. Возвращение удаленного сюжетного контента займет уйму времени, так что релиз стоит ждать не раньше 2028 года.\n\n#новости #индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/destiny-2-final-shape-dread-enemies.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-10-29T18:45:36.278527+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Дональд Гловер снимет сериал по PUBG для Netflix</b>\n\nМногостаночник Дональд Гловер решил покорить мир видеоигр и возглавит адаптацию популярной «королевской битвы». Звезда «Атланты» выступит не только шоураннером и режиссером проекта, но и сыграет в нем главную роль.\n\n#анонс #индустрия\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/dopiaLycxZXskTnzmsspbc-2560-80.jpg",
+   "ts": "2026-10-29T19:30:51.526077+00:00",
    "tries": 0
   }
  ],
