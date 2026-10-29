@@ -219,10 +219,10 @@
   "https://www.nintendolife.com/#article-208232",
   "U8AU5XD6KA9xjLoqNfFYEm",
   "jPYY7i43Fyxtq6iKfi6rzj",
-  "https://news.xbox.com/en-us/?p=227784"
+  "https://news.xbox.com/en-us/?p=227784",
+  "https://www.gematsu.com/?p=1086607"
  ],
  "titles": [
-  "Nintendo забирает первые игровые номинации",
   "GTA 6 займет рекордные 210 ГБ на PS5",
   "Сэм Хулик переписывает музыку для слитого трейлера Mass Effect 5",
   "Свеча горела: авторы Shotgun King выпустили пазл Hot Wax",
@@ -241,7 +241,8 @@
   "Платина по «Скрытой угрозе»: классика с PS1 получила поддержку трофеев",
   "Карта GTA 6 поражает масштабами и детализацией",
   "NPC в GTA 6 станут невероятно живыми",
-  "Первый сезон в Call of Duty: Modern Warfare 4 и Warzone: все детали"
+  "Первый сезон в Call of Duty: Modern Warfare 4 и Warzone: все детали",
+  "TAITO выкапывает новую порцию ретро-классики"
  ],
  "queue": [
   {
@@ -254,6 +255,12 @@
    "post": "<b>Первый сезон в Call of Duty: Modern Warfare 4 и Warzone: все детали</b>\n\nРазработчики выкатили масштабный материал обо всем контенте, который принесет с собой первый крупный сезон. Игроков ждут новые карты, свежие пушки, боевой пропуск и порция контента для королевской битвы.\n\n#новости #Xbox\n\n🎮 Первый игровой",
    "image": "https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/body/mw4/s1-mp-dmz-announcement/MW4-SEASON-1-ANNOUNCEMENT-TOUT.jpg",
    "ts": "2026-10-29T02:01:00.449450+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>TAITO выкапывает новую порцию ретро-классики</b>\n\nКомпания TAITO официально анонсировала сборник TAITO Milestones 5 эксклюзивно для гибридной консоли Nintendo Switch. Ретро-коллекция получит как цифровой релиз, так и полноценное физическое издание на картриджах для всех ценителей аркадной старины.\n\n#анонс #Nintendo\n\n🎮 Первый игровой",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Taito-Milestones-5-Ann_10-28-26.jpg",
+   "ts": "2026-10-29T02:30:46.808437+00:00",
    "tries": 0
   }
  ],
