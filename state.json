@@ -234,10 +234,11 @@
   "https://www.eurogamer.net/rockstar-union-vote-november",
   "https://www.pushsquare.com/#article-208069",
   "https://www.nintendolife.com/#article-208238",
-  "https://www.nintendolife.com/#article-208307"
+  "https://www.nintendolife.com/#article-208307",
+  "https://www.nintendolife.com/#article-207669",
+  "https://www.rockpapershotgun.com/gta-6-has-a-smell-reaction-system-which-immediately-joins-red-dead-redemption-2s-dynamically-shrinking-horse-balls-on-rockstars-list-of-immersive-symbols-of-excess"
  ],
  "titles": [
-  "Самый безумный симулятор гольфа доберется до консолей",
   "Hit Webtoon покоряет PlayStation",
   "Тим Суини снова против Steam",
   "Николас Кейдж в роли Джона Мэддена взбесил фанатов американского футбола",
@@ -256,7 +257,8 @@
   "GTA 6 не станет держать игроков на поводке у сюжета",
   "TAITO возвращается с новой порцией ретро",
   "GTA 6 засветилась в... South Park",
-  "Космос стал еще страшнее: для Cronos: The New Dawn анонсировали DLC Lazarus"
+  "Космос стал еще страшнее: для Cronos: The New Dawn анонсировали DLC Lazarus",
+  "Новый символ безумного внимания к деталям в GTA 6"
  ],
  "queue": [
   {
@@ -269,6 +271,12 @@
    "post": "<b>Космос стал еще страшнее: для Cronos: The New Dawn анонсировали DLC Lazarus</b>\n\nАвторы жуткого фантастического экшена показали пугающий сюжетный трейлер дополнения. Правда, владельцам консоли от Nintendo придется запастись терпением: на Switch 2 релиз состоится только в первом квартале 2027 года.\n\n#трейлер #Nintendo\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/906bb473391ba/1280x720.jpg",
    "ts": "2026-10-29T10:30:49.883144+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Новый символ безумного внимания к деталям в GTA 6</b>\n\nRockstar продолжает традицию легендарных конских яиц из RDR 2 — на смену им в GTA 6 придет уникальная система реакции NPC на запахи. Из свежего материала журнала Edge стало известно, что виртуальные прохожие теперь будут реагировать на ароматы вокруг главного героя, поднимая реализм на новый абсурдный уровень.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/gta-6-smell-reaction-system-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-10-29T11:15:38.828206+00:00",
    "tries": 0
   }
  ],
