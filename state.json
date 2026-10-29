@@ -220,10 +220,10 @@
   "U8AU5XD6KA9xjLoqNfFYEm",
   "jPYY7i43Fyxtq6iKfi6rzj",
   "https://news.xbox.com/en-us/?p=227784",
-  "https://www.gematsu.com/?p=1086607"
+  "https://www.gematsu.com/?p=1086607",
+  "https://www.gematsu.com/?p=1086613"
  ],
  "titles": [
-  "GTA 6 займет рекордные 210 ГБ на PS5",
   "Сэм Хулик переписывает музыку для слитого трейлера Mass Effect 5",
   "Свеча горела: авторы Shotgun King выпустили пазл Hot Wax",
   "GOG меняет курс и пробует себя в роли издателя",
@@ -242,7 +242,8 @@
   "Карта GTA 6 поражает масштабами и детализацией",
   "NPC в GTA 6 станут невероятно живыми",
   "Первый сезон в Call of Duty: Modern Warfare 4 и Warzone: все детали",
-  "TAITO выкапывает новую порцию ретро-классики"
+  "TAITO выкапывает новую порцию ретро-классики",
+  "Дружба будет разрушена вновь: анонсирована Dokapon Kingdom: Connect 2"
  ],
  "queue": [
   {
@@ -255,6 +256,12 @@
    "post": "<b>TAITO выкапывает новую порцию ретро-классики</b>\n\nКомпания TAITO официально анонсировала сборник TAITO Milestones 5 эксклюзивно для гибридной консоли Nintendo Switch. Ретро-коллекция получит как цифровой релиз, так и полноценное физическое издание на картриджах для всех ценителей аркадной старины.\n\n#анонс #Nintendo\n\n🎮 Первый игровой",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Taito-Milestones-5-Ann_10-28-26.jpg",
    "ts": "2026-10-29T02:30:46.808437+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Дружба будет разрушена вновь: анонсирована Dokapon Kingdom: Connect 2</b>\n\nCompile Heart и Sting возвращаются с новой частью знаменитой гибридной настольной игры и RPG. Проект создается для Nintendo Switch 2, оригинальной Switch и PC, чтобы снова проверять на прочность нервы игроков.\n\n#анонс\n\n🎮 Первый игровой",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Dokapon-Kingdom-Connect-2-Announce_10-28-26.jpg",
+   "ts": "2026-10-29T03:30:47.977338+00:00",
    "tries": 0
   }
  ],
