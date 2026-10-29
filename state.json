@@ -221,10 +221,10 @@
   "jPYY7i43Fyxtq6iKfi6rzj",
   "https://news.xbox.com/en-us/?p=227784",
   "https://www.gematsu.com/?p=1086607",
-  "https://www.gematsu.com/?p=1086613"
+  "https://www.gematsu.com/?p=1086613",
+  "https://www.gematsu.com/?p=1086582"
  ],
  "titles": [
-  "Сэм Хулик переписывает музыку для слитого трейлера Mass Effect 5",
   "Свеча горела: авторы Shotgun King выпустили пазл Hot Wax",
   "GOG меняет курс и пробует себя в роли издателя",
   "Sony раскрыла ноябрьскую подборку PS Plus Essential",
@@ -243,7 +243,8 @@
   "NPC в GTA 6 станут невероятно живыми",
   "Первый сезон в Call of Duty: Modern Warfare 4 и Warzone: все детали",
   "TAITO выкапывает новую порцию ретро-классики",
-  "Дружба будет разрушена вновь: анонсирована Dokapon Kingdom: Connect 2"
+  "Дружба будет разрушена вновь: анонсирована Dokapon Kingdom: Connect 2",
+  "Магическая школа откроет двери для фанатов визуальных новелл"
  ],
  "queue": [
   {
@@ -256,6 +257,12 @@
    "post": "<b>Дружба будет разрушена вновь: анонсирована Dokapon Kingdom: Connect 2</b>\n\nCompile Heart и Sting возвращаются с новой частью знаменитой гибридной настольной игры и RPG. Проект создается для Nintendo Switch 2, оригинальной Switch и PC, чтобы снова проверять на прочность нервы игроков.\n\n#анонс\n\n🎮 Первый игровой",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Dokapon-Kingdom-Connect-2-Announce_10-28-26.jpg",
    "ts": "2026-10-29T03:30:47.977338+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Магическая школа откроет двери для фанатов визуальных новелл</b>\n\nИздательство Bushiroad Games и разработчик Frontwing объявили дату релиза фэнтезийной визуальной новеллы Lilac. Игра о буднях магической академии появится на гибридной консоли Nintendo 5 ноября.\n\n#релиз #Nintendo\n\n🎮 Первый игровой",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Lilac-Switch_10-28-26.jpg",
+   "ts": "2026-10-29T04:15:36.055743+00:00",
    "tries": 0
   }
  ],
