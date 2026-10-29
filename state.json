@@ -299,10 +299,12 @@
   "https://www.pushsquare.com/#article-208285",
   "https://www.rockpapershotgun.com/it-sounds-like-you-shouldnt-expect-destiny-2s-campaign-unvaulting-to-be-ready-until-2028-as-bungie-tease-their-plans-for-the-future-of-the-series",
   "https://www.eurogamer.net/alien-isolation-2-commit-physical-edition",
-  "mAVV7ZijAhQbamyx5BGmWF"
+  "mAVV7ZijAhQbamyx5BGmWF",
+  "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
+  "https://www.pushsquare.com/#article-208288",
+  "https://www.pushsquare.com/#article-208351"
  ],
  "titles": [
-  "OLED-гейминг становится ближе: Gigabyte анонсировала доступный монитор GO27Q24A",
   "Космос стал чуточку страшнее",
   "Palworld все-таки может заглянуть на Switch 2",
   "Легендарный мем из GTA 4 станет официальной механикой в GTA 6",
@@ -321,7 +323,8 @@
   "Google теряет полтриллиона долларов, но босс компании смотрит в будущее с оптимизмом",
   "Набег викингов отменяется — он уже начался!",
   "Кампании из «хранилища» Destiny 2 придется ждать еще очень долго",
-  "Дональд Гловер снимет сериал по PUBG для Netflix"
+  "Дональд Гловер снимет сериал по PUBG для Netflix",
+  "Ubisoft пока не планирует новые ремейки Assassin's Creed"
  ],
  "queue": [
   {
@@ -334,6 +337,12 @@
    "post": "<b>Дональд Гловер снимет сериал по PUBG для Netflix</b>\n\nМногостаночник Дональд Гловер решил покорить мир видеоигр и возглавит адаптацию популярной «королевской битвы». Звезда «Атланты» выступит не только шоураннером и режиссером проекта, но и сыграет в нем главную роль.\n\n#анонс #индустрия\n\n🎮 Первый игровой",
    "image": "https://cdn.mos.cms.futurecdn.net/dopiaLycxZXskTnzmsspbc-2560-80.jpg",
    "ts": "2026-10-29T19:30:51.526077+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Ubisoft пока не планирует новые ремейки Assassin's Creed</b>\n\nНесмотря на огромный коммерческий успех переиздания Black Flag Resynced, разошедшегося тиражом более трех миллионов копий, издатель пока не разрабатывает другие игры серии. Тем не менее, компания не исключает возвращения к этой идее в будущем, оценивая результаты продаж.\n\n#новости #PlayStation\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/19a940563fbeb/1280x720.jpg",
+   "ts": "2026-10-29T20:15:38.258866+00:00",
    "tries": 0
   }
  ],
