@@ -286,10 +286,17 @@
   "https://www.pushsquare.com/#article-208268",
   "https://news.xbox.com/en-us/?p=227729",
   "https://news.xbox.com/en-us/?p=227746",
-  "zptXqDkQtbF5FRhLjKv36L"
+  "zptXqDkQtbF5FRhLjKv36L",
+  "https://www.eurogamer.net/cyberpunk-2077-multiplayer-quests-cd-projekt-red",
+  "https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-about-running-a-kiosk-in-a-space-station-full-of-gangs-megacorps-and-secret-rogue-cyborgs",
+  "https://www.gematsu.com/?p=1086511",
+  "https://www.pushsquare.com/#article-208270",
+  "https://www.pushsquare.com/#article-208244",
+  "https://www.nintendolife.com/#article-207708",
+  "https://www.nintendolife.com/#article-208286",
+  "https://news.xbox.com/en-us/?p=227615"
  ],
  "titles": [
-  "TAITO выкапывает новую порцию ретро-классики",
   "Дружба будет разрушена вновь: анонсирована Dokapon Kingdom: Connect 2",
   "Магическая школа откроет двери для фанатов визуальных новелл",
   "OLED-гейминг становится ближе: Gigabyte анонсировала доступный монитор GO27Q24A",
@@ -308,7 +315,8 @@
   "Бесплатные выходные в Xbox: во что поиграть на этот раз",
   "PS5 обгоняет PS4 по продажам в США",
   "Метро стало еще ближе к некстгенам",
-  "Google теряет полтриллиона долларов, но босс компании смотрит в будущее с оптимизмом"
+  "Google теряет полтриллиона долларов, но босс компании смотрит в будущее с оптимизмом",
+  "Набег викингов отменяется — он уже начался!"
  ],
  "queue": [
   {
@@ -321,6 +329,12 @@
    "post": "<b>Google теряет полтриллиона долларов, но босс компании смотрит в будущее с оптимизмом</b>\n\nПока акции технологического гиганта стремительно летят вниз на фоне масштабных рыночных потрясений, руководство заявляет об уверенности в своей текущей стратегии. Падение капитализации уже затронуло многие сферы бизнеса корпорации, но курс остается прежним.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://cdn.mos.cms.futurecdn.net/mBxxqUBT3cFZkoc6ffhMv5-1920-80.jpg",
    "ts": "2026-10-29T17:15:34.627683+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Набег викингов отменяется — он уже начался!</b>\n\nДля Age of Empires IV вышло масштабное дополнение Raiders of the North. Стратеги получили новый контент и повод снова засидеться за любимой RTS до самого утра.\n\n#релиз #Xbox\n\n🎮 Первый игровой",
+   "image": null,
+   "ts": "2026-10-29T18:01:02.455396+00:00",
    "tries": 0
   }
  ],
