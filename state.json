@@ -276,10 +276,12 @@
   "https://www.gematsu.com/?p=1086463",
   "https://www.gematsu.com/?p=1086546",
   "https://www.pushsquare.com/#article-208225",
-  "https://www.pushsquare.com/#article-208333"
+  "https://www.pushsquare.com/#article-208333",
+  "https://www.eurogamer.net/playstation-plus-monthly-games-november-2026",
+  "https://www.pushsquare.com/#article-208219",
+  "https://news.xbox.com/en-us/?p=227715"
  ],
  "titles": [
-  "NPC в GTA 6 станут невероятно живыми",
   "Первый сезон в Call of Duty: Modern Warfare 4 и Warzone: все детали",
   "TAITO выкапывает новую порцию ретро-классики",
   "Дружба будет разрушена вновь: анонсирована Dokapon Kingdom: Connect 2",
@@ -298,7 +300,8 @@
   "Формула успеха Konami: делать хорошие игры и получать за это кучу денег",
   "FromSoftware задерживает охоту с динозаврами",
   "Бесплатные выходные в Xbox: во что поиграть на этот раз",
-  "PS5 обгоняет PS4 по продажам в США"
+  "PS5 обгоняет PS4 по продажам в США",
+  "Метро стало еще ближе к некстгенам"
  ],
  "queue": [
   {
@@ -311,6 +314,12 @@
    "post": "<b>PS5 обгоняет PS4 по продажам в США</b>\n\nАналитик Circana Мэт Пискатарелла поделился любопытной статистикой: спустя 71 месяц после релиза PS5 опережает показатели PS4 в США на 1%. И это несмотря на более высокий ценник и меньшее количество эксклюзивов на старте.\n\n#новости #PlayStation\n\n🎮 Первый игровой",
    "image": "https://images.pushsquare.com/8aa3d00841171/1280x720.jpg",
    "ts": "2026-10-29T15:45:35.609296+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Метро стало еще ближе к некстгенам</b>\n\nДля дилогии METRO Redux на Xbox Series X и S неожиданно вышел крупный патч. Обновление заметно улучшило графику, повысило производительность и освежило управление, выжав максимум из железа актуальных консолей.\n\n#релиз #Xbox\n\n🎮 Первый игровой",
+   "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/METRO-Redux-2-a61e4f901da7bda08a04-1024x576.jpg",
+   "ts": "2026-10-29T16:30:54.150477+00:00",
    "tries": 0
   }
  ],
