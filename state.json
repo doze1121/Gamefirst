@@ -279,10 +279,16 @@
   "https://www.pushsquare.com/#article-208333",
   "https://www.eurogamer.net/playstation-plus-monthly-games-november-2026",
   "https://www.pushsquare.com/#article-208219",
-  "https://news.xbox.com/en-us/?p=227715"
+  "https://news.xbox.com/en-us/?p=227715",
+  "https://www.eurogamer.net/dont-nod-insolvency-life-is-strange-aphelion",
+  "https://www.rockpapershotgun.com/we-are-more-concerned-about-the-risks-of-moving-too-slowly-epic-get-more-specific-about-genai-use-in-unreal-engine-and-fortnite-development",
+  "https://www.gematsu.com/?p=1086508",
+  "https://www.pushsquare.com/#article-208268",
+  "https://news.xbox.com/en-us/?p=227729",
+  "https://news.xbox.com/en-us/?p=227746",
+  "zptXqDkQtbF5FRhLjKv36L"
  ],
  "titles": [
-  "Первый сезон в Call of Duty: Modern Warfare 4 и Warzone: все детали",
   "TAITO выкапывает новую порцию ретро-классики",
   "Дружба будет разрушена вновь: анонсирована Dokapon Kingdom: Connect 2",
   "Магическая школа откроет двери для фанатов визуальных новелл",
@@ -301,7 +307,8 @@
   "FromSoftware задерживает охоту с динозаврами",
   "Бесплатные выходные в Xbox: во что поиграть на этот раз",
   "PS5 обгоняет PS4 по продажам в США",
-  "Метро стало еще ближе к некстгенам"
+  "Метро стало еще ближе к некстгенам",
+  "Google теряет полтриллиона долларов, но босс компании смотрит в будущее с оптимизмом"
  ],
  "queue": [
   {
@@ -314,6 +321,12 @@
    "post": "<b>Метро стало еще ближе к некстгенам</b>\n\nДля дилогии METRO Redux на Xbox Series X и S неожиданно вышел крупный патч. Обновление заметно улучшило графику, повысило производительность и освежило управление, выжав максимум из железа актуальных консолей.\n\n#релиз #Xbox\n\n🎮 Первый игровой",
    "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/METRO-Redux-2-a61e4f901da7bda08a04-1024x576.jpg",
    "ts": "2026-10-29T16:30:54.150477+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Google теряет полтриллиона долларов, но босс компании смотрит в будущее с оптимизмом</b>\n\nПока акции технологического гиганта стремительно летят вниз на фоне масштабных рыночных потрясений, руководство заявляет об уверенности в своей текущей стратегии. Падение капитализации уже затронуло многие сферы бизнеса корпорации, но курс остается прежним.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/mBxxqUBT3cFZkoc6ffhMv5-1920-80.jpg",
+   "ts": "2026-10-29T17:15:34.627683+00:00",
    "tries": 0
   }
  ],
