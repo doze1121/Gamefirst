@@ -230,10 +230,13 @@
   "23f4aad0-7beb-4d39-9e62-e6878ad4ffb0",
   "https://www.nintendolife.com/#article-208296",
   "https://www.rockpapershotgun.com/part-idle-game-part-automation-game-moon-sweepers-exploits-the-sickness-in-me-that-adores-both-satisfactory-and-cookie-clicker",
-  "https://www.pushsquare.com/#article-208299"
+  "https://www.pushsquare.com/#article-208299",
+  "https://www.eurogamer.net/rockstar-union-vote-november",
+  "https://www.pushsquare.com/#article-208069",
+  "https://www.nintendolife.com/#article-208238",
+  "https://www.nintendolife.com/#article-208307"
  ],
  "titles": [
-  "Еноты-мошенники готовы забрать все ваше свободное время",
   "Самый безумный симулятор гольфа доберется до консолей",
   "Hit Webtoon покоряет PlayStation",
   "Тим Суини снова против Steam",
@@ -252,7 +255,8 @@
   "Легендарный мем из GTA 4 станет официальной механикой в GTA 6",
   "GTA 6 не станет держать игроков на поводке у сюжета",
   "TAITO возвращается с новой порцией ретро",
-  "GTA 6 засветилась в... South Park"
+  "GTA 6 засветилась в... South Park",
+  "Космос стал еще страшнее: для Cronos: The New Dawn анонсировали DLC Lazarus"
  ],
  "queue": [
   {
@@ -265,6 +269,12 @@
    "post": "<b>GTA 6 засветилась в... South Park</b>\n\nДо релиза GTA 6 остаются считанные недели, но Rockstar продолжает подогревать интерес. Игра неожиданно появилась в новом эпизоде South Park, где в мультселяре показали реальный геймплей с метанием собачьих фекалий в прохожих. \n\n#новости\n\n🎮 Первый игровой",
    "image": "https://images.pushsquare.com/98426c4608c94/1280x720.jpg",
    "ts": "2026-10-29T09:45:37.140661+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Космос стал еще страшнее: для Cronos: The New Dawn анонсировали DLC Lazarus</b>\n\nАвторы жуткого фантастического экшена показали пугающий сюжетный трейлер дополнения. Правда, владельцам консоли от Nintendo придется запастись терпением: на Switch 2 релиз состоится только в первом квартале 2027 года.\n\n#трейлер #Nintendo\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/906bb473391ba/1280x720.jpg",
+   "ts": "2026-10-29T10:30:49.883144+00:00",
    "tries": 0
   }
  ],
