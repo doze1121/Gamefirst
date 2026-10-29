@@ -302,10 +302,11 @@
   "mAVV7ZijAhQbamyx5BGmWF",
   "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
   "https://www.pushsquare.com/#article-208288",
-  "https://www.pushsquare.com/#article-208351"
+  "https://www.pushsquare.com/#article-208351",
+  "ieYgCBCYX3wzXPUUtx9bQe",
+  "https://www.rockpapershotgun.com/we-didnt-want-the-brooding-hero-out-for-revenge-how-quiet-lulls-and-a-bird-sketching-lead-make-control-resonant-a-more-introspective-kind-of-action-game"
  ],
  "titles": [
-  "Космос стал чуточку страшнее",
   "Palworld все-таки может заглянуть на Switch 2",
   "Легендарный мем из GTA 4 станет официальной механикой в GTA 6",
   "GTA 6 не станет держать игроков на поводке у сюжета",
@@ -324,7 +325,8 @@
   "Набег викингов отменяется — он уже начался!",
   "Кампании из «хранилища» Destiny 2 придется ждать еще очень долго",
   "Дональд Гловер снимет сериал по PUBG для Netflix",
-  "Ubisoft пока не планирует новые ремейки Assassin's Creed"
+  "Ubisoft пока не планирует новые ремейки Assassin's Creed",
+  "Боевик с душой художника: авторы Control Resonant отказались от клише про месть"
  ],
  "queue": [
   {
@@ -337,6 +339,12 @@
    "post": "<b>Ubisoft пока не планирует новые ремейки Assassin's Creed</b>\n\nНесмотря на огромный коммерческий успех переиздания Black Flag Resynced, разошедшегося тиражом более трех миллионов копий, издатель пока не разрабатывает другие игры серии. Тем не менее, компания не исключает возвращения к этой идее в будущем, оценивая результаты продаж.\n\n#новости #PlayStation\n\n🎮 Первый игровой",
    "image": "https://images.pushsquare.com/19a940563fbeb/1280x720.jpg",
    "ts": "2026-10-29T20:15:38.258866+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Боевик с душой художника: авторы Control Resonant отказались от клише про месть</b>\n\nВ новом экшене от Remedy жестокие и кровавые схватки внезапно сменяются моментом меланхоличного покоя. Вместо привычного мрачного героя-одиночки нас ждет созерцательный геймплей с поиском плюшевых драконов и зарисовками птиц.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Control-Resonant-Dylan-midshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-10-29T20:50:37.291174+00:00",
    "tries": 0
   }
  ],
