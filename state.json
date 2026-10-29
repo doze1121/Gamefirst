@@ -254,10 +254,19 @@
   "https://www.eurogamer.net/dawn-of-war-4-preview-most-generous-rts",
   "https://www.pushsquare.com/#article-208227",
   "https://www.nintendolife.com/#article-208141",
-  "https://news.xbox.com/en-us/?p=227649"
+  "https://news.xbox.com/en-us/?p=227649",
+  "https://www.gematsu.com/?p=1086429",
+  "https://www.gematsu.com/?p=1086562",
+  "https://www.gematsu.com/?p=1086486",
+  "https://www.gematsu.com/?p=1086460",
+  "https://www.gematsu.com/?p=1086543",
+  "https://www.gematsu.com/?p=1086455",
+  "https://www.gematsu.com/?p=1086434",
+  "https://www.gematsu.com/?p=1086537",
+  "https://www.gematsu.com/?p=1008135",
+  "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027"
  ],
  "titles": [
-  "Узнаете ли вы хоррор по его отвратительному туалету?",
   "Платина по «Скрытой угрозе»: классика с PS1 получила поддержку трофеев",
   "Карта GTA 6 поражает масштабами и детализацией",
   "NPC в GTA 6 станут невероятно живыми",
@@ -276,7 +285,8 @@
   "Новый символ безумного внимания к деталям в GTA 6",
   "Blizzard нарушила обещание? Игроки в гневе",
   "Скандал вокруг вступительного ролика Call of Duty: Modern Warfare 4",
-  "Формула успеха Konami: делать хорошие игры и получать за это кучу денег"
+  "Формула успеха Konami: делать хорошие игры и получать за это кучу денег",
+  "FromSoftware задерживает охоту с динозаврами"
  ],
  "queue": [
   {
@@ -289,6 +299,12 @@
    "post": "<b>Формула успеха Konami: делать хорошие игры и получать за это кучу денег</b>\n\nЯпонский издатель отчитался о резком росте доходов: прибыль компании взлетела больше чем на 75%. Такой финансовый скачок обеспечило возвращение к легендарным франшизам и релизы отличных проектов.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://images.pushsquare.com/045c7b2ca19f4/1280x720.jpg",
    "ts": "2026-10-29T13:30:52.454618+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>FromSoftware задерживает охоту с динозаврами</b>\n\nЭксклюзив для Switch 2 под названием The Duskbloods, где смешались механики Bloodborne, Sekiro и Dark Souls с добавлением реактивных ранцев и динозавров, перенесли на неопределенный срок. Релиз амбициозного проекта теперь стоит ждать не раньше 2027 года.\n\n#Nintendo #релиз\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/duskbloods-calendar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-10-29T14:30:52.009455+00:00",
    "tries": 0
   }
  ],
