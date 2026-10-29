@@ -264,10 +264,15 @@
   "https://www.gematsu.com/?p=1086434",
   "https://www.gematsu.com/?p=1086537",
   "https://www.gematsu.com/?p=1008135",
-  "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027"
+  "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027",
+  "https://www.eurogamer.net/steam-ai-clone-game-problem-valve-response",
+  "https://www.eurogamer.net/mass-effect-universe-trailer-rescore-composer-n7-day",
+  "https://www.gematsu.com/?p=1086479",
+  "https://www.pushsquare.com/#article-208201",
+  "https://www.nintendolife.com/#article-208269",
+  "https://news.xbox.com/en-us/?p=227790"
  ],
  "titles": [
-  "Платина по «Скрытой угрозе»: классика с PS1 получила поддержку трофеев",
   "Карта GTA 6 поражает масштабами и детализацией",
   "NPC в GTA 6 станут невероятно живыми",
   "Первый сезон в Call of Duty: Modern Warfare 4 и Warzone: все детали",
@@ -286,7 +291,8 @@
   "Blizzard нарушила обещание? Игроки в гневе",
   "Скандал вокруг вступительного ролика Call of Duty: Modern Warfare 4",
   "Формула успеха Konami: делать хорошие игры и получать за это кучу денег",
-  "FromSoftware задерживает охоту с динозаврами"
+  "FromSoftware задерживает охоту с динозаврами",
+  "Бесплатные выходные в Xbox: во что поиграть на этот раз"
  ],
  "queue": [
   {
@@ -299,6 +305,12 @@
    "post": "<b>FromSoftware задерживает охоту с динозаврами</b>\n\nЭксклюзив для Switch 2 под названием The Duskbloods, где смешались механики Bloodborne, Sekiro и Dark Souls с добавлением реактивных ранцев и динозавров, перенесли на неопределенный срок. Релиз амбициозного проекта теперь стоит ждать не раньше 2027 года.\n\n#Nintendo #релиз\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/duskbloods-calendar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-10-29T14:30:52.009455+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Бесплатные выходные в Xbox: во что поиграть на этот раз</b>\n\nПодписчики Xbox Game Pass получили доступ к новой подборке игр в рамках акции Free Play Days. До конца недели можно опробовать WUCHANG: Fallen Feathers, Dead by Daylight, Darkwood, Spirittea и EVERSPACE 2.\n\n#Xbox\n\n🎮 Первый игровой",
+   "image": "https://store-images.s-microsoft.com/image/apps.44761.13783945394833991.9c211df2-6d91-4ddb-8a9b-d22dd17d57de.2d4b818f-ca01-45f0-b255-54b665c38ac6?w=400&#038;h=600",
+   "ts": "2026-10-29T15:01:08.709267+00:00",
    "tries": 0
   }
  ],
