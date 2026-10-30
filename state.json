@@ -333,10 +333,10 @@
   "TmtV64hvsFtKqRXCrrsqPQ",
   "https://www.gematsu.com/?p=1086782",
   "https://www.nintendolife.com/#article-208365",
-  "https://www.nintendolife.com/#article-208366"
+  "https://www.nintendolife.com/#article-208366",
+  "0ab8f010-6123-4572-858c-0bb44066e79b"
  ],
  "titles": [
-  "Бесплатные выходные в Xbox: во что поиграть на этот раз",
   "PS5 обгоняет PS4 по продажам в США",
   "Метро стало еще ближе к некстгенам",
   "Google теряет полтриллиона долларов, но босс компании смотрит в будущее с оптимизмом",
@@ -355,7 +355,8 @@
   "Хидео Кодзима интригует: по Death Stranding Isolations подоспели первые детали и свежий тизер",
   "Occult-детектив Seeker Eye метит сразу на Switch 2",
   "Зельда-лихорадка омрачена задержками",
-  "Утек подзаголовок The Elder Scrolls VI"
+  "Утек подзаголовок The Elder Scrolls VI",
+  "Death Stranding уходит в аниме"
  ],
  "queue": [
   {
@@ -368,6 +369,12 @@
    "post": "<b>Утек подзаголовок The Elder Scrolls VI</b>\n\nПо данным инсайдеров, масштабная ролевая игра от Bethesda получит подзаголовок Sentinel. Официальный анонс полного названия может состояться уже в ближайшее время.\n\n#анонс #индустрия\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/8383acd1a6e77/1280x720.jpg",
    "ts": "2026-10-30T05:15:40.802668+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Death Stranding уходит в аниме</b>\n\nKojima Productions представила первый трейлер Death Stranding Isolations — оригинального анимационного сериала во вселенной культовой игры. Премьера проекта состоится эксклюзивно на Disney+ уже в следующем году.\n\n#трейлер #анонс\n\n🎮 Первый игровой",
+   "image": "https://assets-prd.ignimgs.com/2026/10/30/death-stranding-isolation-new-trailer-1793328613695.jpg?width=1280&format=jpg&auto=webp&quality=80",
+   "ts": "2026-10-30T06:01:02.798086+00:00",
    "tries": 0
   }
  ],
