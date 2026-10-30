@@ -383,10 +383,16 @@
   "https://www.gematsu.com/?p=1086720",
   "https://www.gematsu.com/?p=1086716",
   "https://news.xbox.com/en-us/?p=227658",
-  "https://www.gematsu.com/?p=1086857"
+  "https://www.gematsu.com/?p=1086857",
+  "cVgNbjCJnmFfBj6byGHrBM",
+  "MhWT7aHKHseCUPRcKsDgjT",
+  "https://www.gematsu.com/?p=1085618",
+  "https://www.gematsu.com/?p=1086733",
+  "https://www.nintendolife.com/#article-208330",
+  "https://www.nintendolife.com/#article-208294",
+  "https://news.xbox.com/en-us/?p=227688"
  ],
  "titles": [
-  "Минус легенда: игровой мир прощается сэром Патриком Стюартом",
   "Культовая JRPG получила новую жизнь",
   "Reddit закроется от незалогиненных пользователей ради ИИ",
   "Космическая песочница Petit Planet получила точную дату релиза",
@@ -405,7 +411,8 @@
   "Ubisoft охладила пыл фанатов Assassin's Creed",
   "Intel бьет тревогу: кризис памяти парализует ПК-рынок",
   "Honkai: Star Rail готовится к обновлению",
-  "World of Horror пугает новыми глубинами"
+  "World of Horror пугает новыми глубинами",
+  "Динозавры-аниматроники идут по душу игрока в Terrible Lizards"
  ],
  "queue": [
   {
@@ -418,6 +425,12 @@
    "post": "<b>World of Horror пугает новыми глубинами</b>\n\nКосмический хоррор от Panstasz получил крупное бесплатное обновление As Below So Above на ПК. Авторы также заглянули далеко в будущее и подтвердили релиз консольных версий для PS4 и Switch аж в 2027 году.\n\n#новости #Nintendo #PlayStation\n\n🎮 Первый игровой",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/10/WORLD-OF-HORROR_2026_10-30-26_003.png",
    "ts": "2026-10-30T14:15:38.640772+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Динозавры-аниматроники идут по душу игрока в Terrible Lizards</b>\n\nВ новом шутере-платформере от первого лица главной защитой становится паркур и скорость передвижения. По сюжету предстоит сбежать из заброшенного парка развлечений, где ожившие механические монстры открыли охоту на выживших. Экшен уже доступен на Xbox Series X|S и сразу пополнил каталог Game Pass.\n\n#релиз #Xbox\n\n🎮 Первый игровой",
+   "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/5-9d38a907e4941e07d0aa-1024x576.jpg",
+   "ts": "2026-10-30T15:01:04.218361+00:00",
    "tries": 0
   }
  ],
