@@ -362,10 +362,12 @@
   "https://www.gematsu.com/?p=1086681",
   "https://www.pushsquare.com/#article-208300",
   "https://www.eurogamer.net/patrick-stewart-dies-oblivion-uriel-septim-castlevania",
-  "https://www.eurogamer.net/no-new-assassins-creed-games-in-development-ubisoft"
+  "https://www.eurogamer.net/no-new-assassins-creed-games-in-development-ubisoft",
+  "https://www.pushsquare.com/#article-208322",
+  "https://www.nintendolife.com/#article-208323",
+  "BUXJK99ogZJdtrtWgLS3fe"
  ],
  "titles": [
-  "Phantom Blade Zero уже в релизе, но без казусов не обошлось",
   "Crimson Desert обзавелась масштабным дополнением",
   "Mouthwashing экранизируют: ждем фильм от Sony",
   "Минус легенда: игровой мир прощается сэром Патриком Стюартом",
@@ -384,7 +386,8 @@
   "Контроллер для Switch 2 сливают по скидке",
   "Celeste и TowerFall неожиданно пропали из Xbox Store",
   "Скандал вокруг Call of Duty: Modern Warfare 4: семьи погибших требуют убрать реальные кадры трагедии",
-  "Ubisoft охладила пыл фанатов Assassin's Creed"
+  "Ubisoft охладила пыл фанатов Assassin's Creed",
+  "Intel бьет тревогу: кризис памяти парализует ПК-рынок"
  ],
  "queue": [
   {
@@ -397,6 +400,12 @@
    "post": "<b>Ubisoft охладила пыл фанатов Assassin's Creed</b>\n\nФранцузский издатель неожиданно заявил, что прямо сейчас в разработке нет никаких других ремейков прошлых частей серии. Похоже, возвращения культовых приключений в новом обличье придется ждать еще очень долго.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/ac-future-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-10-30T12:01:05.607532+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Intel бьет тревогу: кризис памяти парализует ПК-рынок</b>\n\nГлава компании предупреждает о тяжелых временах для индустрии ПК в ближайшие кварталы. Из-за дефицита и скачка цен Intel вынуждена перенаправлять мощности процессоров Panther Lake в дата-центры, а бюджетные чипы Wildcat Lake моментально исчезают с прилавков.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/xr8v7jD38MEcnLeUDjudSY-1920-80.jpg",
+   "ts": "2026-10-30T12:45:38.047347+00:00",
    "tries": 0
   }
  ],
