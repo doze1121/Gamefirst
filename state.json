@@ -390,10 +390,15 @@
   "https://www.gematsu.com/?p=1086733",
   "https://www.nintendolife.com/#article-208330",
   "https://www.nintendolife.com/#article-208294",
-  "https://news.xbox.com/en-us/?p=227688"
+  "https://news.xbox.com/en-us/?p=227688",
+  "jyvPfAjDsyBGBYsiRe9FaX",
+  "ZmPrnHUexjJbgUiLioapPV",
+  "https://www.eurogamer.net/bioware-co-founder-greg-zeschuk-closure-interview",
+  "https://www.gematsu.com/?p=1086144",
+  "https://www.nintendolife.com/#article-208334",
+  "https://www.pushsquare.com/#article-208404"
  ],
  "titles": [
-  "Культовая JRPG получила новую жизнь",
   "Reddit закроется от незалогиненных пользователей ради ИИ",
   "Космическая песочница Petit Planet получила точную дату релиза",
   "Хидео Кодзима интригует: по Death Stranding Isolations подоспели первые детали и свежий тизер",
@@ -412,7 +417,8 @@
   "Intel бьет тревогу: кризис памяти парализует ПК-рынок",
   "Honkai: Star Rail готовится к обновлению",
   "World of Horror пугает новыми глубинами",
-  "Динозавры-аниматроники идут по душу игрока в Terrible Lizards"
+  "Динозавры-аниматроники идут по душу игрока в Terrible Lizards",
+  "Жертва ради далекой галактики: EA отменила новую Mass Effect"
  ],
  "queue": [
   {
@@ -425,6 +431,12 @@
    "post": "<b>Динозавры-аниматроники идут по душу игрока в Terrible Lizards</b>\n\nВ новом шутере-платформере от первого лица главной защитой становится паркур и скорость передвижения. По сюжету предстоит сбежать из заброшенного парка развлечений, где ожившие механические монстры открыли охоту на выживших. Экшен уже доступен на Xbox Series X|S и сразу пополнил каталог Game Pass.\n\n#релиз #Xbox\n\n🎮 Первый игровой",
    "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/5-9d38a907e4941e07d0aa-1024x576.jpg",
    "ts": "2026-10-30T15:01:04.218361+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Жертва ради далекой галактики: EA отменила новую Mass Effect</b>\n\nПо данным свежего отчета Джейсона Шрейера, издатель EA свернул разработку следующей части Mass Effect и закрыл BioWare. Все ресурсы бросили на создание Star Wars: Battlefront 3, чтобы не распыляться на два крупных релиза одновременно.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/fcf0e0ff611eb/1280x720.jpg",
+   "ts": "2026-10-30T15:45:35.073367+00:00",
    "tries": 0
   }
  ],
