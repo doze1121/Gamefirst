@@ -349,10 +349,13 @@
   "40eea4d9-7bbe-4327-8621-dbde32b8b597",
   "ZjV68X95gcbwJ3hQpxx7zU",
   "https://www.eurogamer.net/dog-poo-anti-social-behaviour-and-jason-our-latest-look-at-gta-6-gameplay-comes-from-the-latest-episode-of-south-park",
-  "https://www.eurogamer.net/towerfall-celeste-xbox-boycott-delisted"
+  "https://www.eurogamer.net/towerfall-celeste-xbox-boycott-delisted",
+  "https://www.eurogamer.net/modern-warfare-4-south-korean-crowd-crush-footage",
+  "https://www.gematsu.com/?p=1086678",
+  "https://www.nintendolife.com/#article-208309",
+  "6afdbb81-7370-4d24-89b3-3ca143767a14"
  ],
  "titles": [
-  "Ubisoft пока не планирует новые ремейки Assassin's Creed",
   "Боевик с душой художника: авторы Control Resonant отказались от клише про месть",
   "Phantom Blade Zero уже в релизе, но без казусов не обошлось",
   "Crimson Desert обзавелась масштабным дополнением",
@@ -371,7 +374,8 @@
   "Достойный наследник легенд: финал первого сезона Avatar: Seven Havens удался на славу",
   "Геймпады в стиле Zelda подешевели перед Черной пятницей",
   "Контроллер для Switch 2 сливают по скидке",
-  "Celeste и TowerFall неожиданно пропали из Xbox Store"
+  "Celeste и TowerFall неожиданно пропали из Xbox Store",
+  "Скандал вокруг Call of Duty: Modern Warfare 4: семьи погибших требуют убрать реальные кадры трагедии"
  ],
  "queue": [
   {
@@ -384,6 +388,12 @@
    "post": "<b>Celeste и TowerFall неожиданно пропали из Xbox Store</b>\n\nИгры Maddy Thorson внезапно исчезли из продажи на консолях Microsoft. Как пояснила разработчица в соцсетях, это осознанный шаг: тайтлы убрали в знак поддержки движения BDS, выступающего против политики Израиля.\n\n#новости #Xbox\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/celeste-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-10-30T10:30:52.679517+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Скандал вокруг Call of Duty: Modern Warfare 4: семьи погибших требуют убрать реальные кадры трагедии</b>\n\nРодственники жертв давки в Сеуле 2022 года призвали Activision удалить документальные кадры трагедии из игры. По их мнению, использование реальной катастрофы в развлекательном проекте недопустимо и причиняет боль близким.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assets-prd.ignimgs.com/2026/10/30/ss-ee5f6b6aebe4dc9e86b49c4e309d361b132df308-1920x1080-1793357903664.jpg?width=1280&format=jpg&auto=webp&quality=80",
+   "ts": "2026-10-30T11:15:37.447027+00:00",
    "tries": 0
   }
  ],
