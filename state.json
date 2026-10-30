@@ -343,10 +343,12 @@
   "0bdf7b1f-7e3d-4a7f-b892-3c211170a674",
   "8248f313-66fc-4b2f-a487-0b047e664f54",
   "897b044e-f45d-42d3-b84d-5061156bbbc9",
-  "2122ff0b-75db-474a-9aa6-35c5c96bc061"
+  "2122ff0b-75db-474a-9aa6-35c5c96bc061",
+  "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
+  "40cc1156-4aa7-4aab-839a-482fb8764329",
+  "40eea4d9-7bbe-4327-8621-dbde32b8b597"
  ],
  "titles": [
-  "Кампании из «хранилища» Destiny 2 придется ждать еще очень долго",
   "Дональд Гловер снимет сериал по PUBG для Netflix",
   "Ubisoft пока не планирует новые ремейки Assassin's Creed",
   "Боевик с душой художника: авторы Control Resonant отказались от клише про месть",
@@ -365,7 +367,8 @@
   "Harvest Moon расписали контент аж на два года вперёд",
   "Attack on Titan 3: не просто сиквел, а масштабное переосмысление",
   "Достойный наследник легенд: финал первого сезона Avatar: Seven Havens удался на славу",
-  "Геймпады в стиле Zelda подешевели перед Черной пятницей"
+  "Геймпады в стиле Zelda подешевели перед Черной пятницей",
+  "Контроллер для Switch 2 сливают по скидке"
  ],
  "queue": [
   {
@@ -378,6 +381,12 @@
    "post": "<b>Геймпады в стиле Zelda подешевели перед Черной пятницей</b>\n\nЛимитированный Nintendo Switch Pro Controller в дизайне The Legend of Legend of Zelda отдают со скидкой всего за $55.99. Приятный бонус: аксессуар будет полностью совместим и со следующей консолью компании.\n\n#Nintendo\n\n🎮 Первый игровой",
    "image": "https://assets-prd.ignimgs.com/2026/10/30/switchprocontrollerzelda-1793344212724.jpg?width=1280&format=jpg&auto=webp&quality=80",
    "ts": "2026-10-30T09:01:00.852613+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Контроллер для Switch 2 сливают по скидке</b>\n\nНа распродаже Woot неожиданно уронили цену на официальный Pro Controller для неанонсированной консоли от Nintendo. До Черной пятницы еще далеко, но такой прайс вряд ли удастся перебить.\n\n#новости #Nintendo\n\n🎮 Первый игровой",
+   "image": "https://assets-prd.ignimgs.com/2026/10/30/nintendoswitch2procontroller-1793342728907.jpg?width=1280&format=jpg&auto=webp&quality=80",
+   "ts": "2026-10-30T09:45:37.061369+00:00",
    "tries": 0
   }
  ],
