@@ -341,10 +341,11 @@
   "https://www.nintendolife.com/#article-208368",
   "https://www.nintendolife.com/#article-208364",
   "0bdf7b1f-7e3d-4a7f-b892-3c211170a674",
-  "8248f313-66fc-4b2f-a487-0b047e664f54"
+  "8248f313-66fc-4b2f-a487-0b047e664f54",
+  "897b044e-f45d-42d3-b84d-5061156bbbc9",
+  "2122ff0b-75db-474a-9aa6-35c5c96bc061"
  ],
  "titles": [
-  "Набег викингов отменяется — он уже начался!",
   "Кампании из «хранилища» Destiny 2 придется ждать еще очень долго",
   "Дональд Гловер снимет сериал по PUBG для Netflix",
   "Ubisoft пока не планирует новые ремейки Assassin's Creed",
@@ -363,7 +364,8 @@
   "Death Stranding уходит в аниме",
   "Harvest Moon расписали контент аж на два года вперёд",
   "Attack on Titan 3: не просто сиквел, а масштабное переосмысление",
-  "Достойный наследник легенд: финал первого сезона Avatar: Seven Havens удался на славу"
+  "Достойный наследник легенд: финал первого сезона Avatar: Seven Havens удался на славу",
+  "Геймпады в стиле Zelda подешевели перед Черной пятницей"
  ],
  "queue": [
   {
@@ -376,6 +378,12 @@
    "post": "<b>Достойный наследник легенд: финал первого сезона Avatar: Seven Havens удался на славу</b>\n\nIGN оценил финальные эпизоды Avatar: Seven Havens, назвав их мощными, эмоциональными и захватывающими. Шоу доказало, что оно достойно носить звание преемника культовых The Last Airbender и Legend of Korra.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://assets-prd.ignimgs.com/2026/10/29/avatar-seven-havens-finale-thumb-1793291353085.jpg?width=1280&format=jpg&auto=webp&quality=80",
    "ts": "2026-10-30T08:15:36.380430+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Геймпады в стиле Zelda подешевели перед Черной пятницей</b>\n\nЛимитированный Nintendo Switch Pro Controller в дизайне The Legend of Legend of Zelda отдают со скидкой всего за $55.99. Приятный бонус: аксессуар будет полностью совместим и со следующей консолью компании.\n\n#Nintendo\n\n🎮 Первый игровой",
+   "image": "https://assets-prd.ignimgs.com/2026/10/30/switchprocontrollerzelda-1793344212724.jpg?width=1280&format=jpg&auto=webp&quality=80",
+   "ts": "2026-10-30T09:01:00.852613+00:00",
    "tries": 0
   }
  ],
