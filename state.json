@@ -346,10 +346,12 @@
   "2122ff0b-75db-474a-9aa6-35c5c96bc061",
   "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
   "40cc1156-4aa7-4aab-839a-482fb8764329",
-  "40eea4d9-7bbe-4327-8621-dbde32b8b597"
+  "40eea4d9-7bbe-4327-8621-dbde32b8b597",
+  "ZjV68X95gcbwJ3hQpxx7zU",
+  "https://www.eurogamer.net/dog-poo-anti-social-behaviour-and-jason-our-latest-look-at-gta-6-gameplay-comes-from-the-latest-episode-of-south-park",
+  "https://www.eurogamer.net/towerfall-celeste-xbox-boycott-delisted"
  ],
  "titles": [
-  "Дональд Гловер снимет сериал по PUBG для Netflix",
   "Ubisoft пока не планирует новые ремейки Assassin's Creed",
   "Боевик с душой художника: авторы Control Resonant отказались от клише про месть",
   "Phantom Blade Zero уже в релизе, но без казусов не обошлось",
@@ -368,7 +370,8 @@
   "Attack on Titan 3: не просто сиквел, а масштабное переосмысление",
   "Достойный наследник легенд: финал первого сезона Avatar: Seven Havens удался на славу",
   "Геймпады в стиле Zelda подешевели перед Черной пятницей",
-  "Контроллер для Switch 2 сливают по скидке"
+  "Контроллер для Switch 2 сливают по скидке",
+  "Celeste и TowerFall неожиданно пропали из Xbox Store"
  ],
  "queue": [
   {
@@ -381,6 +384,12 @@
    "post": "<b>Контроллер для Switch 2 сливают по скидке</b>\n\nНа распродаже Woot неожиданно уронили цену на официальный Pro Controller для неанонсированной консоли от Nintendo. До Черной пятницы еще далеко, но такой прайс вряд ли удастся перебить.\n\n#новости #Nintendo\n\n🎮 Первый игровой",
    "image": "https://assets-prd.ignimgs.com/2026/10/30/nintendoswitch2procontroller-1793342728907.jpg?width=1280&format=jpg&auto=webp&quality=80",
    "ts": "2026-10-30T09:45:37.061369+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Celeste и TowerFall неожиданно пропали из Xbox Store</b>\n\nИгры Maddy Thorson внезапно исчезли из продажи на консолях Microsoft. Как пояснила разработчица в соцсетях, это осознанный шаг: тайтлы убрали в знак поддержки движения BDS, выступающего против политики Израиля.\n\n#новости #Xbox\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/celeste-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-10-30T10:30:52.679517+00:00",
    "tries": 0
   }
  ],
