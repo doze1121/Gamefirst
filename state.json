@@ -365,10 +365,16 @@
   "https://www.eurogamer.net/no-new-assassins-creed-games-in-development-ubisoft",
   "https://www.pushsquare.com/#article-208322",
   "https://www.nintendolife.com/#article-208323",
-  "BUXJK99ogZJdtrtWgLS3fe"
+  "BUXJK99ogZJdtrtWgLS3fe",
+  "2iwSyvi2SzQL7PYpBkkwKe",
+  "https://www.eurogamer.net/football-manager-27-preview-interview-tactical-effectiveness-ui-strike-team",
+  "https://www.rockpapershotgun.com/can-the-sidewinder-game-pad-microsofts-first-game-controller-work-on-modern-pcs-i-bought-three-of-them-to-find-out",
+  "https://www.gematsu.com/?p=1086687",
+  "https://www.gematsu.com/?p=1086610",
+  "https://www.nintendolife.com/#article-208137",
+  "https://www.gematsu.com/?p=1086188"
  ],
  "titles": [
-  "Crimson Desert обзавелась масштабным дополнением",
   "Mouthwashing экранизируют: ждем фильм от Sony",
   "Минус легенда: игровой мир прощается сэром Патриком Стюартом",
   "Культовая JRPG получила новую жизнь",
@@ -387,7 +393,8 @@
   "Celeste и TowerFall неожиданно пропали из Xbox Store",
   "Скандал вокруг Call of Duty: Modern Warfare 4: семьи погибших требуют убрать реальные кадры трагедии",
   "Ubisoft охладила пыл фанатов Assassin's Creed",
-  "Intel бьет тревогу: кризис памяти парализует ПК-рынок"
+  "Intel бьет тревогу: кризис памяти парализует ПК-рынок",
+  "Honkai: Star Rail готовится к обновлению"
  ],
  "queue": [
   {
@@ -400,6 +407,12 @@
    "post": "<b>Intel бьет тревогу: кризис памяти парализует ПК-рынок</b>\n\nГлава компании предупреждает о тяжелых временах для индустрии ПК в ближайшие кварталы. Из-за дефицита и скачка цен Intel вынуждена перенаправлять мощности процессоров Panther Lake в дата-центры, а бюджетные чипы Wildcat Lake моментально исчезают с прилавков.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://cdn.mos.cms.futurecdn.net/xr8v7jD38MEcnLeUDjudSY-1920-80.jpg",
    "ts": "2026-10-30T12:45:38.047347+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Honkai: Star Rail готовится к обновлению</b>\n\nАвторы Honkai: Star Rail анонсировали патч 4.7 под названием «Now, Lay Laughter to All Stars». Масштабное обновление станет доступно игрокам уже 11 ноября, принеся с собой новый контент.\n\n#релиз\n\n🎮 Первый игровой",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Honkai-Star-Rail_2026_10-30-26_049.jpg",
+   "ts": "2026-10-30T13:24:09.967156+00:00",
    "tries": 0
   }
  ],
