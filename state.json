@@ -312,10 +312,12 @@
   "https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out",
   "https://news.xbox.com/en-us/?p=227774",
   "584c2076-4255-4182-bc5c-7f66baeaf6b8",
-  "https://www.gematsu.com/?p=1086625"
+  "https://www.gematsu.com/?p=1086625",
+  "https://www.gematsu.com/?p=1086585",
+  "https://www.nintendolife.com/#article-208295",
+  "FFsgnDeG3YvaaTZPa87Pia"
  ],
  "titles": [
-  "Космос стал еще страшнее: для Cronos: The New Dawn анонсировали DLC Lazarus",
   "Новый символ безумного внимания к деталям в GTA 6",
   "Blizzard нарушила обещание? Игроки в гневе",
   "Скандал вокруг вступительного ролика Call of Duty: Modern Warfare 4",
@@ -334,7 +336,8 @@
   "Crimson Desert обзавелась масштабным дополнением",
   "Mouthwashing экранизируют: ждем фильм от Sony",
   "Минус легенда: игровой мир прощается сэром Патриком Стюартом",
-  "Культовая JRPG получила новую жизнь"
+  "Культовая JRPG получила новую жизнь",
+  "Reddit закроется от незалогиненных пользователей ради ИИ"
  ],
  "queue": [
   {
@@ -347,6 +350,12 @@
    "post": "<b>Культовая JRPG получила новую жизнь</b>\n\nСтудия tri-Ace неожиданно выпустила Resonance of Fate Enhanced Remaster на PlayStation 5 и PC. Уникальная тактическая ролевая игра с акробатическими перестрелками обзавелась улучшенной графикой и доступна в Steam прямо сейчас.\n\n#релиз\n\n🎮 Первый игровой",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Resonance-Fate-HD-Enhance-Announced_10-29-26.jpg",
    "ts": "2026-10-30T00:34:45.555657+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Reddit закроется от незалогиненных пользователей ради ИИ</b>\n\nПлатформа планирует полностью убрать гостевой доступ и пускать на сайт только авторизованных юзернеймов. Точные детали нововведения еще прорабатываются, но шаг явно направлен на защиту контента от парсинга нейросетями.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/BCeGDVRed5pPqnVkmiJShC-2560-80.jpg",
+   "ts": "2026-10-30T01:30:49.334769+00:00",
    "tries": 0
   }
  ],
