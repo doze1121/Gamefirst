@@ -439,10 +439,10 @@
   "73ddd8d5-683c-4f4f-af69-1385c105ff29",
   "8e6bd27c-d429-4353-9c4b-9cc204ccf183",
   "837991a7-5fee-4ff3-8d8a-36055edd9d48",
-  "https://www.gematsu.com/?p=1086791"
+  "https://www.gematsu.com/?p=1086791",
+  "https://www.nintendolife.com/#article-208420"
  ],
  "titles": [
-  "World of Horror пугает новыми глубинами",
   "Динозавры-аниматроники идут по душу игрока в Terrible Lizards",
   "Жертва ради далекой галактики: EA отменила новую Mass Effect",
   "Как EA погубила BioWare",
@@ -461,7 +461,8 @@
   "Куда движется Magic: The Gathering",
   "Легкая прогулка или хардкор: в Stranger Than Heaven появятся встроенные читы",
   "Monster Hunter Outlanders: мобильный хит с ложкой дегтя",
-  "Silver Palace выходит уже в середине декабря"
+  "Silver Palace выходит уже в середине декабря",
+  "Evercold принесет холод в Final Fantasy XIV Online в 2027 году"
  ],
  "queue": [
   {
@@ -474,6 +475,12 @@
    "post": "<b>Silver Palace выходит уже в середине декабря</b>\n\nБесплатная ролевая экшен-игра в открытом мире Silver Palace станет доступна на PlayStation 5 и ПК уже 14 декабря. Проект предложит масштабные приключения, исследование разнообразных локаций и динамичные сражения.\n\n#релиз #PlayStation\n\n🎮 Первый игровой",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Silver-Palace-Date_10-31-26.jpg",
    "ts": "2026-10-31T04:30:49.355012+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Evercold принесет холод в Final Fantasy XIV Online в 2027 году</b>\n\nSquare Enix определилась с точной датой выхода шестого дополнения для MMORPG Final Fantasy XIV Online. Релиз масштабного аддона состоится 23 февраля 2027 года после январского переноса, а ранний доступ откроется уже 19-го числа.\n\n#анонс\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/b8ab9102b2c84/1280x720.jpg",
+   "ts": "2026-10-31T05:15:35.380356+00:00",
    "tries": 0
   }
  ],
