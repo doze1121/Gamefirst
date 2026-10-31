@@ -451,10 +451,11 @@
   "https://www.eurogamer.net/what-weve-been-playing-tenebris-somnia-moonlight-peaks-amnesia",
   "https://www.nintendolife.com/#article-208422",
   "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-406",
-  "8fc9e9d0-037b-4530-9716-2cee01d6bceb"
+  "8fc9e9d0-037b-4530-9716-2cee01d6bceb",
+  "https://www.pushsquare.com/#article-208370",
+  "https://www.eurogamer.net/silver-pines-now-playing"
  ],
  "titles": [
-  "Игры 2027 года: Fable, Final Fantasy 7 и призрачный релиз GTA 6 на ПК",
   "Yacht Club Games уходит в 3D",
   "Нейросети захватывают Roblox",
   "Soulframe станет доступна всем желающим",
@@ -473,7 +474,8 @@
   "Raw Power Games под угрозой закрытия",
   "id Software и MachineGames объединяют усилия ради будущего",
   "Восемь причин вернуться в легенду",
-  "Преврати любой шутер в тир из игровых автоматов"
+  "Преврати любой шутер в тир из игровых автоматов",
+  "Retro-хоррор Silver Pines объединяет выживание и Metroidvania"
  ],
  "queue": [
   {
@@ -486,6 +488,12 @@
    "post": "<b>Преврати любой шутер в тир из игровых автоматов</b>\n\nУстройство под названием Arkade переносит классический опыт аркадных световых пистолетов на современные ПК-шутеры. Гаджет крепится к рукам и позволяет целиться в монитор напрямую, добавляя динамики привычным матчам.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://assets-prd.ignimgs.com/2026/10/31/arkade-gaming-gun-motion-controls-for-any-pc-mac-shooter-mp4-00-00-01-35-still001-1793430116389.jpg?width=1280&format=jpg&auto=webp&quality=80",
    "ts": "2026-10-31T09:45:35.913289+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Retro-хоррор Silver Pines объединяет выживание и Metroidvania</b>\n\nНовый проект Wych Elm Games мастерски воссоздает атмосферу классических ужастиков, добавляя в жанр элементы метроидвании и исследование небольшого городка. Правда, автору Eurogamer не хватило современных поблажек вроде удобных сохранений.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/silver-pines-header_pnoviPY.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-10-31T10:30:57.981448+00:00",
    "tries": 0
   }
  ],
