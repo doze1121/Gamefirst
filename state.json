@@ -453,10 +453,16 @@
   "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-406",
   "8fc9e9d0-037b-4530-9716-2cee01d6bceb",
   "https://www.pushsquare.com/#article-208370",
-  "https://www.eurogamer.net/silver-pines-now-playing"
+  "https://www.eurogamer.net/silver-pines-now-playing",
+  "eQAA7Siq9SF6o42qFVb8nC",
+  "Pc9uDW2RVQ9xdywBaRYUCZ",
+  "https://www.eurogamer.net/elder-scrolls-6-reportedly-revealed-november",
+  "https://www.rockpapershotgun.com/there-are-no-more-assassins-creed-remakes-in-development-because-ubisoft-are-focused-on-hexe-invictus-and-projects-you-havent-heard-about-yet",
+  "https://www.rockpapershotgun.com/baldurs-gate-3-custom-campaign-mod-channels-world-of-warcraft-with-an-adventure-about-undead-former-slaves-fighting-to-reclaim-a-kingdom",
+  "https://www.pushsquare.com/#article-208369",
+  "https://www.nintendolife.com/#article-208381"
  ],
  "titles": [
-  "Yacht Club Games уходит в 3D",
   "Нейросети захватывают Roblox",
   "Soulframe станет доступна всем желающим",
   "Soulframe откроет двери для всех",
@@ -475,7 +481,8 @@
   "id Software и MachineGames объединяют усилия ради будущего",
   "Восемь причин вернуться в легенду",
   "Преврати любой шутер в тир из игровых автоматов",
-  "Retro-хоррор Silver Pines объединяет выживание и Metroidvania"
+  "Retro-хоррор Silver Pines объединяет выживание и Metroidvania",
+  "Планы на жуткий уик-энд: во что играем?"
  ],
  "queue": [
   {
@@ -488,6 +495,12 @@
    "post": "<b>Retro-хоррор Silver Pines объединяет выживание и Metroidvania</b>\n\nНовый проект Wych Elm Games мастерски воссоздает атмосферу классических ужастиков, добавляя в жанр элементы метроидвании и исследование небольшого городка. Правда, автору Eurogamer не хватило современных поблажек вроде удобных сохранений.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/silver-pines-header_pnoviPY.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-10-31T10:30:57.981448+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Планы на жуткий уик-энд: во что играем?</b>\n\nХеллоуинские выходные подоспели вовремя, а октябрьский поток новостей и не думает утихать. Пока одни обсуждают свежий Indie World Showcase и пополнения в каталоге NSO, другие кусают локти из-за переноса The Duskbloods на 2027 год. А во что планируете залипнуть вы?\n\n#новости #Nintendo\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/9871a188a1d5d/1280x720.jpg",
+   "ts": "2026-10-31T11:15:41.422616+00:00",
    "tries": 0
   }
  ],
