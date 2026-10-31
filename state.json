@@ -510,10 +510,13 @@
   "https://www.nintendolife.com/#article-208413",
   "https://news.xbox.com/en-us/?p=227713",
   "JLrurPBSonfEwm4mGnUVb5",
-  "0412dc09-a567-405a-85ce-a20c821ac277"
+  "0412dc09-a567-405a-85ce-a20c821ac277",
+  "iBAx53Jteg4JKVweckDFmm",
+  "https://www.eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever",
+  "https://www.nintendolife.com/#article-208416",
+  "LS3Hbeaea5AveDoNXQUsFd"
  ],
  "titles": [
-  "Silver Palace выходит уже в середине декабря",
   "Evercold принесет холод в Final Fantasy XIV Online в 2027 году",
   "Новый проект от RGG Studio выжимает все соки из текущего поколения",
   "Фантомный картридж: что происходит с физическим релизом Mina The Hollower",
@@ -532,7 +535,8 @@
   "Песок меняется на снег: для Dune: Awakening готовят масштабное DLC",
   "Как выжить в Arc Raiders с помощью политологии",
   "Спасительный глоток свежего воздуха для авторов Shovel Knight",
-  "Halloween-сюрприз от HBO"
+  "Halloween-сюрприз от HBO",
+  "Celeste и TowerFall пропали из магазинов Xbox ради благого дела"
  ],
  "queue": [
   {
@@ -545,6 +549,12 @@
    "post": "<b>Halloween-сюрприз от HBO</b>\n\nСтриминг решил неожиданно порадовать подписчиков и выпустил секретный эпизод сериала It: Welcome to Derry прямо к празднику. Создатели решили устроить зрителям настоящий скример и опубликовали серию без предварительных анонсов.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://assets-prd.ignimgs.com/2025/10/21/it-welcometoderry-blogroll-1761090549798.jpg?width=1280&format=jpg&auto=webp&quality=80",
    "ts": "2026-10-31T18:41:02.560654+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Celeste и TowerFall пропали из магазинов Xbox ради благого дела</b>\n\nРазработчик Maddy Thorson подтвердила, что игры убрали из цифрового каталога Microsoft. Этот шаг стал частью поддержки бойкота BDS, затрагивающего связанные с Израилем компании.\n\n#индустрия #Xbox\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/PUEtmTeJPKib37LmemrwyA-1000-80.jpeg",
+   "ts": "2026-10-31T19:30:49.201750+00:00",
    "tries": 0
   }
  ],
