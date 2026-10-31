@@ -460,10 +460,11 @@
   "https://www.rockpapershotgun.com/there-are-no-more-assassins-creed-remakes-in-development-because-ubisoft-are-focused-on-hexe-invictus-and-projects-you-havent-heard-about-yet",
   "https://www.rockpapershotgun.com/baldurs-gate-3-custom-campaign-mod-channels-world-of-warcraft-with-an-adventure-about-undead-former-slaves-fighting-to-reclaim-a-kingdom",
   "https://www.pushsquare.com/#article-208369",
-  "https://www.nintendolife.com/#article-208381"
+  "https://www.nintendolife.com/#article-208381",
+  "https://www.eurogamer.net/mouthwashing-movie-rights-sony-director",
+  "https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics"
  ],
  "titles": [
-  "Нейросети захватывают Roblox",
   "Soulframe станет доступна всем желающим",
   "Soulframe откроет двери для всех",
   "Идеальный OLED для ПК и консолей подешевел вдвое",
@@ -482,7 +483,8 @@
   "Восемь причин вернуться в легенду",
   "Преврати любой шутер в тир из игровых автоматов",
   "Retro-хоррор Silver Pines объединяет выживание и Metroidvania",
-  "Планы на жуткий уик-энд: во что играем?"
+  "Планы на жуткий уик-энд: во что играем?",
+  "Карточный рогалик с элементами хоррора доказывает силу атмосферы"
  ],
  "queue": [
   {
@@ -495,6 +497,12 @@
    "post": "<b>Планы на жуткий уик-энд: во что играем?</b>\n\nХеллоуинские выходные подоспели вовремя, а октябрьский поток новостей и не думает утихать. Пока одни обсуждают свежий Indie World Showcase и пополнения в каталоге NSO, другие кусают локти из-за переноса The Duskbloods на 2027 год. А во что планируете залипнуть вы?\n\n#новости #Nintendo\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/9871a188a1d5d/1280x720.jpg",
    "ts": "2026-10-31T11:15:41.422616+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Карточный рогалик с элементами хоррора доказывает силу атмосферы</b>\n\nИгра Forbidden Solitaire превращает обычную раскладку пасьянса в мрачное исследование подземелий с монстрами. Проект отлично показывает, как сильный сеттинг и стиль могут вытянуть даже устаревшую игровую механику на новый уровень.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/forbidden-solitaire-investigate-the-heart.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-10-31T12:01:04.890086+00:00",
    "tries": 0
   }
  ],
