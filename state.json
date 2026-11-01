@@ -525,10 +525,10 @@
   "XnaPPu9BzDisK3eMn4jGc6",
   "https://www.nintendolife.com/#article-208432",
   "https://www.nintendolife.com/#article-208434",
-  "https://www.nintendolife.com/#article-208433"
+  "https://www.nintendolife.com/#article-208433",
+  "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo"
  ],
  "titles": [
-  "Игровой штиль перед бурей: что выходит на PS5 на первой неделе ноября",
   "Создателям фанатского ремейка Skyblivion грозят судом",
   "Куда все пропали? В Red Barrels удивляются отсутствию конкурентов в жанре хорроров",
   "В календаре Nintendo появился новый праздник",
@@ -547,7 +547,8 @@
   "Еще один удар по Forza Motorsport",
   "Nintendo объявила неожиданный праздник серии Pikmin",
   "Кулинарный кошмар для Мегамена: Capcom представила нового робота",
-  "Праздник цвета и стратегического хаоса: Nintendo готовит особый стрим по Pikmin 4"
+  "Праздник цвета и стратегического хаоса: Nintendo готовит особый стрим по Pikmin 4",
+  "Новая высадка на Switch 2"
  ],
  "queue": [
   {
@@ -560,6 +561,12 @@
    "post": "<b>Праздник цвета и стратегического хаоса: Nintendo готовит особый стрим по Pikmin 4</b>\n\nВ честь Дня Pikmin компания проведет специальный выпуск Nintendo Treehouse. Зрителям покажут расширенное издание Pikmin 4 для Switch 2 и расскажут подробности об академии Дандори.\n\n#Nintendo #анонс\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/012d5ee2915fd/1280x720.jpg",
    "ts": "2026-11-01T09:45:37.268218+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Новая высадка на Switch 2</b>\n\nNintendo выкатит расширенную версию Pikmin 4 для своей новой консоли уже 12 ноября. Порт предложит свежий режим Dandori Academy, а оценить новинку можно будет со дня на день благодаря демоверсии.\n\n#релиз #Nintendo\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-21.28.07.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-01T11:15:34.571955+00:00",
    "tries": 0
   }
  ],
