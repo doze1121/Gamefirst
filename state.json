@@ -547,10 +547,12 @@
   "J5jYMmNsDG79Am5rLcg7PF",
   "https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover",
   "https://www.pushsquare.com/#article-208316",
-  "FqbkKXEJdsbE49xwJ2Kd4d"
+  "FqbkKXEJdsbE49xwJ2Kd4d",
+  "76fd5527-9e8f-4cd3-9ae4-be682a9e5aef",
+  "fb2dada7-596a-473d-ac6a-8a778bcd0cec",
+  "https://www.rockpapershotgun.com/what-remains-of-canned-portal-prequel-white-whale-f-stop-is-now-fully-playable-thanks-to-modders-and-some-big-leaks"
  ],
  "titles": [
-  "Песок меняется на снег: для Dune: Awakening готовят масштабное DLC",
   "Как выжить в Arc Raiders с помощью политологии",
   "Спасительный глоток свежего воздуха для авторов Shovel Knight",
   "Halloween-сюрприз от HBO",
@@ -569,7 +571,8 @@
   "miHoYo заглянет в будущее Nintendo",
   "Божественный десерт: в Honkai: Star Rail появится сам Aha",
   "Как Pigstep изменил музыку в Minecraft",
-  "Официальное приключение для фанатов RuneScape"
+  "Официальное приключение для фанатов RuneScape",
+  "Святой Грааль отмененных приквелов Portal наконец-то стал доступен игрокам"
  ],
  "queue": [
   {
@@ -582,6 +585,12 @@
    "post": "<b>Официальное приключение для фанатов RuneScape</b>\n\nПопулярная кликер-игра Melvor Idle 2 получила официальный подзаголовок A RuneScape Adventure. Создатели оригинальной MMORPG объединились с разработчиками сиквела, превратив инди-проект в официальный спин-офф во вселенной Gielinor.\n\n#анонс #индустрия\n\n🎮 Первый игровой",
    "image": "https://cdn.mos.cms.futurecdn.net/zwesSkcLZ5MbbfzKLKK7xP-1280-80.jpg",
    "ts": "2026-11-01T18:45:35.492237+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Святой Грааль отмененных приквелов Portal наконец-то стал доступен игрокам</b>\n\nЛегендарная невышедшая игра F-Stop, чья концепция перспективы легла в основу Superliminal, обрела вторую жизнь. Энтузиасты объединили утекшие в сеть исходники и материалы, сделав проект полностью играбельным.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/fstop_3YhkRv1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-01T20:15:36.952561+00:00",
    "tries": 0
   }
  ],
