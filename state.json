@@ -527,10 +527,14 @@
   "https://www.nintendolife.com/#article-208434",
   "https://www.nintendolife.com/#article-208433",
   "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
-  "https://www.gematsu.com/?p=1087027"
+  "https://www.gematsu.com/?p=1087027",
+  "1dbab4d4-40d2-4b85-87ac-c202e87a89ed",
+  "RUHMFZyNwGPnzE8iR9w7Sf",
+  "https://www.eurogamer.net/silent-hill-townfall-hard-mode-update",
+  "https://www.eurogamer.net/dune-awakening-blood-and-ice-free-expansion",
+  "https://www.pushsquare.com/#article-208436"
  ],
  "titles": [
-  "Куда все пропали? В Red Barrels удивляются отсутствию конкурентов в жанре хорроров",
   "В календаре Nintendo появился новый праздник",
   "Отмененная игра по Paranormal Activity превратилась в бесплатный хоррор",
   "Песок меняется на снег: для Dune: Awakening готовят масштабное DLC",
@@ -549,7 +553,8 @@
   "Кулинарный кошмар для Мегамена: Capcom представила нового робота",
   "Праздник цвета и стратегического хаоса: Nintendo готовит особый стрим по Pikmin 4",
   "Новая высадка на Switch 2",
-  "miHoYo заглянет в будущее Nintendo"
+  "miHoYo заглянет в будущее Nintendo",
+  "Божественный десерт: в Honkai: Star Rail появится сам Aha"
  ],
  "queue": [
   {
@@ -562,6 +567,12 @@
    "post": "<b>miHoYo заглянет в будущее Nintendo</b>\n\nАвторы Genshin Impact готовятся к релизу своей новой космической симуляции жизни Petit Planet. Игра в жанре free-to-play заглянет не куда-нибудь, а сразу на пока еще таинственную консоль Switch 2 в 2027 году.\n\n#Nintendo #анонс\n\n🎮 Первый игровой",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Petit-Planet_2026_11-01-26_005.jpg",
    "ts": "2026-11-01T12:45:35.573204+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Божественный десерт: в Honkai: Star Rail появится сам Aha</b>\n\nВ масштабном обновлении v4.7 для Honkai: Star Rail на PS5 игроков ждет прибытие 5-звездочной Аэон Aha. Этот могущественный персонаж принесет мощные баффы для героев пути Elation и поможет в управлении собственной лавкой сладостей.\n\n#релиз #PlayStation\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/95b930e626667/1280x720.jpg",
+   "ts": "2026-11-01T14:00:58.226727+00:00",
    "tries": 0
   }
  ],
