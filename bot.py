@@ -23,7 +23,7 @@ FEEDS = [
     # ("IGN Video", "https://www.youtube.com/feeds/videos.xml?channel_id=ID_КАНАЛА"),
 ]
 
-POST_INTERVAL_MIN = int(os.getenv("POST_INTERVAL_MIN", "45"))  # пауза между постами
+POST_INTERVAL_MIN = int(os.getenv("POST_INTERVAL_MIN", "90"))  # пауза между постами
 MAX_QUEUE = int(os.getenv("MAX_QUEUE", "3"))                   # сколько постов держим в очереди
 MAX_LLM_CALLS = int(os.getenv("MAX_LLM_CALLS", "8"))           # лимит обращений к ИИ за запуск
 MAX_AGE_HOURS = int(os.getenv("MAX_AGE_HOURS", "24"))          # новости старше не берём
@@ -387,7 +387,52 @@ def publish_due(state, now):
         if item["tries"] >= 3:
             state["queue"].pop(0)  # не блокируем очередь из-за проблемного поста
 
+QUIET_START = os.getenv("QUIET_START", "23:30")  # начало тихих часов, по Москве
+QUIET_END = os.getenv("QUIET_END", "08:00")      # конец тихих часов, по Москве
+QUEUE_MAX_AGE_HOURS = max(QUEUE_MAX_AGE_HOURS, 16)  # ночью посты ждут дольше
 
+
+def to_minutes(hhmm):
+    h, m = hhmm.split(":")
+    return int(h) * 60 + int(m)
+
+
+def in_quiet_hours(now):
+    """True, если сейчас (по Москве) идут тихие часы."""
+    local = now.astimezone(MSK)
+    cur = local.hour * 60 + local.minute
+    a, b = to_minutes(QUIET_START), to_minutes(QUIET_END)
+    if a == b:
+        return False
+    return (a <= cur < b) if a < b else (cur >= a or cur < b)
+
+
+def publish_due(state, now):
+    """Публикует один пост из очереди: не в тихие часы и не чаще заданной паузы."""
+    if not state["queue"]:
+        print("Очередь пуста")
+        return
+    if in_quiet_hours(now):
+        print("Тихие часы, публикация отложена. В очереди:", len(state["queue"]))
+        return
+    last = state.get("last_post")
+    need = timedelta(minutes=max(POST_INTERVAL_MIN - 5, 0))
+    if last and now - datetime.fromisoformat(last) < need:
+        print("Ещё рано публиковать, в очереди:", len(state["queue"]))
+        return
+    item = state["queue"][0]
+    if send_post(item["post"], item["image"]):
+        state["queue"].pop(0)
+        state["last_post"] = now.isoformat()
+        if not item.get("digest"):
+            title, body = post_parts(item["post"])
+            state["published"].append({"ts": now.isoformat(), "title": title, "body": body})
+        print("Опубликован пост, осталось в очереди:", len(state["queue"]))
+    else:
+        item["tries"] = item.get("tries", 0) + 1
+        if item["tries"] >= 3:
+            state["queue"].pop(0)  # не блокируем очередь из-за проблемного поста
+            
 def main():
     state = load_state()
     now = datetime.now(timezone.utc)
