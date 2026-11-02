@@ -590,10 +590,10 @@
   "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
   "https://www.rockpapershotgun.com/final-fantasy-14-evercold-sets-itself-a-release-date-at-the-tail-end-of-winter-alongside-offering-a-look-at-its-second-avian-inclined-new-job",
   "https://www.rockpapershotgun.com/it-looks-like-footage-of-a-persona-1-remake-has-leaked-and-if-its-legit-i-really-hope-you-dont-hate-the-colour-purple",
-  "https://www.eurogamer.net/borderlands-100-million-copies-gearbox"
+  "https://www.eurogamer.net/borderlands-100-million-copies-gearbox",
+  "https://www.rockpapershotgun.com/you-can-make-a-vampire-hunter-whos-afraid-of-the-dark-disease-and-small-spaces-in-hunter-the-reckoning-deathwish-and-thats-surely-the-best-way-to-play"
  ],
  "titles": [
-  "Еще один удар по Forza Motorsport",
   "Nintendo объявила неожиданный праздник серии Pikmin",
   "Кулинарный кошмар для Мегамена: Capcom представила нового робота",
   "Праздник цвета и стратегического хаоса: Nintendo готовит особый стрим по Pikmin 4",
@@ -612,7 +612,8 @@
   "БДСМ-ангелы и самоистязание: в Monster Train 2 появится безумная фракция",
   "Долгая дорога на неизвестные острова",
   "Нити судьбы в новом 3D-приключении",
-  "Borderlands берет историческую высоту"
+  "Borderlands берет историческую высоту",
+  "Худший охотник на вампиров в истории RPG"
  ],
  "queue": [
   {
@@ -625,6 +626,12 @@
    "post": "<b>Borderlands берет историческую высоту</b>\n\nТираж знаменитой лутер-шутер серии от Gearbox Software перевалил за 100 миллионов проданных копий. На волне такого успеха авторы пообещали фанатам мощную поддержку и много нового контента для Borderlands 4 в следующем году.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/borderlands-4-claptrap-holding-trash-on-coastal-bonescape-beach.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-02T18:45:36.682251+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Худший охотник на вампиров в истории RPG</b>\n\nВ ролевой игре Hunter: The Reckoning – Deathwish можно создать крайне уязвимого борца с нечистью — например, панически боящегося темноты, микробов или замкнутых пространств. Авторы показали систему преимуществ и недостатков, через которую придется пропустить героя перед стартом.\n\n#новости #трейлер\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/the-reckoning-deathwish.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-02T20:15:40.701974+00:00",
    "tries": 0
   }
  ],
