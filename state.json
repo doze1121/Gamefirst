@@ -565,10 +565,11 @@
   "https://www.eurogamer.net/phantom-blade-zero-4-million-copies-steam-biggest-launch",
   "https://www.rockpapershotgun.com/the-sunday-papers-834",
   "https://www.nintendolife.com/#article-208376",
-  "https://www.pushsquare.com/#article-208447"
+  "https://www.pushsquare.com/#article-208447",
+  "e001e8fb-ebc7-44e8-9c40-a365a019fbb4",
+  "https://www.rockpapershotgun.com/delve-into-a-deep-underground-facility-full-of-secrets-and-horrors-in-the-latest-fallout-4-quest-mod-from-the-commonwealth-story-expansion-project"
  ],
  "titles": [
-  "Final Fantasy 14: Evercold задержится до февраля",
   "Главная библиотека фанфиков AO3 упала на месяц из-за хакеров",
   "Тьма сгущается: FromSoftware отключила мультиплеер Dark Souls 2 и 3",
   "Авторы Days Gone готовят сюрприз для PS5",
@@ -587,7 +588,8 @@
   "HoYoverse метит в сиквел консоли от Nintendo",
   "Дэйв Батиста превращается в Бога Войны",
   "Phantom Blade Zero разрывает Steam",
-  "Конец эпохи для отца Yakuza"
+  "Конец эпохи для отца Yakuza",
+  "Мрачные тайны Glowing Sea: для Fallout 4 вышел масштабный квестинг-мод"
  ],
  "queue": [
   {
@@ -600,6 +602,12 @@
    "post": "<b>Конец эпохи для отца Yakuza</b>\n\nНовая студия Nagoshi Studio и ее криминальный экшен Gang of Dragon официально ушли в историю. NetEase свернула финансирование еще весной, а теперь разработчики окончательно закрылись, так и не выпустив игру для PS5.\n\n#индустрия #PlayStation\n\n🎮 Первый игровой",
    "image": "https://images.pushsquare.com/1ba35757fffea/1280x720.jpg",
    "ts": "2026-11-02T11:15:34.796970+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Мрачные тайны Glowing Sea: для Fallout 4 вышел масштабный квестинг-мод</b>\n\nКоманда Commonwealth Story Expansion Project выпустила новое сюжетное дополнение для Fallout 4. Моддереры добавили в игру глубокое подземелье с секретами и ужасами, спрятанное в таинственном бункере на территории Glowing Sea.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/fallout-4-quest-mod-under-the-stars-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-02T12:45:40.019676+00:00",
    "tries": 0
   }
  ],
