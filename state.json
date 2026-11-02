@@ -561,10 +561,10 @@
   "https://www.pushsquare.com/#article-208431",
   "BTcJPWzkes3swYwUb7spSC",
   "https://www.nintendolife.com/#article-208441",
-  "de509aec-c32c-467e-8591-c8174cbbfb0c"
+  "de509aec-c32c-467e-8591-c8174cbbfb0c",
+  "https://www.eurogamer.net/phantom-blade-zero-4-million-copies-steam-biggest-launch"
  ],
  "titles": [
-  "Celeste и TowerFall пропали из магазинов Xbox ради благого дела",
   "Неувядающий энтузиазм Джо Манганьелло",
   "Final Fantasy 14: Evercold задержится до февраля",
   "Главная библиотека фанфиков AO3 упала на месяц из-за хакеров",
@@ -583,7 +583,8 @@
   "Святой Грааль отмененных приквелов Portal наконец-то стал доступен игрокам",
   "Легендарная настолка HeroQuest готовится покорить Steam",
   "HoYoverse метит в сиквел консоли от Nintendo",
-  "Дэйв Батиста превращается в Бога Войны"
+  "Дэйв Батиста превращается в Бога Войны",
+  "Phantom Blade Zero разрывает Steam"
  ],
  "queue": [
   {
@@ -596,6 +597,12 @@
    "post": "<b>Дэйв Батиста превращается в Бога Войны</b>\n\nБывший рестлер и актер рассказал, что набрал почти 10 килограммов чистых мышц ради роли Кратоса. Похоже, слухи об экранизации God of War наконец-то получают реальное подтверждение.\n\n#индустрия #PlayStation\n\n🎮 Первый игровой",
    "image": "https://assets-prd.ignimgs.com/2026/08/03/dave-bautista-1785790032895.jpg?width=1280&format=jpg&auto=webp&quality=80",
    "ts": "2026-11-02T08:15:35.624025+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Phantom Blade Zero разрывает Steam</b>\n\nСтудия S-Game поделилась первыми успехами своего дебютного экшена: всего за 72 часа после релиза тираж игры перешагнул отметку в 4 миллиона копий. Такой мощный старт делает проект самым успешным запуском года в магазине Valve на данный момент.\n\n#релиз #индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Phantom-Blade-Zero-review-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-02T09:45:34.816241+00:00",
    "tries": 0
   }
  ],
