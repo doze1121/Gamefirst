@@ -562,10 +562,12 @@
   "BTcJPWzkes3swYwUb7spSC",
   "https://www.nintendolife.com/#article-208441",
   "de509aec-c32c-467e-8591-c8174cbbfb0c",
-  "https://www.eurogamer.net/phantom-blade-zero-4-million-copies-steam-biggest-launch"
+  "https://www.eurogamer.net/phantom-blade-zero-4-million-copies-steam-biggest-launch",
+  "https://www.rockpapershotgun.com/the-sunday-papers-834",
+  "https://www.nintendolife.com/#article-208376",
+  "https://www.pushsquare.com/#article-208447"
  ],
  "titles": [
-  "Неувядающий энтузиазм Джо Манганьелло",
   "Final Fantasy 14: Evercold задержится до февраля",
   "Главная библиотека фанфиков AO3 упала на месяц из-за хакеров",
   "Тьма сгущается: FromSoftware отключила мультиплеер Dark Souls 2 и 3",
@@ -584,7 +586,8 @@
   "Легендарная настолка HeroQuest готовится покорить Steam",
   "HoYoverse метит в сиквел консоли от Nintendo",
   "Дэйв Батиста превращается в Бога Войны",
-  "Phantom Blade Zero разрывает Steam"
+  "Phantom Blade Zero разрывает Steam",
+  "Конец эпохи для отца Yakuza"
  ],
  "queue": [
   {
@@ -597,6 +600,12 @@
    "post": "<b>Phantom Blade Zero разрывает Steam</b>\n\nСтудия S-Game поделилась первыми успехами своего дебютного экшена: всего за 72 часа после релиза тираж игры перешагнул отметку в 4 миллиона копий. Такой мощный старт делает проект самым успешным запуском года в магазине Valve на данный момент.\n\n#релиз #индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/Phantom-Blade-Zero-review-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-02T09:45:34.816241+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Конец эпохи для отца Yakuza</b>\n\nНовая студия Nagoshi Studio и ее криминальный экшен Gang of Dragon официально ушли в историю. NetEase свернула финансирование еще весной, а теперь разработчики окончательно закрылись, так и не выпустив игру для PS5.\n\n#индустрия #PlayStation\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/1ba35757fffea/1280x720.jpg",
+   "ts": "2026-11-02T11:15:34.796970+00:00",
    "tries": 0
   }
  ],
