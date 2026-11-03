@@ -455,6 +455,102 @@ def synthesize(script, work):
     audio = os.path.join(work, "audio.wav")
     run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-c", "copy", audio])
     return audio, parts
+
+GEMINI_VOICE = os.getenv("GEMINI_VOICE", "Charon")  # мужские голоса: Charon, Fenrir, Orus, Puck
+_gemini_tts = None
+
+
+def gemini_tts_model():
+    """Находит модель Gemini, которая умеет озвучивать текст."""
+    global _gemini_tts
+    if _gemini_tts:
+        return _gemini_tts
+    if os.getenv("GEMINI_TTS_MODEL"):
+        _gemini_tts = os.environ["GEMINI_TTS_MODEL"]
+        return _gemini_tts
+    r = requests.get("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200",
+                     headers={"x-goog-api-key": bot.GEMINI_KEY}, timeout=30)
+    r.raise_for_status()
+    names = [m["name"].replace("models/", "") for m in r.json().get("models", [])
+             if "tts" in m["name"] and "generateContent" in m.get("supportedGenerationMethods", [])]
+    print("Модели озвучки Gemini:", ", ".join(names) or "нет")
+    if not names:
+        raise RuntimeError("для вашего ключа нет моделей озвучки Gemini")
+    flash = [n for n in names if "flash" in n] or names
+    _gemini_tts = sorted(flash)[-1]
+    print("Голос Gemini через модель:", _gemini_tts)
+    return _gemini_tts
+
+
+def gemini_say(text, path):
+    """Озвучка Gemini: живой голос, весь текст одним запросом (бережёт лимиты)."""
+    import base64
+    import wave
+
+    prompt = ("Read the following Russian text aloud as an energetic, confident male host "
+              "of a gaming news channel, with natural intonation and a brisk pace:\n\n" + text)
+    r = requests.post(
+        f"https://generativelanguage.googleapis.com/v1beta/models/{gemini_tts_model()}:generateContent",
+        headers={"x-goog-api-key": bot.GEMINI_KEY},
+        json={
+            "contents": [{"parts": [{"text": prompt}]}],
+            "generationConfig": {
+                "responseModalities": ["AUDIO"],
+                "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": GEMINI_VOICE}}},
+            },
+        },
+        timeout=180,
+    )
+    if not r.ok:
+        raise RuntimeError(f"Gemini TTS {r.status_code}: {r.text[:300]}")
+    data = None
+    for part in r.json()["candidates"][0]["content"]["parts"]:
+        if "inlineData" in part:
+            data = base64.b64decode(part["inlineData"]["data"])
+            break
+    if not data:
+        raise RuntimeError("Gemini не вернул звук")
+    with wave.open(path, "wb") as wf:  # Gemini отдаёт 16-бит PCM, 24 кГц, моно
+        wf.setnchannels(1)
+        wf.setsampwidth(2)
+        wf.setframerate(24000)
+        wf.writeframes(data)
+
+
+def synthesize(script, work):
+    """Сначала живой голос Gemini, если не вышло — Microsoft, в крайнем случае Piper."""
+    if bot.GEMINI_KEY and os.getenv("VIDEO_TTS", "gemini") == "gemini":
+        try:
+            raw = os.path.join(work, "gemini_raw.wav")
+            gemini_say(script.replace("«", "").replace("»", ""), raw)
+            audio = os.path.join(work, "audio.wav")
+            run(["ffmpeg", "-y", "-v", "error", "-i", raw,
+                 "-af", "silenceremove=start_periods=1:start_threshold=-50dB,apad=pad_dur=0.3",
+                 "-ar", "44100", "-ac", "1", audio])
+            total = duration(audio)
+            sents = sentences(script)
+            chars = sum(len(s) for s in sents) or 1
+            parts = [(s, total * len(s) / chars) for s in sents]  # субтитры по длине фраз
+            print("Озвучено голосом Gemini")
+            return audio, parts
+        except Exception as ex:
+            print("Голос Gemini не сработал, пробую Microsoft:", ex)
+    try:
+        parts, wavs = speak_all(script, work, "edge")
+        print("Озвучено голосом Microsoft")
+    except Exception as ex:
+        print("Голос Microsoft не сработал, включаю запасной голос Piper:", ex)
+        try:
+            parts, wavs = speak_all(script, work, "piper")
+            print("Озвучено запасным голосом Piper")
+        except Exception as ex2:
+            raise RuntimeError(f"Озвучка не удалась. Microsoft: {ex}. Piper: {ex2}")
+    lst = os.path.join(work, "audio.txt")
+    with open(lst, "w") as f:
+        f.writelines(f"file '{os.path.abspath(w)}'\n" for w in wavs)
+    audio = os.path.join(work, "audio.wav")
+    run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-c", "copy", audio])
+    return audio, parts
     
 # ====== СБОРКА ======
 def ensure_ffmpeg():
