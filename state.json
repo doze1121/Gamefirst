@@ -602,10 +602,10 @@
   "https://www.pushsquare.com/#article-208440",
   "https://www.nintendolife.com/#article-208500",
   "https://www.nintendolife.com/#article-208502",
-  "https://www.nintendolife.com/#article-208501"
+  "https://www.nintendolife.com/#article-208501",
+  "https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027"
  ],
  "titles": [
-  "Новая высадка на Switch 2",
   "miHoYo заглянет в будущее Nintendo",
   "Божественный десерт: в Honkai: Star Rail появится сам Aha",
   "Как Pigstep изменил музыку в Minecraft",
@@ -624,7 +624,8 @@
   "Худший охотник на вампиров в истории RPG",
   "Walmart заглаживает вину перед фанатами Nintendo",
   "Ностальгия по N64 для британских фанатов",
-  "Ева добралась до гибрида: обзоры порта Stellar Blade на Switch 2"
+  "Ева добралась до гибрида: обзоры порта Stellar Blade на Switch 2",
+  "Блицкриг от Bend Studio: ждать игру придется до 2027 года"
  ],
  "queue": [
   {
@@ -637,6 +638,12 @@
    "post": "<b>Ева добралась до гибрида: обзоры порта Stellar Blade на Switch 2</b>\n\nЭкшен от Shift Up успешно приземлился на новую консоль Nintendo. Критики отмечают, что несмотря на неизбежные технические компромиссы, футуристическое приключение отлично чувствует себя в портативе.\n\n#новости #Nintendo\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/b5734a47a18ea/1280x720.jpg",
    "ts": "2026-11-03T08:15:37.434077+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Блицкриг от Bend Studio: ждать игру придется до 2027 года</b>\n\nПо слухам, Sony готовит громкое возвращение команды Bend Studio, подарившей нам Days Gone. Новый секретный эксклюзив планируют одновременно анонсировать и выпустить в 2027 году.\n\n#PlayStation #анонс\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/The-main-character-from-Days-Gone-holding-a-large-gun-in-his-hands.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-03T09:45:39.697868+00:00",
    "tries": 0
   }
  ],
