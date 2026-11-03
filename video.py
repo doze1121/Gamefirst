@@ -662,6 +662,256 @@ def main():
     if not sent:
         raise RuntimeError("ролик собран, но не отправлен в Telegram (нажмите Start у бота канала)")
 
+# ====== ВИДЕО ИГРЫ (дополнение) ======
+USE_STEAM_VIDEO = os.getenv("VIDEO_STEAM", "1") == "1"  # брать видео игры из Steam
+
+
+STEAM_HEADERS = {"User-Agent": "Mozilla/5.0", "Accept-Language": "en"}
+
+
+def steam_find(game):
+    """Ищет игру в Steam и проверяет, что название действительно совпадает."""
+    import difflib
+
+    if not game:
+        return None
+    r = requests.get("https://store.steampowered.com/api/storesearch/",
+                     params={"term": game, "l": "english", "cc": "US"}, headers=STEAM_HEADERS, timeout=20)
+    r.raise_for_status()
+    best, score = None, 0.0
+    norm = lambda t: re.sub(r"[^a-z0-9 ]", "", t.lower())
+    for it in r.json().get("items", [])[:10]:
+        sc = difflib.SequenceMatcher(None, norm(game), norm(it.get("name", ""))).ratio()
+        if norm(game) and norm(game) in norm(it.get("name", "")):
+            sc = max(sc, 0.8)
+        if sc > score:
+            best, score = it, sc
+    if best and score >= 0.7:
+        print(f"Steam: {best['name']} (совпадение {score:.2f})")
+        return best["id"]
+    print("Steam: игра не найдена для", game)
+    return None
+
+
+def steam_media(appid):
+    r = requests.get("https://store.steampowered.com/api/appdetails",
+                     params={"appids": appid, "cc": "US", "l": "english"}, headers=STEAM_HEADERS, timeout=20)
+    r.raise_for_status()
+    data = (r.json().get(str(appid)) or {}).get("data") or {}
+    trailers = []
+    for m in data.get("movies", []):
+        url = m.get("hls_h264") or (m.get("mp4") or {}).get("max") or (m.get("mp4") or {}).get("480")
+        if url:
+            trailers.append(url)
+    shots = [s.get("path_full") for s in data.get("screenshots", []) if s.get("path_full")]
+    return trailers, shots
+
+
+def clip_from_trailer(url, need, out):
+    """Берёт кусок трейлера без звука, пропуская логотипы в начале."""
+    for start in (8, 0):
+        cmd = ["ffmpeg", "-y", "-v", "error", "-ss", str(start), "-i", url, "-t", f"{need:.1f}",
+               "-map", "0:v:0", "-vf", "scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720,fps=30,setsar=1",
+               "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-an", out]
+        try:
+            run(cmd)
+            if duration(out) >= min(need, 8):
+                return True
+        except Exception as ex:
+            print("Трейлер не скачался:", str(ex)[:200])
+    return False
+
+
+def clip_from_screens(shots, need, work, out):
+    """Слайд-шоу из скриншотов игры с плавным приближением."""
+    shots = shots[:6]
+    if len(shots) < 2:
+        return False
+    per = max(need / len(shots), 3.0)
+    frames = int(per * FPS)
+    parts = []
+    for i, url in enumerate(shots):
+        img = load_image(url)
+        if not img:
+            continue
+        src = os.path.join(work, f"shot{i}.jpg")
+        cover(img, 2560, 1440).save(src, quality=92)
+        seg = os.path.join(work, f"shot{i}.mp4")
+        z = f"min(1+0.12*on/{frames},1.12)" if i % 2 == 0 else f"max(1.12-0.12*on/{frames},1)"
+        run(["ffmpeg", "-y", "-v", "error", "-i", src, "-vf",
+             f"zoompan=z='{z}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={frames}:s=1280x720:fps={FPS},setsar=1",
+             "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-pix_fmt", "yuv420p", seg])
+        parts.append(seg)
+    if len(parts) < 2:
+        return False
+    lst = os.path.join(work, "shots.txt")
+    with open(lst, "w") as f:
+        f.writelines(f"file '{os.path.abspath(p)}'\n" for p in parts)
+    run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-c", "copy", out])
+    return True
+
+
+def get_game_clip(game, need, work):
+    """Возвращает (путь к видео, False) или (None, False), если видео игры не нашлось."""
+    if not USE_STEAM_VIDEO or not game:
+        return None, False
+    try:
+        appid = steam_find(game)
+        if not appid:
+            return None, False
+        trailers, shots = steam_media(appid)
+        out = os.path.join(work, "clip.mp4")
+        for url in trailers[:2]:
+            if clip_from_trailer(url, need, out):
+                print("Фон: трейлер из Steam")
+                return out, False
+        if clip_from_screens(shots, need, work, out):
+            print("Фон: скриншоты из Steam")
+            return out, False
+    except Exception as ex:
+        print("Steam недоступен:", str(ex)[:200])
+    return None, False
+
+
+def make_overlay(title, channel_handle, path):
+    """Прозрачный слой поверх видео: шапка, рамка, заголовок, подвал."""
+    ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    d = ImageDraw.Draw(ov)
+    x = 40
+    if os.path.exists(LOGO_FILE):
+        logo = Image.open(LOGO_FILE).convert("RGBA").resize((110, 110))
+        ov.paste(logo, (40, 100), rounded_mask((110, 110), 55))
+        x = 170
+    f = font(46)
+    label = CHANNEL_NAME.upper()
+    tw = d.textlength(label, font=f)
+    d.rounded_rectangle((x, 118, x + tw + 56, 192), 37, fill=ACCENT)
+    d.text((x + 28, 155), label, font=f, fill=BG, anchor="lm")
+    date = datetime.now(MSK).strftime("%d.%m.%Y")
+    d.text((W - 40, 155), date, font=font(36, False), fill=(200, 205, 255), anchor="rm")
+    d.rounded_rectangle((IMG_X - 6, IMG_Y - 6, IMG_X + IMG_W + 5, IMG_Y + IMG_H + 5), 12, outline=ACCENT, width=8)
+    fnt, lines = fit_text(d, title, 980, 3, 66, 46)
+    y = IMG_Y + IMG_H + 50
+    lh = int(fnt.size * 1.18)
+    for line in lines:
+        d.text((W // 2, y), line, font=fnt, fill=WHITE, anchor="mt", stroke_width=3, stroke_fill=(10, 10, 30))
+        y += lh
+    d.text((W // 2, 1440), "Больше новостей — в Telegram", font=font(40, False), fill=(225, 228, 255), anchor="mm",
+           stroke_width=2, stroke_fill=(10, 10, 30))
+    d.text((W // 2, 1505), channel_handle or CHANNEL_NAME, font=font(54), fill=ACCENT, anchor="mm",
+           stroke_width=3, stroke_fill=(10, 10, 30))
+    ov.save(path)
+
+
+def render_clip(clip, overlay, subs, audio, total, out):
+    """Видео игры: размытое на весь экран + чёткое в рамке, сверху надписи и субтитры."""
+    graph = (
+        "[0:v]split=2[a][b];"
+        f"[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=25:2,"
+        f"drawbox=x=0:y=0:w={W}:h={H}:color=0x181940@0.62:t=fill[bgv];"
+        f"[b]scale={IMG_W}:{IMG_H}:force_original_aspect_ratio=increase,crop={IMG_W}:{IMG_H},setsar=1[fgv];"
+        f"[bgv][fgv]overlay={IMG_X}:{IMG_Y}[v1];"
+        "[v1][1:v]overlay=0:0[v2];"
+        "[2:v]format=rgba[sub];"
+        f"[v2][sub]overlay=0:{SUB_Y}:eof_action=pass,fps={FPS},format=yuv420p[v]"
+    )
+    run([
+        "ffmpeg", "-y", "-v", "error",
+        "-stream_loop", "-1", "-i", clip,
+        "-loop", "1", "-framerate", str(FPS), "-i", overlay,
+        "-f", "concat", "-safe", "0", "-i", subs,
+        "-i", audio,
+        "-filter_complex", graph,
+        "-map", "[v]", "-map", "3:a",
+        "-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-r", str(FPS),
+        "-c:a", "aac", "-b:a", "160k",
+        "-t", f"{total:.2f}", "-movflags", "+faststart", out,
+    ])
+
+
+def write_script(items):
+    listing = "\n".join(f"{i}. [{it['source']}] {it['title']} — {it['text']}" for i, it in enumerate(items))
+    prompt = f"""Ты сценарист коротких вертикальных видео (YouTube Shorts, Instagram Reels) для игрового канала «{CHANNEL_NAME}».
+Свежие новости:
+{listing}
+
+1) Выбери ОДНУ новость, которая больше всего зацепит русскоязычных геймеров (громкий анонс, дата релиза, скандал, неожиданный поворот). Не выбирай скидки, гайды, подборки, рекламу.
+2) Напиши закадровый текст на русском своими словами: 45-65 слов, 3-5 коротких предложений, разговорный стиль.
+   Первое предложение — цепляющий крючок. Последнее предложение ровно такое: «Больше новостей — в телеграм-канале «{CHANNEL_NAME}».»
+   Названия игр и компаний пиши так, как их произносят по-русски (например, «Гта шесть», «Сони», «Нинтендо»), без латиницы, цифры — словами.
+   Не выдумывай факты, которых нет в новости.
+3) Короткий заголовок для экрана (до 60 символов, можно латиницей для названий игр).
+4) Название для YouTube (до 90 символов, в конце #Shorts), описание (1-2 предложения) и 5-7 хэштегов.
+5) Официальное английское название ОДНОЙ игры, о которой новость (как в Steam). Если новость не про конкретную игру — пустая строка.
+
+Ответь ТОЛЬКО JSON без пояснений:
+{{"index": 0, "screen_title": "...", "script": "...", "yt_title": "...", "description": "...", "hashtags": ["#игры", "..."], "game_en": "..."}}"""
+    out = bot.ask_llm(prompt)
+    m = re.search(r"\{.*\}", out, re.S)
+    if not m:
+        raise RuntimeError("ИИ вернул не JSON: " + out[:200])
+    data = json.loads(m.group(0))
+    idx = int(data.get("index", 0))
+    if not 0 <= idx < len(items):
+        idx = 0
+    for k in ("screen_title", "script", "yt_title"):
+        if not str(data.get(k, "")).strip():
+            raise RuntimeError(f"В ответе ИИ нет поля {k}")
+    return items[idx], data
+
+
+def main():
+    global FONT_BOLD, FONT_REG
+    state = load_state()
+    now = datetime.now(timezone.utc)
+    slot = "вручную " + now.astimezone(MSK).strftime("%Y-%m-%d %H:%M") if FORCE else due_slot(state, now)
+    if not slot:
+        print("Ролик сейчас не нужен")
+        save_state(state)
+        return
+
+    items = gather(state, now)
+    if not items:
+        print("Нет свежих новостей для ролика")
+        state["done"].append(slot)
+        save_state(state)
+        return
+
+    # одна попытка на слот: при ошибке не повторяем каждые 15 минут
+    state["done"].append(slot)
+    save_state(state)
+
+    ensure_ffmpeg()
+    FONT_BOLD, FONT_REG = find_font(True), find_font(False)
+    item, data = write_script(items)
+    print("Новость для ролика:", item["title"])
+
+    img = load_image(bot.find_image(item["entry"], item["link"])) or placeholder()
+    channel = bot.TG_CHAT if str(bot.TG_CHAT).startswith("@") else ""
+
+    with tempfile.TemporaryDirectory() as work:
+        bg, fg = os.path.join(work, "bg.png"), os.path.join(work, "fg.png")
+        make_background(img, data["screen_title"], channel, bg)
+        make_foreground(img, fg)
+        audio, parts = synthesize(data["script"], work)
+        subs = build_subs(parts, work)
+        total = duration(audio) + 1.0
+        out = os.path.join(work, "short.mp4")
+        clip, _ = get_game_clip(str(data.get("game_en", "")).strip(), total, work)
+        if clip:
+            overlay = os.path.join(work, "overlay.png")
+            make_overlay(data["screen_title"], channel, overlay)
+            render_clip(clip, overlay, subs, audio, total, out)
+        else:
+            print("Фон: картинка новости")
+            render(bg, fg, subs, audio, total, out)
+        print(f"Ролик собран: {total:.1f} с, {os.path.getsize(out) / 1e6:.1f} МБ")
+        sent = send_to_owner(out, data)
+
+    state["used"].append(item["id"])
+    save_state(state)
+    if not sent:
+        raise RuntimeError("ролик собран, но не отправлен в Telegram (нажмите Start у бота канала)")
 
 if __name__ == "__main__":
     try:
