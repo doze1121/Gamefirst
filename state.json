@@ -652,10 +652,26 @@
   "https://www.nintendolife.com/#article-207990",
   "https://www.nintendolife.com/#article-208489",
   "https://www.nintendolife.com/#article-208140",
-  "https://news.xbox.com/en-us/?p=227885"
+  "https://news.xbox.com/en-us/?p=227885",
+  "btigCHfLYryvRSw6WZSwy",
+  "qdvc8rYX4qH7qtD2grgwK",
+  "n3sDD4NvYxu5cohy25Fqdn",
+  "https://www.eurogamer.net/nintendo-fast-travel-legend-of-zelda-ocarina-of-time-remake",
+  "https://www.rockpapershotgun.com/fix-up-towering-robots-while-battle-rages-outside-in-bay-12-mech-repair-a-first-person-job-sim-with-some-handsome-heavy-duty-analog-tech",
+  "https://www.gematsu.com/?p=1087068",
+  "https://www.gematsu.com/?p=1087067",
+  "https://www.gematsu.com/?p=1087041",
+  "https://www.gematsu.com/?p=1087058",
+  "https://www.gematsu.com/?p=1087062",
+  "https://www.gematsu.com/?p=1087023",
+  "https://www.gematsu.com/?p=1087066",
+  "https://www.gematsu.com/?p=1087044",
+  "https://www.gematsu.com/?p=1087015",
+  "https://www.pushsquare.com/#article-207812",
+  "https://news.xbox.com/en-us/?p=227812",
+  "https://www.rockpapershotgun.com/have-you-played-atuel"
  ],
  "titles": [
-  "Легендарная настолка HeroQuest готовится покорить Steam",
   "HoYoverse метит в сиквел консоли от Nintendo",
   "Дэйв Батиста превращается в Бога Войны",
   "Phantom Blade Zero разрывает Steam",
@@ -674,7 +690,8 @@
   "Актеры сошли бы с ума: в Embark объяснили использование ИИ",
   "Гнев Генри Кавилла страшнее хаоса",
   "Готовьте SSD: стали известны точный размер и время предзагрузки GTA 6",
-  "Зубастая консоль: Microsoft разыгрывает Xbox Series X в пасти аллигатора"
+  "Зубастая консоль: Microsoft разыгрывает Xbox Series X в пасти аллигатора",
+  "Стать стихией и потушить пожар"
  ],
  "queue": [
   {
@@ -687,6 +704,12 @@
    "post": "<b>Зубастая консоль: Microsoft разыгрывает Xbox Series X в пасти аллигатора</b>\n\nВ честь поездки во флоридские болота компания создала уникальную версию приставки под названием XBOX Series X-BITE. Корпус кастомного устройства выполнен в виде огромной рептилии, которая целиком проглотила консоль.\n\n#Xbox #новости\n\n🎮 Первый игровой",
    "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XBOX_Series_Details_Body-19aef8b9415d52cebb8d-1024x683.jpg",
    "ts": "2026-11-03T17:01:09.323475+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Стать стихией и потушить пожар</b>\n\nВышел Atuel — необычный и бесплатный симулятор ходьбы длительностью всего в 25 минут. Вот только ходить тут почти не придется, ведь большую часть времени игроку предстоит управлять бурлящей рекой и спасать природу от огня.\n\n#релиз\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Atuel.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-03T18:45:46.083324+00:00",
    "tries": 0
   }
  ],
