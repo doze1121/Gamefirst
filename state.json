@@ -639,10 +639,22 @@
   "https://www.nintendolife.com/#article-208479",
   "https://www.nintendolife.com/#article-208475",
   "pzHWeSYvtNNTeyiD3kdKYB",
-  "https://www.eurogamer.net/grand-theft-auto-6-pre-load-date"
+  "https://www.eurogamer.net/grand-theft-auto-6-pre-load-date",
+  "HzPQU4Tteiw3wvwxhJDYfA",
+  "zZTmrCiK6zVbPRjPVzXiz3",
+  "pQqmVpTJg6RryrZJqgBdCT",
+  "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-story-missions-pve",
+  "https://www.rockpapershotgun.com/fewer-genai-clones-of-someone-elses-specific-game-should-flood-the-net-going-forwards-as-anthropic-tell-claude-to-stop-messing-with-some-stuff-other-people-own",
+  "https://www.gematsu.com/?p=1087148",
+  "https://www.pushsquare.com/#article-208486",
+  "https://www.pushsquare.com/#article-208481",
+  "https://www.pushsquare.com/#article-208483",
+  "https://www.nintendolife.com/#article-207990",
+  "https://www.nintendolife.com/#article-208489",
+  "https://www.nintendolife.com/#article-208140",
+  "https://news.xbox.com/en-us/?p=227885"
  ],
  "titles": [
-  "Святой Грааль отмененных приквелов Portal наконец-то стал доступен игрокам",
   "Легендарная настолка HeroQuest готовится покорить Steam",
   "HoYoverse метит в сиквел консоли от Nintendo",
   "Дэйв Батиста превращается в Бога Войны",
@@ -661,7 +673,8 @@
   "Borderlands покоряет грандиозный рубеж",
   "Актеры сошли бы с ума: в Embark объяснили использование ИИ",
   "Гнев Генри Кавилла страшнее хаоса",
-  "Готовьте SSD: стали известны точный размер и время предзагрузки GTA 6"
+  "Готовьте SSD: стали известны точный размер и время предзагрузки GTA 6",
+  "Зубастая консоль: Microsoft разыгрывает Xbox Series X в пасти аллигатора"
  ],
  "queue": [
   {
@@ -674,6 +687,12 @@
    "post": "<b>Готовьте SSD: стали известны точный размер и время предзагрузки GTA 6</b>\n\nRockstar Games раскрыла детали подготовки к релизу Grand Theft Auto 6. Игрокам стоит заранее расчистить место на диске и приготовиться к скачиванию долгожданного блокбастера.\n\n#релиз\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/gta-6-pre-load.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-03T15:31:19.245847+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Зубастая консоль: Microsoft разыгрывает Xbox Series X в пасти аллигатора</b>\n\nВ честь поездки во флоридские болота компания создала уникальную версию приставки под названием XBOX Series X-BITE. Корпус кастомного устройства выполнен в виде огромной рептилии, которая целиком проглотила консоль.\n\n#Xbox #новости\n\n🎮 Первый игровой",
+   "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XBOX_Series_Details_Body-19aef8b9415d52cebb8d-1024x683.jpg",
+   "ts": "2026-11-03T17:01:09.323475+00:00",
    "tries": 0
   }
  ],
