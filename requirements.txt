@@ -1,5 +1,5 @@
 feedparser
 requests
 anthropic
-edge-tts
+edge-tts==7.2.1
 Pillow
