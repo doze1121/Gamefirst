@@ -1,3 +1,5 @@
 feedparser
 requests
 anthropic
+edge-tts
+Pillow
