@@ -620,10 +620,18 @@
   "https://www.pushsquare.com/#article-207929",
   "https://www.nintendolife.com/#article-208461",
   "https://www.nintendolife.com/#article-208459",
-  "https://www.rockpapershotgun.com/arc-raiders-devs-embark-insist-that-using-genai-for-voice-lines-was-necessary-as-actors-would-just-go-crazy-if-they-had-to-read-all-of-that"
+  "https://www.rockpapershotgun.com/arc-raiders-devs-embark-insist-that-using-genai-for-voice-lines-was-necessary-as-actors-would-just-go-crazy-if-they-had-to-read-all-of-that",
+  "7GyakBgVqwCLCmeZDCuA5N",
+  "mYdhqJyRQ9bQA4JB78pQMb",
+  "7jQHp4eCig2a3vVzD4Vz2D",
+  "https://www.eurogamer.net/bloodborne-251-000-sales-in-2016-ps4",
+  "https://www.rockpapershotgun.com/this-week-in-pc-games-go-helldiving-in-gravhounds-wreck-a-hoverbike-in-airframe-ultra-or-feed-humans-to-a-cutaway-spaceship-in-hull-rupture",
+  "https://www.pushsquare.com/#article-208466",
+  "https://www.pushsquare.com/#article-208467",
+  "https://www.nintendolife.com/#article-207986",
+  "kfhMkcuVjUU3k2auQz8kNi"
  ],
  "titles": [
-  "Как Pigstep изменил музыку в Minecraft",
   "Официальное приключение для фанатов RuneScape",
   "Святой Грааль отмененных приквелов Portal наконец-то стал доступен игрокам",
   "Легендарная настолка HeroQuest готовится покорить Steam",
@@ -642,7 +650,8 @@
   "Ева добралась до гибрида: обзоры порта Stellar Blade на Switch 2",
   "Блицкриг от Bend Studio: ждать игру придется до 2027 года",
   "Borderlands покоряет грандиозный рубеж",
-  "Актеры сошли бы с ума: в Embark объяснили использование ИИ"
+  "Актеры сошли бы с ума: в Embark объяснили использование ИИ",
+  "Гнев Генри Кавилла страшнее хаоса"
  ],
  "queue": [
   {
@@ -655,6 +664,12 @@
    "post": "<b>Актеры сошли бы с ума: в Embark объяснили использование ИИ</b>\n\nСоздатели Arc Raiders нашли оригинальное оправдание генеративному ИИ для озвучки: по словам авторов, живые актеры просто не выдержали бы объемов работы. Ранее студию уже критиковали за подобный подход в The Finals, хотя теперь разработчики частично заменяют нейросети на голоса профессионалов.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/Celeste-Arc-Raiders.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-03T12:45:36.018420+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Гнев Генри Кавилла страшнее хаоса</b>\n\nРежиссер Майк Флэнаган признался, что фанатеет от вселенной Warhammer 40,000, но держит язык за зубами насчет готовящегося шоу. По его словам, Генри Кавилл попросту придет в ярость, если хоть одна деталь утечет раньше времени.\n\n#новости #индустрия\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/bRiuwtX3nBa4tkWWeeib9f-1920-80.jpg",
+   "ts": "2026-11-03T14:15:42.076573+00:00",
    "tries": 0
   }
  ],
