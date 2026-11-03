@@ -629,10 +629,19 @@
   "https://www.pushsquare.com/#article-208466",
   "https://www.pushsquare.com/#article-208467",
   "https://www.nintendolife.com/#article-207986",
-  "kfhMkcuVjUU3k2auQz8kNi"
+  "kfhMkcuVjUU3k2auQz8kNi",
+  "https://www.eurogamer.net/world-of-warcraft-forever-first-person-mod-rpg",
+  "https://www.eurogamer.net/anthropic-claude-generative-ai-game-clones-update",
+  "https://www.gematsu.com/?p=1087104",
+  "https://www.gematsu.com/?p=1087100",
+  "https://www.gematsu.com/?p=1087095",
+  "https://www.pushsquare.com/#article-208473",
+  "https://www.nintendolife.com/#article-208479",
+  "https://www.nintendolife.com/#article-208475",
+  "pzHWeSYvtNNTeyiD3kdKYB",
+  "https://www.eurogamer.net/grand-theft-auto-6-pre-load-date"
  ],
  "titles": [
-  "Официальное приключение для фанатов RuneScape",
   "Святой Грааль отмененных приквелов Portal наконец-то стал доступен игрокам",
   "Легендарная настолка HeroQuest готовится покорить Steam",
   "HoYoverse метит в сиквел консоли от Nintendo",
@@ -651,7 +660,8 @@
   "Блицкриг от Bend Studio: ждать игру придется до 2027 года",
   "Borderlands покоряет грандиозный рубеж",
   "Актеры сошли бы с ума: в Embark объяснили использование ИИ",
-  "Гнев Генри Кавилла страшнее хаоса"
+  "Гнев Генри Кавилла страшнее хаоса",
+  "Готовьте SSD: стали известны точный размер и время предзагрузки GTA 6"
  ],
  "queue": [
   {
@@ -664,6 +674,12 @@
    "post": "<b>Гнев Генри Кавилла страшнее хаоса</b>\n\nРежиссер Майк Флэнаган признался, что фанатеет от вселенной Warhammer 40,000, но держит язык за зубами насчет готовящегося шоу. По его словам, Генри Кавилл попросту придет в ярость, если хоть одна деталь утечет раньше времени.\n\n#новости #индустрия\n\n🎮 Первый игровой",
    "image": "https://cdn.mos.cms.futurecdn.net/bRiuwtX3nBa4tkWWeeib9f-1920-80.jpg",
    "ts": "2026-11-03T14:15:42.076573+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Готовьте SSD: стали известны точный размер и время предзагрузки GTA 6</b>\n\nRockstar Games раскрыла детали подготовки к релизу Grand Theft Auto 6. Игрокам стоит заранее расчистить место на диске и приготовиться к скачиванию долгожданного блокбастера.\n\n#релиз\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/gta-6-pre-load.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-03T15:31:19.245847+00:00",
    "tries": 0
   }
  ],
