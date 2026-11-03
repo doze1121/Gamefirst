@@ -609,10 +609,20 @@
   "https://www.pushsquare.com/#article-208443",
   "https://www.nintendolife.com/#article-208453",
   "https://www.nintendolife.com/#article-208448",
-  "https://www.pushsquare.com/#article-208504"
+  "https://www.pushsquare.com/#article-208504",
+  "veSvhc49CzwLHsUhSvMEqk",
+  "https://www.eurogamer.net/id-software-doing-great-losing-half-the-studio",
+  "https://www.eurogamer.net/soulframe-open-prelude-date-verse-of-the-veillands",
+  "https://www.rockpapershotgun.com/skyblivion-modders-reveal-a-former-volunteer-is-threatening-to-sue-for-damages-upwards-of-30000-over-work-on-the-unofficial-oblivion-remake-project",
+  "https://www.pushsquare.com/#article-208465",
+  "https://www.pushsquare.com/#article-208457",
+  "https://www.pushsquare.com/#article-208452",
+  "https://www.pushsquare.com/#article-207929",
+  "https://www.nintendolife.com/#article-208461",
+  "https://www.nintendolife.com/#article-208459",
+  "https://www.rockpapershotgun.com/arc-raiders-devs-embark-insist-that-using-genai-for-voice-lines-was-necessary-as-actors-would-just-go-crazy-if-they-had-to-read-all-of-that"
  ],
  "titles": [
-  "Божественный десерт: в Honkai: Star Rail появится сам Aha",
   "Как Pigstep изменил музыку в Minecraft",
   "Официальное приключение для фанатов RuneScape",
   "Святой Грааль отмененных приквелов Portal наконец-то стал доступен игрокам",
@@ -631,7 +641,8 @@
   "Ностальгия по N64 для британских фанатов",
   "Ева добралась до гибрида: обзоры порта Stellar Blade на Switch 2",
   "Блицкриг от Bend Studio: ждать игру придется до 2027 года",
-  "Borderlands покоряет грандиозный рубеж"
+  "Borderlands покоряет грандиозный рубеж",
+  "Актеры сошли бы с ума: в Embark объяснили использование ИИ"
  ],
  "queue": [
   {
@@ -644,6 +655,12 @@
    "post": "<b>Borderlands покоряет грандиозный рубеж</b>\n\nИздатель 2K Games сообщил о впечатляющем достижении: суммарные продажи серии шутеров Borderlands превысили 100 миллионов копий по всем платформам. В честь этого события фанатам пообещали специальный Shift-ключ для внутриигровых бонусов.\n\n#новости #индустрия\n\n🎮 Первый игровой",
    "image": "https://images.pushsquare.com/7ac9ce49b9fa0/1280x720.jpg",
    "ts": "2026-11-03T11:15:38.785076+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Актеры сошли бы с ума: в Embark объяснили использование ИИ</b>\n\nСоздатели Arc Raiders нашли оригинальное оправдание генеративному ИИ для озвучки: по словам авторов, живые актеры просто не выдержали бы объемов работы. Ранее студию уже критиковали за подобный подход в The Finals, хотя теперь разработчики частично заменяют нейросети на голоса профессионалов.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Celeste-Arc-Raiders.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-03T12:45:36.018420+00:00",
    "tries": 0
   }
  ],
