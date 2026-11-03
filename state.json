@@ -601,10 +601,10 @@
   "https://www.gematsu.com/?p=1087083",
   "https://www.pushsquare.com/#article-208440",
   "https://www.nintendolife.com/#article-208500",
-  "https://www.nintendolife.com/#article-208502"
+  "https://www.nintendolife.com/#article-208502",
+  "https://www.nintendolife.com/#article-208501"
  ],
  "titles": [
-  "Праздник цвета и стратегического хаоса: Nintendo готовит особый стрим по Pikmin 4",
   "Новая высадка на Switch 2",
   "miHoYo заглянет в будущее Nintendo",
   "Божественный десерт: в Honkai: Star Rail появится сам Aha",
@@ -623,7 +623,8 @@
   "Borderlands берет историческую высоту",
   "Худший охотник на вампиров в истории RPG",
   "Walmart заглаживает вину перед фанатами Nintendo",
-  "Ностальгия по N64 для британских фанатов"
+  "Ностальгия по N64 для британских фанатов",
+  "Ева добралась до гибрида: обзоры порта Stellar Blade на Switch 2"
  ],
  "queue": [
   {
@@ -636,6 +637,12 @@
    "post": "<b>Ностальгия по N64 для британских фанатов</b>\n\nБританский ритейлер Argos готовит крутой бонус к ночному запуску ремейка Zelda: Ocarina of Time для Switch 2. На один вечер в поп-ап магазине Nintendo будут давать бесплатную реплику оригинальной коробочки для картриджа N64.\n\n#анонс #Nintendo\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/0f855dd77c7ea/1280x720.jpg",
    "ts": "2026-11-03T06:45:34.186788+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Ева добралась до гибрида: обзоры порта Stellar Blade на Switch 2</b>\n\nЭкшен от Shift Up успешно приземлился на новую консоль Nintendo. Критики отмечают, что несмотря на неизбежные технические компромиссы, футуристическое приключение отлично чувствует себя в портативе.\n\n#новости #Nintendo\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/b5734a47a18ea/1280x720.jpg",
+   "ts": "2026-11-03T08:15:37.434077+00:00",
    "tries": 0
   }
  ],
