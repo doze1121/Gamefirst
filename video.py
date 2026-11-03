@@ -487,8 +487,7 @@ def gemini_say(text, path):
     import base64
     import wave
 
-    prompt = ("Read the following Russian text aloud as an energetic, confident male host "
-              "of a gaming news channel, with natural intonation and a brisk pace:\n\n" + text)
+    prompt = text  # только сам текст: иначе модель иногда зачитывает и инструкцию
     r = requests.post(
         f"https://generativelanguage.googleapis.com/v1beta/models/{gemini_tts_model()}:generateContent",
         headers={"x-goog-api-key": bot.GEMINI_KEY},
