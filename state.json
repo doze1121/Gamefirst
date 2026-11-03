@@ -603,10 +603,15 @@
   "https://www.nintendolife.com/#article-208500",
   "https://www.nintendolife.com/#article-208502",
   "https://www.nintendolife.com/#article-208501",
-  "https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027"
+  "https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027",
+  "https://www.rockpapershotgun.com/as-if-the-injury-descriptions-werent-already-ghastly-enough-in-dwarf-fortress-the-legendary-outpost-builder-is-getting-a-meat-biome",
+  "https://www.pushsquare.com/#article-208442",
+  "https://www.pushsquare.com/#article-208443",
+  "https://www.nintendolife.com/#article-208453",
+  "https://www.nintendolife.com/#article-208448",
+  "https://www.pushsquare.com/#article-208504"
  ],
  "titles": [
-  "miHoYo заглянет в будущее Nintendo",
   "Божественный десерт: в Honkai: Star Rail появится сам Aha",
   "Как Pigstep изменил музыку в Minecraft",
   "Официальное приключение для фанатов RuneScape",
@@ -625,7 +630,8 @@
   "Walmart заглаживает вину перед фанатами Nintendo",
   "Ностальгия по N64 для британских фанатов",
   "Ева добралась до гибрида: обзоры порта Stellar Blade на Switch 2",
-  "Блицкриг от Bend Studio: ждать игру придется до 2027 года"
+  "Блицкриг от Bend Studio: ждать игру придется до 2027 года",
+  "Borderlands покоряет грандиозный рубеж"
  ],
  "queue": [
   {
@@ -638,6 +644,12 @@
    "post": "<b>Блицкриг от Bend Studio: ждать игру придется до 2027 года</b>\n\nПо слухам, Sony готовит громкое возвращение команды Bend Studio, подарившей нам Days Gone. Новый секретный эксклюзив планируют одновременно анонсировать и выпустить в 2027 году.\n\n#PlayStation #анонс\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/The-main-character-from-Days-Gone-holding-a-large-gun-in-his-hands.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-03T09:45:39.697868+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Borderlands покоряет грандиозный рубеж</b>\n\nИздатель 2K Games сообщил о впечатляющем достижении: суммарные продажи серии шутеров Borderlands превысили 100 миллионов копий по всем платформам. В честь этого события фанатам пообещали специальный Shift-ключ для внутриигровых бонусов.\n\n#новости #индустрия\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/7ac9ce49b9fa0/1280x720.jpg",
+   "ts": "2026-11-03T11:15:38.785076+00:00",
    "tries": 0
   }
  ],
