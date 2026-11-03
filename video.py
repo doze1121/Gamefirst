@@ -370,7 +370,92 @@ def build_subs(parts, work):
         f.writelines(lines)
     return lst
 
+async def tts_one(text, path, rate):
+    import edge_tts
 
+    kwargs = {"rate": rate} if rate else {}
+    await edge_tts.Communicate(text, VOICE, **kwargs).save(path)
+
+
+def edge_say(text, path):
+    """Озвучка Microsoft (лучшее качество). Пробует со скоростью и без неё."""
+    import time
+
+    last = None
+    for rate in (VOICE_RATE, None, None):
+        try:
+            asyncio.run(tts_one(text, path, rate))
+            if os.path.exists(path) and os.path.getsize(path) > 1000:
+                return
+        except Exception as ex:
+            last = ex
+        time.sleep(2)
+    raise RuntimeError(f"edge-tts: {last}")
+
+
+PIPER_VOICE = os.getenv("PIPER_VOICE", "ru_RU-denis-medium")  # мужской голос, запасной
+_piper = None
+
+
+def piper_say(text, path):
+    """Запасная озвучка Piper: работает без интернета после загрузки голоса."""
+    global _piper
+    import wave
+
+    if _piper is None:
+        subprocess.run([sys.executable, "-m", "pip", "install", "-q", "piper-tts"], check=True)
+        from piper import PiperVoice
+
+        lang, name, quality = PIPER_VOICE.split("-")
+        base = (f"https://huggingface.co/rhasspy/piper-voices/resolve/main/"
+                f"{lang.split('_')[0]}/{lang}/{name}/{quality}/{PIPER_VOICE}")
+        os.makedirs("piper_voice", exist_ok=True)
+        model = os.path.join("piper_voice", PIPER_VOICE + ".onnx")
+        for suffix in (".onnx", ".onnx.json"):
+            dst = model if suffix == ".onnx" else model + ".json"
+            if not os.path.exists(dst):
+                r = requests.get(base + suffix, timeout=120)
+                r.raise_for_status()
+                with open(dst, "wb") as f:
+                    f.write(r.content)
+        _piper = PiperVoice.load(model)
+    with wave.open(path, "wb") as wf:
+        if hasattr(_piper, "synthesize_wav"):  # новые версии piper
+            _piper.synthesize_wav(text, wf)
+        else:  # старые версии
+            _piper.synthesize(text, wf)
+
+
+def speak_all(script, work, engine):
+    parts, wavs = [], []
+    for i, s in enumerate(sentences(script)):
+        raw = os.path.join(work, f"s{i}.{'mp3' if engine == 'edge' else 'raw.wav'}")
+        wav = os.path.join(work, f"s{i}.wav")
+        clean_s = s.replace("«", "").replace("»", "").replace("—", ",")
+        (edge_say if engine == "edge" else piper_say)(clean_s, raw)
+        run(["ffmpeg", "-y", "-v", "error", "-i", raw, "-af", "apad=pad_dur=0.18", "-ar", "44100", "-ac", "1", wav])
+        parts.append((s, duration(wav)))
+        wavs.append(wav)
+    return parts, wavs
+
+
+def synthesize(script, work):
+    """Озвучивает по предложениям, чтобы точно знать, когда показывать субтитры."""
+    try:
+        parts, wavs = speak_all(script, work, "edge")
+    except Exception as ex:
+        print("Голос Microsoft не сработал, включаю запасной голос Piper:", ex)
+        try:
+            parts, wavs = speak_all(script, work, "piper")
+        except Exception as ex2:
+            raise RuntimeError(f"Озвучка не удалась. Microsoft: {ex}. Piper: {ex2}")
+    lst = os.path.join(work, "audio.txt")
+    with open(lst, "w") as f:
+        f.writelines(f"file '{os.path.abspath(w)}'\n" for w in wavs)
+    audio = os.path.join(work, "audio.wav")
+    run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-c", "copy", audio])
+    return audio, parts
+    
 # ====== СБОРКА ======
 def ensure_ffmpeg():
     if shutil.which("ffmpeg") and shutil.which("ffprobe"):
