@@ -707,10 +707,26 @@
   "https://www.pushsquare.com/#article-208532",
   "https://www.nintendolife.com/#article-208239",
   "https://news.xbox.com/en-us/?p=227723",
-  "https://www.pushsquare.com/#article-208616"
+  "https://www.pushsquare.com/#article-208616",
+  "VVmF6DApZUERMD5RdybhxL",
+  "dEsjZ9XvtUZ4r78V3yHicM",
+  "VbgwaVWaUbrhTvWw9x4ZKm",
+  "uS5zQGnxbQfG3qV9oFdyVK",
+  "https://www.eurogamer.net/arc-raiders-ai-voice-acting-would-go-crazy",
+  "https://www.eurogamer.net/the-elder-scrolls-6-sentinel-revealed-bethesda-xbox",
+  "https://www.rockpapershotgun.com/im-sad-that-the-like-a-dragon-creators-new-studio-is-closing-but-i-wish-their-now-cancelled-debut-gang-of-dragon-wasnt-just-lad-again",
+  "https://www.gematsu.com/?p=1087225",
+  "https://www.pushsquare.com/#article-208548",
+  "https://www.pushsquare.com/#article-208542",
+  "https://www.pushsquare.com/#article-208538",
+  "https://www.nintendolife.com/#article-208547",
+  "https://www.nintendolife.com/#article-208539",
+  "https://news.xbox.com/en-us/?p=227896",
+  "https://news.xbox.com/en-us/?p=227895",
+  "https://www.pushsquare.com/#article-208619",
+  "https://www.eurogamer.net/elder-scrolls-6-sentinel-bethesda-recapture-the-magic"
  ],
  "titles": [
-  "Borderlands берет историческую высоту",
   "Худший охотник на вампиров в истории RPG",
   "Walmart заглаживает вину перед фанатами Nintendo",
   "Ностальгия по N64 для британских фанатов",
@@ -729,7 +745,8 @@
   "Кто спасет создателей Dishonored?",
   "Как киберпанк спас обреченный симулятор",
   "Эволюция Лары Крофт: от полигонов PS1 до великолепия PS5",
-  "Консольные войны возвращаются на PS5"
+  "Консольные войны возвращаются на PS5",
+  "Восемь лет ожидания The Elder Scrolls 6: сможет ли Bethesda вернуть ту самую магии?"
  ],
  "queue": [
   {
@@ -742,6 +759,12 @@
    "post": "<b>Консольные войны возвращаются на PS5</b>\n\nЛегендарная серия Hyperdimension Neptunia, где персонажи олицетворяют культовые игровые платформы вроде PlayStation и Xbox, наконец-то получит полноценное продолжение. Последняя номерная часть выходила целых девять лет назад, но теперь культовая франшиза возвращается с новой игрой.\n\n#новости #PlayStation\n\n🎮 Первый игровой",
    "image": "https://images.pushsquare.com/cd968be77ee95/1280x720.jpg",
    "ts": "2026-11-04T14:15:43.607694+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Восемь лет ожидания The Elder Scrolls 6: сможет ли Bethesda вернуть ту самую магии?</b>\n\nРовно восемь лет назад дебютный тизер новой части культовой RPG заставил фанатов строить масштабные теории о регионе Хаммерфелл и городе Сентинел. Теперь журналисты задаются вопросом, удастся ли Тодду Говарду оправдать столь завышенные ожидания после стольких лет молчания.\n\n#индустрия #новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/es-6-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-04T15:45:44.290751+00:00",
    "tries": 0
   }
  ],
