@@ -724,10 +724,22 @@
   "https://news.xbox.com/en-us/?p=227896",
   "https://news.xbox.com/en-us/?p=227895",
   "https://www.pushsquare.com/#article-208619",
-  "https://www.eurogamer.net/elder-scrolls-6-sentinel-bethesda-recapture-the-magic"
+  "https://www.eurogamer.net/elder-scrolls-6-sentinel-bethesda-recapture-the-magic",
+  "5xrGxskjvzZXw54MfpL2MV",
+  "https://www.rockpapershotgun.com/mobile-suit-gundam-battle-operation-3-has-been-announced-marking-another-attempt-at-a-free-to-play-team-game-after-gundam-evolutions-unfortunate-fate",
+  "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-teaser-all-but-confirms-hammerfell-setting-and-means-we-can-finally-stop-using-that-eight-year-old-header-image-with-the-hills",
+  "https://www.gematsu.com/?p=1087264",
+  "https://www.gematsu.com/?p=1087253",
+  "https://www.gematsu.com/?p=1087247",
+  "https://www.pushsquare.com/#article-208356",
+  "https://www.pushsquare.com/#article-208540",
+  "https://www.pushsquare.com/#article-208536",
+  "https://www.nintendolife.com/#article-208318",
+  "https://www.nintendolife.com/#article-208544",
+  "https://news.xbox.com/en-us/?p=227909",
+  "https://www.pushsquare.com/#article-208638"
  ],
  "titles": [
-  "Худший охотник на вампиров в истории RPG",
   "Walmart заглаживает вину перед фанатами Nintendo",
   "Ностальгия по N64 для британских фанатов",
   "Ева добралась до гибрида: обзоры порта Stellar Blade на Switch 2",
@@ -746,7 +758,8 @@
   "Как киберпанк спас обреченный симулятор",
   "Эволюция Лары Крофт: от полигонов PS1 до великолепия PS5",
   "Консольные войны возвращаются на PS5",
-  "Восемь лет ожидания The Elder Scrolls 6: сможет ли Bethesda вернуть ту самую магии?"
+  "Восемь лет ожидания The Elder Scrolls 6: сможет ли Bethesda вернуть ту самую магии?",
+  "Материнская забота откладывается"
  ],
  "queue": [
   {
@@ -759,6 +772,12 @@
    "post": "<b>Восемь лет ожидания The Elder Scrolls 6: сможет ли Bethesda вернуть ту самую магии?</b>\n\nРовно восемь лет назад дебютный тизер новой части культовой RPG заставил фанатов строить масштабные теории о регионе Хаммерфелл и городе Сентинел. Теперь журналисты задаются вопросом, удастся ли Тодду Говарду оправдать столь завышенные ожидания после стольких лет молчания.\n\n#индустрия #новости\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/es-6-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-04T15:45:44.290751+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Материнская забота откладывается</b>\n\nSanta Monica Studio решили взять еще немного времени на полировку God of War Laufey. Эксклюзив для PS5 сдвинули с февраля на 20 мая 2027 года — разработчикам понадобилось еще три месяца.\n\n#релиз #PlayStation\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/77662bc359e9f/1280x720.jpg",
+   "ts": "2026-11-04T17:15:40.557492+00:00",
    "tries": 0
   }
  ],
