@@ -912,6 +912,34 @@ def main():
     if not sent:
         raise RuntimeError("ролик собран, но не отправлен в Telegram (нажмите Start у бота канала)")
 
+# ====== НАДЁЖНОЕ ЧТЕНИЕ ОТВЕТА ИИ ======
+_std_json_loads = json.loads
+
+
+def _tolerant_json_loads(text, *args, **kwargs):
+    """Как json.loads, но чинит битые \\-последовательности, которые иногда пишет ИИ."""
+    try:
+        return _std_json_loads(text, *args, **kwargs)
+    except json.JSONDecodeError:
+        fixed = re.sub(r'\\(?!["\\/bfnrt]|u[0-9a-fA-F]{4})', r"\\\\", text)
+        return _std_json_loads(fixed, *args, strict=False)
+
+
+json.loads = _tolerant_json_loads
+_write_script_once = write_script
+
+
+def write_script(items):
+    """До трёх попыток получить от ИИ сценарий в правильном виде."""
+    last = None
+    for attempt in range(3):
+        try:
+            return _write_script_once(items)
+        except Exception as ex:
+            last = ex
+            print(f"Сценарий не разобрался (попытка {attempt + 1}):", str(ex)[:150])
+    raise RuntimeError(f"ИИ трижды вернул сценарий с ошибкой: {last}")
+    
 if __name__ == "__main__":
     try:
         main()
