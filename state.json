@@ -697,10 +697,11 @@
   "https://www.pushsquare.com/#article-208524",
   "https://www.pushsquare.com/#article-208505",
   "https://www.nintendolife.com/#article-208525",
-  "https://www.nintendolife.com/#article-208362"
+  "https://www.nintendolife.com/#article-208362",
+  "https://www.nintendolife.com/#article-208529",
+  "https://www.pushsquare.com/#article-208606"
  ],
  "titles": [
-  "Долгая дорога на неизвестные острова",
   "Нити судьбы в новом 3D-приключении",
   "Borderlands берет историческую высоту",
   "Худший охотник на вампиров в истории RPG",
@@ -719,7 +720,8 @@
   "Паровозиком к релизу: Ocarina of Time на Switch 2 получила патч",
   "Ностальгия из 90-х в Street Fighter 6",
   "Кто спасет создателей Dishonored?",
-  "Как киберпанк спас обреченный симулятор"
+  "Как киберпанк спас обреченный симулятор",
+  "Эволюция Лары Крофт: от полигонов PS1 до великолепия PS5"
  ],
  "queue": [
   {
@@ -732,6 +734,12 @@
    "post": "<b>Как киберпанк спас обреченный симулятор</b>\n\nХит Steam под названием Probably Stolen еще недавно был никому не нужным космическим симулятором киоска Deepspace Emporium. Проект уже шел к забвению, пока издатель tinyBuild не убедил разработчиков сменить сеттинг на киберпанк и переделать арт-дирекшн. Риск окупился сполна: игра взлетела и привлекла более 162 тысяч одновременных игроков.\n\n#новости #индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/probably-stolen-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-04T11:15:43.018691+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Эволюция Лары Крофт: от полигонов PS1 до великолепия PS5</b>\n\nЖурнал Game Informer посвятит следующий номер 30-летию культовой серии Tomb Raider. Главной темой станет масштабный ремейк Tomb Raider: Legacy of Atlantis, о котором обещают рассказать много нового на 12 страницах.\n\n#новости #PlayStation\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/fc38763d28743/1280x720.jpg",
+   "ts": "2026-11-04T13:01:08.214921+00:00",
    "tries": 0
   }
  ],
