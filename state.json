@@ -746,10 +746,18 @@
   "https://www.pushsquare.com/#article-208560",
   "https://www.pushsquare.com/#article-208535",
   "https://news.xbox.com/en-us/?p=227892",
-  "https://www.rockpapershotgun.com/arkane-is-profitable-say-marvels-blade-developers-in-fiery-new-statement-just-not-profitable-enough-for-microsoft"
+  "https://www.rockpapershotgun.com/arkane-is-profitable-say-marvels-blade-developers-in-fiery-new-statement-just-not-profitable-enough-for-microsoft",
+  "cuYGb2swBs69oDbaixhsQK",
+  "3tHBMti8JpyeBCCA46whZS",
+  "otRbA9UFy6DDA4f62Y6rg7",
+  "https://www.rockpapershotgun.com/silica-an-fps-and-rts-hybrid-that-mixes-a-smidge-of-dune-and-helldivers-together-has-left-early-access-and-entered-10",
+  "https://www.pushsquare.com/#article-208557",
+  "https://www.nintendolife.com/#article-208492",
+  "https://news.xbox.com/en-us/?p=227922",
+  "https://news.xbox.com/en-us/?p=227930",
+  "https://news.xbox.com/en-us/?p=227965"
  ],
  "titles": [
-  "Ностальгия по N64 для британских фанатов",
   "Ева добралась до гибрида: обзоры порта Stellar Blade на Switch 2",
   "Блицкриг от Bend Studio: ждать игру придется до 2027 года",
   "Borderlands покоряет грандиозный рубеж",
@@ -768,7 +776,8 @@
   "Консольные войны возвращаются на PS5",
   "Восемь лет ожидания The Elder Scrolls 6: сможет ли Bethesda вернуть ту самую магии?",
   "Материнская забота откладывается",
-  "Arkane была в плюсе, но Microsoft этого мало"
+  "Arkane была в плюсе, но Microsoft этого мало",
+  "Святилище испытаний перевернет геймплей Halls of Torment"
  ],
  "queue": [
   {
@@ -781,6 +790,12 @@
    "post": "<b>Arkane была в плюсе, но Microsoft этого мало</b>\n\nПрофсоюз Arkane Lyon жестко ответил на угрозы закрытия студии. Разработчики Marvel's Blade заявили, что корпорация сама создала кризисные условия и теперь фактически «саботирует» их новые проекты, требуя заоблачной прибыли.\n\n#индустрия #Xbox\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/marvel-blade-(2).webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-04T18:45:42.599779+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Святилище испытаний перевернет геймплей Halls of Torment</b>\n\nДля хардкорного диабплоида вышел второй аддон The Lost Archives вместе с масштабным бесплатным апдейтом. Игроков ждет погружение в архивные залы с культистами и древними тайнами, а новый святилище заметно изменит привычную тактику выживания.\n\n#релиз #Xbox\n\n🎮 Первый игровой",
+   "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/lostarchives_E-1-107efff597cfb598df58-1024x576.jpg",
+   "ts": "2026-11-04T20:15:39.747950+00:00",
    "tries": 0
   }
  ],
