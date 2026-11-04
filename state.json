@@ -681,10 +681,11 @@
   "https://www.nintendolife.com/#article-208267",
   "https://www.nintendolife.com/#article-208582",
   "https://www.nintendolife.com/#article-208581",
-  "https://www.nintendolife.com/#article-208583"
+  "https://www.nintendolife.com/#article-208583",
+  "https://www.pushsquare.com/#article-208471",
+  "https://www.eurogamer.net/arkane-studios-ubisoft-interested-buyers"
  ],
  "titles": [
-  "Мрачные тайны Glowing Sea: для Fallout 4 вышел масштабный квестинг-мод",
   "БДСМ-ангелы и самоистязание: в Monster Train 2 появится безумная фракция",
   "Долгая дорога на неизвестные острова",
   "Нити судьбы в новом 3D-приключении",
@@ -703,7 +704,8 @@
   "Одиночка делает мрачный стелс в стиле Thief",
   "Famitsu оценила ремейк легенды",
   "Паровозиком к релизу: Ocarina of Time на Switch 2 получила патч",
-  "Ностальгия из 90-х в Street Fighter 6"
+  "Ностальгия из 90-х в Street Fighter 6",
+  "Кто спасет создателей Dishonored?"
  ],
  "queue": [
   {
@@ -716,6 +718,12 @@
    "post": "<b>Ностальгия из 90-х в Street Fighter 6</b>\n\nCapcom анонсировала новый сезонный боевой пропуск для файтинга Street Fighter 6 под названием Winter Pocket Present. Он полностью посвящен классическому аркадному ответвлению Super Gem Fighter Mini Mix, также известному как Pocket Fighter, и принесет игрокам тематические награды в чиби-стиле.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/383e6737a8b8f/1280x720.jpg",
    "ts": "2026-11-04T08:15:40.146903+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Кто спасет создателей Dishonored?</b>\n\nПосле того как Xbox решила избавиться от Arkane Studios, судьба разработчиков висела на волоске. Однако, по данным инсайдеров, студия без работы не останется — сразу несколько крупных компаний уже выразили интерес к ее покупке, включая Ubisoft.\n\n#индустрия #Xbox\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Marvel%E2%80%99s-Blade-_-Announcement-Trailer---The-Game-Awards-2023-1-5-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-04T09:37:18.751756+00:00",
    "tries": 0
   }
  ],
