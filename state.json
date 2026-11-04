@@ -737,10 +737,18 @@
   "https://www.nintendolife.com/#article-208318",
   "https://www.nintendolife.com/#article-208544",
   "https://news.xbox.com/en-us/?p=227909",
-  "https://www.pushsquare.com/#article-208638"
+  "https://www.pushsquare.com/#article-208638",
+  "J9ExC8JixviZm3f9ipcCfD",
+  "NPr6AAdmHfv2UN5ySsgvHV",
+  "https://www.rockpapershotgun.com/frostpunk-2s-the-surge-dlc-keeps-the-wintery-apocalypse-and-adds-in-faction-clash-inducing-electricity-and-sets-a-seasonally-appropriate-december-release-date",
+  "https://www.rockpapershotgun.com/venom-toothed-noxious-terminids-are-soon-to-infest-helldivers-2-and-its-your-noble-job-to-sterilise-the-galaxy-for-super-earth",
+  "https://www.gematsu.com/?p=1087306",
+  "https://www.pushsquare.com/#article-208560",
+  "https://www.pushsquare.com/#article-208535",
+  "https://news.xbox.com/en-us/?p=227892",
+  "https://www.rockpapershotgun.com/arkane-is-profitable-say-marvels-blade-developers-in-fiery-new-statement-just-not-profitable-enough-for-microsoft"
  ],
  "titles": [
-  "Walmart заглаживает вину перед фанатами Nintendo",
   "Ностальгия по N64 для британских фанатов",
   "Ева добралась до гибрида: обзоры порта Stellar Blade на Switch 2",
   "Блицкриг от Bend Studio: ждать игру придется до 2027 года",
@@ -759,7 +767,8 @@
   "Эволюция Лары Крофт: от полигонов PS1 до великолепия PS5",
   "Консольные войны возвращаются на PS5",
   "Восемь лет ожидания The Elder Scrolls 6: сможет ли Bethesda вернуть ту самую магии?",
-  "Материнская забота откладывается"
+  "Материнская забота откладывается",
+  "Arkane была в плюсе, но Microsoft этого мало"
  ],
  "queue": [
   {
@@ -772,6 +781,12 @@
    "post": "<b>Материнская забота откладывается</b>\n\nSanta Monica Studio решили взять еще немного времени на полировку God of War Laufey. Эксклюзив для PS5 сдвинули с февраля на 20 мая 2027 года — разработчикам понадобилось еще три месяца.\n\n#релиз #PlayStation\n\n🎮 Первый игровой",
    "image": "https://images.pushsquare.com/77662bc359e9f/1280x720.jpg",
    "ts": "2026-11-04T17:15:40.557492+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Arkane была в плюсе, но Microsoft этого мало</b>\n\nПрофсоюз Arkane Lyon жестко ответил на угрозы закрытия студии. Разработчики Marvel's Blade заявили, что корпорация сама создала кризисные условия и теперь фактически «саботирует» их новые проекты, требуя заоблачной прибыли.\n\n#индустрия #Xbox\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/marvel-blade-(2).webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-04T18:45:42.599779+00:00",
    "tries": 0
   }
  ],
