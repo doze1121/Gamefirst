@@ -670,10 +670,18 @@
   "https://www.pushsquare.com/#article-207812",
   "https://news.xbox.com/en-us/?p=227812",
   "https://www.rockpapershotgun.com/have-you-played-atuel",
-  "https://www.rockpapershotgun.com/the-citadel-project-is-a-thief-inspired-dark-fantasy-survival-horror-lite-stealth-em-up-with-some-lovely-shadows-set-in-a-medieval-megastructure"
+  "https://www.rockpapershotgun.com/the-citadel-project-is-a-thief-inspired-dark-fantasy-survival-horror-lite-stealth-em-up-with-some-lovely-shadows-set-in-a-medieval-megastructure",
+  "m77Npv6NDCQzZcCasBGmpg",
+  "X7bA3tM9jPZgrewEHBUocU",
+  "VC444DsQCKMEUxH8bqxfeT",
+  "https://www.eurogamer.net/yakuza-creator-new-studio-closed-netease",
+  "https://www.gematsu.com/?p=1087160",
+  "https://www.pushsquare.com/#article-208496",
+  "https://www.nintendolife.com/#article-208499",
+  "https://www.nintendolife.com/#article-208267",
+  "https://www.nintendolife.com/#article-208582"
  ],
  "titles": [
-  "Дэйв Батиста превращается в Бога Войны",
   "Phantom Blade Zero разрывает Steam",
   "Конец эпохи для отца Yakuza",
   "Мрачные тайны Glowing Sea: для Fallout 4 вышел масштабный квестинг-мод",
@@ -692,7 +700,8 @@
   "Готовьте SSD: стали известны точный размер и время предзагрузки GTA 6",
   "Зубастая консоль: Microsoft разыгрывает Xbox Series X в пасти аллигатора",
   "Стать стихией и потушить пожар",
-  "Одиночка делает мрачный стелс в стиле Thief"
+  "Одиночка делает мрачный стелс в стиле Thief",
+  "Famitsu оценила ремейк легенды"
  ],
  "queue": [
   {
@@ -705,6 +714,12 @@
    "post": "<b>Одиночка делает мрачный стелс в стиле Thief</b>\n\nОдиночный разработчик анонсировал The Citadel Project — иммерсив-сим с элементами хоррора на выживание.мрачном фэнтезийном мире, зараженном паразитами. Проект вдохновлен классикой вроде Thief и делает упор на игру со свету и тенью в гигантской средневековой структуре.\n\n#анонс\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/the-citadel-project.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-03T20:15:45.153422+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Famitsu оценила ремейк легенды</b>\n\nЛегендарная The Legend of Zelda: Ocarina of Time для Switch 2 получила первую оценку от авторитетного японского журнала Famitsu. Четыре критика выставили игре баллами 9/9/9/10, что в сумме составило 37 из 40 возможных. Проект тепло встретили, подтвердив статус культовой классики.\n\n#Nintendo #новости\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/f46b98d752c06/1280x720.jpg",
+   "ts": "2026-11-04T05:15:37.929630+00:00",
    "tries": 0
   }
  ],
