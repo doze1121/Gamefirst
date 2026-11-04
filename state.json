@@ -683,10 +683,15 @@
   "https://www.nintendolife.com/#article-208581",
   "https://www.nintendolife.com/#article-208583",
   "https://www.pushsquare.com/#article-208471",
-  "https://www.eurogamer.net/arkane-studios-ubisoft-interested-buyers"
+  "https://www.eurogamer.net/arkane-studios-ubisoft-interested-buyers",
+  "Fpu2zhkMsU5kEX6bHC4o7A",
+  "https://www.eurogamer.net/control-resonant-remedy-revenue-leaps",
+  "https://www.rockpapershotgun.com/itchio-will-soon-let-you-filter-games-with-genai-disclosures-out-of-your-search-results-on-the-site-after-admitting-it-was-previously-critically-lacking",
+  "https://www.gematsu.com/?p=1087188",
+  "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-review",
+  "https://www.rockpapershotgun.com/smash-hit-cyberpunk-storekeeper-probably-stolen-was-originally-a-different-non-cyberpunk-game-that-seemed-destined-to-sink-without-trace"
  ],
  "titles": [
-  "БДСМ-ангелы и самоистязание: в Monster Train 2 появится безумная фракция",
   "Долгая дорога на неизвестные острова",
   "Нити судьбы в новом 3D-приключении",
   "Borderlands берет историческую высоту",
@@ -705,7 +710,8 @@
   "Famitsu оценила ремейк легенды",
   "Паровозиком к релизу: Ocarina of Time на Switch 2 получила патч",
   "Ностальгия из 90-х в Street Fighter 6",
-  "Кто спасет создателей Dishonored?"
+  "Кто спасет создателей Dishonored?",
+  "Как киберпанк спас обреченный симулятор"
  ],
  "queue": [
   {
@@ -718,6 +724,12 @@
    "post": "<b>Кто спасет создателей Dishonored?</b>\n\nПосле того как Xbox решила избавиться от Arkane Studios, судьба разработчиков висела на волоске. Однако, по данным инсайдеров, студия без работы не останется — сразу несколько крупных компаний уже выразили интерес к ее покупке, включая Ubisoft.\n\n#индустрия #Xbox\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/Marvel%E2%80%99s-Blade-_-Announcement-Trailer---The-Game-Awards-2023-1-5-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-04T09:37:18.751756+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Как киберпанк спас обреченный симулятор</b>\n\nХит Steam под названием Probably Stolen еще недавно был никому не нужным космическим симулятором киоска Deepspace Emporium. Проект уже шел к забвению, пока издатель tinyBuild не убедил разработчиков сменить сеттинг на киберпанк и переделать арт-дирекшн. Риск окупился сполна: игра взлетела и привлекла более 162 тысяч одновременных игроков.\n\n#новости #индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/probably-stolen-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-04T11:15:43.018691+00:00",
    "tries": 0
   }
  ],
