@@ -679,10 +679,10 @@
   "https://www.pushsquare.com/#article-208496",
   "https://www.nintendolife.com/#article-208499",
   "https://www.nintendolife.com/#article-208267",
-  "https://www.nintendolife.com/#article-208582"
+  "https://www.nintendolife.com/#article-208582",
+  "https://www.nintendolife.com/#article-208581"
  ],
  "titles": [
-  "Phantom Blade Zero разрывает Steam",
   "Конец эпохи для отца Yakuza",
   "Мрачные тайны Glowing Sea: для Fallout 4 вышел масштабный квестинг-мод",
   "БДСМ-ангелы и самоистязание: в Monster Train 2 появится безумная фракция",
@@ -701,7 +701,8 @@
   "Зубастая консоль: Microsoft разыгрывает Xbox Series X в пасти аллигатора",
   "Стать стихией и потушить пожар",
   "Одиночка делает мрачный стелс в стиле Thief",
-  "Famitsu оценила ремейк легенды"
+  "Famitsu оценила ремейк легенды",
+  "Паровозиком к релизу: Ocarina of Time на Switch 2 получила патч"
  ],
  "queue": [
   {
@@ -714,6 +715,12 @@
    "post": "<b>Famitsu оценила ремейк легенды</b>\n\nЛегендарная The Legend of Zelda: Ocarina of Time для Switch 2 получила первую оценку от авторитетного японского журнала Famitsu. Четыре критика выставили игре баллами 9/9/9/10, что в сумме составило 37 из 40 возможных. Проект тепло встретили, подтвердив статус культовой классики.\n\n#Nintendo #новости\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/f46b98d752c06/1280x720.jpg",
    "ts": "2026-11-04T05:15:37.929630+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Паровозиком к релизу: Ocarina of Time на Switch 2 получила патч</b>\n\nДо долгожданного выхода ремейка культовой классики на новой консоли остаются считанные часы, а Nintendo уже выкатила обновление версии 1.1.1. Патч призван подготовить игру к запуску и сделать путешествие Линка максимально гладким с первых минут.\n\n#релиз #Nintendo\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/7cb213a589318/1280x720.jpg",
+   "ts": "2026-11-04T06:45:41.675890+00:00",
    "tries": 0
   }
  ],
