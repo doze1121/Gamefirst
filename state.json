@@ -680,10 +680,10 @@
   "https://www.nintendolife.com/#article-208499",
   "https://www.nintendolife.com/#article-208267",
   "https://www.nintendolife.com/#article-208582",
-  "https://www.nintendolife.com/#article-208581"
+  "https://www.nintendolife.com/#article-208581",
+  "https://www.nintendolife.com/#article-208583"
  ],
  "titles": [
-  "Конец эпохи для отца Yakuza",
   "Мрачные тайны Glowing Sea: для Fallout 4 вышел масштабный квестинг-мод",
   "БДСМ-ангелы и самоистязание: в Monster Train 2 появится безумная фракция",
   "Долгая дорога на неизвестные острова",
@@ -702,7 +702,8 @@
   "Стать стихией и потушить пожар",
   "Одиночка делает мрачный стелс в стиле Thief",
   "Famitsu оценила ремейк легенды",
-  "Паровозиком к релизу: Ocarina of Time на Switch 2 получила патч"
+  "Паровозиком к релизу: Ocarina of Time на Switch 2 получила патч",
+  "Ностальгия из 90-х в Street Fighter 6"
  ],
  "queue": [
   {
@@ -715,6 +716,12 @@
    "post": "<b>Паровозиком к релизу: Ocarina of Time на Switch 2 получила патч</b>\n\nДо долгожданного выхода ремейка культовой классики на новой консоли остаются считанные часы, а Nintendo уже выкатила обновление версии 1.1.1. Патч призван подготовить игру к запуску и сделать путешествие Линка максимально гладким с первых минут.\n\n#релиз #Nintendo\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/7cb213a589318/1280x720.jpg",
    "ts": "2026-11-04T06:45:41.675890+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Ностальгия из 90-х в Street Fighter 6</b>\n\nCapcom анонсировала новый сезонный боевой пропуск для файтинга Street Fighter 6 под названием Winter Pocket Present. Он полностью посвящен классическому аркадному ответвлению Super Gem Fighter Mini Mix, также известному как Pocket Fighter, и принесет игрокам тематические награды в чиби-стиле.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/383e6737a8b8f/1280x720.jpg",
+   "ts": "2026-11-04T08:15:40.146903+00:00",
    "tries": 0
   }
  ],
