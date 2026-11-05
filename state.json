@@ -821,10 +821,21 @@
   "https://www.nintendolife.com/#article-208630",
   "https://www.nintendolife.com/#article-208623",
   "https://news.xbox.com/en-us/?p=227932",
-  "https://news.xbox.com/en-us/?p=227577"
+  "https://news.xbox.com/en-us/?p=227577",
+  "HdL9xB8z2YNR6vUUaiGkqe",
+  "jUuGsmZFSvWXSgMRHPFH96",
+  "5adSYg4qPYDhpS7PDdTBVA",
+  "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
+  "https://www.rockpapershotgun.com/oblivion-and-skyrims-gap-was-bridged-by-forward-looking-books-about-a-murderous-floating-island-so-why-is-the-elder-scrolls-6-stuck-reanimating-a-world-thats-stood-still-since-2011",
+  "https://www.rockpapershotgun.com/rimworld-inspired-colony-sim-stardeus-gets-a-huge-update-representing-a-years-worth-of-expansion-and-revision-with-new-tools-for-evil-ai-overlords",
+  "https://www.gematsu.com/?p=1087353",
+  "https://www.gematsu.com/?p=1087349",
+  "https://www.pushsquare.com/#article-208498",
+  "https://www.nintendolife.com/#article-208567",
+  "https://news.xbox.com/en-us/?p=227802",
+  "https://www.rockpapershotgun.com/after-a-16-year-long-dev-period-faraway-a-shooting-star-arcade-game-about-siphoning-the-energy-of-other-stars-is-out-now"
  ],
  "titles": [
-  "Famitsu оценила ремейк легенды",
   "Паровозиком к релизу: Ocarina of Time на Switch 2 получила патч",
   "Ностальгия из 90-х в Street Fighter 6",
   "Кто спасет создателей Dishonored?",
@@ -843,7 +854,8 @@
   "Диванная RPG: обе части Pillars of Eternity получили полноценную поддержку геймпадов на ПК",
   "Стань королем секонд-х",
   "Осторожно, вирус в лаунчере Nikke",
-  "Xbox станет быстрее и проще"
+  "Xbox станет быстрее и проще",
+  "16 лет в разработке и наконец-то релиз: соло-хит от автора культового Eliss"
  ],
  "queue": [
   {
@@ -856,6 +868,12 @@
    "post": "<b>Xbox станет быстрее и проще</b>\n\nMicrosoft прокатила свежее обновление для экосистемы Xbox на ПК, в веб-версии и облаке. Приложение для компьютеров теперь запускается на 60% быстрее, а интерфейс стал удобнее для поиска игр и общения с друзьями. Обновления также затронули облачный гейминг на телевизорах и VR-гарнитурах.\n\n#Xbox #новости\n\n🎮 Первый игровой",
    "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XBOXWire_Bastion_Image2_110526-a63599224e109dddcc5d-1024x576.png",
    "ts": "2026-11-05T17:01:05.794344+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>16 лет в разработке и наконец-то релиз: соло-хит от автора культового Eliss</b>\n\nСоздатель культовой мобильной игры Eliss потратил шестнадцать лет на разработку аркадного проекта Faraway. Новинка предлагает примерить роль падающей звезды, которая собирает энергию других светил ради выживания.\n\n#релиз #индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/faraway.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-05T18:30:53.110317+00:00",
    "tries": 0
   }
  ],
