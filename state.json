@@ -788,10 +788,19 @@
   "https://www.pushsquare.com/#article-208593",
   "https://www.nintendolife.com/#article-207828",
   "https://www.nintendolife.com/#article-208594",
-  "https://www.pushsquare.com/#article-208656"
+  "https://www.pushsquare.com/#article-208656",
+  "CfindVsX2c9eWBGzkuwFvU",
+  "iethVgnN8UFE2BvTHrw6iA",
+  "https://www.eurogamer.net/nexus-mods-gen-ai-disclosure-rules",
+  "https://www.rockpapershotgun.com/keep-talking-about-it-raw-power-games-call-for-wishlist-aid-as-they-and-their-historical-strategy-sandbox-chronicles-medieval-lose-funding",
+  "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-already-has-a-nexus-mods-page-so-now-all-we-have-to-do-is-wait",
+  "https://www.pushsquare.com/#article-208602",
+  "https://www.nintendolife.com/#article-208607",
+  "https://www.nintendolife.com/#article-208598",
+  "https://www.nintendolife.com/#article-208586",
+  "https://www.rockpapershotgun.com/you-can-now-play-pillars-of-eternity-and-pillars-of-eternity-2-deadfire-with-a-controller-on-pc-from-start-to-finish-thanks-to-a-new-update-open-for-testing"
  ],
  "titles": [
-  "Готовьте SSD: стали известны точный размер и время предзагрузки GTA 6",
   "Зубастая консоль: Microsoft разыгрывает Xbox Series X в пасти аллигатора",
   "Стать стихией и потушить пожар",
   "Одиночка делает мрачный стелс в стиле Thief",
@@ -810,7 +819,8 @@
   "Росомаха рвет чарты, а PS5 уверенно идет к заветной вершине",
   "Танковый вальс возвращается на консоли",
   "Сто миллионов ближе с каждым днем: продажи PS5 приближаются к исторической отметке",
-  "Росомаха пока раскачивается"
+  "Росомаха пока раскачивается",
+  "Диванная RPG: обе части Pillars of Eternity получили полноценную поддержку геймпадов на ПК"
  ],
  "queue": [
   {
@@ -823,6 +833,12 @@
    "post": "<b>Росомаха пока раскачивается</b>\n\nSony поделилась первыми данными о продажах Marvel's Wolverine. К началу ноября эксклюзив для PS5 разошелся тиражом в 2,4 миллиона копий, что выглядит довольно скромно для блокбастера такого уровня.\n\n#новости #PlayStation\n\n🎮 Первый игровой",
    "image": "https://images.pushsquare.com/524730263b2ab/1280x720.jpg",
    "ts": "2026-11-05T11:15:40.188005+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Диванная RPG: обе части Pillars of Eternity получили полноценную поддержку геймпадов на ПК</b>\n\nСпустя годы после релиза Obsidian наконец-то добавили управление с геймпада от начала и до конца в первую и вторую части Pillars of Eternity. Функция вместе с доработками пошагового режима пока доступна в рамках публичного тестирования.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/coming_soon_2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-05T12:45:37.529557+00:00",
    "tries": 0
   }
  ],
