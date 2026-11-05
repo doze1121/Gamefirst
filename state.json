@@ -773,10 +773,10 @@
   "https://www.nintendolife.com/#article-208580",
   "https://www.nintendolife.com/#article-208497",
   "https://www.nintendolife.com/#article-208248",
-  "https://www.nintendolife.com/#article-208518"
+  "https://www.nintendolife.com/#article-208518",
+  "https://www.nintendolife.com/#article-208650"
  ],
  "titles": [
-  "Ева добралась до гибрида: обзоры порта Stellar Blade на Switch 2",
   "Блицкриг от Bend Studio: ждать игру придется до 2027 года",
   "Borderlands покоряет грандиозный рубеж",
   "Актеры сошли бы с ума: в Embark объяснили использование ИИ",
@@ -795,7 +795,8 @@
   "Восемь лет ожидания The Elder Scrolls 6: сможет ли Bethesda вернуть ту самую магии?",
   "Материнская забота откладывается",
   "Arkane была в плюсе, но Microsoft этого мало",
-  "Святилище испытаний перевернет геймплей Halls of Torment"
+  "Святилище испытаний перевернет геймплей Halls of Torment",
+  "Рука мастера: авторы Xenoblade помогли с ремейком Ocarina of Time"
  ],
  "queue": [
   {
@@ -808,6 +809,12 @@
    "post": "<b>Святилище испытаний перевернет геймплей Halls of Torment</b>\n\nДля хардкорного диабплоида вышел второй аддон The Lost Archives вместе с масштабным бесплатным апдейтом. Игроков ждет погружение в архивные залы с культистами и древними тайнами, а новый святилище заметно изменит привычную тактику выживания.\n\n#релиз #Xbox\n\n🎮 Первый игровой",
    "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/lostarchives_E-1-107efff597cfb598df58-1024x576.jpg",
    "ts": "2026-11-04T20:15:39.747950+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Рука мастера: авторы Xenoblade помогли с ремейком Ocarina of Time</b>\n\nNintendo раскрыла детали создания амбициозного ремейка для Switch 2. Оказалось, что к разработке культовой классики приложила руку студия Monolith Soft.\n\n#Nintendo #новости\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/ea62040739695/1280x720.jpg",
+   "ts": "2026-11-05T05:30:54.123012+00:00",
    "tries": 0
   }
  ],
