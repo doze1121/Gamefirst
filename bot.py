@@ -432,7 +432,46 @@ def publish_due(state, now):
         item["tries"] = item.get("tries", 0) + 1
         if item["tries"] >= 3:
             state["queue"].pop(0)  # не блокируем очередь из-за проблемного поста
-            
+
+# ====== НАДЁЖНЫЙ ЗАПРОС К ИИ (повторы и запасные модели) ======
+GEMINI_FALLBACKS = ["gemini-2.5-flash", "gemini-flash-latest", "gemini-2.5-flash-lite"]
+
+
+def ask_llm(prompt):
+    """Если модель перегружена (503) или упёрлась в лимит (429), ждёт и пробует другие модели."""
+    if not GEMINI_KEY:
+        import anthropic
+
+        msg = anthropic.Anthropic().messages.create(
+            model=CLAUDE_MODEL, max_tokens=1500, messages=[{"role": "user", "content": prompt}]
+        )
+        return msg.content[0].text
+    models = [pick_gemini_model()] + [m for m in GEMINI_FALLBACKS if m != pick_gemini_model()]
+    last = None
+    for model in models:
+        for wait in (0, 8, 20):
+            time.sleep(wait)
+            try:
+                r = requests.post(
+                    f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+                    headers={"x-goog-api-key": GEMINI_KEY},
+                    json={"contents": [{"parts": [{"text": prompt}]}]},
+                    timeout=90,
+                )
+            except requests.RequestException as ex:
+                last = ex
+                continue
+            if r.status_code in (429, 500, 502, 503, 504):
+                last = f"{model}: {r.status_code}"
+                print(f"Gemini {model} занят ({r.status_code}), жду и пробую снова")
+                continue
+            if r.status_code == 404:
+                last = f"{model}: нет такой модели"
+                break  # сразу к следующей модели
+            r.raise_for_status()
+            return r.json()["candidates"][0]["content"]["parts"][0]["text"]
+    raise RuntimeError(f"Gemini недоступен: {last}")
+    
 def main():
     state = load_state()
     now = datetime.now(timezone.utc)
