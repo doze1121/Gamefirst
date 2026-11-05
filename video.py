@@ -940,6 +940,120 @@ def write_script(items):
             print(f"Сценарий не разобрался (попытка {attempt + 1}):", str(ex)[:150])
     raise RuntimeError(f"ИИ трижды вернул сценарий с ошибкой: {last}")
     
+# ====== РАЗНЫЕ ТЕМЫ РОЛИКОВ ======
+# Про одну игру можно делать ролики хоть каждый день,
+# но не про одно и то же событие (те же скриншоты, тот же трейлер) с разных сайтов.
+TOPIC_HOURS = int(os.getenv("VIDEO_TOPIC_HOURS", "48"))  # сколько часов помнить события
+STOP = {"with", "from", "that", "this", "have", "will", "your", "about", "after", "before",
+        "ahead", "gets", "more", "than", "into", "over", "just", "what", "when", "here",
+        "first", "look", "says", "game", "games", "news", "new", "now", "out", "the", "and",
+        "for", "its", "has", "all", "rockstar", "official", "officially", "reveals", "shares"}
+
+
+def _load_topics():
+    try:
+        with open(STATE_FILE, encoding="utf-8") as f:
+            return json.load(f).get("topics", [])
+    except Exception:
+        return []
+
+
+TOPICS = _load_topics()
+_save_state_base = save_state
+
+
+def save_state(s):
+    s["topics"] = TOPICS[-40:]
+    _save_state_base(s)
+
+
+def _norm(t):
+    return re.sub(r"[^a-zа-я0-9 ]", "", str(t).lower()).strip()
+
+
+def _keywords(title, game):
+    """Слова, описывающие само событие (без названия игры)."""
+    game_words = set(_norm(game).split()) | {"gta", "vi", "6"}
+    words = re.findall(r"[a-z0-9]{3,}", str(title).lower())
+    return {w for w in words if w not in STOP and w not in game_words and not w.isdigit() or w.isdigit() and len(w) >= 2}
+
+
+def is_same_event(new_title, new_game, old):
+    if not new_game or _norm(new_game) != _norm(old.get("game", "")):
+        return False
+    a = _keywords(new_title, new_game)
+    b = _keywords(old.get("src", ""), new_game)
+    if not a or not b:
+        return False
+    return len(a & b) / min(len(a), len(b)) >= 0.5
+
+
+def recent_topics():
+    border = datetime.now(timezone.utc) - timedelta(hours=TOPIC_HOURS)
+    return [t for t in TOPICS if datetime.fromisoformat(t["ts"]) >= border]
+
+
+def _script_avoiding(items, avoid):
+    listing = "\n".join(f"{i}. [{it['source']}] {it['title']} — {it['text']}" for i, it in enumerate(items))
+    avoid_txt = "\n".join(f"- {t['game'] or '—'}: {t.get('src') or t['title']}" for t in avoid) or "—"
+    prompt = f"""Ты сценарист коротких вертикальных видео (YouTube Shorts, Instagram Reels) для игрового канала «{CHANNEL_NAME}».
+Свежие новости:
+{listing}
+
+Недавно уже вышли ролики про эти события (игра: новость):
+{avoid_txt}
+
+1) Выбери ОДНУ новость, которая больше всего зацепит русскоязычных геймеров (громкий анонс, дата релиза, скандал, неожиданный поворот). Не выбирай скидки, гайды, подборки, рекламу.
+   ВАЖНО: не повторяй событие из списка выше (те же скриншоты, тот же трейлер, тот же анонс), даже если о нём пишет другой сайт.
+   Про ту же игру выбирать можно, если это действительно новое событие.
+2) Напиши закадровый текст на русском своими словами: 45-65 слов, 3-5 коротких предложений, разговорный стиль.
+   Первое предложение — цепляющий крючок. Последнее предложение ровно такое: «Больше новостей — в телеграм-канале «{CHANNEL_NAME}».»
+   Названия игр и компаний пиши так, как их произносят по-русски (например, «Гта шесть», «Сони», «Нинтендо»), без латиницы, цифры — словами.
+   Не выдумывай факты, которых нет в новости.
+3) Короткий заголовок для экрана (до 60 символов, можно латиницей для названий игр).
+4) Название для YouTube (до 90 символов, в конце #Shorts), описание (1-2 предложения) и 5-7 хэштегов.
+5) Официальное английское название ОДНОЙ игры, о которой новость (как в Steam). Если новость не про конкретную игру — пустая строка.
+
+Ответь ТОЛЬКО JSON без пояснений:
+{{"index": 0, "screen_title": "...", "script": "...", "yt_title": "...", "description": "...", "hashtags": ["#игры", "..."], "game_en": "..."}}"""
+    out = bot.ask_llm(prompt)
+    m = re.search(r"\{.*\}", out, re.S)
+    if not m:
+        raise RuntimeError("ИИ вернул не JSON: " + out[:200])
+    data = json.loads(m.group(0))
+    idx = int(data.get("index", 0))
+    if not 0 <= idx < len(items):
+        idx = 0
+    for k in ("screen_title", "script", "yt_title"):
+        if not str(data.get(k, "")).strip():
+            raise RuntimeError(f"В ответе ИИ нет поля {k}")
+    return items[idx], data
+
+
+def write_script(items):
+    """Сценарий про новое событие: повторы одного и того же события отбрасываются."""
+    avoid = recent_topics()
+    pool, last = list(items), None
+    for attempt in range(4):
+        if not pool:
+            break
+        try:
+            item, data = _script_avoiding(pool, avoid)
+        except Exception as ex:
+            last = ex
+            print(f"Сценарий не разобрался (попытка {attempt + 1}):", str(ex)[:150])
+            continue
+        game = str(data.get("game_en", "")).strip()
+        if any(is_same_event(item["title"], game, old) for old in avoid):
+            print("ИИ выбрал уже показанное событие, убираю эту новость:", item["title"])
+            pool = [it for it in pool if it is not item]
+            last = f"повтор события: {item['title']}"
+            continue
+        TOPICS.append({"ts": datetime.now(timezone.utc).isoformat(), "game": game,
+                       "title": data["screen_title"], "src": item["title"]})
+        return item, data
+    raise RuntimeError(f"Не удалось подобрать новую тему: {last}")
+    
 if __name__ == "__main__":
     try:
         main()
