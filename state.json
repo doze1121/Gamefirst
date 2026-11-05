@@ -833,10 +833,15 @@
   "https://www.pushsquare.com/#article-208498",
   "https://www.nintendolife.com/#article-208567",
   "https://news.xbox.com/en-us/?p=227802",
-  "https://www.rockpapershotgun.com/after-a-16-year-long-dev-period-faraway-a-shooting-star-arcade-game-about-siphoning-the-energy-of-other-stars-is-out-now"
+  "https://www.rockpapershotgun.com/after-a-16-year-long-dev-period-faraway-a-shooting-star-arcade-game-about-siphoning-the-energy-of-other-stars-is-out-now",
+  "xuev5D6jtVJrBhFEHLqyCb",
+  "https://www.eurogamer.net/nintendo-cast-navi-actor-zelda-ocarina-of-time",
+  "https://www.pushsquare.com/#article-208642",
+  "https://www.pushsquare.com/#article-208472",
+  "https://news.xbox.com/en-us/?p=227881",
+  "Sp5TH5osZo8kkevi7rt5tY"
  ],
  "titles": [
-  "Паровозиком к релизу: Ocarina of Time на Switch 2 получила патч",
   "Ностальгия из 90-х в Street Fighter 6",
   "Кто спасет создателей Dishonored?",
   "Как киберпанк спас обреченный симулятор",
@@ -855,7 +860,8 @@
   "Стань королем секонд-х",
   "Осторожно, вирус в лаунчере Nikke",
   "Xbox станет быстрее и проще",
-  "16 лет в разработке и наконец-то релиз: соло-хит от автора культового Eliss"
+  "16 лет в разработке и наконец-то релиз: соло-хит от автора культового Eliss",
+  "Искусственный пузырь сдувается?"
  ],
  "queue": [
   {
@@ -868,6 +874,12 @@
    "post": "<b>16 лет в разработке и наконец-то релиз: соло-хит от автора культового Eliss</b>\n\nСоздатель культовой мобильной игры Eliss потратил шестнадцать лет на разработку аркадного проекта Faraway. Новинка предлагает примерить роль падающей звезды, которая собирает энергию других светил ради выживания.\n\n#релиз #индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/faraway.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-05T18:30:53.110317+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Искусственный пузырь сдувается?</b>\n\nПосле выборов акции крупнейших игроков вроде Nvidia и Micron резко пошли вниз. Похоже, на рынке высоких технологий началась долгожданная коррекция, которая может затронуть и всю игровую индустрию.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/8N9tGF8SW8x4iuVV9hNLRR-2560-80.jpg",
+   "ts": "2026-11-05T20:15:40.837672+00:00",
    "tries": 0
   }
  ],
