@@ -17,7 +17,8 @@
   "2026-11-06 12:00",
   "вручную 2026-11-06 12:28",
   "вручную 2026-11-06 15:07",
-  "вручную 2026-11-06 15:09"
+  "вручную 2026-11-06 15:09",
+  "2026-11-06 19:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -34,7 +35,8 @@
   "https://www.rockpapershotgun.com/goddess-of-victory-nikkes-pc-launcher-suffers-potential-malware-infection-with-its-publishers-suggesting-folks-whove-booted-since-late-september-do-a-security-check",
   "https://www.pushsquare.com/#article-208681",
   "https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director",
-  "https://www.rockpapershotgun.com/after-taking-over-ea-saudi-arabia-and-their-private-equity-cronies-have-reportedly-held-talks-about-buying-unity"
+  "https://www.rockpapershotgun.com/after-taking-over-ea-saudi-arabia-and-their-private-equity-cronies-have-reportedly-held-talks-about-buying-unity",
+  "https://www.pushsquare.com/#article-208208"
  ],
  "topics": [
   {
@@ -60,6 +62,12 @@
    "game": "",
    "title": "Саудовская Аравия покупает Unity?",
    "src": "After taking over EA, Saudi Arabia and their private equity cronies have reportedly held talks about buying Unity"
+  },
+  {
+   "ts": "2026-11-06T16:01:26.894906+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "GTA 6: до релиза меньше двух недель!",
+   "src": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?"
   }
  ]
 }
