@@ -859,10 +859,16 @@
   "https://www.gematsu.com/?p=1087172",
   "https://www.gematsu.com/?p=1087368",
   "https://www.nintendolife.com/#article-208721",
-  "672e00f2-04b8-4959-965d-e5d82f676b87"
+  "672e00f2-04b8-4959-965d-e5d82f676b87",
+  "https://www.eurogamer.net/playstation-6-sony-financials-2026-hardware",
+  "https://www.eurogamer.net/steam-games-approvals-delayed-valve-response",
+  "https://www.pushsquare.com/#article-208651",
+  "https://www.nintendolife.com/#article-208655",
+  "https://www.nintendolife.com/#article-208653",
+  "https://www.nintendolife.com/#article-208652",
+  "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time"
  ],
  "titles": [
-  "Эволюция Лары Крофт: от полигонов PS1 до великолепия PS5",
   "Консольные войны возвращаются на PS5",
   "Восемь лет ожидания The Elder Scrolls 6: сможет ли Bethesda вернуть ту самую магии?",
   "Материнская забота откладывается",
@@ -881,7 +887,8 @@
   "Искусственный пузырь сдувается?",
   "Деревенский дзен добрался до PS4",
   "Кинобизнес по-японски: Nintendo продолжит снимать фильмы",
-  "Аппетиты инвесторов растут"
+  "Аппетиты инвесторов растут",
+  "Nintendo балансирует между прошлым и будущим"
  ],
  "queue": [
   {
@@ -894,6 +901,12 @@
    "post": "<b>Аппетиты инвесторов растут</b>\n\nФонд Silver Lake и государственный инвестиционный фонд Саудовской Аравии PIF, недавно приценившиеся к EA, теперь нацелились на Unity. Гиганты хотят полностью выкупить популярного разработчика игрового софта.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://assets-prd.ignimgs.com/2026/11/06/unityblogroll-1793943131268.jpg?width=1280&format=jpg&auto=webp&quality=80",
    "ts": "2026-11-06T08:15:36.595301+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Nintendo балансирует между прошлым и будущим</b>\n\nГлава Nintendo уверен, что ремейки и абсолютно новые игры отлично дополняют друг друга. Успех обновленных релизов вроде Ocarina of Time и Star Fox доказывает, что классика на новом железе чувствует себя превосходно.\n\n#Nintendo #индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Ocarina-Star-Fox.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-06T09:45:37.524396+00:00",
    "tries": 0
   }
  ],
