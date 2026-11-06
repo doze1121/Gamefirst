@@ -884,10 +884,18 @@
   "https://www.pushsquare.com/#article-208674",
   "https://www.pushsquare.com/#article-208671",
   "https://www.nintendolife.com/#article-208667",
-  "https://www.pushsquare.com/#article-208741"
+  "https://www.pushsquare.com/#article-208741",
+  "h4cGv4ewnKXXzdh3yrbwzg",
+  "dGoVvD5qjbh7zq2ktdy2CG",
+  "https://www.eurogamer.net/queens-domain-now-playing",
+  "https://www.pushsquare.com/#article-208639",
+  "https://www.pushsquare.com/#article-208682",
+  "https://www.nintendolife.com/#article-208683",
+  "https://www.nintendolife.com/#article-208679",
+  "https://news.xbox.com/en-us/?p=227948",
+  "https://www.eurogamer.net/world-of-warcraft-forever-hotfix-flag-carrier-plainsrunning"
  ],
  "titles": [
-  "Материнская забота откладывается",
   "Arkane была в плюсе, но Microsoft этого мало",
   "Святилище испытаний перевернет геймплей Halls of Torment",
   "Рука мастера: авторы Xenoblade помогли с ремейком Ocarina of Time",
@@ -906,7 +914,8 @@
   "Аппетиты инвесторов растут",
   "Nintendo балансирует между прошлым и будущим",
   "Штраус Зельник не жалеет о переносе GTA 6",
-  "Мертв до рождения"
+  "Мертв до рождения",
+  "Орда больше не бегает быстрее"
  ],
  "queue": [
   {
@@ -920,15 +929,16 @@
    "image": "https://images.pushsquare.com/7ae9053263de6/1280x720.jpg",
    "ts": "2026-11-06T13:15:40.494242+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Орда больше не бегает быстрее</b>\n\nВ World of Warcraft вышел первый крупный хотфикс, который исправил критический баг в PvP. Ошибка позволяла носителям флагов в «Ущелье Песни Войны» развивать безумную скорость, давая Орде нечестное преимущество в сражениях.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/world-of-warcraft-forever-tauren-face-shot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-06T14:45:38.951966+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-06T14:30:52.860410+00:00",
  "published": [
-  {
-   "ts": "2026-10-29T14:45:37.155776+00:00",
-   "title": "Скандал вокруг вступительного ролика Call of Duty: Modern Warfare 4",
-   "body": "Activision оправдывается за вступительное видео нового шутера, где использовали кадры реальной давки в Сеуле 2022 года. Южнокорейские игроки жестко критикуют разработчиков, но компания заявляет, что трагедию никто не соб"
-  },
   {
    "ts": "2026-10-29T15:30:53.767241+00:00",
    "title": "Формула успеха Konami: делать хорошие игры и получать за это кучу денег",
