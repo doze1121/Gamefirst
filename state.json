@@ -866,10 +866,17 @@
   "https://www.nintendolife.com/#article-208655",
   "https://www.nintendolife.com/#article-208653",
   "https://www.nintendolife.com/#article-208652",
-  "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time"
+  "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time",
+  "msFdzRzQWzKCFK8hqBznEJ",
+  "ryeLkGmpPVvYobbGGBd3BN",
+  "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
+  "https://www.eurogamer.net/world-of-warcraft-forever-launch-smooth",
+  "https://www.rockpapershotgun.com/biowares-closure-represents-an-immense-loss-to-and-possibly-a-targeted-attack-on-canadas-cultural-legacy-argues-petition-calling-on-canadian-government-to-step-in",
+  "https://www.gematsu.com/?p=1087427",
+  "https://www.nintendolife.com/#article-208658",
+  "K4WNrjKvDSRforqrm5fb9g"
  ],
  "titles": [
-  "Консольные войны возвращаются на PS5",
   "Восемь лет ожидания The Elder Scrolls 6: сможет ли Bethesda вернуть ту самую магии?",
   "Материнская забота откладывается",
   "Arkane была в плюсе, но Microsoft этого мало",
@@ -888,7 +895,8 @@
   "Деревенский дзен добрался до PS4",
   "Кинобизнес по-японски: Nintendo продолжит снимать фильмы",
   "Аппетиты инвесторов растут",
-  "Nintendo балансирует между прошлым и будущим"
+  "Nintendo балансирует между прошлым и будущим",
+  "Штраус Зельник не жалеет о переносе GTA 6"
  ],
  "queue": [
   {
@@ -902,15 +910,16 @@
    "image": "https://assetsio.gnwcdn.com/Ocarina-Star-Fox.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-06T09:45:37.524396+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Штраус Зельник не жалеет о переносе GTA 6</b>\n\nГлава Take-Two считает, что выпуск сырого продукта всегда чреват катастрофой для репутации. По его словам, недавний пример громкого провала показал, как опасно спешить с релизами.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/cgsfct7LsSe3YLSHsKbAJF-2560-80.jpg",
+   "ts": "2026-11-06T11:45:41.464463+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-06T11:30:58.734330+00:00",
  "published": [
-  {
-   "ts": "2026-10-29T11:45:40.499940+00:00",
-   "title": "GTA 6 засветилась в... South Park",
-   "body": "До релиза GTA 6 остаются считанные недели, но Rockstar продолжает подогревать интерес. Игра неожиданно появилась в новом эпизоде South Park, где в мультселяре показали реальный геймплей с метанием собачьих фекалий в прох"
-  },
   {
    "ts": "2026-10-29T12:30:50.528770+00:00",
    "title": "Космос стал еще страшнее: для Cronos: The New Dawn анонсировали DLC Lazarus",
