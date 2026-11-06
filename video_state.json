@@ -16,7 +16,8 @@
   "вручную 2026-11-05 20:28",
   "2026-11-06 12:00",
   "вручную 2026-11-06 12:28",
-  "вручную 2026-11-06 15:07"
+  "вручную 2026-11-06 15:07",
+  "вручную 2026-11-06 15:09"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -32,7 +33,8 @@
   "https://www.gematsu.com/?p=1087438",
   "https://www.rockpapershotgun.com/goddess-of-victory-nikkes-pc-launcher-suffers-potential-malware-infection-with-its-publishers-suggesting-folks-whove-booted-since-late-september-do-a-security-check",
   "https://www.pushsquare.com/#article-208681",
-  "https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director"
+  "https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director",
+  "https://www.rockpapershotgun.com/after-taking-over-ea-saudi-arabia-and-their-private-equity-cronies-have-reportedly-held-talks-about-buying-unity"
  ],
  "topics": [
   {
@@ -52,6 +54,12 @@
    "game": "Grand Theft Auto VI",
    "title": "GTA 6 на ПК выйдет раньше из-за нейросетей?",
    "src": "\"It's a brave new world\": GTA 6's PC port will release sooner than you think to avoid losing money to AI rip-offs, says former Rockstar tech director"
+  },
+  {
+   "ts": "2026-11-06T12:09:49.410836+00:00",
+   "game": "",
+   "title": "Саудовская Аравия покупает Unity?",
+   "src": "After taking over EA, Saudi Arabia and their private equity cronies have reportedly held talks about buying Unity"
   }
  ]
 }
