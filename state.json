@@ -904,10 +904,21 @@
   "https://www.nintendolife.com/#article-208686",
   "https://news.xbox.com/en-us/?p=227957",
   "https://news.xbox.com/en-us/?p=227845",
-  "https://www.nintendolife.com/#article-208242"
+  "https://www.nintendolife.com/#article-208242",
+  "NHo8adJVihGEEKcvZUAqcn",
+  "WHTaLt43ccyMkqasjKA32m",
+  "jZusxSVTRiRAeXDxhVWbwA",
+  "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
+  "https://www.rockpapershotgun.com/apex-legends-adds-a-grumpy-teamwiping-godzilla-to-its-growing-history-of-unappealing-crossovers",
+  "https://www.rockpapershotgun.com/nvidia-ensure-unboxing-a-ludicrously-expensive-new-graphics-card-isnt-limited-to-real-life-in-these-ram-crisis-times-by-releasing-a-geforce-8800-gtx-unpacking-sim",
+  "https://www.pushsquare.com/#article-208494",
+  "https://www.pushsquare.com/#article-208697",
+  "https://www.nintendolife.com/#article-208702",
+  "https://www.nintendolife.com/#article-208708",
+  "https://www.nintendolife.com/#article-208691",
+  "C9WBsccHmY4sEHNKez2dSJ"
  ],
  "titles": [
-  "Святилище испытаний перевернет геймплей Halls of Torment",
   "Рука мастера: авторы Xenoblade помогли с ремейком Ocarina of Time",
   "Росомаха рвет чарты, а PS5 уверенно идет к заветной вершине",
   "Танковый вальс возвращается на консоли",
@@ -926,7 +937,8 @@
   "Штраус Зельник не жалеет о переносе GTA 6",
   "Мертв до рождения",
   "Орда больше не бегает быстрее",
-  "Самый странный сон в вашей жизни"
+  "Самый странный сон в вашей жизни",
+  "Дыра размером в 257 символов"
  ],
  "queue": [
   {
@@ -939,6 +951,12 @@
    "post": "<b>Самый странный сон в вашей жизни</b>\n\nЭндимион сюрреализма Titanium Court от разработчика AP Thomson добрался до Switch 2. Игра представляет собой безумный коктейль из разных жанров, музыкальных стилей и образов, собранных воедино благодаря уникальному авторскому видению.\n\n#Nintendo\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/c394b170fd13d/1280x720.jpg",
    "ts": "2026-11-06T16:15:42.394034+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Дыра размером в 257 символов</b>\n\nВ некоторых дистрибутивах Linux обнаружили критическую уязвимость, которая позволяла хакерам легко получать права администратора. Для этого злоумышленникам было достаточно ввести любую строку длиной ровно в 257 символов. Разработчики уже оперативно выпустили патч, закрывающий эту опасную брешь.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/FzqWo3fsvLDFRpTumixHaY-1034-80.jpg",
+   "ts": "2026-11-06T17:45:41.482254+00:00",
    "tries": 0
   }
  ],
