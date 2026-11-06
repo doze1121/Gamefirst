@@ -15,7 +15,8 @@
   "вручную 2026-11-05 20:15",
   "вручную 2026-11-05 20:28",
   "2026-11-06 12:00",
-  "вручную 2026-11-06 12:28"
+  "вручную 2026-11-06 12:28",
+  "вручную 2026-11-06 15:07"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -30,7 +31,8 @@
   "7aa4f53e-dbdf-44d8-baba-fe4ef49abe85",
   "https://www.gematsu.com/?p=1087438",
   "https://www.rockpapershotgun.com/goddess-of-victory-nikkes-pc-launcher-suffers-potential-malware-infection-with-its-publishers-suggesting-folks-whove-booted-since-late-september-do-a-security-check",
-  "https://www.pushsquare.com/#article-208681"
+  "https://www.pushsquare.com/#article-208681",
+  "https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director"
  ],
  "topics": [
   {
@@ -44,6 +46,12 @@
    "game": "",
    "title": "Петиция за спасение BioWare в Канаде",
    "src": "Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government"
+  },
+  {
+   "ts": "2026-11-06T12:07:42.138639+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "GTA 6 на ПК выйдет раньше из-за нейросетей?",
+   "src": "\"It's a brave new world\": GTA 6's PC port will release sooner than you think to avoid losing money to AI rip-offs, says former Rockstar tech director"
   }
  ]
 }
