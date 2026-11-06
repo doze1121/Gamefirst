@@ -13,7 +13,8 @@
   "вручную 2026-11-05 19:39",
   "вручную 2026-11-05 19:43",
   "вручную 2026-11-05 20:15",
-  "вручную 2026-11-05 20:28"
+  "вручную 2026-11-05 20:28",
+  "2026-11-06 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -27,7 +28,8 @@
   "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
   "7aa4f53e-dbdf-44d8-baba-fe4ef49abe85",
   "https://www.gematsu.com/?p=1087438",
-  "https://www.rockpapershotgun.com/goddess-of-victory-nikkes-pc-launcher-suffers-potential-malware-infection-with-its-publishers-suggesting-folks-whove-booted-since-late-september-do-a-security-check"
+  "https://www.rockpapershotgun.com/goddess-of-victory-nikkes-pc-launcher-suffers-potential-malware-infection-with-its-publishers-suggesting-folks-whove-booted-since-late-september-do-a-security-check",
+  "https://www.pushsquare.com/#article-208681"
  ],
  "topics": [
   {
@@ -35,6 +37,12 @@
    "game": "Goddess of Victory: Nikke",
    "title": "Вирус в ПК-лаунчере Nikke!",
    "src": "Goddess of Victory: Nikke's PC launcher suffers potential malware infection, with its publishers suggesting folks who've booted since late September do a security check"
+  },
+  {
+   "ts": "2026-11-06T09:01:25.753375+00:00",
+   "game": "",
+   "title": "Петиция за спасение BioWare в Канаде",
+   "src": "Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government"
   }
  ]
 }
