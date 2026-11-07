@@ -963,10 +963,14 @@
   "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
   "https://www.rockpapershotgun.com/steam-gets-a-boatload-of-restored-wing-commanders-and-ultima-ports-after-ea-producer-stumbles-across-cupboard-of-old-tapes",
   "https://www.gematsu.com/?p=1087498",
-  "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect"
+  "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect",
+  "d4p8XZsjNCfgcFjvicHSXj",
+  "https://www.rockpapershotgun.com/airframe-ultras-ps1-cyberpunk-city-is-an-amazing-tribute-to-g-police-and-wipeout-and-i-wish-you-people-would-slow-down-to-appreciate-it",
+  "https://www.pushsquare.com/#article-208746",
+  "https://www.nintendolife.com/#article-208750",
+  "https://www.nintendolife.com/#article-208740"
  ],
  "titles": [
-  "Осторожно, вирус в лаунчере Nikke",
   "Xbox станет быстрее и проще",
   "16 лет в разработке и наконец-то релиз: соло-хит от автора культового Eliss",
   "Искусственный пузырь сдувается?",
@@ -985,7 +989,8 @@
   "Рейд по складам на Prawn Island",
   "Бэтмен метит в агенты 007",
   "Вся неделя прошла под знаком гитары и карильона",
-  "Смартфон вместо геймпада"
+  "Смартфон вместо геймпада",
+  "Герой на все времена"
  ],
  "queue": [
   {
@@ -998,6 +1003,12 @@
    "post": "<b>Смартфон вместо геймпада</b>\n\nMicrosoft тестирует новые способы запуска облачных игр на Smart\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/XBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-07T12:45:38.936060+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Герой на все времена</b>\n\nРемейк легендарной Zelda: Ocarina of Time наконец-то добрался до владельцев Nintendo Switch 2. Миллионы игроков уже погрузились в ностальгическое путешествие по обновленному Хайрулу, а Nintendo Life запустила опрос об оценках.\n\n#Nintendo #релиз\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/c04a35b43dc0d/1280x720.jpg",
+   "ts": "2026-11-07T14:15:38.766923+00:00",
    "tries": 0
   }
  ],
