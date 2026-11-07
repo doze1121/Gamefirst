@@ -940,10 +940,15 @@
   "https://www.nintendolife.com/#article-208768",
   "MLVNJadhA53djPwD8EkdLQ",
   "4e6875ea-3814-46d6-a5d2-42d97f0118b2",
-  "https://www.eurogamer.net/what-weve-been-playing-vice-city-zelda-world-of-warcraft-forever"
+  "https://www.eurogamer.net/what-weve-been-playing-vice-city-zelda-world-of-warcraft-forever",
+  "https://www.gematsu.com/?p=1087524",
+  "https://www.gematsu.com/?p=1087506",
+  "https://www.gematsu.com/?p=1087492",
+  "https://www.gematsu.com/?p=1087516",
+  "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-407",
+  "1ab66b74-10d7-42d4-96db-8833ac222894"
  ],
  "titles": [
-  "Росомаха пока раскачивается",
   "Диванная RPG: обе части Pillars of Eternity получили полноценную поддержку геймпадов на ПК",
   "Стань королем секонд-х",
   "Осторожно, вирус в лаунчере Nikke",
@@ -962,7 +967,8 @@
   "Отец Dragon Age взялся за космос",
   "Здоровья легенде",
   "Пенсионерский спринт",
-  "Рейд по складам на Prawn Island"
+  "Рейд по складам на Prawn Island",
+  "Бэтмен метит в агенты 007"
  ],
  "queue": [
   {
@@ -975,6 +981,12 @@
    "post": "<b>Рейд по складам на Prawn Island</b>\n\nРедакция Eurogamer поделилась игровыми буднями: пока Мари перепроходит неожиданную часть Zelda, Дом ностальгирует в Vice City времен 80-х. Тем временем Келси раскладывает странные карточки, а Коннор, кажется, навсегда застрял в WoW.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/gtavc_header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-07T08:15:35.049249+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Бэтмен метит в агенты 007</b>\n\nПо слухам, Роберт Паттинсон прошел кинопробы на роль легендарного шпиона в фильме James Bond 26. Кроме того, в список возможных кандидатов на замену Дэниэлу Крейгу неожиданно затесался Николас Холт.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assets-prd.ignimgs.com/2026/10/30/the-batman-bruce-wayne-1793381868012.png?width=1280&format=jpg&auto=webp&quality=80",
+   "ts": "2026-11-07T09:45:39.300520+00:00",
    "tries": 0
   }
  ],
