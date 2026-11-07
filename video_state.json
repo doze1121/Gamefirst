@@ -20,7 +20,8 @@
   "вручную 2026-11-06 15:09",
   "2026-11-06 19:00",
   "2026-11-07 12:00",
-  "2026-11-07 19:00"
+  "2026-11-07 19:00",
+  "вручную 2026-11-07 19:10"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -40,7 +41,8 @@
   "https://www.rockpapershotgun.com/after-taking-over-ea-saudi-arabia-and-their-private-equity-cronies-have-reportedly-held-talks-about-buying-unity",
   "https://www.pushsquare.com/#article-208208",
   "1ab66b74-10d7-42d4-96db-8833ac222894",
-  "https://www.pushsquare.com/#article-208773"
+  "https://www.pushsquare.com/#article-208773",
+  "https://www.nintendolife.com/#article-208772"
  ],
  "topics": [
   {
@@ -84,6 +86,12 @@
    "game": "Grand Theft Auto VI",
    "title": "GTA 6 без диска: физическое издание на PS5",
    "src": "GTA 6's PS5 Physical Edition Revealed in First Photo"
+  },
+  {
+   "ts": "2026-11-07T16:10:26.761728+00:00",
+   "game": "Call of Duty: Warzone",
+   "title": "Call of Duty: Warzone на Switch 2!",
+   "src": "ICYMI: Call Of Duty: Warzone Is Now Available For Switch 2"
   }
  ]
 }
