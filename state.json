@@ -946,10 +946,16 @@
   "https://www.gematsu.com/?p=1087492",
   "https://www.gematsu.com/?p=1087516",
   "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-407",
-  "1ab66b74-10d7-42d4-96db-8833ac222894"
+  "1ab66b74-10d7-42d4-96db-8833ac222894",
+  "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability",
+  "https://www.eurogamer.net/unity-game-engine-saudi-arabia-silver-lake",
+  "https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director",
+  "https://www.rockpapershotgun.com/after-taking-over-ea-saudi-arabia-and-their-private-equity-cronies-have-reportedly-held-talks-about-buying-unity",
+  "https://www.pushsquare.com/#article-208737",
+  "https://www.nintendolife.com/#article-208726",
+  "https://www.nintendolife.com/#article-208736"
  ],
  "titles": [
-  "Диванная RPG: обе части Pillars of Eternity получили полноценную поддержку геймпадов на ПК",
   "Стань королем секонд-х",
   "Осторожно, вирус в лаунчере Nikke",
   "Xbox станет быстрее и проще",
@@ -968,7 +974,8 @@
   "Здоровья легенде",
   "Пенсионерский спринт",
   "Рейд по складам на Prawn Island",
-  "Бэтмен метит в агенты 007"
+  "Бэтмен метит в агенты 007",
+  "Вся неделя прошла под знаком гитары и карильона"
  ],
  "queue": [
   {
@@ -982,15 +989,16 @@
    "image": "https://assets-prd.ignimgs.com/2026/10/30/the-batman-bruce-wayne-1793381868012.png?width=1280&format=jpg&auto=webp&quality=80",
    "ts": "2026-11-07T09:45:39.300520+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Вся неделя прошла под знаком гитары и карильона</b>\n\nВся прошлая неделя на Nintendo прошла под знаком Zelda: на Switch 2 наконец-то добралась культовая Ocarina of Time. Разработчики поделились закулисными секретами, в Лондоне прошла масштабная ночная тусовка, а фанаты вовсю изучают обновленный Водный храм.\n\n#Nintendo #новости\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/c84e6ce8ff536/1280x720.jpg",
+   "ts": "2026-11-07T11:15:37.455823+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-07T11:01:04.186925+00:00",
  "published": [
-  {
-   "ts": "2026-10-30T11:01:05.093556+00:00",
-   "title": "Геймпады в стиле Zelda подешевели перед Черной пятницей",
-   "body": "Лимитированный Nintendo Switch Pro Controller в дизайне The Legend of Legend of Zelda отдают со скидкой всего за $55.99. Приятный бонус: аксессуар будет полностью совместим и со следующей консолью компании."
-  },
   {
    "ts": "2026-10-30T11:45:37.304211+00:00",
    "title": "Контроллер для Switch 2 сливают по скидке",
