@@ -977,10 +977,17 @@
   "https://www.pushsquare.com/#article-208572",
   "https://www.pushsquare.com/#article-208752",
   "https://news.xbox.com/en-us/?p=228033",
-  "https://www.pushsquare.com/#article-208774"
+  "https://www.pushsquare.com/#article-208774",
+  "mXPumAM82sdkaBm8yHJuVb",
+  "EBZPTNTrSnLhL4MhnpPtWe",
+  "VzP43xMSBuZJrz5CcpMPZE",
+  "6cqrUctdto7Y4hZDbgxBCe",
+  "https://www.nintendolife.com/#article-208759",
+  "https://news.xbox.com/en-us/?p=227853",
+  "https://news.xbox.com/en-us/?p=228001",
+  "https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy"
  ],
  "titles": [
-  "16 лет в разработке и наконец-то релиз: соло-хит от автора культового Eliss",
   "Искусственный пузырь сдувается?",
   "Деревенский дзен добрался до PS4",
   "Кинобизнес по-японски: Nintendo продолжит снимать фильмы",
@@ -999,7 +1006,8 @@
   "Вся неделя прошла под знаком гитары и карильона",
   "Смартфон вместо геймпада",
   "Герой на все времена",
-  "Временный эксклюзив снова в тренде"
+  "Временный эксклюзив снова в тренде",
+  "Наследники BioWare"
  ],
  "queue": [
   {
@@ -1012,6 +1020,12 @@
    "post": "<b>Временный эксклюзив снова в тренде</b>\n\nSony решила пересмотреть свою ПК-стратегию и возвращается к жесткой консольной эксклюзивности для главных хитов PS5. Похоже, японская компания поняла, что громкие одиночные релизы продают железо лучше быстрых портов на другие платформы.\n\n#индустрия #PlayStation\n\n🎮 Первый игровой",
    "image": "https://images.pushsquare.com/3d0fa98966ac2/1280x720.jpg",
    "ts": "2026-11-07T15:45:39.525982+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Наследники BioWare</b>\n\nПока фанаты оплакивают судьбу студии, энтузиасты взялись за сохранение ее наследия. Моддеры готовят полноценный ремастер культового кооперативного режима из Mass Effect 3, который почему-то пропустили в Legendary Edition.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/LMP.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-07T17:01:02.319176+00:00",
    "tries": 0
   }
  ],
