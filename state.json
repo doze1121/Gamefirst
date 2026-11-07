@@ -939,10 +939,10 @@
   "https://www.nintendolife.com/#article-208716",
   "https://www.nintendolife.com/#article-208768",
   "MLVNJadhA53djPwD8EkdLQ",
-  "4e6875ea-3814-46d6-a5d2-42d97f0118b2"
+  "4e6875ea-3814-46d6-a5d2-42d97f0118b2",
+  "https://www.eurogamer.net/what-weve-been-playing-vice-city-zelda-world-of-warcraft-forever"
  ],
  "titles": [
-  "Сто миллионов ближе с каждым днем: продажи PS5 приближаются к исторической отметке",
   "Росомаха пока раскачивается",
   "Диванная RPG: обе части Pillars of Eternity получили полноценную поддержку геймпадов на ПК",
   "Стань королем секонд-х",
@@ -961,7 +961,8 @@
   "Дыра размером в 257 символов",
   "Отец Dragon Age взялся за космос",
   "Здоровья легенде",
-  "Пенсионерский спринт"
+  "Пенсионерский спринт",
+  "Рейд по складам на Prawn Island"
  ],
  "queue": [
   {
@@ -975,15 +976,16 @@
    "image": "https://assets-prd.ignimgs.com/2026/09/28/wow-1790594365869.jpg?width=1280&format=jpg&auto=webp&quality=80",
    "ts": "2026-11-07T06:45:39.511650+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Рейд по складам на Prawn Island</b>\n\nРедакция Eurogamer поделилась игровыми буднями: пока Мари перепроходит неожиданную часть Zelda, Дом ностальгирует в Vice City времен 80-х. Тем временем Келси раскладывает странные карточки, а Коннор, кажется, навсегда застрял в WoW.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/gtavc_header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-07T08:15:35.049249+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-07T08:01:01.050932+00:00",
  "published": [
-  {
-   "ts": "2026-10-30T08:01:01.526205+00:00",
-   "title": "Death Stranding уходит в аниме",
-   "body": "Kojima Productions представила первый трейлер Death Stranding Isolations — оригинального анимационного сериала во вселенной культовой игры. Премьера проекта состоится эксклюзивно на Disney+ уже в следующем году."
-  },
   {
    "ts": "2026-10-30T08:45:35.067858+00:00",
    "title": "Harvest Moon расписали контент аж на два года вперёд",
