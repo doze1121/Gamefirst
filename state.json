@@ -991,10 +991,12 @@
   "https://www.rockpapershotgun.com/real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey-inspired-by-age-of-empires-releasing-out-of-early-access-now",
   "https://www.nintendolife.com/#article-208763",
   "https://news.xbox.com/en-us/?p=228041",
-  "uyAfUswLapyVH8AWfkq7jN"
+  "uyAfUswLapyVH8AWfkq7jN",
+  "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
+  "https://www.gematsu.com/?p=1087556",
+  "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs"
  ],
  "titles": [
-  "Деревенский дзен добрался до PS4",
   "Кинобизнес по-японски: Nintendo продолжит снимать фильмы",
   "Аппетиты инвесторов растут",
   "Nintendo балансирует между прошлым и будущим",
@@ -1013,7 +1015,8 @@
   "Герой на все времена",
   "Временный эксклюзив снова в тренде",
   "Наследники BioWare",
-  "Лиза Су расставляет приоритеты"
+  "Лиза Су расставляет приоритеты",
+  "Американские горки трудовых будней"
  ],
  "queue": [
   {
@@ -1027,15 +1030,16 @@
    "image": "https://cdn.mos.cms.futurecdn.net/qDK99x7KtDSDHFZjKX9dj3-1920-80.jpg",
    "ts": "2026-11-07T18:45:35.473272+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Американские горки трудовых будней</b>\n\nСтудия Bit Reactor сократила часть сотрудников. И это произошло всего через месяц после того, как разработчиков вернули из вынужденного отпуска.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/star-wars-zero-company-screen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-07T20:15:34.839125+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-07T20:00:57.272803+00:00",
  "published": [
-  {
-   "ts": "2026-10-30T20:01:01.052137+00:00",
-   "title": "Финская ностальгия на льду: о чем расскажет Puckoff: Reloaded",
-   "body": "Пять разработчиков из Финляндии решили превратить дворовый хоккей с замерзших прудов в глубокую сюжетную историю. Игра исследует феномен легендарного подпольного игрока и доказывает, что на льду важна не только шайба в в"
-  },
   {
    "ts": "2026-10-30T20:45:35.479156+00:00",
    "title": "Мрачные времена для Romero Games",
