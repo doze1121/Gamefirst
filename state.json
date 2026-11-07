@@ -953,10 +953,19 @@
   "https://www.rockpapershotgun.com/after-taking-over-ea-saudi-arabia-and-their-private-equity-cronies-have-reportedly-held-talks-about-buying-unity",
   "https://www.pushsquare.com/#article-208737",
   "https://www.nintendolife.com/#article-208726",
-  "https://www.nintendolife.com/#article-208736"
+  "https://www.nintendolife.com/#article-208736",
+  "2Zu5fZjhDNweaUrP9PYBWQ",
+  "TjiTqSTCUjUvNYtSvTzFwm",
+  "4ixbQUcTwPzjvbXwGGDWuA",
+  "https://www.eurogamer.net/crimson-desert-charting-the-unknown-now-playing",
+  "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb",
+  "https://www.eurogamer.net/bioware-closure-documentary-release",
+  "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
+  "https://www.rockpapershotgun.com/steam-gets-a-boatload-of-restored-wing-commanders-and-ultima-ports-after-ea-producer-stumbles-across-cupboard-of-old-tapes",
+  "https://www.gematsu.com/?p=1087498",
+  "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect"
  ],
  "titles": [
-  "Стань королем секонд-х",
   "Осторожно, вирус в лаунчере Nikke",
   "Xbox станет быстрее и проще",
   "16 лет в разработке и наконец-то релиз: соло-хит от автора культового Eliss",
@@ -975,7 +984,8 @@
   "Пенсионерский спринт",
   "Рейд по складам на Prawn Island",
   "Бэтмен метит в агенты 007",
-  "Вся неделя прошла под знаком гитары и карильона"
+  "Вся неделя прошла под знаком гитары и карильона",
+  "Смартфон вместо геймпада"
  ],
  "queue": [
   {
@@ -989,15 +999,16 @@
    "image": "https://images.nintendolife.com/c84e6ce8ff536/1280x720.jpg",
    "ts": "2026-11-07T11:15:37.455823+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Смартфон вместо геймпада</b>\n\nMicrosoft тестирует новые способы запуска облачных игр на Smart\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/XBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-07T12:45:38.936060+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-07T12:30:53.510927+00:00",
  "published": [
-  {
-   "ts": "2026-10-30T12:30:54.537047+00:00",
-   "title": "Celeste и TowerFall неожиданно пропали из Xbox Store",
-   "body": "Игры Maddy Thorson внезапно исчезли из продажи на консолях Microsoft. Как пояснила разработчица в соцсетях, это осознанный шаг: тайтлы убрали в знак поддержки движения BDS, выступающего против политики Израиля."
-  },
   {
    "ts": "2026-10-30T13:15:36.019342+00:00",
    "title": "Скандал вокруг Call of Duty: Modern Warfare 4: семьи погибших требуют убрать реальные кадры трагедии",
