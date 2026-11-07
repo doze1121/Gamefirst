@@ -18,7 +18,8 @@
   "вручную 2026-11-06 12:28",
   "вручную 2026-11-06 15:07",
   "вручную 2026-11-06 15:09",
-  "2026-11-06 19:00"
+  "2026-11-06 19:00",
+  "2026-11-07 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -36,7 +37,8 @@
   "https://www.pushsquare.com/#article-208681",
   "https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director",
   "https://www.rockpapershotgun.com/after-taking-over-ea-saudi-arabia-and-their-private-equity-cronies-have-reportedly-held-talks-about-buying-unity",
-  "https://www.pushsquare.com/#article-208208"
+  "https://www.pushsquare.com/#article-208208",
+  "1ab66b74-10d7-42d4-96db-8833ac222894"
  ],
  "topics": [
   {
@@ -68,6 +70,12 @@
    "game": "Grand Theft Auto VI",
    "title": "GTA 6: до релиза меньше двух недель!",
    "src": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?"
+  },
+  {
+   "ts": "2026-11-07T09:01:20.482476+00:00",
+   "game": "",
+   "title": "Роберт Паттинсон — новый Джеймс Бонд?",
+   "src": "Robert Pattinson Reportedly Screen-Tested for 007 in James Bond 26"
   }
  ]
 }
