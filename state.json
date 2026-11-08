@@ -1025,10 +1025,20 @@
   "https://www.pushsquare.com/#article-208477",
   "mB6KbGYY2SofzHpC2fkbHK",
   "WUXbaovYKNTCyWMwwhijDj",
-  "https://www.pushsquare.com/#article-208678"
+  "https://www.pushsquare.com/#article-208678",
+  "9fef7e5a-880f-47e6-bb85-b7e745c52d82",
+  "09fa47bc-6d3b-45ae-82a8-56a8f29f63e6",
+  "aaff742c-ad7c-42c5-b3da-d3804d1565b8",
+  "TD5CKrRs72e7zEHK7yAAG6",
+  "3CgR8RNMV2SLBmZccNbUbS",
+  "jJZMZZ89P86ZBdgTx6Mcpk",
+  "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
+  "https://www.rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off",
+  "https://www.pushsquare.com/#article-208773",
+  "https://www.nintendolife.com/#article-208772",
+  "https://www.eurogamer.net/phasmophobia-ghost-hunts-for-hearts-230000-american-heart-association"
  ],
  "titles": [
-  "Дыра размером в 257 символов",
   "Отец Dragon Age взялся за космос",
   "Здоровья легенде",
   "Пенсионерский спринт",
@@ -1047,7 +1057,8 @@
   "Лучший билет в Hyrule",
   "Воскресный сюрреализм и вечный Skyrim",
   "Непобедимый античит",
-  "Стальные нервы и самурайский вайб"
+  "Стальные нервы и самурайский вайб",
+  "Сердце бьется чаще"
  ],
  "queue": [
   {
@@ -1060,6 +1071,12 @@
    "post": "<b>Стальные нервы и самурайский вайб</b>\n\nOnimusha: Way of the Sword и Phantom Blade Zero претендуют на звание главных экшенов года благодаря невероятно зрелищным и выверенным поединкам на мечах. Автор Push Square уверен, что эти проекты задают новую планку для жанра и оставляют позади большинство конкурентов.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://images.pushsquare.com/09897e2409e0d/1280x720.jpg",
    "ts": "2026-11-08T14:30:52.713044+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Сердце бьется чаще</b>\n\nСообщество Phasmophobia перевело американской ассоциации кардиологов впечатляющие 230 тысяч долларов. Игроки не только превзошли прошлогодний результат почти в два раза, но и доказали, что охотники за призраками обладают самыми большими сердцами.\n\n#новости #индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/phasmophobia_header_AdobeStock_291529108.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-08T17:30:54.574326+00:00",
    "tries": 0
   }
  ],
