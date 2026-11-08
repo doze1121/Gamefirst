@@ -21,7 +21,8 @@
   "2026-11-06 19:00",
   "2026-11-07 12:00",
   "2026-11-07 19:00",
-  "вручную 2026-11-07 19:10"
+  "вручную 2026-11-07 19:10",
+  "2026-11-08 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -42,7 +43,8 @@
   "https://www.pushsquare.com/#article-208208",
   "1ab66b74-10d7-42d4-96db-8833ac222894",
   "https://www.pushsquare.com/#article-208773",
-  "https://www.nintendolife.com/#article-208772"
+  "https://www.nintendolife.com/#article-208772",
+  "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour"
  ],
  "topics": [
   {
@@ -92,6 +94,12 @@
    "game": "Call of Duty: Warzone",
    "title": "Call of Duty: Warzone на Switch 2!",
    "src": "ICYMI: Call Of Duty: Warzone Is Now Available For Switch 2"
+  },
+  {
+   "ts": "2026-11-08T09:01:28.259961+00:00",
+   "game": "Assassin's Creed Shadows",
+   "title": "Assassins Creed идет в Древний Рим!",
+   "src": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem"
   }
  ]
 }
