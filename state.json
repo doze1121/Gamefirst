@@ -994,10 +994,27 @@
   "uyAfUswLapyVH8AWfkq7jN",
   "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
   "https://www.gematsu.com/?p=1087556",
-  "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs"
+  "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
+  "923616f7-4885-4d4b-be7d-3ce7343b0c48",
+  "6aae0817-f470-4c10-991c-658dc8119688",
+  "03197983-ac7f-4e23-bdd9-23c4871470d9",
+  "27a54a58-9dbf-4ddc-94ae-012ce822d76f",
+  "25a570c5-5d8c-45d4-bb6a-18c8740259be",
+  "9e3ca62e-4e59-44e6-8f13-79a83a6bb7a9",
+  "0beface0-391e-41c1-955f-1b5875aae6e2",
+  "9639d948-b23d-4478-b464-20cf5825b52e",
+  "c2459021-79e2-405c-93c3-65f4872b8e10",
+  "Jzra83RYFH5xSYrb8MtWxa",
+  "XdETHCHF826hPvffjnbMX8",
+  "CWD4isG52NWFygPpKhDKd9",
+  "BeVgoVXBumHzAwnHgMLMQe",
+  "JjtqTTPtaPX3TMUBPihMsY",
+  "WUBBUjStSQK3MZa93Eo3oh",
+  "https://www.pushsquare.com/#article-208743",
+  "https://www.nintendolife.com/#article-208767",
+  "uZaq2eh4b4MtV5Vuhv3UAg"
  ],
  "titles": [
-  "Кинобизнес по-японски: Nintendo продолжит снимать фильмы",
   "Аппетиты инвесторов растут",
   "Nintendo балансирует между прошлым и будущим",
   "Штраус Зельник не жалеет о переносе GTA 6",
@@ -1016,7 +1033,8 @@
   "Временный эксклюзив снова в тренде",
   "Наследники BioWare",
   "Лиза Су расставляет приоритеты",
-  "Американские горки трудовых будней"
+  "Американские горки трудовых будней",
+  "Краб всему виной"
  ],
  "queue": [
   {
@@ -1029,6 +1047,12 @@
    "post": "<b>Американские горки трудовых будней</b>\n\nСтудия Bit Reactor сократила часть сотрудников. И это произошло всего через месяц после того, как разработчиков вернули из вынужденного отпуска.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/star-wars-zero-company-screen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-07T20:15:34.839125+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Краб всему виной</b>\n\nГеймдиректор Path of Exile 2 уверен, что долгожданный рекап смертей наконец-то поможет игрокам правильно направлять свой гнев. Теперь после очередной нелепой гибели можно будет точно понять, в ком или в чем именно была проблема — в кривых руках или в том самом злосчастном крабе.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/DGA7LqKTtAjY5xuVxbZqUa-1920-80.jpg",
+   "ts": "2026-11-08T05:15:42.298905+00:00",
    "tries": 0
   }
  ],
