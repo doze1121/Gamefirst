@@ -22,7 +22,8 @@
   "2026-11-07 12:00",
   "2026-11-07 19:00",
   "вручную 2026-11-07 19:10",
-  "2026-11-08 12:00"
+  "2026-11-08 12:00",
+  "2026-11-08 19:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -44,7 +45,8 @@
   "1ab66b74-10d7-42d4-96db-8833ac222894",
   "https://www.pushsquare.com/#article-208773",
   "https://www.nintendolife.com/#article-208772",
-  "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour"
+  "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour",
+  "https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon"
  ],
  "topics": [
   {
@@ -100,6 +102,12 @@
    "game": "Assassin's Creed Shadows",
    "title": "Assassins Creed идет в Древний Рим!",
    "src": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem"
+  },
+  {
+   "ts": "2026-11-08T16:01:35.431639+00:00",
+   "game": "Among Us",
+   "title": "Спасение через Among Us!",
+   "src": "Missing teenager rescued after reaching out to another player in Among Us"
   }
  ]
 }
