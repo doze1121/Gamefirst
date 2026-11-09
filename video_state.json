@@ -24,7 +24,8 @@
   "вручную 2026-11-07 19:10",
   "2026-11-08 12:00",
   "2026-11-08 19:00",
-  "2026-11-09 12:00"
+  "2026-11-09 12:00",
+  "2026-11-09 19:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -48,7 +49,8 @@
   "https://www.nintendolife.com/#article-208772",
   "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour",
   "https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon",
-  "b654128f-b767-4cce-a565-8591fb568a65"
+  "b654128f-b767-4cce-a565-8591fb568a65",
+  "https://www.pushsquare.com/#article-208824"
  ],
  "topics": [
   {
@@ -116,6 +118,12 @@
    "game": "",
    "title": "Скандал с главой Nvidia!",
    "src": "Nvidia Launches Investigation Into CEO Jensen Huang Following Affair With Alleged Chinese Spy"
+  },
+  {
+   "ts": "2026-11-09T16:01:36.492683+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "GTA 6: Куртка за 300 000 рублей!",
+   "src": "GTA 6's Exclusive Selfridges Merch Is Daylight Robbery"
   }
  ]
 }
