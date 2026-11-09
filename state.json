@@ -1062,10 +1062,10 @@
   "f3411d86-ae1d-43d0-af9e-85e69df25fbc",
   "https://www.eurogamer.net/gta-6-achievements-trophies-55",
   "https://www.nintendolife.com/#article-208732",
-  "https://www.nintendolife.com/#article-208805"
+  "https://www.nintendolife.com/#article-208805",
+  "https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it"
  ],
  "titles": [
-  "Герой на все времена",
   "Временный эксклюзив снова в тренде",
   "Наследники BioWare",
   "Лиза Су расставляет приоритеты",
@@ -1084,7 +1084,8 @@
   "Патент на родительство",
   "Эльф с гитарным риффом",
   "Коллекционерам платин приготовиться",
-  "Коллекционная лихорадка"
+  "Коллекционная лихорадка",
+  "Самурайский GTA мог стать реальностью"
  ],
  "queue": [
   {
@@ -1097,6 +1098,12 @@
    "post": "<b>Коллекционная лихорадка</b>\n\nВ США фанат Pokémon так сильно хотел заполучить новый набор карт, что в разгар ночи бросил шестилетнюю дочь прямо в очереди у магазина Target. Полиция задержала отца-фанатика после звонка неравнодушных граждан, заметивших ребенка без присмотра.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/4eafa770df3cb/1280x720.jpg",
    "ts": "2026-11-09T11:15:42.004640+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Самурайский GTA мог стать реальностью</b>\n\nБывший техдиректор Rockstar North подтвердил, что студия всерьез размышляла о создании Grand Theft Auto в декорациях Токио. Проект так и не вышел за рамки ранних обсуждений, хотя в коде GTA 5 фанаты позже нашли упоминания «Tokyo PS2».\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/gta-6-dnacers.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-09T12:45:40.836752+00:00",
    "tries": 0
   }
  ],
