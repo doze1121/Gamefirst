@@ -1056,10 +1056,11 @@
   "https://www.rockpapershotgun.com/echoes-of-mirrors-edge-dishonored-and-a-dream-set-in-italy-i-once-had-can-be-found-in-boars-in-rome-an-expressive-parkour-platformer-set-in-dystopian-rome",
   "https://www.rockpapershotgun.com/county-of-fortune-now-out-in-early-access-is-a-medieval-city-builder-that-asks-why-limit-yourself-to-just-one-city",
   "https://www.pushsquare.com/#article-208786",
-  "FFLaySGcpk3VrbFUVxJerY"
+  "FFLaySGcpk3VrbFUVxJerY",
+  "2367aed3-8145-409e-9ba1-1bd385858e5f",
+  "a3cf1875-b499-41c0-a95b-ab5513941cf8"
  ],
  "titles": [
-  "Рейд по складам на Prawn Island",
   "Бэтмен метит в агенты 007",
   "Вся неделя прошла под знаком гитары и карильона",
   "Смартфон вместо геймпада",
@@ -1078,7 +1079,8 @@
   "Сердце бьется чаще",
   "Разные школы веселья",
   "Лечиться мечом — звучит как план",
-  "Уроки прошлого для будущих хитов"
+  "Уроки прошлого для будущих хитов",
+  "Патент на родительство"
  ],
  "queue": [
   {
@@ -1091,6 +1093,12 @@
    "post": "<b>Уроки прошлого для будущих хитов</b>\n\nБывший ведущий дизайнер Bethesda Брюс Несмит уверен: Skyrim стал феноменом благодаря преемственности поколений и опыту, накопленному еще на разработке Oblivion. На фоне массовых увольнений в индустрии это звучит как горькое напоминание о том, как важно ценить ветеранов, которые действительно знают, как делать игры.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://cdn.mos.cms.futurecdn.net/MyvfFsTsp3uiJPAp3NHRnB-1920-80.jpg",
    "ts": "2026-11-09T05:15:36.059981+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Патент на родительство</b>\n\nВ США арестовали отца, который оставил свою спящую шестилетнюю дочь одну в очереди за карточками Pokémon. Пока мужчина где-то пропадал, бдительные очевидцы вызвали полицию, оценив приоритеты геймера-родителя.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assets-prd.ignimgs.com/2025/02/27/pokemon-tcg-trailer-blog-1740667087951.jpg?width=1280&format=jpg&auto=webp&quality=80",
+   "ts": "2026-11-09T06:45:39.572074+00:00",
    "tries": 0
   }
  ],
