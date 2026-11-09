@@ -1068,10 +1068,15 @@
   "https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon",
   "https://www.eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players",
   "https://www.pushsquare.com/#article-208792",
-  "https://www.rockpapershotgun.com/this-week-in-pc-games-solve-the-disappearance-of-700-people-build-a-night-market-for-spirits-and-play-chess-on-a-board-that-disobeys-physics"
+  "https://www.rockpapershotgun.com/this-week-in-pc-games-solve-the-disappearance-of-700-people-build-a-night-market-for-spirits-and-play-chess-on-a-board-that-disobeys-physics",
+  "tXUJS5NZ3mP2FDbMSawDgR",
+  "B8XJ77Kbbcpia4xTJcNi7D",
+  "https://www.eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster",
+  "https://www.gematsu.com/?p=1087580",
+  "https://www.gematsu.com/?p=1087585",
+  "https://www.eurogamer.net/call-of-duty-warzone-agent-cheating-software-shutdown"
  ],
  "titles": [
-  "Наследники BioWare",
   "Лиза Су расставляет приоритеты",
   "Американские горки трудовых будней",
   "Краб всему виной",
@@ -1090,7 +1095,8 @@
   "Коллекционерам платин приготовиться",
   "Коллекционная лихорадка",
   "Самурайский GTA мог стать реальностью",
-  "Рынок наводнили свежие релизы"
+  "Рынок наводнили свежие релизы",
+  "Удобный обход"
  ],
  "queue": [
   {
@@ -1103,6 +1109,12 @@
    "post": "<b>Рынок наводнили свежие релизы</b>\n\nСвежая подборка любопытных ПК-игр уже здесь. На этой неделе нас ждут расследование таинственного исчезновения целого городка, обустройство ночного рынка для духов и необычные шахматы с изломанной физикой.\n\n#релиз\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/Oboro-no-Ichi-night-market.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-09T14:15:38.118190+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Удобный обход</b>\n\nActivision объявила войну сторонним приложениям для Call of Duty: Warzone, которые позволяли игрокам заранее проверять уровень лобби. С помощью такого софта казуальные геймеры могли избегать киберспортсменов и «потних» матчей, находя себе соперников попроще. Теперь лавочку прикрывают, возвращая честный рандом.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/call-of-duty-warzone-modern-warfare-4-screen-4.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-09T15:45:38.295297+00:00",
    "tries": 0
   }
  ],
