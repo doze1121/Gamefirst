@@ -1074,10 +1074,13 @@
   "https://www.eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster",
   "https://www.gematsu.com/?p=1087580",
   "https://www.gematsu.com/?p=1087585",
-  "https://www.eurogamer.net/call-of-duty-warzone-agent-cheating-software-shutdown"
+  "https://www.eurogamer.net/call-of-duty-warzone-agent-cheating-software-shutdown",
+  "ca85a760-c5ea-49ca-9211-1513411ef5e9",
+  "6C8QTui2tQ7na5AKHcNmGe",
+  "https://www.nintendolife.com/#article-79212",
+  "utgiZis62FpuwZpnVqacwa"
  ],
  "titles": [
-  "Лиза Су расставляет приоритеты",
   "Американские горки трудовых будней",
   "Краб всему виной",
   "Одаринка на максималках",
@@ -1096,7 +1099,8 @@
   "Коллекционная лихорадка",
   "Самурайский GTA мог стать реальностью",
   "Рынок наводнили свежие релизы",
-  "Удобный обход"
+  "Удобный обход",
+  "Святая инквизиция на подходе"
  ],
  "queue": [
   {
@@ -1109,6 +1113,12 @@
    "post": "<b>Удобный обход</b>\n\nActivision объявила войну сторонним приложениям для Call of Duty: Warzone, которые позволяли игрокам заранее проверять уровень лобби. С помощью такого софта казуальные геймеры могли избегать киберспортсменов и «потних» матчей, находя себе соперников попроще. Теперь лавочку прикрывают, возвращая честный рандом.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/call-of-duty-warzone-modern-warfare-4-screen-4.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-09T15:45:38.295297+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Святая инквизиция на подходе</b>\n\nOwlcat Games определилась с датой выхода Dark Heresy — идейного продолжения Warhammer 40K: Rogue Trader. Новая изометрическая RPG погрузит игроков в мрачные будни аколитов инквизиции уже в конце января.\n\n#релиз\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/bN44RWjVnGBrsfiBwprcpM-1920-80.jpg",
+   "ts": "2026-11-09T17:15:39.663528+00:00",
    "tries": 0
   }
  ],
