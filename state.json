@@ -1082,10 +1082,10 @@
   "YbtoYx7fQ6r5qFxwHFnZYk",
   "https://www.eurogamer.net/zelda-ocarina-of-time-remake-master-quest-dlc-datamine",
   "https://www.gematsu.com/?p=1087579",
-  "https://www.gematsu.com/?p=1087703"
+  "https://www.gematsu.com/?p=1087703",
+  "https://www.eurogamer.net/mass-effect-cast-save-bioware-n7-day"
  ],
  "titles": [
-  "Краб всему виной",
   "Одаринка на максималках",
   "Лучше, чем мы думали",
   "Лучший билет в Hyrule",
@@ -1104,7 +1104,8 @@
   "Рынок наводнили свежие релизы",
   "Удобный обход",
   "Святая инквизиция на подходе",
-  "Снова стучим на соседа"
+  "Снова стучим на соседа",
+  "Последний рубеж N7"
  ],
  "queue": [
   {
@@ -1117,6 +1118,12 @@
    "post": "<b>Снова стучим на соседа</b>\n\nAlawar официально анонсировала Beholder IV — продолжение известной антиутопической серии про непростую жизнь управляющего доходным домом. Игроков снова ждут моральные дилеммы, слежка за жильцами и тотальный контроль со стороны государства.\n\n#анонс\n\n🎮 Первый игровой",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Beholder-4-Ann_11-09-26.jpg",
    "ts": "2026-11-09T18:31:25.184088+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Последний рубеж N7</b>\n\nЭтот день N7 выдался особенным: фанаты Mass Effect устроили масштабный флешмоб в поддержку любимой серии после закрытия BioWare. К движению SaveMassEffect неожиданно присоединились даже оригинальные актеры озвучки, верящие в спасение франшизы.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/maxresdefault_wbxErkr.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-09T20:15:38.682389+00:00",
    "tries": 0
   }
  ],
