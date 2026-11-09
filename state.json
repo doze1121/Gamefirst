@@ -1063,10 +1063,14 @@
   "https://www.eurogamer.net/gta-6-achievements-trophies-55",
   "https://www.nintendolife.com/#article-208732",
   "https://www.nintendolife.com/#article-208805",
-  "https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it"
+  "https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it",
+  "kihPxqXZtuu5pMy8TWkUZ3",
+  "https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon",
+  "https://www.eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players",
+  "https://www.pushsquare.com/#article-208792",
+  "https://www.rockpapershotgun.com/this-week-in-pc-games-solve-the-disappearance-of-700-people-build-a-night-market-for-spirits-and-play-chess-on-a-board-that-disobeys-physics"
  ],
  "titles": [
-  "Временный эксклюзив снова в тренде",
   "Наследники BioWare",
   "Лиза Су расставляет приоритеты",
   "Американские горки трудовых будней",
@@ -1085,7 +1089,8 @@
   "Эльф с гитарным риффом",
   "Коллекционерам платин приготовиться",
   "Коллекционная лихорадка",
-  "Самурайский GTA мог стать реальностью"
+  "Самурайский GTA мог стать реальностью",
+  "Рынок наводнили свежие релизы"
  ],
  "queue": [
   {
@@ -1098,6 +1103,12 @@
    "post": "<b>Самурайский GTA мог стать реальностью</b>\n\nБывший техдиректор Rockstar North подтвердил, что студия всерьез размышляла о создании Grand Theft Auto в декорациях Токио. Проект так и не вышел за рамки ранних обсуждений, хотя в коде GTA 5 фанаты позже нашли упоминания «Tokyo PS2».\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/gta-6-dnacers.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-09T12:45:40.836752+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Рынок наводнили свежие релизы</b>\n\nСвежая подборка любопытных ПК-игр уже здесь. На этой неделе нас ждут расследование таинственного исчезновения целого городка, обустройство ночного рынка для духов и необычные шахматы с изломанной физикой.\n\n#релиз\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Oboro-no-Ichi-night-market.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-09T14:15:38.118190+00:00",
    "tries": 0
   }
  ],
