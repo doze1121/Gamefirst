@@ -25,7 +25,8 @@
   "2026-11-08 12:00",
   "2026-11-08 19:00",
   "2026-11-09 12:00",
-  "2026-11-09 19:00"
+  "2026-11-09 19:00",
+  "вручную 2026-11-09 21:27"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -50,7 +51,8 @@
   "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour",
   "https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon",
   "b654128f-b767-4cce-a565-8591fb568a65",
-  "https://www.pushsquare.com/#article-208824"
+  "https://www.pushsquare.com/#article-208824",
+  "0b34adce-91ca-4b9e-b952-3bb85035287f"
  ],
  "topics": [
   {
@@ -124,6 +126,12 @@
    "game": "Grand Theft Auto VI",
    "title": "GTA 6: Куртка за 300 000 рублей!",
    "src": "GTA 6's Exclusive Selfridges Merch Is Daylight Robbery"
+  },
+  {
+   "ts": "2026-11-09T18:27:27.901418+00:00",
+   "game": "",
+   "title": "У Сони Плейстейшн Портал появилась память!",
+   "src": "Sony Launches New PS Portal Model in Japan With Internal Storage for 'Future Functionality,' Changes Official Name"
   }
  ]
 }
