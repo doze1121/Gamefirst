@@ -1124,10 +1124,18 @@
   "https://www.nintendolife.com/#article-208819",
   "https://www.nintendolife.com/#article-208817",
   "https://www.nintendolife.com/#article-208491",
-  "https://www.pushsquare.com/#article-208889"
+  "https://www.pushsquare.com/#article-208889",
+  "yDu6icxLdJpLRtJuzW8Fti",
+  "pD2puf9JsQbLJcZkrhuDgR",
+  "https://www.eurogamer.net/masahiro-sakurai-generative-ai-famitsu",
+  "https://www.rockpapershotgun.com/the-lesson-learned-is-you-can-have-both-skyrim-lead-designer-reckons-theres-merit-in-baldurs-gate-3-style-tough-choices-and-bethesdas-do-anything-approach",
+  "https://www.gematsu.com/?p=1087614",
+  "https://www.pushsquare.com/#article-208829",
+  "https://www.pushsquare.com/#article-208828",
+  "https://news.xbox.com/en-us/?p=228072",
+  "https://www.pushsquare.com/#article-208893"
  ],
  "titles": [
-  "Разные школы веселья",
   "Лечиться мечом — звучит как план",
   "Уроки прошлого для будущих хитов",
   "Патент на родительство",
@@ -1146,7 +1154,8 @@
   "Магия Zelda творит чудеса",
   "Больше, чем просто клон",
   "Добыча любой ценой",
-  "Тридцать кадров и точка"
+  "Тридцать кадров и точка",
+  "Момент истины для Bungie"
  ],
  "queue": [
   {
@@ -1159,6 +1168,12 @@
    "post": "<b>Тридцать кадров и точка</b>\n\nRockstar раскрыла детали графики GTA 6 на обычной PS5 и мощной PS5 Pro. Ожиговладельцев ждет повышен\n\n🎮 Первый игровой",
    "image": "https://images.pushsquare.com/30e94f06a6b3c/1280x720.jpg",
    "ts": "2026-11-10T14:15:40.344145+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Момент истины для Bungie</b>\n\nСудьба шутера Marathon решится уже в декабре. Разработчики подтвердили, что крупное обновление Symbiosis выйдет 8 декабря. Именно этот патч должен спасти проект от провала на фоне катастрофически низкого онлайн-плеера.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/83406d3836989/1280x720.jpg",
+   "ts": "2026-11-10T15:45:41.655398+00:00",
    "tries": 0
   }
  ],
