@@ -1112,10 +1112,21 @@
   "https://www.gematsu.com/?p=1086658",
   "https://www.pushsquare.com/#article-208808",
   "https://www.nintendolife.com/#article-208811",
-  "https://www.gematsu.com/?p=1087846"
+  "https://www.gematsu.com/?p=1087846",
+  "https://www.eurogamer.net/the-elder-scrolls-6-sentinel-ladders-skyrim-bethesda-designer",
+  "https://www.eurogamer.net/ocarina-of-time-support-studios-confirmed-switch-2",
+  "https://www.rockpapershotgun.com/there-is-no-excuse-for-what-i-did-nvidia-ceo-says-as-affair-with-an-alleged-chinese-spy-makes-the-us-china-ai-race-look-even-more-ridiculous",
+  "https://www.gematsu.com/?p=1087616",
+  "https://www.gematsu.com/?p=1087612",
+  "https://www.pushsquare.com/#article-208824",
+  "https://www.pushsquare.com/#article-208815",
+  "https://www.pushsquare.com/#article-208809",
+  "https://www.nintendolife.com/#article-208819",
+  "https://www.nintendolife.com/#article-208817",
+  "https://www.nintendolife.com/#article-208491",
+  "https://www.pushsquare.com/#article-208889"
  ],
  "titles": [
-  "Сердце бьется чаще",
   "Разные школы веселья",
   "Лечиться мечом — звучит как план",
   "Уроки прошлого для будущих хитов",
@@ -1134,7 +1145,8 @@
   "Эффект Манделы по-хайрульски",
   "Магия Zelda творит чудеса",
   "Больше, чем просто клон",
-  "Добыча любой ценой"
+  "Добыча любой ценой",
+  "Тридцать кадров и точка"
  ],
  "queue": [
   {
@@ -1147,6 +1159,12 @@
    "post": "<b>Добыча любой ценой</b>\n\nМногопользовательская extraction-RPG HUNGER отправляется покорять Steam в раннем доступе уже 3 декабря. Игрокам предطرла опасная борьба за ценные ресурсы в суровом мире, где выжить смогут только самые расчетливые мародеры.\n\n#релиз\n\n🎮 Первый игровой",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/HUNGER-EA-Date_11-10-26.jpg",
    "ts": "2026-11-10T12:45:41.819384+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Тридцать кадров и точка</b>\n\nRockstar раскрыла детали графики GTA 6 на обычной PS5 и мощной PS5 Pro. Ожиговладельцев ждет повышен\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/30e94f06a6b3c/1280x720.jpg",
+   "ts": "2026-11-10T14:15:40.344145+00:00",
    "tries": 0
   }
  ],
