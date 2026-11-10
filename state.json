@@ -1096,10 +1096,12 @@
   "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-free-trial-november",
   "https://www.pushsquare.com/#article-208800",
   "https://www.nintendolife.com/#article-208801",
-  "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-switch-2-best-week-sales"
+  "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-switch-2-best-week-sales",
+  "https://www.pushsquare.com/#article-208797",
+  "https://www.nintendolife.com/#article-208806",
+  "hzZqBwJuZSYvsvqpZQ7P59"
  ],
  "titles": [
-  "Непобедимый античит",
   "Стальные нервы и самурайский вайб",
   "Сердце бьется чаще",
   "Разные школы веселья",
@@ -1118,7 +1120,8 @@
   "Конец для авторов Unknown 9",
   "Безумие кроликов возвращается",
   "Эффект Манделы по-хайрульски",
-  "Магия Zelda творит чудеса"
+  "Магия Zelda творит чудеса",
+  "Больше, чем просто клон"
  ],
  "queue": [
   {
@@ -1132,15 +1135,16 @@
    "image": "https://assetsio.gnwcdn.com/switch-2-the-legend-of-zelda--40th-anniversary-edition-grab-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-10T09:45:38.049209+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Больше, чем просто клон</b>\n\nИгра Warhammer Survivors оказалась куда глубже, чем банальная калька с Vampire Survivors про космодесантников. Проект приятно удивляет деталями и механиками, сохраняя при этом бешеный темп и\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/pUAtdsuf3rVrGneiJe6qXc-2560-80.jpg",
+   "ts": "2026-11-10T11:15:42.188391+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-10T11:01:04.308674+00:00",
  "published": [
-  {
-   "ts": "2026-11-02T11:01:11.839537+00:00",
-   "title": "HoYoverse метит в сиквел консоли от Nintendo",
-   "body": "Создатели Genshin Impact анонсировали космический симулятор жизни Petit Planet. Бесплатная игра заглянет на Switch 2 в 2027 году, а до других платформ добраться обещают чуть раньше — в декабре 2026-го."
-  },
   {
    "ts": "2026-11-02T12:30:53.172931+00:00",
    "title": "Дэйв Батиста превращается в Бога Войны",
