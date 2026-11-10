@@ -26,7 +26,8 @@
   "2026-11-08 19:00",
   "2026-11-09 12:00",
   "2026-11-09 19:00",
-  "вручную 2026-11-09 21:27"
+  "вручную 2026-11-09 21:27",
+  "2026-11-10 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -52,7 +53,8 @@
   "https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon",
   "b654128f-b767-4cce-a565-8591fb568a65",
   "https://www.pushsquare.com/#article-208824",
-  "0b34adce-91ca-4b9e-b952-3bb85035287f"
+  "0b34adce-91ca-4b9e-b952-3bb85035287f",
+  "https://www.pushsquare.com/#article-208857"
  ],
  "topics": [
   {
@@ -132,6 +134,12 @@
    "game": "",
    "title": "У Сони Плейстейшн Портал появилась память!",
    "src": "Sony Launches New PS Portal Model in Japan With Internal Storage for 'Future Functionality,' Changes Official Name"
+  },
+  {
+   "ts": "2026-11-10T09:04:58.899564+00:00",
+   "game": "",
+   "title": "PS5 без подарков, а Nintendo смогла!",
+   "src": "PS5 Now the Only Console without a Digital Game Gifting Option"
   }
  ]
 }
