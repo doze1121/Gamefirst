@@ -1150,10 +1150,14 @@
   "https://www.pushsquare.com/#article-208833",
   "https://www.nintendolife.com/#article-208831",
   "https://news.xbox.com/en-us/?p=228022",
-  "https://www.gematsu.com/?p=1087835"
+  "https://www.gematsu.com/?p=1087835",
+  "https://www.eurogamer.net/hollow-knight-silksong-physical-free-content-packs-sea-of-sorrow",
+  "https://www.rockpapershotgun.com/warhammer-40000-dark-heresy-releases-in-january-leaving-not-very-long-to-prepare-for-all-the-crunchy-crpg-choices-and-secret-wars-itll-lob-your-way",
+  "https://www.gematsu.com/?p=1087693",
+  "https://www.nintendolife.com/#article-208835",
+  "https://www.rockpapershotgun.com/marathon-is-becoming-a-whole-new-game-next-month-with-a-roguelite-pve-mode-a-beta-for-a-very-halo-esque-team-deathmatch-mode-a-vibey-social-space-and-more"
  ],
  "titles": [
-  "Уроки прошлого для будущих хитов",
   "Патент на родительство",
   "Эльф с гитарным риффом",
   "Коллекционерам платин приготовиться",
@@ -1172,7 +1176,8 @@
   "Добыча любой ценой",
   "Тридцать кадров и точка",
   "Момент истины для Bungie",
-  "Армия клонов наступает"
+  "Армия клонов наступает",
+  "Второе дыхание для Marathon"
  ],
  "queue": [
   {
@@ -1186,15 +1191,16 @@
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/All-Army-Attack_2026_11-10-26_016.jpg",
    "ts": "2026-11-10T17:15:41.304912+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Второе дыхание для Marathon</b>\n\nBungie готовит масштабное обновление шутера Marathon, которое стартует уже в следующем месяце. Сезон Symbiosis добавит в игру roguelite PvE-режим, бету командного дезматча в духе Halo и уютную социальную зону.\n\n#новости #анонс\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/marathon-symbiosis.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-10T18:45:37.650722+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-10T18:30:56.782750+00:00",
  "published": [
-  {
-   "ts": "2026-11-02T18:31:12.785452+00:00",
-   "title": "БДСМ-ангелы и самоистязание: в Monster Train 2 появится безумная фракция",
-   "body": "The Punished — это новая и самая необычная фракция для топового рогалик-карточника, бойцы которой черпают силу буквально через боль. Авторы обещают полностью перевернуть привычную мету и заставить игроков искать совершен"
-  },
   {
    "ts": "2026-11-02T20:01:00.752703+00:00",
    "title": "Долгая дорога на неизвестные острова",
