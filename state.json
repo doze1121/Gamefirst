@@ -1092,10 +1092,13 @@
   "https://www.gematsu.com/?p=1087825",
   "https://www.nintendolife.com/#article-208853",
   "https://www.pushsquare.com/#article-130617",
-  "3f440c53-d483-4cac-b29e-68542ec41817"
+  "3f440c53-d483-4cac-b29e-68542ec41817",
+  "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-free-trial-november",
+  "https://www.pushsquare.com/#article-208800",
+  "https://www.nintendolife.com/#article-208801",
+  "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-switch-2-best-week-sales"
  ],
  "titles": [
-  "Воскресный сюрреализм и вечный Skyrim",
   "Непобедимый античит",
   "Стальные нервы и самурайский вайб",
   "Сердце бьется чаще",
@@ -1114,7 +1117,8 @@
   "Последний рубеж N7",
   "Конец для авторов Unknown 9",
   "Безумие кроликов возвращается",
-  "Эффект Манделы по-хайрульски"
+  "Эффект Манделы по-хайрульски",
+  "Магия Zelda творит чудеса"
  ],
  "queue": [
   {
@@ -1127,6 +1131,12 @@
    "post": "<b>Эффект Манделы по-хайрульски</b>\n\nФанатам The Legend of Zelda: Ocarina of Time показали игру в высоком разрешении, и это заставило многих усомниться в собственном прошлом. Обновленная графика выявила мелкие детали, которые геймеры десятилетиями помнили совершенно иначе.\n\n#Nintendo\n\n🎮 Первый игровой",
    "image": "https://assets-prd.ignimgs.com/2026/11/10/the-legend-of-zelda-ocarina-of-time-fairies-1794276378707.png?width=1280&format=jpg&auto=webp&quality=80",
    "ts": "2026-11-10T08:15:40.612432+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Магия Zelda творит чудеса</b>\n\nВозвращение легендарной классики в свежем ремейке ожидаемо взбудоражило фанатов и помогло консоли обновить рекорды популярности. Благодаря культовым приключениям Link в Хайруле свежая платформа от Nintendo переживает свою самую успешную неделю в этом году.\n\n#Nintendo #индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/switch-2-the-legend-of-zelda--40th-anniversary-edition-grab-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-10T09:45:38.049209+00:00",
    "tries": 0
   }
  ],
