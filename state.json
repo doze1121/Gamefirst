@@ -1202,10 +1202,22 @@
   "https://www.pushsquare.com/#article-208862",
   "https://www.pushsquare.com/#article-208813",
   "https://www.nintendolife.com/#article-208872",
-  "https://www.rockpapershotgun.com/the-outer-worlds-2s-first-story-expansion-could-well-be-the-opening-to-the-series-last-hurrah-and-will-have-you-hunting-for-a-cure-to-explosive-cell-death-in-december"
+  "https://www.rockpapershotgun.com/the-outer-worlds-2s-first-story-expansion-could-well-be-the-opening-to-the-series-last-hurrah-and-will-have-you-hunting-for-a-cure-to-explosive-cell-death-in-december",
+  "kpBgZcHcid3soQQhiMtdra",
+  "iKjQY3byTn9fJamVLdyfWJ",
+  "nqSzueMqqKFwg5G9kBqDSe",
+  "aXwkMhZ9MyhThSTuXtBwPb",
+  "https://www.eurogamer.net/warhammer-survivors-now-playing",
+  "https://www.eurogamer.net/steam-deck-framerate-average-data-store-widget",
+  "https://www.rockpapershotgun.com/tripwire-interactive-says-its-laying-off-36-staff-in-a-necessary-decision-while-reassuring-that-killing-floor-3-and-maneater-2-are-still-in-active-development",
+  "https://www.gematsu.com/?p=1087853",
+  "https://www.gematsu.com/?p=1087850",
+  "https://www.pushsquare.com/#article-208883",
+  "https://www.pushsquare.com/#article-208880",
+  "https://www.nintendolife.com/#article-208731",
+  "https://www.eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release"
  ],
  "titles": [
-  "Святая инквизиция на подходе",
   "Снова стучим на соседа",
   "Последний рубеж N7",
   "Конец для авторов Unknown 9",
@@ -1224,7 +1236,8 @@
   "Выборы тизера шестой главы",
   "Спасение утопающих — дело рук самой Relic",
   "Временная черная дыра",
-  "Лебединая песня Obsidian"
+  "Лебединая песня Obsidian",
+  "Палец о палец"
  ],
  "queue": [
   {
@@ -1237,6 +1250,12 @@
    "post": "<b>Лебединая песня Obsidian</b>\n\nДля студии Obsidian запуск The Outer Worlds 2 и ее грядущего сюжетного дополнения Side Effects Guaranteed проходит на фоне серьезных перемен и сокращений в Microsoft. Первая часть DLC выходит уже в декабре, отправляя игроков искать лекарство от опасного недуга, и этот релиз вполне может стать финальным аккордом для всей серии.\n\n#новости #Xbox\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/the-outer-worlds-2-first-dlc-side-effects-guaranteed-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-11T12:45:40.505733+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Палец о палец</b>\n\nБывший геймдиректор Tekken Кацухиро Харада жестко прошелся по консоли Xbox Series S прямо перед лицом сотрудников Microsoft. На профильной панели разработчик заявил, что вообще не хотел бы видеть выход этой младшей системы на рынок.\n\n#индустрия #Xbox\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Harada-Series-S.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-11T14:15:39.512735+00:00",
    "tries": 0
   }
  ],
