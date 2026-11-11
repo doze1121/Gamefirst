@@ -28,7 +28,8 @@
   "2026-11-09 19:00",
   "вручную 2026-11-09 21:27",
   "2026-11-10 12:00",
-  "2026-11-10 19:00"
+  "2026-11-10 19:00",
+  "2026-11-11 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -56,7 +57,8 @@
   "https://www.pushsquare.com/#article-208824",
   "0b34adce-91ca-4b9e-b952-3bb85035287f",
   "https://www.pushsquare.com/#article-208857",
-  "https://www.pushsquare.com/#article-208893"
+  "https://www.pushsquare.com/#article-208893",
+  "https://www.gematsu.com/?p=1087964"
  ],
  "topics": [
   {
@@ -148,6 +150,12 @@
    "game": "Marathon",
    "title": "Судьба Marathon под угрозой",
    "src": "Marathon's Fate Hangs in the Balance as Bungie Details Its Game-Saving PvE Update"
+  },
+  {
+   "ts": "2026-11-11T09:01:28.255016+00:00",
+   "game": "",
+   "title": "Плейстейшн пять пробила сто миллионов!",
+   "src": "PS5 shipments top 100 million"
   }
  ]
 }
