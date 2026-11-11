@@ -1215,10 +1215,21 @@
   "https://www.pushsquare.com/#article-208883",
   "https://www.pushsquare.com/#article-208880",
   "https://www.nintendolife.com/#article-208731",
-  "https://www.eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release"
+  "https://www.eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release",
+  "bkZPytomjsa2x7s7noSZQW",
+  "2dXp3aq8jSLmemFvY5eaDd",
+  "HHt42KBGtmEBrhbYypEk46",
+  "https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit",
+  "https://www.eurogamer.net/digital-fairness-act-eu-europe-loot-boxes-regulation",
+  "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one",
+  "https://www.rockpapershotgun.com/a-fight-for-all-workers-sag-aftra-throw-weight-behind-emerging-rockstar-union-ahead-of-its-gta-6-release-week-vote",
+  "https://www.gematsu.com/?p=1087862",
+  "https://www.gematsu.com/?p=1087832",
+  "https://www.pushsquare.com/#article-208887",
+  "https://www.nintendolife.com/#article-208709",
+  "https://www.eurogamer.net/hunger-extraction-napoleonic-era-early-access-date"
  ],
  "titles": [
-  "Снова стучим на соседа",
   "Последний рубеж N7",
   "Конец для авторов Unknown 9",
   "Безумие кроликов возвращается",
@@ -1237,7 +1248,8 @@
   "Спасение утопающих — дело рук самой Relic",
   "Временная черная дыра",
   "Лебединая песня Obsidian",
-  "Палец о палец"
+  "Палец о палец",
+  "Мушкетеры, пушки и лут"
  ],
  "queue": [
   {
@@ -1250,6 +1262,12 @@
    "post": "<b>Палец о палец</b>\n\nБывший геймдиректор Tekken Кацухиро Харада жестко прошелся по консоли Xbox Series S прямо перед лицом сотрудников Microsoft. На профильной панели разработчик заявил, что вообще не хотел бы видеть выход этой младшей системы на рынок.\n\n#индустрия #Xbox\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/Harada-Series-S.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-11T14:15:39.512735+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Мушкетеры, пушки и лут</b>\n\nАвторы оригинальной Hell Let Loose из студии Good Fun Corp определились с датой выхода своего амбициозного экшена Hunger. Смесь экстракшен-шутера и слэшера в антураже наполеоновских войн заглянет в ранний доступ Steam уже 3 декабря, а опробовать игру можно будет в ходе открытой беты в этом месяце.\n\n#анонс #релиз\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/hunger-early-access-screen-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-11T15:45:39.765791+00:00",
    "tries": 0
   }
  ],
