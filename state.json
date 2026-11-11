@@ -1171,10 +1171,16 @@
   "https://www.nintendolife.com/#article-208854",
   "https://www.gematsu.com/?p=1087964",
   "https://www.gematsu.com/?p=1087971",
-  "https://www.nintendolife.com/#article-208920"
+  "https://www.nintendolife.com/#article-208920",
+  "https://www.eurogamer.net/switch-2-and-switch-consoles-updated-to-version-2350-as-nintendo-quietly-re-introduces-eshop-gifting",
+  "https://www.rockpapershotgun.com/dont-be-fooled-by-horses-of-hoofprint-bays-hand-drawn-art-this-stable-management-game-has-all-the-drama-of-a-jilly-cooper-novel",
+  "https://www.gematsu.com/?p=1087840",
+  "https://www.gematsu.com/?p=1087709",
+  "https://www.pushsquare.com/#article-208857",
+  "https://www.nintendolife.com/#article-208858",
+  "https://www.rockpapershotgun.com/keeping-hold-of-company-of-heroes-was-essential-for-relic-to-leave-sega-relic-ceo-says-without-it-we-would-have-been-a-dead-studio"
  ],
  "titles": [
-  "Самурайский GTA мог стать реальностью",
   "Рынок наводнили свежие релизы",
   "Удобный обход",
   "Святая инквизиция на подходе",
@@ -1193,7 +1199,8 @@
   "Тридцать кадров и точка",
   "Клуб стомиллионников пополнился",
   "Новый горизонт для Falcom",
-  "Выборы тизера шестой главы"
+  "Выборы тизера шестой главы",
+  "Спасение утопающих — дело рук самой Relic"
  ],
  "queue": [
   {
@@ -1206,6 +1213,12 @@
    "post": "<b>Выборы тизера шестой главы</b>\n\nТоби Фокс решил ненадолго отвлечься от разработки Deltarune и запустил народное голосование. Геймерам предлагают самим выбрать кандидата для специального видеоролика с первыми кадрами шестой главы.\n\n#трейлер #анонс\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/22f66718a6a10/1280x720.jpg",
    "ts": "2026-11-11T08:15:39.587290+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Спасение утопающих — дело рук самой Relic</b>\n\nГлава студии Джастин Даудсвелл признался, что отделение от Sega в 2024 году было бы невозможно без сохранения прав на франшизу Company of Heroes. По его словам, продажи старых частей серии стали жизненно важной подушкой безопасности, без которой команда просто не выжила бы на рынке.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/_0003_Company-of-Heroes-3-tank-fire.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-11T09:45:47.220936+00:00",
    "tries": 0
   }
  ],
