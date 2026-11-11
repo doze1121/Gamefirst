@@ -1246,10 +1246,19 @@
   "https://www.pushsquare.com/#article-208886",
   "https://www.nintendolife.com/#article-208905",
   "https://www.nintendolife.com/#article-208765",
-  "oFpGDTtcvF3GS9BVjgQtDH"
+  "oFpGDTtcvF3GS9BVjgQtDH",
+  "2uNGtwH22hmAdSusxL9eXZ",
+  "Bmi8vVbjaED35iAmPhgj2j",
+  "https://www.rockpapershotgun.com/nvidia-shareholders-have-filed-a-lawsuit-against-the-tech-company-over-claims-that-they-were-misled-regarding-ceo-jensen-huangs-affair",
+  "https://www.rockpapershotgun.com/company-of-heroes-3-developer-admits-it-was-a-lot-to-make-the-30-overhaul-patch-alongside-regular-updates-singleplayer-dlc-and-a-whole-spinoff-game",
+  "https://www.gematsu.com/?p=1087692",
+  "https://www.gematsu.com/?p=1087943",
+  "https://www.pushsquare.com/#article-208900",
+  "https://www.nintendolife.com/#article-208803",
+  "https://news.xbox.com/en-us/?p=228078",
+  "https://www.eurogamer.net/gta-6-censored-japan-smaller-install-size"
  ],
  "titles": [
-  "Конец для авторов Unknown 9",
   "Безумие кроликов возвращается",
   "Эффект Манделы по-хайрульски",
   "Магия Zelda творит чудеса",
@@ -1268,7 +1277,8 @@
   "Лебединая песня Obsidian",
   "Палец о палец",
   "Мушкетеры, пушки и лут",
-  "На связи с Драктриком"
+  "На связи с Драктриком",
+  "В Японии GTA 6 может выйти с цензурой"
  ],
  "queue": [
   {
@@ -1282,15 +1292,16 @@
    "image": "https://cdn.mos.cms.futurecdn.net/TwRkXYr4TgjdEKjC4xvjz7-650-80.jpg",
    "ts": "2026-11-11T17:15:38.035134+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>В Японии GTA 6 может выйти с цензурой</b>\n\nСудя по специфическому размеру файлов и отсутствию традиционных для серии предупреждений о контенте 18+, релиз в регионе пройдет под нож цензоров. Похоже, японским фанатам придется доводиться слегка ско\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/gta-6-sex-scene.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-11T18:44:16.338877+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-11T18:31:00.176494+00:00",
  "published": [
-  {
-   "ts": "2026-11-03T18:31:03.815827+00:00",
-   "title": "Гнев Генри Кавилла страшнее хаоса",
-   "body": "Режиссер Майк Флэнаган признался, что фанатеет от вселенной Warhammer 40,000, но держит язык за зубами насчет готовящегося шоу. По его словам, Генри Кавилл попросту придет в ярость, если хоть одна деталь утечет раньше вр"
-  },
   {
    "ts": "2026-11-03T20:01:14.950008+00:00",
    "title": "Готовьте SSD: стали известны точный размер и время предзагрузки GTA 6",
