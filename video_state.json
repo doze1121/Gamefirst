@@ -31,7 +31,8 @@
   "2026-11-10 19:00",
   "2026-11-11 12:00",
   "2026-11-11 19:00",
-  "вручную 2026-11-11 21:44"
+  "вручную 2026-11-11 21:44",
+  "вручную 2026-11-11 21:53"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -61,7 +62,8 @@
   "https://www.pushsquare.com/#article-208857",
   "https://www.pushsquare.com/#article-208893",
   "https://www.gematsu.com/?p=1087964",
-  "https://www.eurogamer.net/gta-6-censored-japan-smaller-install-size"
+  "https://www.eurogamer.net/gta-6-censored-japan-smaller-install-size",
+  "uDWRn4FdLVZZuoHXwTrVUk"
  ],
  "topics": [
   {
@@ -165,6 +167,12 @@
    "game": "Grand Theft Auto VI",
    "title": "GTA 6 без цензуры в Японии?",
    "src": "GTA 6 might be censored in Japan, if the game's smaller install size and lack of \"strong sexual content\" warning is anything to go by"
+  },
+  {
+   "ts": "2026-11-11T18:54:08.494336+00:00",
+   "game": "",
+   "title": "Xbox Series S — слабый ребенок?",
+   "src": "Ex-Tekken director savages Xbox Series S in front of senior Xbox staff: ‘feels like having to do extra work for a slightly weaker child’"
   }
  ]
 }
