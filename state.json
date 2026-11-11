@@ -1190,10 +1190,21 @@
   "https://www.nintendolife.com/#article-208869",
   "https://www.nintendolife.com/#article-208822",
   "https://news.xbox.com/en-us/?p=227863",
-  "https://www.eurogamer.net/world-of-warcraft-forever-now-playing"
+  "https://www.eurogamer.net/world-of-warcraft-forever-now-playing",
+  "VJKbioX2YNRhsMYJHHQ69F",
+  "mYoYyEZwFgyRqgmf3ZwtQg",
+  "Ss3mNpjCvrUhbFK2QcQ8vD",
+  "YgC53Ag7RwSNSvtzJwHrai",
+  "https://www.eurogamer.net/arc-raiders-17-million-sales-nexon-decline",
+  "https://www.rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet",
+  "https://www.rockpapershotgun.com/skydance-games-lay-off-an-undisclosed-number-of-staff-in-the-wake-of-paramount-warner-bros-merger-in-latest-case-of-consolidation-killing-livelihoods",
+  "https://www.rockpapershotgun.com/following-site-wide-discussion-on-ai-use-nexus-mods-add-a-daily-limit-to-the-spots-in-the-new-mods-tab-one-person-can-hog-via-multiple-rapid-fire-uploads",
+  "https://www.pushsquare.com/#article-208862",
+  "https://www.pushsquare.com/#article-208813",
+  "https://www.nintendolife.com/#article-208872",
+  "https://www.rockpapershotgun.com/the-outer-worlds-2s-first-story-expansion-could-well-be-the-opening-to-the-series-last-hurrah-and-will-have-you-hunting-for-a-cure-to-explosive-cell-death-in-december"
  ],
  "titles": [
-  "Удобный обход",
   "Святая инквизиция на подходе",
   "Снова стучим на соседа",
   "Последний рубеж N7",
@@ -1212,7 +1223,8 @@
   "Новый горизонт для Falcom",
   "Выборы тизера шестой главы",
   "Спасение утопающих — дело рук самой Relic",
-  "Временная черная дыра"
+  "Временная черная дыра",
+  "Лебединая песня Obsidian"
  ],
  "queue": [
   {
@@ -1226,15 +1238,16 @@
    "image": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_7.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-11T11:15:40.996309+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Лебединая песня Obsidian</b>\n\nДля студии Obsidian запуск The Outer Worlds 2 и ее грядущего сюжетного дополнения Side Effects Guaranteed проходит на фоне серьезных перемен и сокращений в Microsoft. Первая часть DLC выходит уже в декабре, отправляя игроков искать лекарство от опасного недуга, и этот релиз вполне может стать финальным аккордом для всей серии.\n\n#новости #Xbox\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/the-outer-worlds-2-first-dlc-side-effects-guaranteed-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-11T12:45:40.505733+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-11T12:30:53.342543+00:00",
  "published": [
-  {
-   "ts": "2026-11-03T12:30:56.496405+00:00",
-   "title": "Ева добралась до гибрида: обзоры порта Stellar Blade на Switch 2",
-   "body": "Экшен от Shift Up успешно приземлился на новую консоль Nintendo. Критики отмечают, что несмотря на неизбежные технические компромиссы, футуристическое приключение отлично чувствует себя в портативе."
-  },
   {
    "ts": "2026-11-03T14:01:03.898482+00:00",
    "title": "Блицкриг от Bend Studio: ждать игру придется до 2027 года",
