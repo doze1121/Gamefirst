@@ -34,7 +34,8 @@
   "вручную 2026-11-11 21:44",
   "вручную 2026-11-11 21:53",
   "2026-11-12 12:00",
-  "2026-11-12 19:00"
+  "2026-11-12 19:00",
+  "вручную 2026-11-12 21:46"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -67,7 +68,8 @@
   "https://www.eurogamer.net/gta-6-censored-japan-smaller-install-size",
   "uDWRn4FdLVZZuoHXwTrVUk",
   "https://www.nintendolife.com/#article-208991",
-  "https://www.pushsquare.com/#article-209023"
+  "https://www.pushsquare.com/#article-209023",
+  "6Rn69P2VTNymUA525Zmjeb"
  ],
  "topics": [
   {
@@ -189,6 +191,12 @@
    "game": "Grand Theft Auto VI",
    "title": "GTA 6 под угрозой из-за пенисов!",
    "src": "'Genital Exposure Has Never Appeared This Frequently': GTA 6 Was Almost Refused Release in South Korea"
+  },
+  {
+   "ts": "2026-11-12T18:47:33.965924+00:00",
+   "game": "",
+   "title": "Глава Xbox про искусственный интеллект",
+   "src": "Xbox CEO looks to the future as Microsoft's console turns 25: 'A single person will soon be able to wield capabilities that once required entire nations'"
   }
  ]
 }
