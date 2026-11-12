@@ -1315,10 +1315,16 @@
   "https://www.pushsquare.com/#article-208947",
   "https://www.pushsquare.com/#article-208935",
   "https://www.nintendolife.com/#article-208930",
-  "https://www.gematsu.com/?p=1088151"
+  "https://www.gematsu.com/?p=1088151",
+  "trkbWovwYMrpRWNERRV2WB",
+  "6nvE8icuQFZFwVZTq9S7KN",
+  "o63ZsYR9huNJThfWiQLpiV",
+  "https://www.rockpapershotgun.com/some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-destroy-all-humans-remake-devs-black-forest-games-split-from-thq-nordic-to-launch-new-indie-studio-group",
+  "https://www.pushsquare.com/#article-208958",
+  "https://www.nintendolife.com/#article-208948",
+  "GeFaHtECQgswXH3rK7abmm"
  ],
  "titles": [
-  "Второе дыхание для Marathon",
   "Тридцать кадров и точка",
   "Клуб стомиллионников пополнился",
   "Новый горизонт для Falcom",
@@ -1337,7 +1343,8 @@
   "Коллекция закрыта",
   "Слухи сильно преувеличены",
   "Чемодан, вокзал, не США?",
-  "Ретро-путешествие откладывается ненадолго"
+  "Ретро-путешествие откладывается ненадолго",
+  "ММА-бросок по стандарту Activision"
  ],
  "queue": [
   {
@@ -1351,15 +1358,16 @@
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Elements-Destiny-Date_11-12-26.jpg",
    "ts": "2026-11-12T14:15:39.538247+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>ММА-бросок по стандарту Activision</b>\n\nЗвезда смешанных единоборств Конор Макгрегор в свое время принял участие в создании шутера Infinite Warfare. Боец настолько проникся процессом, что прямо во время сеанса захвата движений поднял и швырнул на пол одного из разработчиков, решив лично продемонстрировать тому физическую мощь.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/7eeissVNyfbgehTuYCLKah-1920-80.jpg",
+   "ts": "2026-11-12T15:45:40.887721+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-12T15:30:52.627952+00:00",
  "published": [
-  {
-   "ts": "2026-11-04T15:30:58.682361+00:00",
-   "title": "Как киберпанк спас обреченный симулятор",
-   "body": "Хит Steam под названием Probably Stolen еще недавно был никому не нужным космическим симулятором киоска Deepspace Emporium. Проект уже шел к забвению, пока издатель tinyBuild не убедил разработчиков сменить сеттинг на ки"
-  },
   {
    "ts": "2026-11-04T17:01:10.650366+00:00",
    "title": "Эволюция Лары Крофт: от полигонов PS1 до великолепия PS5",
