@@ -1289,10 +1289,13 @@
   "https://www.gematsu.com/?p=1088123",
   "https://www.gematsu.com/?p=1087947",
   "https://www.gematsu.com/?p=1087979",
-  "https://www.gematsu.com/?p=1088127"
+  "https://www.gematsu.com/?p=1088127",
+  "https://www.eurogamer.net/fairgames-playstation-heist-shooter-live-service-cancelled-haven",
+  "https://www.pushsquare.com/#article-208921",
+  "https://www.nintendolife.com/#article-208924",
+  "https://www.nintendolife.com/#article-208995"
  ],
  "titles": [
-  "Добыча любой ценой",
   "Тридцать кадров и точка",
   "Момент истины для Bungie",
   "Армия клонов наступает",
@@ -1311,7 +1314,8 @@
   "Ветеранский десант id Software",
   "Снова в Скайрим по скидке",
   "Любви все консоли покорны",
-  "Раньше намеченного"
+  "Раньше намеченного",
+  "Коллекция закрыта"
  ],
  "queue": [
   {
@@ -1325,15 +1329,16 @@
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Rom-SaGa-3-Date_11-12-26.jpg",
    "ts": "2026-11-12T08:15:47.995176+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Коллекция закрыта</b>\n\nNintendo выпустила финальную волну amiibo по мотивам Kirby Air Riders для Switch 2. Набор фигурок полностью укомплектован спустя год регулярных релизов дополнений для игры.\n\n#релиз #Nintendo\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/6b585f1bee2a5/1280x720.jpg",
+   "ts": "2026-11-12T09:45:40.094092+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-12T09:30:55.037169+00:00",
  "published": [
-  {
-   "ts": "2026-11-04T09:30:55.522039+00:00",
-   "title": "Famitsu оценила ремейк легенды",
-   "body": "Легендарная The Legend of Zelda: Ocarina of Time для Switch 2 получила первую оценку от авторитетного японского журнала Famitsu. Четыре критика выставили игре баллами 9/9/9/10, что в сумме составило 37 из 40 возможных. П"
-  },
   {
    "ts": "2026-11-04T11:01:04.924143+00:00",
    "title": "Паровозиком к релизу: Ocarina of Time на Switch 2 получила патч",
