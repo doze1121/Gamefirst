@@ -1300,10 +1300,16 @@
   "https://www.gematsu.com/?p=1087946",
   "https://www.gematsu.com/?p=1087985",
   "https://www.pushsquare.com/#article-208922",
-  "https://www.eurogamer.net/marvel-1943-rise-of-hydra-not-cancelled-skydance-says"
+  "https://www.eurogamer.net/marvel-1943-rise-of-hydra-not-cancelled-skydance-says",
+  "LpPCwKJCLKnXT2YHxpk8tJ",
+  "B2iyZPLJx5cjvN4dCFh4rf",
+  "fPpMtg67AM4QJRPHKTZ6s3",
+  "https://www.eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword",
+  "https://www.eurogamer.net/monster-hunter-wilds-ascendance-beta-steam-backend",
+  "https://www.nintendolife.com/#article-208939",
+  "https://www.eurogamer.net/grand-theft-auto-gta-non-american-setting-rockstar"
  ],
  "titles": [
-  "Момент истины для Bungie",
   "Армия клонов наступает",
   "Второе дыхание для Marathon",
   "Тридцать кадров и точка",
@@ -1322,7 +1328,8 @@
   "Любви все консоли покорны",
   "Раньше намеченного",
   "Коллекция закрыта",
-  "Слухи сильно преувеличены"
+  "Слухи сильно преувеличены",
+  "Чемодан, вокзал, не США?"
  ],
  "queue": [
   {
@@ -1336,15 +1343,16 @@
    "image": "https://assetsio.gnwcdn.com/Marvel-1943_-Rise-of-Hydra-_-Story-Trailer-0-25-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-12T11:15:40.245588+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Чемодан, вокзал, не США?</b>\n\nДействие культовой серии GTA всегда разворачивалось на американских просторах, а единственным исключением за всю историю остался лишь Лондон из дополнения к самой первой части. Однако в Rockstar неожиданно дали фанатам крошечную надежду на то, что в будущем криминальная сага всё же рискнет заглянуть за пределы Штатов.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/GTA6_5nov-(2).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-12T12:45:41.230614+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-12T12:30:50.137553+00:00",
  "published": [
-  {
-   "ts": "2026-11-04T12:30:58.553689+00:00",
-   "title": "Ностальгия из 90-х в Street Fighter 6",
-   "body": "Capcom анонсировала новый сезонный боевой пропуск для файтинга Street Fighter 6 под названием Winter Pocket Present. Он полностью посвящен классическому аркадному ответвлению Super Gem Fighter Mini Mix, также известному "
-  },
   {
    "ts": "2026-11-04T14:01:04.053071+00:00",
    "title": "Кто спасет создателей Dishonored?",
