@@ -1307,10 +1307,17 @@
   "https://www.eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword",
   "https://www.eurogamer.net/monster-hunter-wilds-ascendance-beta-steam-backend",
   "https://www.nintendolife.com/#article-208939",
-  "https://www.eurogamer.net/grand-theft-auto-gta-non-american-setting-rockstar"
+  "https://www.eurogamer.net/grand-theft-auto-gta-non-american-setting-rockstar",
+  "V654c8DGQEP2qofkZxoW73",
+  "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026",
+  "https://www.rockpapershotgun.com/lootboxes-pay-to-win-virtual-currencies-and-other-blights-unto-gaming-face-heavy-regulation-as-the-eu-tables-new-digital-fairness-act",
+  "https://www.pushsquare.com/#article-208685",
+  "https://www.pushsquare.com/#article-208947",
+  "https://www.pushsquare.com/#article-208935",
+  "https://www.nintendolife.com/#article-208930",
+  "https://www.gematsu.com/?p=1088151"
  ],
  "titles": [
-  "Армия клонов наступает",
   "Второе дыхание для Marathon",
   "Тридцать кадров и точка",
   "Клуб стомиллионников пополнился",
@@ -1329,7 +1336,8 @@
   "Раньше намеченного",
   "Коллекция закрыта",
   "Слухи сильно преувеличены",
-  "Чемодан, вокзал, не США?"
+  "Чемодан, вокзал, не США?",
+  "Ретро-путешествие откладывается ненадолго"
  ],
  "queue": [
   {
@@ -1343,15 +1351,16 @@
    "image": "https://assetsio.gnwcdn.com/GTA6_5nov-(2).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-12T12:45:41.230614+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Ретро-путешествие откладывается ненадолго</b>\n\nФэнтези-RPG Elements Destiny в стиле классических двумерных игр получила точные даты релиза. Обладатели актуальных консолей и PC смогут отправиться в приключение уже 8 декабря, тогда как владельцам Nintendo Switch придется подождать ровно на неделю дольше.\n\n#релиз\n\n🎮 Первый игровой",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Elements-Destiny-Date_11-12-26.jpg",
+   "ts": "2026-11-12T14:15:39.538247+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-12T14:01:01.878452+00:00",
  "published": [
-  {
-   "ts": "2026-11-04T14:01:04.053071+00:00",
-   "title": "Кто спасет создателей Dishonored?",
-   "body": "После того как Xbox решила избавиться от Arkane Studios, судьба разработчиков висела на волоске. Однако, по данным инсайдеров, студия без работы не останется — сразу несколько крупных компаний уже выразили интерес к ее п"
-  },
   {
    "ts": "2026-11-04T15:30:58.682361+00:00",
    "title": "Как киберпанк спас обреченный симулятор",
