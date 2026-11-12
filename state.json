@@ -1331,10 +1331,12 @@
   "https://www.pushsquare.com/#article-208827",
   "https://www.nintendolife.com/#article-208964",
   "https://news.xbox.com/en-us/?p=228101",
-  "https://www.gematsu.com/?p=1088191"
+  "https://www.gematsu.com/?p=1088191",
+  "https://www.eurogamer.net/eu-digital-fairness-act-what-is-it-video-games",
+  "https://www.rockpapershotgun.com/after-being-laid-off-by-microsoft-former-doom-devs-found-new-smash-tv-influenced-fps-studio-that-isnt-subject-to-investor-demands",
+  "https://www.pushsquare.com/#article-209038"
  ],
  "titles": [
-  "Клуб стомиллионников пополнился",
   "Новый горизонт для Falcom",
   "Выборы тизера шестой главы",
   "Спасение утопающих — дело рук самой Relic",
@@ -1353,7 +1355,8 @@
   "Чемодан, вокзал, не США?",
   "Ретро-путешествие откладывается ненадолго",
   "ММА-бросок по стандарту Activision",
-  "Ностальгия по синим кроссовкам"
+  "Ностальгия по синим кроссовкам",
+  "Легальный прогул ради Леонниды"
  ],
  "queue": [
   {
@@ -1366,6 +1369,12 @@
    "post": "<b>Ностальгия по синим кроссовкам</b>\n\nSEGA отметила 35-летие Sonic the Hedgehog душевным анимационным роликом под названием Memories and Beyond. Му\n\n🎮 Первый игровой",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Sonic-Animation_11-12-26.jpg",
    "ts": "2026-11-12T17:15:38.105824+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Легальный прогул ради Леонниды</b>\n\nСоздатели Palworld из студии Pocketpair официально признали релиз GTA 6 главным событием года. Они решили дать всем своим сотрудникам выходной в день выхода игры, чтобы те могли спокойно отправиться в Леонниду без отрыва от работы.\n\n#индустрия #релиз\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/6ce053a4adbd2/1280x720.jpg",
+   "ts": "2026-11-12T18:45:38.672814+00:00",
    "tries": 0
   }
  ],
