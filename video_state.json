@@ -32,7 +32,8 @@
   "2026-11-11 12:00",
   "2026-11-11 19:00",
   "вручную 2026-11-11 21:44",
-  "вручную 2026-11-11 21:53"
+  "вручную 2026-11-11 21:53",
+  "2026-11-12 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -63,7 +64,8 @@
   "https://www.pushsquare.com/#article-208893",
   "https://www.gematsu.com/?p=1087964",
   "https://www.eurogamer.net/gta-6-censored-japan-smaller-install-size",
-  "uDWRn4FdLVZZuoHXwTrVUk"
+  "uDWRn4FdLVZZuoHXwTrVUk",
+  "https://www.nintendolife.com/#article-208991"
  ],
  "topics": [
   {
@@ -173,6 +175,12 @@
    "game": "",
    "title": "Xbox Series S — слабый ребенок?",
    "src": "Ex-Tekken director savages Xbox Series S in front of senior Xbox staff: ‘feels like having to do extra work for a slightly weaker child’"
+  },
+  {
+   "ts": "2026-11-12T09:01:20.107215+00:00",
+   "game": "The Witcher 3: Wild Hunt",
+   "title": "ИИ озвучил Геральта из Ведьмака!",
+   "src": "Witcher 3's New Expansion Pairs Geralt's Polish Voice Actor With AI, But It's A \"Special Case\""
   }
  ]
 }
