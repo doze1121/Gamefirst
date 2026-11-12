@@ -1293,10 +1293,16 @@
   "https://www.eurogamer.net/fairgames-playstation-heist-shooter-live-service-cancelled-haven",
   "https://www.pushsquare.com/#article-208921",
   "https://www.nintendolife.com/#article-208924",
-  "https://www.nintendolife.com/#article-208995"
+  "https://www.nintendolife.com/#article-208995",
+  "https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo",
+  "https://www.rockpapershotgun.com/as-the-elder-scrolls-5-turns-15-massive-mod-beyond-skyrim-bruma-gets-a-20-update-delivering-a-new-quest-extra-dungeons-and-an-expanded-worldspace",
+  "https://www.rockpapershotgun.com/casualties-unknown-is-a-total-pain-simulator-that-makes-other-survival-games-seem-like-massive-cowards",
+  "https://www.gematsu.com/?p=1087946",
+  "https://www.gematsu.com/?p=1087985",
+  "https://www.pushsquare.com/#article-208922",
+  "https://www.eurogamer.net/marvel-1943-rise-of-hydra-not-cancelled-skydance-says"
  ],
  "titles": [
-  "Тридцать кадров и точка",
   "Момент истины для Bungie",
   "Армия клонов наступает",
   "Второе дыхание для Marathon",
@@ -1315,7 +1321,8 @@
   "Снова в Скайрим по скидке",
   "Любви все консоли покорны",
   "Раньше намеченного",
-  "Коллекция закрыта"
+  "Коллекция закрыта",
+  "Слухи сильно преувеличены"
  ],
  "queue": [
   {
@@ -1328,6 +1335,12 @@
    "post": "<b>Коллекция закрыта</b>\n\nNintendo выпустила финальную волну amiibo по мотивам Kirby Air Riders для Switch 2. Набор фигурок полностью укомплектован спустя год регулярных релизов дополнений для игры.\n\n#релиз #Nintendo\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/6b585f1bee2a5/1280x720.jpg",
    "ts": "2026-11-12T09:45:40.094092+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Слухи сильно преувеличены</b>\n\nЭми Хенниг и студия Skydance продолжают работу над супергеройским экшеном Marvel 1943: Rise of Hydra. Несмотря на производственные трудности и недавние тревожные слухи об отмене, проект все еще жив.\n\n#новости #индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Marvel-1943_-Rise-of-Hydra-_-Story-Trailer-0-25-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-12T11:15:40.245588+00:00",
    "tries": 0
   }
  ],
