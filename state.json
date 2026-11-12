@@ -1283,10 +1283,12 @@
   "https://www.nintendolife.com/#article-208916",
   "https://www.nintendolife.com/#article-208856",
   "https://news.xbox.com/en-us/?p=228093",
-  "https://www.nintendolife.com/#article-208992"
+  "https://www.nintendolife.com/#article-208992",
+  "https://www.gematsu.com/?p=1087988",
+  "https://www.nintendolife.com/#article-208919",
+  "https://www.gematsu.com/?p=1088123"
  ],
  "titles": [
-  "Магия Zelda творит чудеса",
   "Больше, чем просто клон",
   "Добыча любой ценой",
   "Тридцать кадров и точка",
@@ -1305,7 +1307,8 @@
   "На связи с Драктриком",
   "Под нож цензуры",
   "Ветеранский десант id Software",
-  "Снова в Скайрим по скидке"
+  "Снова в Скайрим по скидке",
+  "Любви все консоли покорны"
  ],
  "queue": [
   {
@@ -1319,15 +1322,16 @@
    "image": "https://images.nintendolife.com/38c74dd85fa63/1280x720.jpg",
    "ts": "2026-11-12T05:15:38.189174+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Любви все консоли покорны</b>\n\nРомантическая визуальная новелла Renai, Hajimemashite от студии ASa Project готовится к выходу на японском рынке. Издатель AirVelocity выпустит игру на PlayStation 5, PlayStation 4 и Nintendo Switch в марте 2027 года.\n\n#релиз\n\n🎮 Первый игровой",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Renai-Hajimemashite-Consoles_11-12-26.jpg",
+   "ts": "2026-11-12T06:45:38.658830+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-12T06:30:51.364674+00:00",
  "published": [
-  {
-   "ts": "2026-11-04T06:30:52.385938+00:00",
-   "title": "Стать стихией и потушить пожар",
-   "body": "Вышел Atuel — необычный и бесплатный симулятор ходьбы длительностью всего в 25 минут. Вот только ходить тут почти не придется, ведь большую часть времени игроку предстоит управлять бурлящей рекой и спасать природу от огн"
-  },
   {
    "ts": "2026-11-04T08:01:09.278256+00:00",
    "title": "Одиночка делает мрачный стелс в стиле Thief",
