@@ -1322,10 +1322,18 @@
   "https://www.rockpapershotgun.com/some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-destroy-all-humans-remake-devs-black-forest-games-split-from-thq-nordic-to-launch-new-indie-studio-group",
   "https://www.pushsquare.com/#article-208958",
   "https://www.nintendolife.com/#article-208948",
-  "GeFaHtECQgswXH3rK7abmm"
+  "GeFaHtECQgswXH3rK7abmm",
+  "https://www.rockpapershotgun.com/minerva-rising-is-a-frostpunk-meets-silo-underground-city-builder-in-which-rebel-citizens-can-hack-your-camera",
+  "https://www.rockpapershotgun.com/there-were-47-graphics-chip-makers-in-1998-where-did-they-all-go",
+  "https://www.pushsquare.com/#article-208973",
+  "https://www.pushsquare.com/#article-208925",
+  "https://www.pushsquare.com/#article-208965",
+  "https://www.pushsquare.com/#article-208827",
+  "https://www.nintendolife.com/#article-208964",
+  "https://news.xbox.com/en-us/?p=228101",
+  "https://www.gematsu.com/?p=1088191"
  ],
  "titles": [
-  "Тридцать кадров и точка",
   "Клуб стомиллионников пополнился",
   "Новый горизонт для Falcom",
   "Выборы тизера шестой главы",
@@ -1344,7 +1352,8 @@
   "Слухи сильно преувеличены",
   "Чемодан, вокзал, не США?",
   "Ретро-путешествие откладывается ненадолго",
-  "ММА-бросок по стандарту Activision"
+  "ММА-бросок по стандарту Activision",
+  "Ностальгия по синим кроссовкам"
  ],
  "queue": [
   {
@@ -1358,15 +1367,16 @@
    "image": "https://cdn.mos.cms.futurecdn.net/7eeissVNyfbgehTuYCLKah-1920-80.jpg",
    "ts": "2026-11-12T15:45:40.887721+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Ностальгия по синим кроссовкам</b>\n\nSEGA отметила 35-летие Sonic the Hedgehog душевным анимационным роликом под названием Memories and Beyond. Му\n\n🎮 Первый игровой",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Sonic-Animation_11-12-26.jpg",
+   "ts": "2026-11-12T17:15:38.105824+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-12T17:01:05.390104+00:00",
  "published": [
-  {
-   "ts": "2026-11-04T17:01:10.650366+00:00",
-   "title": "Эволюция Лары Крофт: от полигонов PS1 до великолепия PS5",
-   "body": "Журнал Game Informer посвятит следующий номер 30-летию культовой серии Tomb Raider. Главной темой станет масштабный ремейк Tomb Raider: Legacy of Atlantis, о котором обещают рассказать много нового на 12 страницах."
-  },
   {
    "ts": "2026-11-04T18:30:55.035552+00:00",
    "title": "Консольные войны возвращаются на PS5",
