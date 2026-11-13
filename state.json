@@ -1349,10 +1349,14 @@
   "https://www.nintendolife.com/#article-209069",
   "https://www.nintendolife.com/#article-209070",
   "https://www.pushsquare.com/#article-81924",
-  "https://www.eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach"
+  "https://www.eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach",
+  "https://www.rockpapershotgun.com/one-of-those-ways-where-you-can-use-ai-ethically-cdpr-have-modified-geralts-polish-voice-in-the-witcher-3-songs-of-the-past-with-genai-due-to-actors-stroke",
+  "https://www.pushsquare.com/#article-208999",
+  "https://www.nintendolife.com/#article-209007",
+  "https://www.nintendolife.com/#article-209002",
+  "https://www.rockpapershotgun.com/horu-is-a-sci-fi-4x-rts-inspired-by-star-wars-empire-at-war-in-which-spaceships-are-spellcasters-who-can-summon-black-holes"
  ],
  "titles": [
-  "Палец о палец",
   "Мушкетеры, пушки и лут",
   "На связи с Драктриком",
   "Под нож цензуры",
@@ -1371,7 +1375,8 @@
   "Порт с оговорками",
   "Хватит мурашек",
   "Ностальгия по синим кроссовкам",
-  "Леонида в сети"
+  "Леонида в сети",
+  "Звездный магнетизм"
  ],
  "queue": [
   {
@@ -1385,15 +1390,16 @@
    "image": "https://assetsio.gnwcdn.com/gta-6-no-internet.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-13T09:45:36.580957+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Звездный магнетизм</b>\n\nАнонсирована Horu — масштабная 4X RTS в духе Star Wars: Empire at War. Разработчик обещает грандиозные сражения сотен тысяч юнитов на суше и в космосе, где боевые корабли выступают в роли могущественных заклинателей, способных призывать черные дыры.\n\n#анонс\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/horu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-13T11:15:40.705001+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-13T11:01:01.770741+00:00",
  "published": [
-  {
-   "ts": "2026-11-05T11:01:04.836397+00:00",
-   "title": "Росомаха рвет чарты, а PS5 уверенно идет к заветной вершине",
-   "body": "Sony поделилась свежими финансовыми успехами: тираж консоли PS5 уже перешагнул отметку в 97,9 миллиона проданных устройств по всему миру. Отлично стартовал и супергеройский экшен Marvel’s Wolverine, чей тираж за короткое"
-  },
   {
    "ts": "2026-11-05T12:30:52.288844+00:00",
    "title": "Танковый вальс возвращается на консоли",
