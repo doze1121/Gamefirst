@@ -1362,10 +1362,14 @@
   "https://www.pushsquare.com/#article-209004",
   "https://www.nintendolife.com/#article-209012",
   "https://www.nintendolife.com/#article-209010",
-  "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox"
+  "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox",
+  "https://www.eurogamer.net/paradox-ceo-frederik-wester-stepping-down",
+  "https://www.pushsquare.com/#article-208986",
+  "https://www.nintendolife.com/#article-208867",
+  "https://www.nintendolife.com/#article-208711",
+  "https://www.gematsu.com/?p=1088268"
  ],
  "titles": [
-  "На связи с Драктриком",
   "Под нож цензуры",
   "Ветеранский десант id Software",
   "Снова в Скайрим по скидке",
@@ -1384,7 +1388,8 @@
   "Ностальгия по синим кроссовкам",
   "Леонида в сети",
   "Звездный магнетизм",
-  "Мясорубка возвращается"
+  "Мясорубка возвращается",
+  "Одинокий ковбой возвращается"
  ],
  "queue": [
   {
@@ -1398,15 +1403,16 @@
    "image": "https://assetsio.gnwcdn.com/wolfenstein-header_gmu0BH3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-13T12:45:37.993867+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Одинокий ковбой возвращается</b>\n\nИздательство Infogrames и студия Graphite Labs анонсировали Lucky Luke: The Lonesome Cowboy Collection. Сборник классических приключений знаменитого стрелка заглянет практически на все актуальные платформы, включая PC и даже Switch 2.\n\n#анонс\n\n🎮 Первый игровой",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Lucky-Luke-Collection-Ann_11-13-26.jpg",
+   "ts": "2026-11-13T14:15:44.569263+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-13T14:01:01.617124+00:00",
  "published": [
-  {
-   "ts": "2026-11-05T14:01:08.996311+00:00",
-   "title": "Сто миллионов ближе с каждым днем: продажи PS5 приближаются к исторической отметке",
-   "body": "Sony отчиталась о продаже еще 2,6 миллиона консолей PS5, доведя общий тираж до 9"
-  },
   {
    "ts": "2026-11-05T15:30:52.361103+00:00",
    "title": "Росомаха пока раскачивается",
