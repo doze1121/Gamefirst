@@ -1399,10 +1399,28 @@
   "https://www.nintendolife.com/#article-208832",
   "https://news.xbox.com/en-us/?p=228151",
   "https://news.xbox.com/en-us/?p=228128",
-  "https://www.rockpapershotgun.com/have-you-played-deaths-door"
+  "https://www.rockpapershotgun.com/have-you-played-deaths-door",
+  "6Rn69P2VTNymUA525Zmjeb",
+  "SHwTkNpsLi2Vdy43avoA7C",
+  "Jx3jwMD8A9MpqZ2DUmVPHf",
+  "PH9LSQbTyMRjyiCpiV2WL7",
+  "L9rPwBJ4Zz7ZswTuvwVAUB",
+  "pQvwxmw4qZQUHMJTyCZxGH",
+  "mm3pS3B8275aBxGDPpiEzQ",
+  "Pkf6SnDa8ec8btzfpSAcLG",
+  "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo",
+  "https://www.rockpapershotgun.com/warhammer-40000-darktides-next-class-is-the-sisters-novitiate-a-group-who-love-staking-and-burning-people-for-the-god-emperor-and-its-out-next-month",
+  "https://www.rockpapershotgun.com/conan-the-black-pyramid-shoves-the-titular-barbarian-into-a-very-hades-inspired-action-roguelite-with-the-addition-of-a-few-other-familiar-heroes",
+  "https://www.gematsu.com/?p=1088201",
+  "https://www.gematsu.com/?p=1088196",
+  "https://www.pushsquare.com/#article-209051",
+  "https://www.pushsquare.com/#article-208987",
+  "https://www.nintendolife.com/#article-209053",
+  "https://www.nintendolife.com/#article-209045",
+  "https://www.nintendolife.com/#article-209034",
+  "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028"
  ],
  "titles": [
-  "Снова в Скайрим по скидке",
   "Любви все консоли покорны",
   "Раньше намеченного",
   "Коллекция закрыта",
@@ -1421,7 +1439,8 @@
   "Мясорубка возвращается",
   "Одинокий ковбой возвращается",
   "Нейросети на службе у геймдева",
-  "Коротко и со вкусом"
+  "Коротко и со вкусом",
+  "Нейросети захватывают конвейер Pearl Abyss"
  ],
  "queue": [
   {
@@ -1434,6 +1453,12 @@
    "post": "<b>Коротко и со вкусом</b>\n\nПока гиганты вроде Elden Ring предлагают сотни часов исследования, камерные проекты вроде Death's Door доказывают силу компактного формата. Эта восьмичасовая приключенческая игра ничуть не уступает масштабным блокбастерам в динамике и атмосфере.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/Death's-Door-Frog-King-fight.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-13T17:15:40.680577+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Нейросети захватывают конвейер Pearl Abyss</b>\n\nСоздатели Crimson Desert собираются внедрить генеративный искусственный интеллект на всех этапах разработки своих игр. Кроме того, студия наконец-то определилась с примерным окном релиза амбициозного проекта DokeV — выход стоит ждать не раньше 2028 года.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-13T18:45:38.356290+00:00",
    "tries": 0
   }
  ],
