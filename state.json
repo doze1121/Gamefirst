@@ -1337,10 +1337,16 @@
   "https://www.pushsquare.com/#article-209038",
   "https://www.eurogamer.net/dont-expect-elder-scrolls-6-sentinel-for-some-time-bethesda",
   "https://www.pushsquare.com/#article-208562",
-  "https://news.xbox.com/en-us/?p=228177"
+  "https://news.xbox.com/en-us/?p=228177",
+  "https://www.eurogamer.net/destroy-all-humans-independent-thq-embracer",
+  "https://www.pushsquare.com/#article-208985",
+  "https://www.pushsquare.com/#article-208980",
+  "https://www.pushsquare.com/#article-208977",
+  "https://www.nintendolife.com/#article-208991",
+  "https://www.nintendolife.com/#article-208989",
+  "https://www.nintendolife.com/#article-209068"
  ],
  "titles": [
-  "Выборы тизера шестой главы",
   "Спасение утопающих — дело рук самой Relic",
   "Временная черная дыра",
   "Лебединая песня Obsidian",
@@ -1359,7 +1365,8 @@
   "ММА-бросок по стандарту Activision",
   "Ностальгия по синим кроссовкам",
   "Легальный прогул ради Леонниды",
-  "Мясорубка возвращается"
+  "Мясорубка возвращается",
+  "Порт с оговорками"
  ],
  "queue": [
   {
@@ -1373,15 +1380,16 @@
    "image": null,
    "ts": "2026-11-12T20:15:44.650173+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Порт с оговорками</b>\n\nКритиковали, но хвалили: Metaphor: ReFantazio добралась до Switch 2. Первые обзоры отмечают невероятный игровой опыт, однако порт подкачал из-за серьезных проблем с оптимизацией.\n\n#релиз #Nintendo\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/7bb185c8284db/1280x720.jpg",
+   "ts": "2026-11-13T05:15:38.031935+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-13T05:00:59.470351+00:00",
  "published": [
-  {
-   "ts": "2026-11-05T05:01:06.775480+00:00",
-   "title": "Материнская забота откладывается",
-   "body": "Santa Monica Studio решили взять еще немного времени на полировку God of War Laufey. Эксклюзив для PS5 сдвинули с февраля на 20 мая 2027 года — разработчикам понадобилось еще три месяца."
-  },
   {
    "ts": "2026-11-05T06:30:56.903978+00:00",
    "title": "Arkane была в плюсе, но Microsoft этого мало",
