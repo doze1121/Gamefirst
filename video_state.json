@@ -35,7 +35,8 @@
   "вручную 2026-11-11 21:53",
   "2026-11-12 12:00",
   "2026-11-12 19:00",
-  "вручную 2026-11-12 21:46"
+  "вручную 2026-11-12 21:46",
+  "2026-11-13 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -69,7 +70,8 @@
   "uDWRn4FdLVZZuoHXwTrVUk",
   "https://www.nintendolife.com/#article-208991",
   "https://www.pushsquare.com/#article-209023",
-  "6Rn69P2VTNymUA525Zmjeb"
+  "6Rn69P2VTNymUA525Zmjeb",
+  "uj5H89qHVyc84b2iDpUKBj"
  ],
  "topics": [
   {
@@ -197,6 +199,12 @@
    "game": "",
    "title": "Глава Xbox про искусственный интеллект",
    "src": "Xbox CEO looks to the future as Microsoft's console turns 25: 'A single person will soon be able to wield capabilities that once required entire nations'"
+  },
+  {
+   "ts": "2026-11-13T09:01:21.266047+00:00",
+   "game": "Wolfenstein III",
+   "title": "Анонсирован Wolfenstein 3!",
+   "src": "Wolfenstein 3 is in production at MachineGames"
   }
  ]
 }
