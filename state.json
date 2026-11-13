@@ -1354,10 +1354,17 @@
   "https://www.pushsquare.com/#article-208999",
   "https://www.nintendolife.com/#article-209007",
   "https://www.nintendolife.com/#article-209002",
-  "https://www.rockpapershotgun.com/horu-is-a-sci-fi-4x-rts-inspired-by-star-wars-empire-at-war-in-which-spaceships-are-spellcasters-who-can-summon-black-holes"
+  "https://www.rockpapershotgun.com/horu-is-a-sci-fi-4x-rts-inspired-by-star-wars-empire-at-war-in-which-spaceships-are-spellcasters-who-can-summon-black-holes",
+  "gqycqG7CLRDkux9sqKpPE8",
+  "https://www.eurogamer.net/nvidia-ceo-jensen-huang-affair-share-price",
+  "https://www.rockpapershotgun.com/nvidia-board-reportedly-prepare-to-give-ceo-jensen-huang-the-boot-as-second-alleged-affair-thrusts-him-closer-to-seriously-lusty-crusader-kings-playthrough-territory",
+  "https://www.rockpapershotgun.com/amid-soaring-pc-hardware-prices-gaming-monitors-are-getting-cheaper-and-cheaper-heres-why-and-what-to-buy",
+  "https://www.pushsquare.com/#article-209004",
+  "https://www.nintendolife.com/#article-209012",
+  "https://www.nintendolife.com/#article-209010",
+  "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox"
  ],
  "titles": [
-  "Мушкетеры, пушки и лут",
   "На связи с Драктриком",
   "Под нож цензуры",
   "Ветеранский десант id Software",
@@ -1376,7 +1383,8 @@
   "Хватит мурашек",
   "Ностальгия по синим кроссовкам",
   "Леонида в сети",
-  "Звездный магнетизм"
+  "Звездный магнетизм",
+  "Мясорубка возвращается"
  ],
  "queue": [
   {
@@ -1389,6 +1397,12 @@
    "post": "<b>Звездный магнетизм</b>\n\nАнонсирована Horu — масштабная 4X RTS в духе Star Wars: Empire at War. Разработчик обещает грандиозные сражения сотен тысяч юнитов на суше и в космосе, где боевые корабли выступают в роли могущественных заклинателей, способных призывать черные дыры.\n\n#анонс\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/horu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-13T11:15:40.705001+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Мясорубка возвращается</b>\n\nГлава Xbox Аша Шарма подтвердила, что MachineGames уже трудится над Wolfenstein 3. Кроме того, пострадавшая от недавних увольнений idSoftware тоже занята разработкой нового проекта.\n\n#новости #Xbox\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/wolfenstein-header_gmu0BH3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-13T12:45:37.993867+00:00",
    "tries": 0
   }
  ],
