@@ -1380,10 +1380,28 @@
   "https://www.nintendolife.com/#article-209035",
   "https://www.nintendolife.com/#article-209032",
   "https://www.nintendolife.com/#article-209026",
-  "https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai"
+  "https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai",
+  "pdwNq5pk3iMqwUMLsMiauN",
+  "YQwaYh5WMwjYdv2Kd5oqgF",
+  "b9gasxygxSoHfriiwtiL4d",
+  "V5qdA9bBQVMVzGUNrYDCQg",
+  "og6eDFBYEs3LJazQZ6uoBj",
+  "fxfMZbhif2gfsEt4jfHHRe",
+  "https://www.eurogamer.net/world-of-warcraft-forever-oceania-sunlight",
+  "https://www.eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays",
+  "https://www.rockpapershotgun.com/cartoon-styled-lite-vania-lolas-familiars-prison-of-argnoh-will-have-you-springing-yourself-and-your-summoned-pals-from-magic-jail",
+  "https://www.gematsu.com/?p=1088014",
+  "https://www.pushsquare.com/#article-209000",
+  "https://www.pushsquare.com/#article-209005",
+  "https://www.pushsquare.com/#article-209031",
+  "https://www.nintendolife.com/#article-209033",
+  "https://www.nintendolife.com/#article-209044",
+  "https://www.nintendolife.com/#article-208832",
+  "https://news.xbox.com/en-us/?p=228151",
+  "https://news.xbox.com/en-us/?p=228128",
+  "https://www.rockpapershotgun.com/have-you-played-deaths-door"
  ],
  "titles": [
-  "Ветеранский десант id Software",
   "Снова в Скайрим по скидке",
   "Любви все консоли покорны",
   "Раньше намеченного",
@@ -1402,7 +1420,8 @@
   "Звездный магнетизм",
   "Мясорубка возвращается",
   "Одинокий ковбой возвращается",
-  "Нейросети на службе у геймдева"
+  "Нейросети на службе у геймдева",
+  "Коротко и со вкусом"
  ],
  "queue": [
   {
@@ -1415,6 +1434,12 @@
    "post": "<b>Нейросети на службе у геймдева</b>\n\nСвежий отчет GDC показал, что уже 40% разработчиков активно используют генеративный ИИ в своей работе. При этом большинство опрошенных специалистов считают подобные инструменты скорее вредными для индустрии, чем полезными.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/GDC-report.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-13T15:45:41.475276+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Коротко и со вкусом</b>\n\nПока гиганты вроде Elden Ring предлагают сотни часов исследования, камерные проекты вроде Death's Door доказывают силу компактного формата. Эта восьмичасовая приключенческая игра ничуть не уступает масштабным блокбастерам в динамике и атмосфере.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Death's-Door-Frog-King-fight.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-13T17:15:40.680577+00:00",
    "tries": 0
   }
  ],
