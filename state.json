@@ -1418,10 +1418,18 @@
   "https://www.nintendolife.com/#article-209053",
   "https://www.nintendolife.com/#article-209045",
   "https://www.nintendolife.com/#article-209034",
-  "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028"
+  "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
+  "5fiYryLyN88ECFApAHNDoQ",
+  "mg8EwmCt3K2gDqMQfTiqXj",
+  "https://www.rockpapershotgun.com/barbie-rewind-out-now-invites-you-to-take-a-trip-down-memory-lane-with-a-whole-bunch-of-life-in-plastic-classics-and-one-game-that-was-previously-unreleased",
+  "https://www.gematsu.com/?p=1088206",
+  "https://www.gematsu.com/?p=1088210",
+  "https://www.pushsquare.com/#article-209056",
+  "https://www.pushsquare.com/#article-209048",
+  "https://news.xbox.com/en-us/?p=228161",
+  "SwzF5Z3SKWHQCLxM5ovPPg"
  ],
  "titles": [
-  "Любви все консоли покорны",
   "Раньше намеченного",
   "Коллекция закрыта",
   "Слухи сильно преувеличены",
@@ -1440,7 +1448,8 @@
   "Одинокий ковбой возвращается",
   "Нейросети на службе у геймдева",
   "Коротко и со вкусом",
-  "Нейросети захватывают конвейер Pearl Abyss"
+  "Нейросети захватывают конвейер Pearl Abyss",
+  "Никаких хакеров и ИИ"
  ],
  "queue": [
   {
@@ -1454,15 +1463,16 @@
    "image": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-13T18:45:38.356290+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Никаких хакеров и ИИ</b>\n\nMicrosoft принесла глубокие извинения за масштабный сбой в своих сервисах и поспешила успокоить пользователей. Компания заверила, что недавние массовые сокращения персонала здесь совершенно ни при чем, как и внешние кибератаки.\n\n#индустрия #Xbox\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/kc77wf7a29YuNrdx6Ugct9-1920-80.jpg",
+   "ts": "2026-11-13T20:15:42.702645+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-13T20:01:00.558876+00:00",
  "published": [
-  {
-   "ts": "2026-11-05T20:01:05.445310+00:00",
-   "title": "Осторожно, вирус в лаунчере Nikke",
-   "body": "ПК-лаунчер популярного гача-шутера Goddess of Victory: Nikke от студии Shift Up неожиданно подхватил малварь. Издатель Level Infinite уже выпустил экстренный патч, но всем, кто запускал игру с конца сентября, настоятельн"
-  },
   {
    "ts": "2026-11-06T05:01:01.179453+00:00",
    "title": "Xbox станет быстрее и проще",
