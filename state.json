@@ -1347,10 +1347,11 @@
   "https://www.nintendolife.com/#article-209068",
   "https://www.nintendolife.com/#article-208994",
   "https://www.nintendolife.com/#article-209069",
-  "https://www.nintendolife.com/#article-209070"
+  "https://www.nintendolife.com/#article-209070",
+  "https://www.pushsquare.com/#article-81924",
+  "https://www.eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach"
  ],
  "titles": [
-  "Лебединая песня Obsidian",
   "Палец о палец",
   "Мушкетеры, пушки и лут",
   "На связи с Драктриком",
@@ -1369,7 +1370,8 @@
   "Мясорубка возвращается",
   "Порт с оговорками",
   "Хватит мурашек",
-  "Ностальгия по синим кроссовкам"
+  "Ностальгия по синим кроссовкам",
+  "Леонида в сети"
  ],
  "queue": [
   {
@@ -1383,15 +1385,16 @@
    "image": "https://images.nintendolife.com/a0185025c78db/1280x720.jpg",
    "ts": "2026-11-13T08:15:37.367240+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Леонида в сети</b>\n\nБританские провайдеры уже готовятся к релизу GTA 6 и ожидают рекордную нагрузку на интернет-\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/gta-6-no-internet.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-13T09:45:36.580957+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-13T09:30:49.659108+00:00",
  "published": [
-  {
-   "ts": "2026-11-05T09:30:54.259162+00:00",
-   "title": "Рука мастера: авторы Xenoblade помогли с ремейком Ocarina of Time",
-   "body": "Nintendo раскрыла детали создания амбициозного ремейка для Switch 2. Оказалось, что к разработке культовой классики приложила руку студия Monolith Soft."
-  },
   {
    "ts": "2026-11-05T11:01:04.836397+00:00",
    "title": "Росомаха рвет чарты, а PS5 уверенно идет к заветной вершине",
