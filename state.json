@@ -1367,10 +1367,22 @@
   "https://www.pushsquare.com/#article-208986",
   "https://www.nintendolife.com/#article-208867",
   "https://www.nintendolife.com/#article-208711",
-  "https://www.gematsu.com/?p=1088268"
+  "https://www.gematsu.com/?p=1088268",
+  "X6YWXP6Vz3zrKmTjAZ2jqg",
+  "https://www.eurogamer.net/nvidia-ceo-jensen-huang-resigns",
+  "https://www.eurogamer.net/cd-projekt-red-geralt-gen-ai-voice-polish-jacek-rozenek",
+  "https://www.eurogamer.net/dark-souls-2-3-servers-back-online",
+  "https://www.rockpapershotgun.com/the-hills-are-alive-with-the-sound-of-fury-a-fantasy-musical-hack-n-slash-about-weaponising-pianos-to-fight-the-devil",
+  "https://www.rockpapershotgun.com/nvidia-boss-jensen-huang-resigns-amid-scandal-surrounding-two-alleged-affairs-interim-ceo-appointed-as-search-for-sexy-leather-jacket-mans-successor-begins",
+  "https://www.pushsquare.com/#article-209023",
+  "https://www.pushsquare.com/#article-209027",
+  "https://www.pushsquare.com/#article-209021",
+  "https://www.nintendolife.com/#article-209035",
+  "https://www.nintendolife.com/#article-209032",
+  "https://www.nintendolife.com/#article-209026",
+  "https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai"
  ],
  "titles": [
-  "Под нож цензуры",
   "Ветеранский десант id Software",
   "Снова в Скайрим по скидке",
   "Любви все консоли покорны",
@@ -1389,7 +1401,8 @@
   "Леонида в сети",
   "Звездный магнетизм",
   "Мясорубка возвращается",
-  "Одинокий ковбой возвращается"
+  "Одинокий ковбой возвращается",
+  "Нейросети на службе у геймдева"
  ],
  "queue": [
   {
@@ -1402,6 +1415,12 @@
    "post": "<b>Одинокий ковбой возвращается</b>\n\nИздательство Infogrames и студия Graphite Labs анонсировали Lucky Luke: The Lonesome Cowboy Collection. Сборник классических приключений знаменитого стрелка заглянет практически на все актуальные платформы, включая PC и даже Switch 2.\n\n#анонс\n\n🎮 Первый игровой",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Lucky-Luke-Collection-Ann_11-13-26.jpg",
    "ts": "2026-11-13T14:15:44.569263+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Нейросети на службе у геймдева</b>\n\nСвежий отчет GDC показал, что уже 40% разработчиков активно используют генеративный ИИ в своей работе. При этом большинство опрошенных специалистов считают подобные инструменты скорее вредными для индустрии, чем полезными.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/GDC-report.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-13T15:45:41.475276+00:00",
    "tries": 0
   }
  ],
