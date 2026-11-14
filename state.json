@@ -1456,10 +1456,13 @@
   "https://www.eurogamer.net/what-weve-been-playing-sass-all-over-town-link-ocarina",
   "https://www.eurogamer.net/halo-campaign-evovled-firefight-mode",
   "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-408",
-  "https://www.nintendolife.com/#article-209122"
+  "https://www.nintendolife.com/#article-209122",
+  "JsyZXWA2pzaTqyYzZK2jSD",
+  "https://www.rockpapershotgun.com/wolfenstein-3-and-new-id-software-game-confirmed-as-xbox-boss-somehow-unrelatedly-shouts-about-one-person-soon-wieldling-capabilities-that-once-required-entire-nations",
+  "https://www.nintendolife.com/#article-208988",
+  "https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans"
  ],
  "titles": [
-  "Ретро-путешествие откладывается ненадолго",
   "ММА-бросок по стандарту Activision",
   "Ностальгия по синим кроссовкам",
   "Легальный прогул ради Леонниды",
@@ -1478,7 +1481,8 @@
   "Знакомая боль в новом формате",
   "Цветочная симфония в кармане",
   "Каждому своё",
-  "Второй шанс для Лары"
+  "Второй шанс для Лары",
+  "Доброе дело в Warzone"
  ],
  "queue": [
   {
@@ -1491,6 +1495,12 @@
    "post": "<b>Второй шанс для Лары</b>\n\nLimited Run Games неожиданно решила сделать исключение из своих строгих правил и выпустить дополнительный тираж физической версии Tomb Raider: Definitive Edition для Switch 2. Идеальная возможность для коллекционеров заполучить игру на картридже без переплат спекулянтам.\n\n#Nintendo\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/de0ee2887d85b/1280x720.jpg",
    "ts": "2026-11-14T09:45:42.782759+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Доброе дело в Warzone</b>\n\nФонд Call of Duty Endowment празднует годовщину и День памяти, предлагая игрокам Modern Warfare 3 и Warzone приобрести набор Valor Pack. Все чистые вырученные средства от продажи Activision направит на помощь военным ветеранам в поиске работы.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-14-at-11.11.15.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-14T11:15:35.913509+00:00",
    "tries": 0
   }
  ],
