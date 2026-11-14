@@ -38,7 +38,8 @@
   "вручную 2026-11-12 21:46",
   "2026-11-13 12:00",
   "2026-11-13 19:00",
-  "2026-11-14 12:00"
+  "2026-11-14 12:00",
+  "2026-11-14 19:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -75,7 +76,8 @@
   "6Rn69P2VTNymUA525Zmjeb",
   "uj5H89qHVyc84b2iDpUKBj",
   "MG2Czu9JTgm2nwa6pFX4ST",
-  "56efffda-53c6-4b24-a0fd-4f431cfd92f8"
+  "56efffda-53c6-4b24-a0fd-4f431cfd92f8",
+  "https://www.pushsquare.com/#article-209125"
  ],
  "topics": [
   {
@@ -221,6 +223,12 @@
    "game": "Blade Runner 2099",
    "title": "Blade Runner 2099: Будет AAA-игра?",
    "src": "Blade Runner 2099 Executive Producers Confirm Franchise Owners Are in Talks for AAA Video Game Adaptation"
+  },
+  {
+   "ts": "2026-11-14T16:01:50.202827+00:00",
+   "game": "Tom Clancy's Rainbow Six Vegas 2",
+   "title": "Rainbow Six: Vegas 3 в разработке?",
+   "src": "Rumour: Rainbow Six: Vegas 3 Now in the Works at Ubisoft"
   }
  ]
 }
