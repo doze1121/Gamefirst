@@ -1512,10 +1512,15 @@
   "https://www.pushsquare.com/#article-209049",
   "https://www.pushsquare.com/#article-209099",
   "https://www.nintendolife.com/#article-209110",
-  "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws"
+  "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws",
+  "HV5iLv2aNdC9VssxZ6jE4W",
+  "https://www.eurogamer.net/legend-of-zelda-smaller-before-breath-of-the-wild",
+  "https://www.pushsquare.com/#article-209113",
+  "https://www.pushsquare.com/#article-209111",
+  "https://news.xbox.com/en-us/?p=228231",
+  "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy"
  ],
  "titles": [
-  "Хватит мурашек",
   "Ностальгия по синим кроссовкам",
   "Леонида в сети",
   "Звездный магнетизм",
@@ -1534,7 +1539,8 @@
   "Необычный спонсор скорости",
   "Два волка внутри Харви Смита",
   "Очередь за мобами",
-  "Знакомая мясорубка"
+  "Знакомая мясорубка",
+  "Уроки доброты в GTA 6"
  ],
  "queue": [
   {
@@ -1547,6 +1553,12 @@
    "post": "<b>Знакомая мясорубка</b>\n\nЛегендарный хардкорный платформер возвращается в новом издании Super Meat Boy Again+. Авторы обещают подтянуть графику, насыпать свежих уровней и, конечно же, вернуть ту самую фирменную боль от бесконечных смертей об острые циркулярные пилы.\n\n#анонс\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/super-meat-boy-again-plus.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-14T18:45:36.926575+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Уроки доброты в GTA 6</b>\n\nСерия Grand Theft Auto всегда ассоциировалась с хаосом и беспределом на улицах. Однако в GTA 6 разработчики обещают дать игрокам больше возможностей для проявления эмпатии к окружающим NPC.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-trailer-1-cap-o.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-14T20:15:47.473098+00:00",
    "tries": 0
   }
  ],
