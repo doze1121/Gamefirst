@@ -1502,10 +1502,19 @@
   "https://www.pushsquare.com/#article-209098",
   "https://www.pushsquare.com/#article-209089",
   "https://www.nintendolife.com/#article-208894",
-  "Fuu7G5qKGsFrxpAAFm52pD"
+  "Fuu7G5qKGsFrxpAAFm52pD",
+  "E9kDjAqyFdtzm9GzKM5UdS",
+  "v6dHYWNJxhNRJS8SpYdiaP",
+  "CDNF8Z8s3XHbo5CgMdqLLQ",
+  "https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-getting-three-big-updates-with-new-starting-scenarios-organ-trading-junk-empires-and-fine-dining",
+  "https://www.gematsu.com/?p=1088308",
+  "https://www.gematsu.com/?p=1088252",
+  "https://www.pushsquare.com/#article-209049",
+  "https://www.pushsquare.com/#article-209099",
+  "https://www.nintendolife.com/#article-209110",
+  "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws"
  ],
  "titles": [
-  "Порт с оговорками",
   "Хватит мурашек",
   "Ностальгия по синим кроссовкам",
   "Леонида в сети",
@@ -1524,7 +1533,8 @@
   "Снова ставим на зеро",
   "Необычный спонсор скорости",
   "Два волка внутри Харви Смита",
-  "Очередь за мобами"
+  "Очередь за мобами",
+  "Знакомая мясорубка"
  ],
  "queue": [
   {
@@ -1537,6 +1547,12 @@
    "post": "<b>Очередь за мобами</b>\n\nПомните эту классическую боль старых MMO, когда нужно выбить квест-предмет, а вокруг толпа игроков дерется за право первыми ударить монстра? Журналисты PC Gamer задались вопросом, скучает ли кто-то по этой механике или современный гейминг давно от нее устал.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://cdn.mos.cms.futurecdn.net/62i4nj9Tn742qyQoYR62T5-1920-80.png",
    "ts": "2026-11-14T17:15:41.629010+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Знакомая мясорубка</b>\n\nЛегендарный хардкорный платформер возвращается в новом издании Super Meat Boy Again+. Авторы обещают подтянуть графику, насыпать свежих уровней и, конечно же, вернуть ту самую фирменную боль от бесконечных смертей об острые циркулярные пилы.\n\n#анонс\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/super-meat-boy-again-plus.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-14T18:45:36.926575+00:00",
    "tries": 0
   }
  ],
