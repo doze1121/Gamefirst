@@ -1427,10 +1427,33 @@
   "https://www.pushsquare.com/#article-209056",
   "https://www.pushsquare.com/#article-209048",
   "https://news.xbox.com/en-us/?p=228161",
-  "SwzF5Z3SKWHQCLxM5ovPPg"
+  "SwzF5Z3SKWHQCLxM5ovPPg",
+  "uj5H89qHVyc84b2iDpUKBj",
+  "UZghoAVFiCW92nW4mVuNtF",
+  "v35ePtoibLLp99D4JukRrE",
+  "3bbeYPFNcYoUpbh4cSshTf",
+  "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
+  "https://www.rockpapershotgun.com/cover-your-robot-body-in-magical-fungus-aplenty-and-galavant-across-a-mystical-soulslike-world-in-mycorelic-now-out-in-10",
+  "https://www.gematsu.com/?p=1088240",
+  "https://www.gematsu.com/?p=1088236",
+  "https://www.gematsu.com/?p=1088228",
+  "https://www.gematsu.com/?p=1088000",
+  "https://www.gematsu.com/?p=1088056",
+  "https://www.gematsu.com/?p=1088221",
+  "https://www.gematsu.com/?p=1088213",
+  "https://www.pushsquare.com/#article-209064",
+  "https://www.pushsquare.com/#article-209061",
+  "https://www.pushsquare.com/#article-209058",
+  "https://www.nintendolife.com/#article-209066",
+  "https://www.nintendolife.com/#article-209065",
+  "https://news.xbox.com/en-us/?p=228210",
+  "https://news.xbox.com/en-us/?p=228205",
+  "https://news.xbox.com/en-us/?p=228113",
+  "https://news.xbox.com/en-us/?p=228190",
+  "https://news.xbox.com/en-us/?p=228183",
+  "https://www.gematsu.com/?p=1088353"
  ],
  "titles": [
-  "Раньше намеченного",
   "Коллекция закрыта",
   "Слухи сильно преувеличены",
   "Чемодан, вокзал, не США?",
@@ -1449,7 +1472,8 @@
   "Нейросети на службе у геймдева",
   "Коротко и со вкусом",
   "Нейросети захватывают конвейер Pearl Abyss",
-  "Никаких хакеров и ИИ"
+  "Никаких хакеров и ИИ",
+  "Знакомая боль в новом формате"
  ],
  "queue": [
   {
@@ -1462,6 +1486,12 @@
    "post": "<b>Никаких хакеров и ИИ</b>\n\nMicrosoft принесла глубокие извинения за масштабный сбой в своих сервисах и поспешила успокоить пользователей. Компания заверила, что недавние массовые сокращения персонала здесь совершенно ни при чем, как и внешние кибератаки.\n\n#индустрия #Xbox\n\n🎮 Первый игровой",
    "image": "https://cdn.mos.cms.futurecdn.net/kc77wf7a29YuNrdx6Ugct9-1920-80.jpg",
    "ts": "2026-11-13T20:15:42.702645+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Знакомая боль в новом формате</b>\n\nTeam Meat анонсировала Super Meat Boy Again+ для PC. Авторы обещают всё то же хардкорное испытание, за которое фанаты полюбили оригинал, но с новыми силами и знакомыми садистскими препятствиями.\n\n#анонс\n\n🎮 Первый игровой",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/SMBAP-Ann_11-13-26.jpg",
+   "ts": "2026-11-14T05:15:35.331340+00:00",
    "tries": 0
   }
  ],
