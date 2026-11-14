@@ -37,7 +37,8 @@
   "2026-11-12 19:00",
   "вручную 2026-11-12 21:46",
   "2026-11-13 12:00",
-  "2026-11-13 19:00"
+  "2026-11-13 19:00",
+  "2026-11-14 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -73,7 +74,8 @@
   "https://www.pushsquare.com/#article-209023",
   "6Rn69P2VTNymUA525Zmjeb",
   "uj5H89qHVyc84b2iDpUKBj",
-  "MG2Czu9JTgm2nwa6pFX4ST"
+  "MG2Czu9JTgm2nwa6pFX4ST",
+  "56efffda-53c6-4b24-a0fd-4f431cfd92f8"
  ],
  "topics": [
   {
@@ -213,6 +215,12 @@
    "game": "",
    "title": "Утечка данных TSMC",
    "src": "Chipmaking giant TSMC discovers major employee data leak—reports say info was up for sale for three bitcoin on shady forums"
+  },
+  {
+   "ts": "2026-11-14T09:01:25.190881+00:00",
+   "game": "Blade Runner 2099",
+   "title": "Blade Runner 2099: Будет AAA-игра?",
+   "src": "Blade Runner 2099 Executive Producers Confirm Franchise Owners Are in Talks for AAA Video Game Adaptation"
   }
  ]
 }
