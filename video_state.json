@@ -39,7 +39,8 @@
   "2026-11-13 12:00",
   "2026-11-13 19:00",
   "2026-11-14 12:00",
-  "2026-11-14 19:00"
+  "2026-11-14 19:00",
+  "2026-11-15 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -77,7 +78,8 @@
   "uj5H89qHVyc84b2iDpUKBj",
   "MG2Czu9JTgm2nwa6pFX4ST",
   "56efffda-53c6-4b24-a0fd-4f431cfd92f8",
-  "https://www.pushsquare.com/#article-209125"
+  "https://www.pushsquare.com/#article-209125",
+  "https://www.pushsquare.com/#article-209131"
  ],
  "topics": [
   {
@@ -229,6 +231,12 @@
    "game": "Tom Clancy's Rainbow Six Vegas 2",
    "title": "Rainbow Six: Vegas 3 в разработке?",
    "src": "Rumour: Rainbow Six: Vegas 3 Now in the Works at Ubisoft"
+  },
+  {
+   "ts": "2026-11-15T09:01:40.733059+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "GTA 6 весит 212 гигабайт!",
+   "src": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It"
   }
  ]
 }
