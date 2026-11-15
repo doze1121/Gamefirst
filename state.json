@@ -1543,10 +1543,14 @@
   "G7nXzGB2KkaN8iPRFxBpWV",
   "https://www.nintendolife.com/#article-209132",
   "https://www.nintendolife.com/#article-209133",
-  "https://www.nintendolife.com/#article-209134"
+  "https://www.nintendolife.com/#article-209134",
+  "eee7a029-05b7-4929-a86c-2da4bddadd32",
+  "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027",
+  "https://www.eurogamer.net/gta-vice-city-retrospective",
+  "https://www.nintendolife.com/#article-209076",
+  "https://www.eurogamer.net/the-big-question-whats-the-best-gta"
  ],
  "titles": [
-  "Одинокий ковбой возвращается",
   "Нейросети на службе у геймдева",
   "Коротко и со вкусом",
   "Нейросети захватывают конвейер Pearl Abyss",
@@ -1565,7 +1569,8 @@
   "Музыкальный вкус Леониды",
   "Мышиная возня на кубическом поле",
   "Смертельный паралич от первого лица",
-  "Злодей из девяностых врывается в файтинг"
+  "Злодей из девяностых врывается в файтинг",
+  "Какая часть GTA лучше всех?"
  ],
  "queue": [
   {
@@ -1578,6 +1583,12 @@
    "post": "<b>Злодей из девяностых врывается в файтинг</b>\n\nРостер Fatal Fury: City of the Wolves пополнится неожиданным бойцом. Уже 19 ноября 2026 года в игре появится Лаокорн — главный антагонист полнометражного аниме 1994 года Fatal Fury: The Motion Picture. Персонаж войдет в состав платного сезонного пропуска.\n\n#релиз\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/283e980586455/1280x720.jpg",
    "ts": "2026-11-15T09:45:38.334153+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Какая часть GTA лучше всех?</b>\n\nПока игровое сообщество замерло в ожидании GTA 6, редакция Eurogamer решила ностальгически оглянуться назад. В рамках тематической недели портал задался главным вопросом: какая из частей легендарной серии на самом деле лучшая?\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/gta-best-header-logo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-15T11:15:42.762317+00:00",
    "tries": 0
   }
  ],
