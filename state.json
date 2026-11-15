@@ -1548,10 +1548,12 @@
   "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027",
   "https://www.eurogamer.net/gta-vice-city-retrospective",
   "https://www.nintendolife.com/#article-209076",
-  "https://www.eurogamer.net/the-big-question-whats-the-best-gta"
+  "https://www.eurogamer.net/the-big-question-whats-the-best-gta",
+  "Fixs8cjstTuxzyo8dtfEDB",
+  "https://www.pushsquare.com/#article-209114",
+  "TtMHoYQVkcCNGLUNq8EWJj"
  ],
  "titles": [
-  "Нейросети на службе у геймдева",
   "Коротко и со вкусом",
   "Нейросети захватывают конвейер Pearl Abyss",
   "Никаких хакеров и ИИ",
@@ -1570,7 +1572,8 @@
   "Мышиная возня на кубическом поле",
   "Смертельный паралич от первого лица",
   "Злодей из девяностых врывается в файтинг",
-  "Какая часть GTA лучше всех?"
+  "Какая часть GTA лучше всех?",
+  "Одиночный побег из песков"
  ],
  "queue": [
   {
@@ -1584,15 +1587,16 @@
    "image": "https://assetsio.gnwcdn.com/gta-best-header-logo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-15T11:15:42.762317+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Одиночный побег из песков</b>\n\nВыживач Dune: Awakening внезапно обзавелся полноценным оффлайн-режимом. Теперь исследовать опасный Арракис и управлять своими персонажами можно вообще без подключения к интернету.\n\n#релиз\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/BZPSyzyi8PwUy6nwAn4z6Y-1247-80.jpg",
+   "ts": "2026-11-15T12:45:39.397887+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-15T12:30:51.641111+00:00",
  "published": [
-  {
-   "ts": "2026-11-07T12:30:53.510927+00:00",
-   "title": "Рейд по складам на Prawn Island",
-   "body": "Редакция Eurogamer поделилась игровыми буднями: пока Мари перепроходит неожиданную часть Zelda, Дом ностальгирует в Vice City времен 80-х. Тем временем Келси раскладывает странные карточки, а Коннор, кажется, навсегда за"
-  },
   {
    "ts": "2026-11-07T14:01:02.932547+00:00",
    "title": "Бэтмен метит в агенты 007",
