@@ -42,7 +42,8 @@
   "2026-11-14 19:00",
   "2026-11-15 12:00",
   "вручную 2026-11-15 12:10",
-  "2026-11-15 19:00"
+  "2026-11-15 19:00",
+  "вручную 2026-11-15 19:14"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -83,7 +84,8 @@
   "https://www.pushsquare.com/#article-209125",
   "https://www.pushsquare.com/#article-209131",
   "14d14c4c-3a14-4478-8a0d-6be3bbf4bdc4",
-  "https://www.eurogamer.net/gta-6-tracklist-leak"
+  "https://www.eurogamer.net/gta-6-tracklist-leak",
+  "TtMHoYQVkcCNGLUNq8EWJj"
  ],
  "topics": [
   {
@@ -253,6 +255,12 @@
    "game": "Grand Theft Auto VI",
    "title": "Слил треклист GTA 6?",
    "src": "The latest GTA 6 leak comes in the form of a 34-song tracklist for GTA 6: The Album, featuring Dua Lipa, Lana Del Rey, Rina Sawayama, and more"
+  },
+  {
+   "ts": "2026-11-15T16:15:19.023326+00:00",
+   "game": "Dune: Awakening",
+   "title": "Dune: Awakening без интернета!",
+   "src": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives"
   }
  ]
 }
