@@ -40,7 +40,8 @@
   "2026-11-13 19:00",
   "2026-11-14 12:00",
   "2026-11-14 19:00",
-  "2026-11-15 12:00"
+  "2026-11-15 12:00",
+  "вручную 2026-11-15 12:10"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -79,7 +80,8 @@
   "MG2Czu9JTgm2nwa6pFX4ST",
   "56efffda-53c6-4b24-a0fd-4f431cfd92f8",
   "https://www.pushsquare.com/#article-209125",
-  "https://www.pushsquare.com/#article-209131"
+  "https://www.pushsquare.com/#article-209131",
+  "14d14c4c-3a14-4478-8a0d-6be3bbf4bdc4"
  ],
  "topics": [
   {
@@ -237,6 +239,12 @@
    "game": "Grand Theft Auto VI",
    "title": "GTA 6 весит 212 гигабайт!",
    "src": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It"
+  },
+  {
+   "ts": "2026-11-15T09:11:17.754960+00:00",
+   "game": "League of Legends",
+   "title": "League of Legends ждет глобальный перенос!",
+   "src": "League of Legends: New Dawn Unveiled With Debut Trailer, Riot Announces Major Overhaul Coming in 2027"
   }
  ]
 }
