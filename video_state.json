@@ -41,7 +41,8 @@
   "2026-11-14 12:00",
   "2026-11-14 19:00",
   "2026-11-15 12:00",
-  "вручную 2026-11-15 12:10"
+  "вручную 2026-11-15 12:10",
+  "2026-11-15 19:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -81,7 +82,8 @@
   "56efffda-53c6-4b24-a0fd-4f431cfd92f8",
   "https://www.pushsquare.com/#article-209125",
   "https://www.pushsquare.com/#article-209131",
-  "14d14c4c-3a14-4478-8a0d-6be3bbf4bdc4"
+  "14d14c4c-3a14-4478-8a0d-6be3bbf4bdc4",
+  "https://www.eurogamer.net/gta-6-tracklist-leak"
  ],
  "topics": [
   {
@@ -245,6 +247,12 @@
    "game": "League of Legends",
    "title": "League of Legends ждет глобальный перенос!",
    "src": "League of Legends: New Dawn Unveiled With Debut Trailer, Riot Announces Major Overhaul Coming in 2027"
+  },
+  {
+   "ts": "2026-11-15T16:01:23.996284+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "Слил треклист GTA 6?",
+   "src": "The latest GTA 6 leak comes in the form of a 34-song tracklist for GTA 6: The Album, featuring Dua Lipa, Lana Del Rey, Rina Sawayama, and more"
   }
  ]
 }
