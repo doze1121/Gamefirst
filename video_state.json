@@ -44,7 +44,8 @@
   "вручную 2026-11-15 12:10",
   "2026-11-15 19:00",
   "вручную 2026-11-15 19:14",
-  "2026-11-16 12:00"
+  "2026-11-16 12:00",
+  "2026-11-16 19:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -87,7 +88,8 @@
   "14d14c4c-3a14-4478-8a0d-6be3bbf4bdc4",
   "https://www.eurogamer.net/gta-6-tracklist-leak",
   "TtMHoYQVkcCNGLUNq8EWJj",
-  "2caf9e3c-49ad-4b7a-9796-da1af7496b29"
+  "2caf9e3c-49ad-4b7a-9796-da1af7496b29",
+  "1d7ad2bb-6533-46c6-b9fa-826dbd9e818b"
  ],
  "topics": [
   {
@@ -269,6 +271,12 @@
    "game": "",
    "title": "Xbox Project Helix: ПК-игры на консоли",
    "src": "Xbox Confirms Project Helix Is 'a Console Capable of Playing Games From Your PC'"
+  },
+  {
+   "ts": "2026-11-16T16:02:11.196988+00:00",
+   "game": "",
+   "title": "Роберт Паттинсон — новый Джеймс Бонд!",
+   "src": "Robert Pattinson Cast as James Bond in Next 007 Movie"
   }
  ]
 }
