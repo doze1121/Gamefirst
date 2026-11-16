@@ -1595,10 +1595,14 @@
   "https://www.nintendolife.com/#article-209165",
   "5PajJphaKuV6petDXnW4z8",
   "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
-  "Hujyk2dhitPJmdjp8cBK3c"
+  "Hujyk2dhitPJmdjp8cBK3c",
+  "sEY2jh2wqybsGQgXbtsuc8",
+  "kJmwP4yqqc6svgfSganhHJ",
+  "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
+  "https://www.gematsu.com/?p=1088369",
+  "https://www.rockpapershotgun.com/intel-are-being-sued-for-misleading-investors-about-a-massive-glut-of-unwanted-pc-inventory-thanks-to-ai-fuelled-price-hikes"
  ],
  "titles": [
-  "Очередь за мобами",
   "Знакомая мясорубка",
   "Уроки доброты в GTA 6",
   "Музыкальный вкус Леониды",
@@ -1617,7 +1621,8 @@
   "Кадровый марш-бросок для Battlefield",
   "Феноменальная точность",
   "Забытое приложение ожило",
-  "Бессмертный хилбот"
+  "Бессмертный хилбот",
+  "Синий крах на бирже"
  ],
  "queue": [
   {
@@ -1630,6 +1635,12 @@
    "post": "<b>Бессмертный хилбот</b>\n\nИгрок в World of Warcraft прокачал паладина до состояния абсолютной неуязвимости. На 30-м уровне он за 20 минут в одиночку заковырял элитного босса 60-го уровня, после чего спокойно уплыл в открытый океан.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://cdn.mos.cms.futurecdn.net/prYmvnyWqdJvpLnkbECqs3-1920-80.png",
    "ts": "2026-11-16T14:45:45.464724+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Синий крах на бирже</b>\n\nIntel оказалась в эпицентре судебного иска из-за обвинений в сокрытии реальных проблем с продажами ПК. Инвесторы утверждают, что компания ввела их в заблуждение на фоне дефицита комплектующих и бума ИИ, после чего акции пережили историческое падение.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Intel-Core-Ultra-7-270K-installed-alt-2.JPG?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-16T16:15:38.648576+00:00",
    "tries": 0
   }
  ],
