@@ -45,7 +45,8 @@
   "2026-11-15 19:00",
   "вручную 2026-11-15 19:14",
   "2026-11-16 12:00",
-  "2026-11-16 19:00"
+  "2026-11-16 19:00",
+  "вручную 2026-11-16 20:10"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -89,7 +90,8 @@
   "https://www.eurogamer.net/gta-6-tracklist-leak",
   "TtMHoYQVkcCNGLUNq8EWJj",
   "2caf9e3c-49ad-4b7a-9796-da1af7496b29",
-  "1d7ad2bb-6533-46c6-b9fa-826dbd9e818b"
+  "1d7ad2bb-6533-46c6-b9fa-826dbd9e818b",
+  "https://www.pushsquare.com/#article-209162"
  ],
  "topics": [
   {
@@ -277,6 +279,12 @@
    "game": "",
    "title": "Роберт Паттинсон — новый Джеймс Бонд!",
    "src": "Robert Pattinson Cast as James Bond in Next 007 Movie"
+  },
+  {
+   "ts": "2026-11-16T17:11:05.069008+00:00",
+   "game": "Persona 6",
+   "title": "Persona 6 на The Game Awards?",
+   "src": "Rumour: Persona 6 Blowout Primed for The Game Awards"
   }
  ]
 }
