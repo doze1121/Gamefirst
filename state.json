@@ -1600,10 +1600,13 @@
   "kJmwP4yqqc6svgfSganhHJ",
   "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
   "https://www.gematsu.com/?p=1088369",
-  "https://www.rockpapershotgun.com/intel-are-being-sued-for-misleading-investors-about-a-massive-glut-of-unwanted-pc-inventory-thanks-to-ai-fuelled-price-hikes"
+  "https://www.rockpapershotgun.com/intel-are-being-sued-for-misleading-investors-about-a-massive-glut-of-unwanted-pc-inventory-thanks-to-ai-fuelled-price-hikes",
+  "w6WRh96mj3a5QKeYvVrPqb",
+  "3iea8GwSxgdpEPtPGdvij9",
+  "https://www.eurogamer.net/cyberpunk-2077-torrent-rain-weather-mod",
+  "geaFewumXu4y24CexDkSQ8"
  ],
  "titles": [
-  "Знакомая мясорубка",
   "Уроки доброты в GTA 6",
   "Музыкальный вкус Леониды",
   "Мышиная возня на кубическом поле",
@@ -1622,7 +1625,8 @@
   "Феноменальная точность",
   "Забытое приложение ожило",
   "Бессмертный хилбот",
-  "Синий крах на бирже"
+  "Синий крах на бирже",
+  "Редирект на унитазы и компромат"
  ],
  "queue": [
   {
@@ -1635,6 +1639,12 @@
    "post": "<b>Синий крах на бирже</b>\n\nIntel оказалась в эпицентре судебного иска из-за обвинений в сокрытии реальных проблем с продажами ПК. Инвесторы утверждают, что компания ввела их в заблуждение на фоне дефицита комплектующих и бума ИИ, после чего акции пережили историческое падение.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/Intel-Core-Ultra-7-270K-installed-alt-2.JPG?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-16T16:15:38.648576+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Редирект на унитазы и компромат</b>\n\nХакеры угнали старые короткие ссылки Bitly, которые использовали крупные бренды. Теперь вместо привычных сайтов пользователи попадают на Skibidi Toilet и вики по делу Эпштейна. Досталось даже разработчикам Mewgenics.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/EdnhdmAKqih3DVJ8u5YEGj-1921-80.jpg",
+   "ts": "2026-11-16T17:45:39.254279+00:00",
    "tries": 0
   }
  ],
