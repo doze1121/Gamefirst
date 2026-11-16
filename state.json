@@ -1586,10 +1586,12 @@
   "83ruHwNrk7dd9MY837GfKi",
   "0d31616c-e304-4332-aec2-540ee6a91781",
   "2caf9e3c-49ad-4b7a-9796-da1af7496b29",
-  "https://www.eurogamer.net/battlefield-call-of-duty-sam-cooper-byron-beede-live-service"
+  "https://www.eurogamer.net/battlefield-call-of-duty-sam-cooper-byron-beede-live-service",
+  "xTSY9qGhfXuxdFacFCQfyL",
+  "https://www.nintendolife.com/#article-209078",
+  "https://www.eurogamer.net/umamusume-dev-seven-new-games-2030"
  ],
  "titles": [
-  "Снова ставим на зеро",
   "Необычный спонсор скорости",
   "Два волка внутри Харви Смита",
   "Очередь за мобами",
@@ -1608,7 +1610,8 @@
   "Месть кубических подземелий",
   "Ушла эпоха миниатюр",
   "Гибрид ПК и консоли",
-  "Кадровый марш-бросок для Battlefield"
+  "Кадровый марш-бросок для Battlefield",
+  "Феноменальная точность"
  ],
  "queue": [
   {
@@ -1621,6 +1624,12 @@
    "post": "<b>Кадровый марш-бросок для Battlefield</b>\n\nEA снова перетасовывает руководящий состав серии Battlefield. Байрон Биди, ранее занимавший пост генерального менеджера франшизы, пошел на повышение и теперь возглавит работу всех студий, причастных к развитию этой культовой серии шутеров.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/battlefield-6-season-4-gameplay-screen-11.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-16T09:45:51.593186+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Феноменальная точность</b>\n\nКомпания Cyberagent, владеющая студией Cygames, отчиталась обimpressive успехах на мобильном рынке с невероятным показателем успешности релизов в 88%. На волне таких побед издатель планирует выпустить еще семь новых игр вплоть до 2030 года.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/umamusume-pretty-derby-running.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-16T11:31:02.721702+00:00",
    "tries": 0
   }
  ],
