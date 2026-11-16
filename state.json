@@ -1592,10 +1592,12 @@
   "https://www.eurogamer.net/umamusume-dev-seven-new-games-2030",
   "https://www.rockpapershotgun.com/the-sunday-papers-836",
   "https://www.pushsquare.com/#article-209135",
-  "https://www.nintendolife.com/#article-209165"
+  "https://www.nintendolife.com/#article-209165",
+  "5PajJphaKuV6petDXnW4z8",
+  "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
+  "Hujyk2dhitPJmdjp8cBK3c"
  ],
  "titles": [
-  "Два волка внутри Харви Смита",
   "Очередь за мобами",
   "Знакомая мясорубка",
   "Уроки доброты в GTA 6",
@@ -1614,7 +1616,8 @@
   "Гибрид ПК и консоли",
   "Кадровый марш-бросок для Battlefield",
   "Феноменальная точность",
-  "Забытое приложение ожило"
+  "Забытое приложение ожило",
+  "Бессмертный хилбот"
  ],
  "queue": [
   {
@@ -1627,6 +1630,12 @@
    "post": "<b>Забытое приложение ожило</b>\n\nNintendo выкатила обновление 3.4.0 для фирменного мобильного приложения Nintendo Store на iOS и Android. Патч сосредоточен на улучшении пользовательского опыта, а главное — теперь стало намного удобнее отслеживать свою игровую активность на Switch за текущий год.\n\n#новости #Nintendo\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/f15eb9acdf7da/1280x720.jpg",
    "ts": "2026-11-16T13:15:39.956083+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Бессмертный хилбот</b>\n\nИгрок в World of Warcraft прокачал паладина до состояния абсолютной неуязвимости. На 30-м уровне он за 20 минут в одиночку заковырял элитного босса 60-го уровня, после чего спокойно уплыл в открытый океан.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/prYmvnyWqdJvpLnkbECqs3-1920-80.png",
+   "ts": "2026-11-16T14:45:45.464724+00:00",
    "tries": 0
   }
  ],
