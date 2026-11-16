@@ -1589,10 +1589,12 @@
   "https://www.eurogamer.net/battlefield-call-of-duty-sam-cooper-byron-beede-live-service",
   "xTSY9qGhfXuxdFacFCQfyL",
   "https://www.nintendolife.com/#article-209078",
-  "https://www.eurogamer.net/umamusume-dev-seven-new-games-2030"
+  "https://www.eurogamer.net/umamusume-dev-seven-new-games-2030",
+  "https://www.rockpapershotgun.com/the-sunday-papers-836",
+  "https://www.pushsquare.com/#article-209135",
+  "https://www.nintendolife.com/#article-209165"
  ],
  "titles": [
-  "Необычный спонсор скорости",
   "Два волка внутри Харви Смита",
   "Очередь за мобами",
   "Знакомая мясорубка",
@@ -1611,7 +1613,8 @@
   "Ушла эпоха миниатюр",
   "Гибрид ПК и консоли",
   "Кадровый марш-бросок для Battlefield",
-  "Феноменальная точность"
+  "Феноменальная точность",
+  "Забытое приложение ожило"
  ],
  "queue": [
   {
@@ -1624,6 +1627,12 @@
    "post": "<b>Феноменальная точность</b>\n\nКомпания Cyberagent, владеющая студией Cygames, отчиталась обimpressive успехах на мобильном рынке с невероятным показателем успешности релизов в 88%. На волне таких побед издатель планирует выпустить еще семь новых игр вплоть до 2030 года.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/umamusume-pretty-derby-running.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-16T11:31:02.721702+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Забытое приложение ожило</b>\n\nNintendo выкатила обновление 3.4.0 для фирменного мобильного приложения Nintendo Store на iOS и Android. Патч сосредоточен на улучшении пользовательского опыта, а главное — теперь стало намного удобнее отслеживать свою игровую активность на Switch за текущий год.\n\n#новости #Nintendo\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/f15eb9acdf7da/1280x720.jpg",
+   "ts": "2026-11-16T13:15:39.956083+00:00",
    "tries": 0
   }
  ],
