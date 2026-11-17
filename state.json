@@ -1647,10 +1647,24 @@
   "https://www.pushsquare.com/#article-209162",
   "https://www.nintendolife.com/#article-209177",
   "https://www.nintendolife.com/#article-209169",
-  "https://www.rockpapershotgun.com/former-dishonored-designer-joins-the-team-on-new-bloods-victorian-immersive-sim-gloomwood-with-a-new-level-and-new-weapons-coming-this-year"
+  "https://www.rockpapershotgun.com/former-dishonored-designer-joins-the-team-on-new-bloods-victorian-immersive-sim-gloomwood-with-a-new-level-and-new-weapons-coming-this-year",
+  "ZXBkiLCnWYed93urojPpMc",
+  "9NExjG9mXXGURFT6D6XNPa",
+  "WvuYJgRFpFcRTmsVn52fLc",
+  "LM78X5xF9dZmpLL5tJY7Aj",
+  "https://www.eurogamer.net/world-of-warcraft-forever-toy-pouch-of-violent-dust",
+  "https://www.rockpapershotgun.com/my-murderous-wine-merchant-whines-for-a-chance-at-republican-rule-in-crusader-kings-3s-silk-and-silver-expansion-which-isnt-only-about-the-money-1",
+  "https://www.rockpapershotgun.com/each-new-gta-moves-the-series-closer-and-closer-to-the-original-mafia-the-open-world-game-that-bettered-rockstar",
+  "https://www.gematsu.com/?p=1088434",
+  "https://www.gematsu.com/?p=1088431",
+  "https://www.gematsu.com/?p=1088427",
+  "https://www.pushsquare.com/#article-209168",
+  "https://www.pushsquare.com/#article-209182",
+  "https://www.nintendolife.com/#article-209184",
+  "https://www.nintendolife.com/#article-209180",
+  "https://www.rockpapershotgun.com/only-two-days-out-from-gta-6-its-publisher-take-two-lay-off-staff-at-xcom-and-civilization-developer-firaxis"
  ],
  "titles": [
-  "Тихий эмбиент или громкий театр?",
   "Стрельба у офиса Xbox-разработчиков",
   "Месть кубических подземелий",
   "Ушла эпоха миниатюр",
@@ -1669,7 +1683,8 @@
   "Триумфальное возвращение дивана",
   "Против цифрового разума",
   "Туманное будущее Dragon Quest",
-  "Круг замкнулся"
+  "Круг замкнулся",
+  "Плохие новости из мира Civilization"
  ],
  "queue": [
   {
@@ -1683,15 +1698,16 @@
    "image": "https://assetsio.gnwcdn.com/Gloomwood-Cursed-Fishdogs.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-17T15:45:47.638158+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Плохие новости из мира Civilization</b>\n\nИздательство Take-Two устроило новую волну увольнений в студии Firaxis, создавшей Civilization и XCOM. И это всего через год после предыдущих сокращений в компании. Особенно иронично, что чистки происходят прямо перед релизом GTA 6, которую тоже издает Take-Two.\n\n#новости #индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/xcom-enemy-unknown-hq.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-17T17:15:40.711016+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-17T17:01:08.361464+00:00",
  "published": [
-  {
-   "ts": "2026-11-09T17:01:09.502636+00:00",
-   "title": "Самурайский GTA мог стать реальностью",
-   "body": "Бывший техдиректор Rockstar North подтвердил, что студия всерьез размышляла о создании Grand Theft Auto в декорациях Токио. Проект так и не вышел за рамки ранних обсуждений, хотя в коде GTA 5 фанаты позже нашли упоминани"
-  },
   {
    "ts": "2026-11-09T18:27:10.252318+00:00",
    "title": "Рынок наводнили свежие релизы",
