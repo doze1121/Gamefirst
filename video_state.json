@@ -48,7 +48,8 @@
   "2026-11-16 19:00",
   "вручную 2026-11-16 20:10",
   "2026-11-17 12:00",
-  "2026-11-17 19:00"
+  "2026-11-17 19:00",
+  "вручную 2026-11-17 19:20"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -95,7 +96,8 @@
   "1d7ad2bb-6533-46c6-b9fa-826dbd9e818b",
   "https://www.pushsquare.com/#article-209162",
   "de702114-d195-40e6-8c5f-12702a371a69",
-  "1169bfc1-ffdc-4691-b034-26d881ea8d8b"
+  "1169bfc1-ffdc-4691-b034-26d881ea8d8b",
+  "https://www.nintendolife.com/#article-209238"
  ],
  "topics": [
   {
@@ -301,6 +303,12 @@
    "game": "Grand Theft Auto VI",
    "title": "Школы готовятся к релизу GTA 6!",
    "src": "Warnings, Encouragement, and Gift Cards: How Schools Are Preparing for Mass Absences on GTA 6 Launch Day"
+  },
+  {
+   "ts": "2026-11-17T16:20:58.035771+00:00",
+   "game": "",
+   "title": "Switch 2 важнее PS5 для разработчиков?",
+   "src": "GDC Survey Suggests Devs Want To Make Games For Switch 2 More Than PS5 Or Xbox"
   }
  ]
 }
