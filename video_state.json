@@ -47,7 +47,8 @@
   "2026-11-16 12:00",
   "2026-11-16 19:00",
   "вручную 2026-11-16 20:10",
-  "2026-11-17 12:00"
+  "2026-11-17 12:00",
+  "2026-11-17 19:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -93,7 +94,8 @@
   "2caf9e3c-49ad-4b7a-9796-da1af7496b29",
   "1d7ad2bb-6533-46c6-b9fa-826dbd9e818b",
   "https://www.pushsquare.com/#article-209162",
-  "de702114-d195-40e6-8c5f-12702a371a69"
+  "de702114-d195-40e6-8c5f-12702a371a69",
+  "1169bfc1-ffdc-4691-b034-26d881ea8d8b"
  ],
  "topics": [
   {
@@ -293,6 +295,12 @@
    "game": "Pokémon GO",
    "title": "Сова из Дуолинго захватывает Покемон Го!",
    "src": "There Really Is No Escape From The Duolingo Owl, Who Will Soon Join Pokémon Go"
+  },
+  {
+   "ts": "2026-11-17T16:01:49.455000+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "Школы готовятся к релизу GTA 6!",
+   "src": "Warnings, Encouragement, and Gift Cards: How Schools Are Preparing for Mass Absences on GTA 6 Launch Day"
   }
  ]
 }
