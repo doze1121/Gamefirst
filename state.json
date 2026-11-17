@@ -1629,10 +1629,18 @@
   "https://www.pushsquare.com/#article-209154",
   "https://www.nintendolife.com/#article-209149",
   "https://www.nintendolife.com/#article-209157",
-  "https://www.rockpapershotgun.com/games-are-best-made-by-people-the-iwgb-and-other-european-unions-publish-joint-manifesto-calling-on-workers-employers-and-consumers-to-reject-genai"
+  "https://www.rockpapershotgun.com/games-are-best-made-by-people-the-iwgb-and-other-european-unions-publish-joint-manifesto-calling-on-workers-employers-and-consumers-to-reject-genai",
+  "v9WDBFd9D5AWkweUukaKRV",
+  "aKTGfCRJBtYgL8WKQdWTte",
+  "6Gkg2eYKpKLDVEYGFjHzEA",
+  "BzWAGFvTiEnLk3DbpzDxAR",
+  "44UAodFsutxcSdnhxLtuE5",
+  "https://www.eurogamer.net/can-gta-6-make-2-billion-in-its-opening-weekend-one-industry-analyst-has-run-the-numbers-and-seems-to-think-so",
+  "https://www.rockpapershotgun.com/this-week-in-pc-games-start-a-new-life-in-vice-city-escape-a-dying-universe-before-the-last-black-hole-evaporates-and-avenge-your-pigeon-with-a-sledgehammer",
+  "https://news.xbox.com/en-us/?p=228222",
+  "https://www.pushsquare.com/#article-209222"
  ],
  "titles": [
-  "Слив в ритмах Леониды",
   "Четверть века с зелеными",
   "Тихий эмбиент или громкий театр?",
   "Стрельба у офиса Xbox-разработчиков",
@@ -1651,7 +1659,8 @@
   "Будни зависимого хикикомори",
   "Легендарный артефакт из прошлого",
   "Триумфальное возвращение дивана",
-  "Против цифрового разума"
+  "Против цифрового разума",
+  "Туманное будущее Dragon Quest"
  ],
  "queue": [
   {
@@ -1664,6 +1673,12 @@
    "post": "<b>Против цифрового разума</b>\n\nЕвропейские игроведы объединились против искусственного интеллекта. Профсоюзы из Великобритании, Германии, Франции, Италии, Испании и Ирландии выпустили манифест с призывом бойкотировать генеративный ИИ в геймдеве ради защиты живых специалистов и экологии.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/IWGB-Union.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-17T12:45:45.384635+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Туманное будущее Dragon Quest</b>\n\nСерия Dragon Quest оказалась в непростом положении из-за затянувшейся разработки Dragon Quest 12 и ухода из жизни легендарного художника Akira Toriyama. На фоне анонса новой мобильной игры фанаты и вовсе требуют от Square Enix завершить франшизу и создать совершенно новую RPG.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/c2a3d1e3ff199/1280x720.jpg",
+   "ts": "2026-11-17T14:15:44.566715+00:00",
    "tries": 0
   }
  ],
