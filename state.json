@@ -1621,10 +1621,17 @@
   "https://www.pushsquare.com/#article-209136",
   "https://www.nintendolife.com/#article-209152",
   "https://news.xbox.com/en-us/?p=228254",
-  "https://www.rockpapershotgun.com/star-wars-galactic-racer-will-get-local-split-screen-multiplayer-in-early-2027-with-new-free-play-mode-finally-letting-racers-yell-at-one-another-in-a-tangible-space"
+  "https://www.rockpapershotgun.com/star-wars-galactic-racer-will-get-local-split-screen-multiplayer-in-early-2027-with-new-free-play-mode-finally-letting-racers-yell-at-one-another-in-a-tangible-space",
+  "e5bcMbdwXZSUdQmiyiZ3pC",
+  "u22TegRzeQos3g3PvTLTnk",
+  "https://www.eurogamer.net/microsoft-project-helix-interview-details",
+  "https://www.rockpapershotgun.com/nobody-was-hurt-in-shooting-near-clockwork-revolution-devs-inxile-entertainments-office-the-xbox-owned-studio-and-police-confirm",
+  "https://www.pushsquare.com/#article-209154",
+  "https://www.nintendolife.com/#article-209149",
+  "https://www.nintendolife.com/#article-209157",
+  "https://www.rockpapershotgun.com/games-are-best-made-by-people-the-iwgb-and-other-european-unions-publish-joint-manifesto-calling-on-workers-employers-and-consumers-to-reject-genai"
  ],
  "titles": [
-  "Одиночный побег из песков",
   "Слив в ритмах Леониды",
   "Четверть века с зелеными",
   "Тихий эмбиент или громкий театр?",
@@ -1643,7 +1650,8 @@
   "Покрасить остров в демо-режиме",
   "Будни зависимого хикикомори",
   "Легендарный артефакт из прошлого",
-  "Триумфальное возвращение дивана"
+  "Триумфальное возвращение дивана",
+  "Против цифрового разума"
  ],
  "queue": [
   {
@@ -1656,6 +1664,12 @@
    "post": "<b>Триумфальное возвращение дивана</b>\n\nСтудия Fuse Games услышала мольбы фанатов ретро-формата и пообещала добавить в Star Wars Galactic Racer полноценный локальный сплит-скрин. Функция появится в начале 2027 года вместе со свежим режимом Free\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/Galactic-Racer-splitscreen.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-17T11:15:40.172703+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Против цифрового разума</b>\n\nЕвропейские игроведы объединились против искусственного интеллекта. Профсоюзы из Великобритании, Германии, Франции, Италии, Испании и Ирландии выпустили манифест с призывом бойкотировать генеративный ИИ в геймдеве ради защиты живых специалистов и экологии.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/IWGB-Union.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-17T12:45:45.384635+00:00",
    "tries": 0
   }
  ],
