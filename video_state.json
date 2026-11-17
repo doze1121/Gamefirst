@@ -50,7 +50,8 @@
   "2026-11-17 12:00",
   "2026-11-17 19:00",
   "вручную 2026-11-17 19:20",
-  "вручную 2026-11-17 19:24"
+  "вручную 2026-11-17 19:24",
+  "вручную 2026-11-17 19:27"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -99,7 +100,8 @@
   "de702114-d195-40e6-8c5f-12702a371a69",
   "1169bfc1-ffdc-4691-b034-26d881ea8d8b",
   "https://www.nintendolife.com/#article-209238",
-  "https://www.pushsquare.com/#article-209219"
+  "https://www.pushsquare.com/#article-209219",
+  "https://www.eurogamer.net/playstation-store-pricing-uk-class-action-lawsuit-result"
  ],
  "topics": [
   {
@@ -317,6 +319,12 @@
    "game": "Grand Theft Auto VI",
    "title": "Фейковые похороны ради GTA 6!",
    "src": "Random: KFC Australia Staging Fake Funeral to Give GTA 6 Fans a 'Legit' Reason to Skip Work"
+  },
+  {
+   "ts": "2026-11-17T16:28:11.674101+00:00",
+   "game": "",
+   "title": "Sony выиграла суд на £2 миллиарда!",
+   "src": "PlayStation defeats £2 billion UK lawsuit that alleged Sony forced consumers into \"excessive and unfair prices\""
   }
  ]
 }
