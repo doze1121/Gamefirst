@@ -1614,10 +1614,11 @@
   "https://www.gematsu.com/?p=1088501",
   "51b560b3-ee61-4ea4-96e6-fd2471d7bca7",
   "https://www.nintendolife.com/#article-209205",
-  "https://www.gematsu.com/?p=1088514"
+  "https://www.gematsu.com/?p=1088514",
+  "https://www.nintendolife.com/#article-209144",
+  "https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it"
  ],
  "titles": [
-  "Злодей из девяностых врывается в файтинг",
   "Какая часть GTA лучше всех?",
   "Одиночный побег из песков",
   "Слив в ритмах Леониды",
@@ -1636,7 +1637,8 @@
   "Расплата за гигабайты слитой GTA 6",
   "Конструктор мечты задержится",
   "Покрасить остров в демо-режиме",
-  "Будни зависимого хикикомори"
+  "Будни зависимого хикикомори",
+  "Легендарный артефакт из прошлого"
  ],
  "queue": [
   {
@@ -1649,6 +1651,12 @@
    "post": "<b>Будни зависимого хикикомори</b>\n\nИздательство Kniv Studio и разработчик Dreamery анонсировали визуальную новеллу Attention Addicted NEET для ПК. Проект предложит игрокам погрузиться в историю с множеством концовок, зависящих от принимаемых по ходу сюжета решений.\n\n#анонс\n\n🎮 Первый игровой",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Attention-Addicted-NEET-Ann_11-17-26.jpg",
    "ts": "2026-11-17T08:15:39.195617+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Легендарный артефакт из прошлого</b>\n\nДвадцать три года назад Microsoft попыталась полностью изменить управление в RTS с помощью странного девайса SideWinder Strategic Commander. Устройство провалилось в продажах, но у него до сих пор есть преданные фанаты, которые не хотят пересаживаться на привычную мышь и клавиатуру.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Microsoft-SideWinder-Strategic-Commander-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-17T09:45:38.895471+00:00",
    "tries": 0
   }
  ],
