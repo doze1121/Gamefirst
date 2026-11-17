@@ -1638,10 +1638,18 @@
   "https://www.eurogamer.net/can-gta-6-make-2-billion-in-its-opening-weekend-one-industry-analyst-has-run-the-numbers-and-seems-to-think-so",
   "https://www.rockpapershotgun.com/this-week-in-pc-games-start-a-new-life-in-vice-city-escape-a-dying-universe-before-the-last-black-hole-evaporates-and-avenge-your-pigeon-with-a-sledgehammer",
   "https://news.xbox.com/en-us/?p=228222",
-  "https://www.pushsquare.com/#article-209222"
+  "https://www.pushsquare.com/#article-209222",
+  "https://www.eurogamer.net/cyberpunk-2077-multiplayer-mod-open-beta",
+  "https://www.rockpapershotgun.com/gta-6-hacker-pleads-guilty-to-2022-rockstar-games-breach-which-the-company-claim-cost-them-5-million",
+  "https://www.gematsu.com/?p=1088424",
+  "https://www.gematsu.com/?p=1088418",
+  "https://www.gematsu.com/?p=1088409",
+  "https://www.pushsquare.com/#article-209162",
+  "https://www.nintendolife.com/#article-209177",
+  "https://www.nintendolife.com/#article-209169",
+  "https://www.rockpapershotgun.com/former-dishonored-designer-joins-the-team-on-new-bloods-victorian-immersive-sim-gloomwood-with-a-new-level-and-new-weapons-coming-this-year"
  ],
  "titles": [
-  "Четверть века с зелеными",
   "Тихий эмбиент или громкий театр?",
   "Стрельба у офиса Xbox-разработчиков",
   "Месть кубических подземелий",
@@ -1660,7 +1668,8 @@
   "Легендарный артефакт из прошлого",
   "Триумфальное возвращение дивана",
   "Против цифрового разума",
-  "Туманное будущее Dragon Quest"
+  "Туманное будущее Dragon Quest",
+  "Круг замкнулся"
  ],
  "queue": [
   {
@@ -1674,15 +1683,16 @@
    "image": "https://images.pushsquare.com/c2a3d1e3ff199/1280x720.jpg",
    "ts": "2026-11-17T14:15:44.566715+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Круг замкнулся</b>\n\nК команде разработчиков ретро-шутера Gloomwood присоединился Жюльен Эвейе, ранее работавший над культовой Dishonored. Авторы обещают выпустить крупное обновление уже до конца этого года — игроков ждут новые пушки и целый уровень.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Gloomwood-Cursed-Fishdogs.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-17T15:45:47.638158+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-17T15:30:55.431322+00:00",
  "published": [
-  {
-   "ts": "2026-11-09T15:31:01.675301+00:00",
-   "title": "Коллекционная лихорадка",
-   "body": "В США фанат Pokémon так сильно хотел заполучить новый набор карт, что в разгар ночи бросил шестилетнюю дочь прямо в очереди у магазина Target. Полиция задержала отца-фанатика после звонка неравнодушных граждан, заметивши"
-  },
   {
    "ts": "2026-11-09T17:01:09.502636+00:00",
    "title": "Самурайский GTA мог стать реальностью",
