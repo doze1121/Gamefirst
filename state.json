@@ -1606,10 +1606,14 @@
   "https://www.eurogamer.net/cyberpunk-2077-torrent-rain-weather-mod",
   "geaFewumXu4y24CexDkSQ8",
   "4PXemuQwXdEnPecuezLWfS",
-  "https://www.eurogamer.net/gta-6-leaker-pleads-guilty"
+  "https://www.eurogamer.net/gta-6-leaker-pleads-guilty",
+  "https://www.gematsu.com/?p=1088383",
+  "https://www.gematsu.com/?p=1088372",
+  "https://www.gematsu.com/?p=1088388",
+  "https://news.xbox.com/en-us/?p=228164",
+  "https://www.gematsu.com/?p=1088501"
  ],
  "titles": [
-  "Музыкальный вкус Леониды",
   "Мышиная возня на кубическом поле",
   "Смертельный паралич от первого лица",
   "Злодей из девяностых врывается в файтинг",
@@ -1628,7 +1632,8 @@
   "Бессмертный хилбот",
   "Синий крах на бирже",
   "Редирект на унитазы и компромат",
-  "Расплата за гигабайты слитой GTA 6"
+  "Расплата за гигабайты слитой GTA 6",
+  "Конструктор мечты задержится"
  ],
  "queue": [
   {
@@ -1641,6 +1646,12 @@
    "post": "<b>Расплата за гигабайты слитой GTA 6</b>\n\nХакер, устроивший в 2022 году масштабную утечку ранних кадров GTA 6 и взло\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/gta-6-rockstar-art-jason-and-lucia-burning-car.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-16T19:31:03.865273+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Конструктор мечты задержится</b>\n\nПоклонникам самостоятельного создания ролевых игр придется запастись терпением. Релиз инструмента\n\n🎮 Первый игровой",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/RPG-Maker-U2U-Dated_11-16-26.jpg",
+   "ts": "2026-11-17T05:10:31.918560+00:00",
    "tries": 0
   }
  ],
