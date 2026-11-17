@@ -1662,10 +1662,18 @@
   "https://www.pushsquare.com/#article-209182",
   "https://www.nintendolife.com/#article-209184",
   "https://www.nintendolife.com/#article-209180",
-  "https://www.rockpapershotgun.com/only-two-days-out-from-gta-6-its-publisher-take-two-lay-off-staff-at-xcom-and-civilization-developer-firaxis"
+  "https://www.rockpapershotgun.com/only-two-days-out-from-gta-6-its-publisher-take-two-lay-off-staff-at-xcom-and-civilization-developer-firaxis",
+  "LkVPecjFWfqoj7DKVzKbAH",
+  "https://www.eurogamer.net/uk-conservative-kemi-badenoch-gta-6",
+  "https://www.rockpapershotgun.com/spirit-crossing-the-new-zelda-ish-hangout-mmo-from-the-creators-of-cozy-grove-understands-that-sometimes-you-just-want-to-be-alone",
+  "https://www.gematsu.com/?p=1088440",
+  "https://www.pushsquare.com/#article-209186",
+  "https://www.pushsquare.com/#article-209181",
+  "https://www.nintendolife.com/#article-209191",
+  "https://www.nintendolife.com/#article-209192",
+  "https://www.gematsu.com/?p=1088636"
  ],
  "titles": [
-  "Стрельба у офиса Xbox-разработчиков",
   "Месть кубических подземелий",
   "Ушла эпоха миниатюр",
   "Гибрид ПК и консоли",
@@ -1684,7 +1692,8 @@
   "Против цифрового разума",
   "Туманное будущее Dragon Quest",
   "Круг замкнулся",
-  "Плохие новости из мира Civilization"
+  "Плохие новости из мира Civilization",
+  "Фиолетовый дракон снова в деле"
  ],
  "queue": [
   {
@@ -1697,6 +1706,12 @@
    "post": "<b>Плохие новости из мира Civilization</b>\n\nИздательство Take-Two устроило новую волну увольнений в студии Firaxis, создавшей Civilization и XCOM. И это всего через год после предыдущих сокращений в компании. Особенно иронично, что чистки происходят прямо перед релизом GTA 6, которую тоже издает Take-Two.\n\n#новости #индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/xcom-enemy-unknown-hq.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-17T17:15:40.711016+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Фиолетовый дракон снова в деле</b>\n\nActivision и Toys for Bob намекнули на скорый анонс новой игры про Спайро. Полноценная демонстрация проекта с подзаголовком A Realm Beyond ждет нас на декабрьской церемонии The Game Awards.\n\n#анонс #трейлер\n\n🎮 Первый игровой",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Spyro-A-Realm-Beyond_2026_11-17-26_003.jpg",
+   "ts": "2026-11-17T18:45:40.319653+00:00",
    "tries": 0
   }
  ],
