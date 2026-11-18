@@ -55,7 +55,8 @@
   "вручную 2026-11-17 19:30",
   "2026-11-18 12:00",
   "2026-11-18 19:00",
-  "вручную 2026-11-18 20:20"
+  "вручную 2026-11-18 20:20",
+  "вручную 2026-11-18 21:19"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -109,15 +110,10 @@
   "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
   "bfd44299-541a-4775-8b81-ab9e2e39c849",
   "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
-  "https://www.eurogamer.net/gta-6-detailed-fridge-noise"
+  "https://www.eurogamer.net/gta-6-detailed-fridge-noise",
+  "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps"
  ],
  "topics": [
-  {
-   "ts": "2026-11-06T09:01:25.753375+00:00",
-   "game": "",
-   "title": "Петиция за спасение BioWare в Канаде",
-   "src": "Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government"
-  },
   {
    "ts": "2026-11-06T12:07:42.138639+00:00",
    "game": "Grand Theft Auto VI",
@@ -351,6 +347,12 @@
    "game": "Grand Theft Auto VI",
    "title": "Умные холодильники в ГТА 6!",
    "src": "Just how detailed is the audio in GTA 6? Well, even convenience store refrigerators \"all have their own unique sounds\", says Rockstar dev"
+  },
+  {
+   "ts": "2026-11-18T18:20:07.691599+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "PS5 Pro не тянет GTA 6 в 60 FPS?",
+   "src": "Even the PS5 Pro is \"not powerful enough\" to run GTA 6 at 60FPS or 40FPS, Rockstar says"
   }
  ]
 }
