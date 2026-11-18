@@ -1717,10 +1717,16 @@
   "https://www.rockpapershotgun.com/unity-launches-new-fellowship-program-offering-a-no-recoup-50000-grant-to-indie-developers-planning-to-launch-their-game-in-the-next-12-months",
   "https://www.rockpapershotgun.com/break-up-and-re-commodify-a-fallen-earth-in-steel-gullet-a-satisfyingly-funereal-factory-puzzler-that-really-loves-thermodynamics",
   "https://www.nintendolife.com/#article-209217",
-  "https://www.eurogamer.net/clair-obscur-jennifer-svedberg-yen-bafta-fund-new-talent"
+  "https://www.eurogamer.net/clair-obscur-jennifer-svedberg-yen-bafta-fund-new-talent",
+  "X7fPGeDo6SHrzGDTibbuAT",
+  "PkqYsEG7mQuGwGKfPjkgS8",
+  "https://www.eurogamer.net/call-of-duty-medieval-prototype-infinity-ward",
+  "https://www.pushsquare.com/#article-209216",
+  "https://www.pushsquare.com/#article-209219",
+  "https://www.nintendolife.com/#article-208908",
+  "https://www.eurogamer.net/infinity-nikki-elon-musk-maye-mother-fan-reaction"
  ],
  "titles": [
-  "Синий крах на бирже",
   "Редирект на унитазы и компромат",
   "Расплата за гигабайты слитой GTA 6",
   "Конструктор мечты задержится",
@@ -1739,7 +1745,8 @@
   "Работа над ошибками меты",
   "Момент для Toy Story",
   "Досье на беспредельщика",
-  "Потеря для Экспедиции"
+  "Потеря для Экспедиции",
+  "Материнский фактор раздора"
  ],
  "queue": [
   {
@@ -1752,6 +1759,12 @@
    "post": "<b>Потеря для Экспедиции</b>\n\nГлавный сценарист нашумевшей Clair Obscur: Expedition 33 Дженнифер Сведберг-Йен неожиданно покинула студию Sandfall Interactive. Новость всплыла сразу после того, как разработчица получила престижную премию BAFTA Breakthrough US.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/clair-obscur-svedberg-yen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-18T12:37:31.916369+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Материнский фактор раздора</b>\n\nФандом Infinity Nikki пригрозил бойкотом уютной одевалке из-за неожиданного рекламного ролика с участием мамы Илона Маска. Игроки возмущены таким коллабом, хотя у появления Мэй Маск в промо вполне может быть логичное и безобидное объяснение.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/infinity-nikki-posing-with-du-yubai-after-white-jade-performance.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-18T14:15:40.255452+00:00",
    "tries": 0
   }
  ],
