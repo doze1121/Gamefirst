@@ -1692,10 +1692,11 @@
   "https://www.nintendolife.com/#article-209203",
   "https://www.nintendolife.com/#article-209202",
   "https://news.xbox.com/en-us/?p=228246",
-  "https://www.nintendolife.com/#article-209265"
+  "https://www.nintendolife.com/#article-209265",
+  "https://www.nintendolife.com/#article-209266",
+  "sMLK5nmsnudD9aUEBTLkwE"
  ],
  "titles": [
-  "Гибрид ПК и консоли",
   "Кадровый марш-бросок для Battlefield",
   "Феноменальная точность",
   "Забытое приложение ожило",
@@ -1714,7 +1715,8 @@
   "Плохие новости из мира Civilization",
   "Фиолетовый дракон снова в деле",
   "Конец — это только начало",
-  "Плавный полет Аватара"
+  "Плавный полет Аватара",
+  "Святая инквизиция в стиле Half-Life"
  ],
  "queue": [
   {
@@ -1727,6 +1729,12 @@
    "post": "<b>Плавный полет Аватара</b>\n\nФайтинг Avatar Legends обзавелся свежим патчем под номером 4.5. Разработчики исправили интерфейс, доработали баланс персонажей и заметно повысили производительность игры на Switch 2.\n\n#новости #Nintendo\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/602c3d70c10a5/1280x720.jpg",
    "ts": "2026-11-18T05:15:45.254800+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Святая инквизиция в стиле Half-Life</b>\n\nВ Warhammer 40000: Darktide появится новый класс — Sister Novitiate. Арсенал пополнится культовой святой гранатой и мощным арбалетом, способным эффектно пригвоздить еретиков к стенам.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/wHSxiAN4DrafWE9uG2GfN3-1920-80.jpg",
+   "ts": "2026-11-18T06:45:41.627689+00:00",
    "tries": 0
   }
  ],
