@@ -1737,10 +1737,22 @@
   "https://www.pushsquare.com/#article-209164",
   "https://www.nintendolife.com/#article-209238",
   "https://www.nintendolife.com/#article-209234",
-  "https://www.eurogamer.net/grand-theft-auto-6-streaming-record-broken"
+  "https://www.eurogamer.net/grand-theft-auto-6-streaming-record-broken",
+  "2KkmKg4224TMVgdWGUYWfg",
+  "https://www.eurogamer.net/playstation-store-pricing-uk-class-action-lawsuit-result",
+  "https://www.rockpapershotgun.com/sony-defeat-26-billion-uk-class-action-lawsuit-which-argued-playstations-dominant-market-position-fuels-excessive-and-unfair-game-prices",
+  "https://www.rockpapershotgun.com/embracer-begin-yet-another-round-of-layoffs-at-crystal-dynamics-while-theyre-still-midway-through-development-on-two-tomb-raider-games",
+  "https://www.gematsu.com/?p=1088617",
+  "https://www.gematsu.com/?p=1088600",
+  "https://www.gematsu.com/?p=1088520",
+  "https://www.pushsquare.com/#article-209226",
+  "https://www.pushsquare.com/#article-209233",
+  "https://www.nintendolife.com/#article-209255",
+  "https://www.nintendolife.com/#article-209247",
+  "https://news.xbox.com/en-us/?p=228284",
+  "https://www.rockpapershotgun.com/korridor-turns-those-youtube-ads-for-vertical-mobile-shooters-into-a-new-deeply-strategic-genre-and-i-cant-decide-if-its-lying"
  ],
  "titles": [
-  "Расплата за гигабайты слитой GTA 6",
   "Конструктор мечты задержится",
   "Покрасить остров в демо-режиме",
   "Будни зависимого хикикомори",
@@ -1759,7 +1771,8 @@
   "Досье на беспредельщика",
   "Потеря для Экспедиции",
   "Материнский фактор раздора",
-  "Рекорд без релиза"
+  "Рекорд без релиза",
+  "Жертвы рекламы на YouTube"
  ],
  "queue": [
   {
@@ -1773,15 +1786,16 @@
    "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-man-holding-phone-near-lucia.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-18T15:45:41.975080+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Жертвы рекламы на YouTube</b>\n\nПомните те надоедливые ролики мобильных вертикальных шутеров, где игроки упорно сливают боссам в самом конце? Игра Korridor превращает эту тупую рекламу в полноценный и неожиданно глубокий жанр. Автор демки признается\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/20261118154502_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-18T17:15:40.063140+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-18T17:01:14.193992+00:00",
  "published": [
-  {
-   "ts": "2026-11-10T17:01:24.156544+00:00",
-   "title": "Добыча любой ценой",
-   "body": "Многопользовательская extraction-RPG HUNGER отправляется покорять Steam в раннем доступе уже 3 декабря. Игрокам предطرла опасная борьба за ценные ресурсы в суровом мире, где выжить смогут только самые расчетливые мародер"
-  },
   {
    "ts": "2026-11-10T18:30:56.782750+00:00",
    "title": "Тридцать кадров и точка",
