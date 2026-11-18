@@ -1696,10 +1696,12 @@
   "https://www.nintendolife.com/#article-209266",
   "sMLK5nmsnudD9aUEBTLkwE",
   "https://www.gematsu.com/?p=1088508",
-  "https://www.nintendolife.com/#article-209264"
+  "https://www.nintendolife.com/#article-209264",
+  "https://www.eurogamer.net/ea-madden-nfl-27-dont-delete-gta-6",
+  "https://www.pushsquare.com/#article-209207",
+  "https://www.eurogamer.net/gta-4-red-dead-redemption-take-two-ben-feder-ai-toy-story"
  ],
  "titles": [
-  "Феноменальная точность",
   "Забытое приложение ожило",
   "Бессмертный хилбот",
   "Синий крах на бирже",
@@ -1718,7 +1720,8 @@
   "Конец — это только начало",
   "Плавный полет Аватара",
   "Святая инквизиция в стиле Half-Life",
-  "Работа над ошибками меты"
+  "Работа над ошибками меты",
+  "Момент для Toy Story"
  ],
  "queue": [
   {
@@ -1732,15 +1735,16 @@
    "image": "https://images.nintendolife.com/d7e0180525626/1280x720.jpg",
    "ts": "2026-11-18T08:15:44.631648+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Момент для Toy Story</b>\n\nБывший глава Take-Two Бен Федер уверен, что западные геймеры перестанут бойкотировать генеративный ИИ ровно в тот момент, когда индустрия выдаст свой аналог «Истории игрушек». По его мнению, качественный прорыв заставит всех забыть про этические споры.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/digitalfoundry-2017-kingdom-hearts-3-vs-toy-story-face-off-1500711980973.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-18T09:45:38.317627+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-18T09:30:52.304174+00:00",
  "published": [
-  {
-   "ts": "2026-11-10T09:30:56.147677+00:00",
-   "title": "Конец для авторов Unknown 9",
-   "body": "Bandai Namco приняла решение закрыть и ликвидировать студию Reflector Entertainment. Канадская команда запомнилась недавним приключением Unknown 9: Awakening, которое не смогло завоевать любовь игроков и критиков. Теперь"
-  },
   {
    "ts": "2026-11-10T11:01:04.308674+00:00",
    "title": "Безумие кроликов возвращается",
