@@ -53,7 +53,8 @@
   "вручную 2026-11-17 19:24",
   "вручную 2026-11-17 19:27",
   "вручную 2026-11-17 19:30",
-  "2026-11-18 12:00"
+  "2026-11-18 12:00",
+  "2026-11-18 19:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -105,7 +106,8 @@
   "https://www.pushsquare.com/#article-209219",
   "https://www.eurogamer.net/playstation-store-pricing-uk-class-action-lawsuit-result",
   "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
-  "bfd44299-541a-4775-8b81-ab9e2e39c849"
+  "bfd44299-541a-4775-8b81-ab9e2e39c849",
+  "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions"
  ],
  "topics": [
   {
@@ -341,6 +343,12 @@
    "game": "The Finals",
    "title": "ИИ вместо людей: Скандал в The Finals!",
    "src": "'It's Been a Sh*tshow' — Esports Casters Call for Change After Embark Studios Replaces Talent for The Finals' Grand Major Qualifier Highlight Reel With Game's AI Commentators"
+  },
+  {
+   "ts": "2026-11-18T16:13:38.574153+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "GTA 6 без реиграбельности миссий?",
+   "src": "You cannot replay missions in GTA 6, but you can use multiple save files, as Rockstar explains how it made missions \"harder to fail\""
   }
  ]
 }
