@@ -52,7 +52,8 @@
   "вручную 2026-11-17 19:20",
   "вручную 2026-11-17 19:24",
   "вручную 2026-11-17 19:27",
-  "вручную 2026-11-17 19:30"
+  "вручную 2026-11-17 19:30",
+  "2026-11-18 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -103,7 +104,8 @@
   "https://www.nintendolife.com/#article-209238",
   "https://www.pushsquare.com/#article-209219",
   "https://www.eurogamer.net/playstation-store-pricing-uk-class-action-lawsuit-result",
-  "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million"
+  "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
+  "bfd44299-541a-4775-8b81-ab9e2e39c849"
  ],
  "topics": [
   {
@@ -333,6 +335,12 @@
    "game": "The Legend of Zelda: Ocarina of Time",
    "title": "Ocarina of Time бьет рекорды на Свитч два!",
    "src": "The Legend of Zelda: Ocarina of Time on Switch 2 is the US' best-selling physical game so far this year"
+  },
+  {
+   "ts": "2026-11-18T09:01:30.832794+00:00",
+   "game": "The Finals",
+   "title": "ИИ вместо людей: Скандал в The Finals!",
+   "src": "'It's Been a Sh*tshow' — Esports Casters Call for Change After Embark Studios Replaces Talent for The Finals' Grand Major Qualifier Highlight Reel With Game's AI Commentators"
   }
  ]
 }
