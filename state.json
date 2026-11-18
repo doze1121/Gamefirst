@@ -1750,10 +1750,23 @@
   "https://www.nintendolife.com/#article-209255",
   "https://www.nintendolife.com/#article-209247",
   "https://news.xbox.com/en-us/?p=228284",
-  "https://www.rockpapershotgun.com/korridor-turns-those-youtube-ads-for-vertical-mobile-shooters-into-a-new-deeply-strategic-genre-and-i-cant-decide-if-its-lying"
+  "https://www.rockpapershotgun.com/korridor-turns-those-youtube-ads-for-vertical-mobile-shooters-into-a-new-deeply-strategic-genre-and-i-cant-decide-if-its-lying",
+  "https://www.eurogamer.net/firaxis-layoffs-civilization-xcom-heather-hazen",
+  "https://www.eurogamer.net/gta-6-lucia-actress-manni-l-perez-confirmed",
+  "https://www.rockpapershotgun.com/archetype-go-all-in-on-the-mass-effect-vibes-with-a-femjun-reveal-but-im-just-left-hoping-theyll-call-the-alternative-option-mascjun-to-balance-it-out",
+  "https://www.rockpapershotgun.com/what-would-rockstar-have-done-if-gta-hadnt-taken-off-former-tech-director-obbe-vermeij-on-scottish-zombies-james-bond-and-the-curse-of-success",
+  "https://www.gematsu.com/?p=1088627",
+  "https://www.gematsu.com/?p=1088621",
+  "https://www.gematsu.com/?p=1088405",
+  "https://www.pushsquare.com/#article-209230",
+  "https://www.pushsquare.com/#article-209221",
+  "https://www.pushsquare.com/#article-209206",
+  "https://www.nintendolife.com/#article-209248",
+  "https://www.nintendolife.com/#article-208528",
+  "https://www.nintendolife.com/#article-209256",
+  "RxPuXeJyivGMRHTWLFAHhW"
  ],
  "titles": [
-  "Конструктор мечты задержится",
   "Покрасить остров в демо-режиме",
   "Будни зависимого хикикомори",
   "Легендарный артефакт из прошлого",
@@ -1772,7 +1785,8 @@
   "Потеря для Экспедиции",
   "Материнский фактор раздора",
   "Рекорд без релиза",
-  "Жертвы рекламы на YouTube"
+  "Жертвы рекламы на YouTube",
+  "Новый гаджет для взлома в GTA 6"
  ],
  "queue": [
   {
@@ -1785,6 +1799,12 @@
    "post": "<b>Жертвы рекламы на YouTube</b>\n\nПомните те надоедливые ролики мобильных вертикальных шутеров, где игроки упорно сливают боссам в самом конце? Игра Korridor превращает эту тупую рекламу в полноценный и неожиданно глубокий жанр. Автор демки признается\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/20261118154502_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-18T17:15:40.063140+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Новый гаджет для взлома в GTA 6</b>\n\nЗабудьте про привычные отмычки — в грядущем криминальном экшене от Rockstar главным инструментом взлома станет специальный гаджет под названием snap gun. Игрокам предстоит осваивать технологичные новинки преступного мира.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/VJ2pSigR484FXXuUZNRLAM-2560-80.jpg",
+   "ts": "2026-11-18T18:35:33.989987+00:00",
    "tries": 0
   }
  ],
