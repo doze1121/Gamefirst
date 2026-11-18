@@ -1764,10 +1764,14 @@
   "https://www.nintendolife.com/#article-209248",
   "https://www.nintendolife.com/#article-208528",
   "https://www.nintendolife.com/#article-209256",
-  "https://www.eurogamer.net/gta-6-no-cheats-until-completing-main-story"
+  "https://www.eurogamer.net/gta-6-no-cheats-until-completing-main-story",
+  "https://www.eurogamer.net/game-awards-2026-nominees-full-list-gta-6",
+  "https://www.pushsquare.com/#article-209249",
+  "https://www.nintendolife.com/#article-209258",
+  "https://news.xbox.com/en-us/?p=228288",
+  "https://www.gematsu.com/?p=1088705"
  ],
  "titles": [
-  "Покрасить остров в демо-режиме",
   "Будни зависимого хикикомори",
   "Легендарный артефакт из прошлого",
   "Триумфальное возвращение дивана",
@@ -1786,7 +1790,8 @@
   "Материнский фактор раздора",
   "Рекорд без релиза",
   "Жертвы рекламы на YouTube",
-  "Честный криминал без кодов"
+  "Честный криминал без кодов",
+  "Адские пули для демониц"
  ],
  "queue": [
   {
@@ -1799,6 +1804,12 @@
    "post": "<b>Честный криминал без кодов</b>\n\nRockstar решили усложнить жизнь любителям побездельничать в GTA 6. Ввод чит-кодов заблокируют до полного прохождения сюжетной кампании, да еще и с неприятным сюрпризом для прогресса.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/GTA-6-review-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-18T18:50:45.313457+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Адские пули для демониц</b>\n\nИздательство PLAYISM и студия Crimson Dusk объявили, что яркий трехмерный экшен Homura Hime заглянет на консоль PS5. Правда, фанатам жанра bullet hell придется набраться терпения — релиз намечен только на 2027 год.\n\n#анонс #PlayStation\n\n🎮 Первый игровой",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Homura-Hime-PS5-Ann_11-18-26.jpg",
+   "ts": "2026-11-18T20:15:40.256896+00:00",
    "tries": 0
   }
  ],
