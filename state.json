@@ -1708,10 +1708,18 @@
   "https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply",
   "https://www.pushsquare.com/#article-209163",
   "https://www.nintendolife.com/#article-209209",
-  "itWYoSXBcnUHQa5Y5BtSDD"
+  "itWYoSXBcnUHQa5Y5BtSDD",
+  "aVgYCSgSanCSYzvunmanEm",
+  "afUnCJHhWDAGNqmT6N2ZAY",
+  "https://www.eurogamer.net/dragon-quest-series-composer-akira-toriyama",
+  "https://www.eurogamer.net/grand-theft-auto-6-meet-the-developers-tackling-it-head-on",
+  "https://www.eurogamer.net/final-fantasy-14-free--game-time-expansion-evercold",
+  "https://www.rockpapershotgun.com/unity-launches-new-fellowship-program-offering-a-no-recoup-50000-grant-to-indie-developers-planning-to-launch-their-game-in-the-next-12-months",
+  "https://www.rockpapershotgun.com/break-up-and-re-commodify-a-fallen-earth-in-steel-gullet-a-satisfyingly-funereal-factory-puzzler-that-really-loves-thermodynamics",
+  "https://www.nintendolife.com/#article-209217",
+  "https://www.eurogamer.net/clair-obscur-jennifer-svedberg-yen-bafta-fund-new-talent"
  ],
  "titles": [
-  "Бессмертный хилбот",
   "Синий крах на бирже",
   "Редирект на унитазы и компромат",
   "Расплата за гигабайты слитой GTA 6",
@@ -1730,7 +1738,8 @@
   "Святая инквизиция в стиле Half-Life",
   "Работа над ошибками меты",
   "Момент для Toy Story",
-  "Досье на беспредельщика"
+  "Досье на беспредельщика",
+  "Потеря для Экспедиции"
  ],
  "queue": [
   {
@@ -1743,6 +1752,12 @@
    "post": "<b>Досье на беспредельщика</b>\n\nВ GTA 6 появится продвинутая система чести и уникальное «криминальное досье». Теперь полиция и окружающий мир будут реагировать не просто на уровень розыска, а на ваш стиль преступлений и репутацию на улицах Леониды.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://cdn.mos.cms.futurecdn.net/m5LURxRUpGJUWXAXqXrBKF-2560-80.jpg",
    "ts": "2026-11-18T11:15:37.415424+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Потеря для Экспедиции</b>\n\nГлавный сценарист нашумевшей Clair Obscur: Expedition 33 Дженнифер Сведберг-Йен неожиданно покинула студию Sandfall Interactive. Новость всплыла сразу после того, как разработчица получила престижную премию BAFTA Breakthrough US.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/clair-obscur-svedberg-yen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-18T12:37:31.916369+00:00",
    "tries": 0
   }
  ],
