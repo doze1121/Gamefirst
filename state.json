@@ -1676,10 +1676,25 @@
   "https://www.eurogamer.net/star-wars-galactic-racer-split-screen-multiplayer",
   "https://www.pushsquare.com/#article-209195",
   "https://www.nintendolife.com/#article-209190",
-  "https://www.rockpapershotgun.com/mondrayn-is-a-putrid-crunchy-pixel-art-rpg-about-escaping-from-limbo-where-dying-doesnt-mean-the-end-of-your-suffering"
+  "https://www.rockpapershotgun.com/mondrayn-is-a-putrid-crunchy-pixel-art-rpg-about-escaping-from-limbo-where-dying-doesnt-mean-the-end-of-your-suffering",
+  "7JvdgCSQTQdzULdibQQbCH",
+  "AGM63NkYowNjV9pENsW7wn",
+  "kxUfXte5AMMnfCTDBAp7aG",
+  "7pvh2w2kCgjujUQWc3XGuW",
+  "https://www.gematsu.com/?p=1088488",
+  "https://www.gematsu.com/?p=1088504",
+  "https://www.gematsu.com/?p=1088484",
+  "https://www.gematsu.com/?p=1088481",
+  "https://www.gematsu.com/?p=1088475",
+  "https://www.gematsu.com/?p=1088363",
+  "https://www.pushsquare.com/#article-209201",
+  "https://www.pushsquare.com/#article-209197",
+  "https://www.nintendolife.com/#article-209203",
+  "https://www.nintendolife.com/#article-209202",
+  "https://news.xbox.com/en-us/?p=228246",
+  "https://www.nintendolife.com/#article-209265"
  ],
  "titles": [
-  "Ушла эпоха миниатюр",
   "Гибрид ПК и консоли",
   "Кадровый марш-бросок для Battlefield",
   "Феноменальная точность",
@@ -1698,7 +1713,8 @@
   "Круг замкнулся",
   "Плохие новости из мира Civilization",
   "Фиолетовый дракон снова в деле",
-  "Конец — это только начало"
+  "Конец — это только начало",
+  "Плавный полет Аватара"
  ],
  "queue": [
   {
@@ -1712,15 +1728,16 @@
    "image": "https://assetsio.gnwcdn.com/mondrayn.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-17T20:15:57.724376+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Плавный полет Аватара</b>\n\nФайтинг Avatar Legends обзавелся свежим патчем под номером 4.5. Разработчики исправили интерфейс, доработали баланс персонажей и заметно повысили производительность игры на Switch 2.\n\n#новости #Nintendo\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/602c3d70c10a5/1280x720.jpg",
+   "ts": "2026-11-18T05:15:45.254800+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-18T05:01:01.606801+00:00",
  "published": [
-  {
-   "ts": "2026-11-10T05:01:08.039964+00:00",
-   "title": "Святая инквизиция на подходе",
-   "body": "Owlcat Games определилась с датой выхода Dark Heresy — идейного продолжения Warhammer 40K: Rogue Trader. Новая изометрическая RPG погрузит игроков в мрачные будни аколитов инквизиции уже в конце января."
-  },
   {
    "ts": "2026-11-10T06:30:50.898376+00:00",
    "title": "Снова стучим на соседа",
