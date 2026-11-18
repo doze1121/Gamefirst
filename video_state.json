@@ -54,7 +54,8 @@
   "вручную 2026-11-17 19:27",
   "вручную 2026-11-17 19:30",
   "2026-11-18 12:00",
-  "2026-11-18 19:00"
+  "2026-11-18 19:00",
+  "вручную 2026-11-18 20:20"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -107,15 +108,10 @@
   "https://www.eurogamer.net/playstation-store-pricing-uk-class-action-lawsuit-result",
   "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
   "bfd44299-541a-4775-8b81-ab9e2e39c849",
-  "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions"
+  "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
+  "https://www.eurogamer.net/gta-6-detailed-fridge-noise"
  ],
  "topics": [
-  {
-   "ts": "2026-11-05T17:29:41.152585+00:00",
-   "game": "Goddess of Victory: Nikke",
-   "title": "Вирус в ПК-лаунчере Nikke!",
-   "src": "Goddess of Victory: Nikke's PC launcher suffers potential malware infection, with its publishers suggesting folks who've booted since late September do a security check"
-  },
   {
    "ts": "2026-11-06T09:01:25.753375+00:00",
    "game": "",
@@ -349,6 +345,12 @@
    "game": "Grand Theft Auto VI",
    "title": "GTA 6 без реиграбельности миссий?",
    "src": "You cannot replay missions in GTA 6, but you can use multiple save files, as Rockstar explains how it made missions \"harder to fail\""
+  },
+  {
+   "ts": "2026-11-18T17:22:02.005361+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "Умные холодильники в ГТА 6!",
+   "src": "Just how detailed is the audio in GTA 6? Well, even convenience store refrigerators \"all have their own unique sounds\", says Rockstar dev"
   }
  ]
 }
