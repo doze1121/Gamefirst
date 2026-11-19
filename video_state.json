@@ -58,7 +58,8 @@
   "вручную 2026-11-18 20:20",
   "вручную 2026-11-18 21:19",
   "вручную 2026-11-18 21:35",
-  "вручную 2026-11-19 09:53"
+  "вручную 2026-11-19 09:53",
+  "2026-11-19 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -114,15 +115,10 @@
   "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
   "https://www.eurogamer.net/gta-6-detailed-fridge-noise",
   "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps",
-  "df097155-e353-4da1-8fa8-fa094453690e"
+  "df097155-e353-4da1-8fa8-fa094453690e",
+  "33a7cf34-a6ab-4669-b27b-0f89ae33054d"
  ],
  "topics": [
-  {
-   "ts": "2026-11-06T12:09:49.410836+00:00",
-   "game": "",
-   "title": "Саудовская Аравия покупает Unity?",
-   "src": "After taking over EA, Saudi Arabia and their private equity cronies have reportedly held talks about buying Unity"
-  },
   {
    "ts": "2026-11-06T16:01:26.894906+00:00",
    "game": "Grand Theft Auto VI",
@@ -356,6 +352,12 @@
    "game": "Grand Theft Auto VI",
    "title": "Отслужил ради GTA 6!",
    "src": "43 Army Members Reenlisted in Exchange for Paid Time Off to Play GTA 6"
+  },
+  {
+   "ts": "2026-11-19T09:01:43.324545+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "В GTA 6 нет проституток?",
+   "src": "GTA 6 Doesn't Let Players Pick Up Prostitutes, but Rockstar Has a Logical Reason for It"
   }
  ]
 }
