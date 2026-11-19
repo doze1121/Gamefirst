@@ -1820,10 +1820,16 @@
   "https://www.pushsquare.com/#article-209275",
   "https://www.nintendolife.com/#article-209298",
   "https://www.nintendolife.com/#article-209293",
-  "https://www.eurogamer.net/gta-6-new-zealand-trick-2m-players-early"
+  "https://www.eurogamer.net/gta-6-new-zealand-trick-2m-players-early",
+  "https://www.eurogamer.net/grand-theft-auto-6-breaks-reddit-not-out-yet",
+  "https://www.rockpapershotgun.com/abducting-your-own-lover-no-longer-gives-you-opinion-of-yourself-declare-the-notes-for-crusader-kings-3s-free-florin-update-released-alongside-silk-and-silver",
+  "https://www.rockpapershotgun.com/i-have-double-checked-and-yes-original-gta-killer-driv3r-really-was-that-rubbish",
+  "https://www.pushsquare.com/#article-209297",
+  "https://www.pushsquare.com/#article-209282",
+  "https://www.nintendolife.com/#article-209156",
+  "NtftrtkXC9mDcqzTJqVciU"
  ],
  "titles": [
-  "Конец — это только начало",
   "Плавный полет Аватара",
   "Святая инквизиция в стиле Half-Life",
   "Работа над ошибками меты",
@@ -1842,7 +1848,8 @@
   "Суд над Rockstar финишировал",
   "Поиски неуловимого кота",
   "Миллиардный тупик индустрии",
-  "Новозеландская хитрость фанатов"
+  "Новозеландская хитрость фанатов",
+  "Звездный эфир Вайс-Сити"
  ],
  "queue": [
   {
@@ -1856,15 +1863,16 @@
    "image": "https://assetsio.gnwcdn.com/jason-nz.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-19T15:45:39.776041+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Звездный эфир Вайс-Сити</b>\n\nВ радиоэфире GTA 6 зазвучат голоса реальных легенд. Компанию музыкантам Лане Дель Рэй, Bad Bunny, Киту Ричардсу и пародисту Weird Al Yankovic неожиданно составит сам Джереми Айронс.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/yqq2KvXmsftLnS6sHwKKfP-1920-80.jpg",
+   "ts": "2026-11-19T17:15:42.099481+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-19T17:01:07.820512+00:00",
  "published": [
-  {
-   "ts": "2026-11-11T17:01:28.512923+00:00",
-   "title": "Лебединая песня Obsidian",
-   "body": "Для студии Obsidian запуск The Outer Worlds 2 и ее грядущего сюжетного дополнения Side Effects Guaranteed проходит на фоне серьезных перемен и сокращений в Microsoft. Первая часть DLC выходит уже в декабре, отправляя игр"
-  },
   {
    "ts": "2026-11-11T18:31:00.176494+00:00",
    "title": "Палец о палец",
