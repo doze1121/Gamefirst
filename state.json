@@ -1827,10 +1827,18 @@
   "https://www.pushsquare.com/#article-209297",
   "https://www.pushsquare.com/#article-209282",
   "https://www.nintendolife.com/#article-209156",
-  "NtftrtkXC9mDcqzTJqVciU"
+  "NtftrtkXC9mDcqzTJqVciU",
+  "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps",
+  "https://www.eurogamer.net/gta-6-ultimate-edition-unlock-details-temporary-content",
+  "https://www.eurogamer.net/fired-rockstar-employees-named-gta-6-credits-tribunal",
+  "https://www.rockpapershotgun.com/world-of-warcraft-forever-isnt-mere-nostalgia-bait-its-rebuilding-the-mmo-social-architecture-that-blizzard-spent-years-dismantling",
+  "https://www.gematsu.com/?p=1088694",
+  "https://www.pushsquare.com/#article-209239",
+  "https://www.nintendolife.com/#article-209311",
+  "https://www.nintendolife.com/#article-209310",
+  "wmuFAXuzDZSoHJq8uScfP3"
  ],
  "titles": [
-  "Плавный полет Аватара",
   "Святая инквизиция в стиле Half-Life",
   "Работа над ошибками меты",
   "Момент для Toy Story",
@@ -1849,7 +1857,8 @@
   "Поиски неуловимого кота",
   "Миллиардный тупик индустрии",
   "Новозеландская хитрость фанатов",
-  "Звездный эфир Вайс-Сити"
+  "Звездный эфир Вайс-Сити",
+  "Странные ограничения GTA 6"
  ],
  "queue": [
   {
@@ -1862,6 +1871,12 @@
    "post": "<b>Звездный эфир Вайс-Сити</b>\n\nВ радиоэфире GTA 6 зазвучат голоса реальных легенд. Компанию музыкантам Лане Дель Рэй, Bad Bunny, Киту Ричардсу и пародисту Weird Al Yankovic неожиданно составит сам Джереми Айронс.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://cdn.mos.cms.futurecdn.net/yqq2KvXmsftLnS6sHwKKfP-1920-80.jpg",
    "ts": "2026-11-19T17:15:42.099481+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Странные ограничения GTA 6</b>\n\nВ будущей игре от Rockstar система читов окажется неожиданно суровой. Чтобы разблокировать заветное меню, придется потратить десятки часов, но даже после этого свободы не прибавится. Игроки уже шутят, что придется ждать релиза на PC, чтобы исправить это модами.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/88bmYYeTdzTBy8hNsLoXrc-2560-80.jpg",
+   "ts": "2026-11-19T18:45:40.953374+00:00",
    "tries": 0
   }
  ],
