@@ -1811,10 +1811,18 @@
   "https://www.pushsquare.com/#article-209285",
   "https://www.pushsquare.com/#article-202841",
   "https://www.pushsquare.com/#article-209237",
-  "https://www.eurogamer.net/gta-6-warren-spector-lambasts-billion-dollar-development"
+  "https://www.eurogamer.net/gta-6-warren-spector-lambasts-billion-dollar-development",
+  "https://www.eurogamer.net/playstation-sony-game-awards-no-nominations",
+  "https://www.eurogamer.net/gta-6-detailed-fridge-noise",
+  "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
+  "https://www.pushsquare.com/#article-209292",
+  "https://www.pushsquare.com/#article-209280",
+  "https://www.pushsquare.com/#article-209275",
+  "https://www.nintendolife.com/#article-209298",
+  "https://www.nintendolife.com/#article-209293",
+  "https://www.eurogamer.net/gta-6-new-zealand-trick-2m-players-early"
  ],
  "titles": [
-  "Фиолетовый дракон снова в деле",
   "Конец — это только начало",
   "Плавный полет Аватара",
   "Святая инквизиция в стиле Half-Life",
@@ -1833,7 +1841,8 @@
   "Эпохальный день настал",
   "Суд над Rockstar финишировал",
   "Поиски неуловимого кота",
-  "Миллиардный тупик индустрии"
+  "Миллиардный тупик индустрии",
+  "Новозеландская хитрость фанатов"
  ],
  "queue": [
   {
@@ -1846,6 +1855,12 @@
    "post": "<b>Миллиардный тупик индустрии</b>\n\nЛегендарный Уоррен Спектор раскритиковал космические бюджеты современных блокбастеров на примере GTA 6. Создатель Deus Ex назвал игру вершиной жанра, но выразил надежду, что подобные финансовые монстры останутся в прошлом.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/gta-6-cash.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-19T14:15:40.829032+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Новозеландская хитрость фанатов</b>\n\nБолее двух миллионов игроков из США и Великобритании использовали известный трюк со сменой часового пояса на Xbox, чтобы начать играть в GTA 6 раньше официального релиза. Масштабы этой лазейки впечатляют: число виртуальных «новозеландцев» превысило треть населения самой Новой Зеландии.\n\n#Xbox #индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/jason-nz.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-19T15:45:39.776041+00:00",
    "tries": 0
   }
  ],
