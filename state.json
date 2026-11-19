@@ -1787,10 +1787,12 @@
   "ZH5YdpNoxRrMfw2mL4D8UC",
   "https://www.nintendolife.com/#article-209318",
   "https://www.gematsu.com/?p=1088590",
-  "https://www.nintendolife.com/#article-209319"
+  "https://www.nintendolife.com/#article-209319",
+  "https://www.gematsu.com/?p=1088683",
+  "https://www.eurogamer.net/grand-theft-auto-6-players-love-crime-social-media-animals",
+  "https://www.eurogamer.net/gta-6-grand-theft-auto-6-launch-day-live-blog"
  ],
  "titles": [
-  "Против цифрового разума",
   "Туманное будущее Dragon Quest",
   "Круг замкнулся",
   "Плохие новости из мира Civilization",
@@ -1809,7 +1811,8 @@
   "Адские пули для демониц",
   "Четвертый сезон под вопросом",
   "Жертва идеального тайминга",
-  "Контроль над кадрами"
+  "Контроль над кадрами",
+  "Эпохальный день настал"
  ],
  "queue": [
   {
@@ -1822,6 +1825,12 @@
    "post": "<b>Контроль над кадрами</b>\n\nДля дилогии Trails in the Sky вышло свежее обновление, затронувшее версии для Switch и Switch 2. Главным нововведением стал долгожданный лок на 30 FPS в графическом режиме для владельцев новой консоли Nintendo.\n\n#Nintendo #новости\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/5e2a74e6d1bf7/1280x720.jpg",
    "ts": "2026-11-19T08:15:41.763178+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Эпохальный день настал</b>\n\nРелиз GTA 6 официально состоялся по всему миру, открывая новую страницу в истории видеоигр. Масштабный криминальный экшен от Rockstar Games уже называют крупнейшим развлекательным запуском всех времён.\n\n#релиз #индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/gta-6-launch-jason-lucia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-19T09:45:40.758503+00:00",
    "tries": 0
   }
  ],
