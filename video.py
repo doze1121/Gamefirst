@@ -668,27 +668,38 @@ USE_STEAM_VIDEO = os.getenv("VIDEO_STEAM", "1") == "1"  # брать видео 
 STEAM_HEADERS = {"User-Agent": "Mozilla/5.0", "Accept-Language": "en"}
 
 
-def steam_find(game):
-    """Ищет игру в Steam и проверяет, что название действительно совпадает."""
-    import difflib
+ROMAN = {"ii": "2", "iii": "3", "iv": "4", "v": "5", "vi": "6",
+         "vii": "7", "viii": "8", "ix": "9", "x": "10"}
+NOISE = {"the", "of", "a", "edition", "remastered", "definitive", "deluxe",
+         "goty", "enhanced", "legacy", "complete", "ultimate", "standard"}
 
+
+def _tok(t):
+    out = set()
+    for w in re.findall(r"[a-z0-9]+", str(t).lower()):
+        w = ROMAN.get(w, w)
+        if w not in NOISE:
+            out.add(w)
+    return out
+
+
+def steam_find(game):
+    """Ищет игру в Steam. Название должно совпасть по словам и по номеру части."""
     if not game:
         return None
     r = requests.get("https://store.steampowered.com/api/storesearch/",
-                     params={"term": game, "l": "english", "cc": "US"}, headers=STEAM_HEADERS, timeout=20)
+                     params={"term": game, "l": "english", "cc": "US"},
+                     headers=STEAM_HEADERS, timeout=20)
     r.raise_for_status()
-    best, score = None, 0.0
-    norm = lambda t: re.sub(r"[^a-z0-9 ]", "", t.lower())
+    q = _tok(game)
     for it in r.json().get("items", [])[:10]:
-        sc = difflib.SequenceMatcher(None, norm(game), norm(it.get("name", ""))).ratio()
-        if norm(game) and norm(game) in norm(it.get("name", "")):
-            sc = max(sc, 0.8)
-        if sc > score:
-            best, score = it, sc
-    if best and score >= 0.7:
-        print(f"Steam: {best['name']} (совпадение {score:.2f})")
-        return best["id"]
-    print("Steam: игра не найдена для", game)
+        n = _tok(it.get("name", ""))
+        # точное совпадение, либо название из Steam целиком входит в запрос
+        # (например, запрос с подзаголовком DLC)
+        if n == q or (len(n) >= 2 and n <= q):
+            print(f"Steam: {it['name']}")
+            return it["id"]
+    print("Steam: точного совпадения нет для", game)
     return None
 
 
