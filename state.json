@@ -1790,10 +1790,17 @@
   "https://www.nintendolife.com/#article-209319",
   "https://www.gematsu.com/?p=1088683",
   "https://www.eurogamer.net/grand-theft-auto-6-players-love-crime-social-media-animals",
-  "https://www.eurogamer.net/gta-6-grand-theft-auto-6-launch-day-live-blog"
+  "https://www.eurogamer.net/gta-6-grand-theft-auto-6-launch-day-live-blog",
+  "https://www.eurogamer.net/grand-theft-auto-6-review",
+  "https://www.eurogamer.net/new-zealand-tourist-board-gives-nod-grand-theft-auto-timezone-trick",
+  "https://www.eurogamer.net/world-of-warcraft-forever-gold-exploit-abusers-suspended-trade-blocked",
+  "https://www.rockpapershotgun.com/ex-nvidia-boss-jensen-huang-offers-to-return-if-thats-best-for-the-company-and-america-nvidia-board-essentially-say-nah-were-all-good",
+  "https://www.gematsu.com/?p=1088589",
+  "https://www.pushsquare.com/#article-208953",
+  "https://www.nintendolife.com/#article-209273",
+  "https://www.rockpapershotgun.com/rockstar-firings-tribunal-hears-closing-statements-with-judge-promising-to-deliver-a-verdict-as-quickly-as-i-possibly-can-though-it-may-take-a-while"
  ],
  "titles": [
-  "Туманное будущее Dragon Quest",
   "Круг замкнулся",
   "Плохие новости из мира Civilization",
   "Фиолетовый дракон снова в деле",
@@ -1812,7 +1819,8 @@
   "Четвертый сезон под вопросом",
   "Жертва идеального тайминга",
   "Контроль над кадрами",
-  "Эпохальный день настал"
+  "Эпохальный день настал",
+  "Суд над Rockstar финишировал"
  ],
  "queue": [
   {
@@ -1826,15 +1834,16 @@
    "image": "https://assetsio.gnwcdn.com/gta-6-launch-jason-lucia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-19T09:45:40.758503+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Суд над Rockstar финишировал</b>\n\nСлушания по делу о незаконном увольнении 34 сотрудников Rockstar подошли к концу. Судья пообещала вынести вердикт как можно быстрее, хотя точных сроков пока не назвала — придется немного подождать.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-19T11:15:39.910471+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-19T11:01:05.552104+00:00",
  "published": [
-  {
-   "ts": "2026-11-11T11:01:06.862097+00:00",
-   "title": "Новый горизонт для Falcom",
-   "body": "Компания Falcom уже вовсю трудится над прямым продолжением JRPG The Legend of Heroes: Trails beyond the Horizon. Релиз масштабного сиквела в Японии намечен на осень 2027 года, так что фанатам серии придется запастись тер"
-  },
   {
    "ts": "2026-11-11T12:30:53.342543+00:00",
    "title": "Выборы тизера шестой главы",
