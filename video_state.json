@@ -57,7 +57,8 @@
   "2026-11-18 19:00",
   "вручную 2026-11-18 20:20",
   "вручную 2026-11-18 21:19",
-  "вручную 2026-11-18 21:35"
+  "вручную 2026-11-18 21:35",
+  "вручную 2026-11-19 09:53"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -112,15 +113,10 @@
   "bfd44299-541a-4775-8b81-ab9e2e39c849",
   "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
   "https://www.eurogamer.net/gta-6-detailed-fridge-noise",
-  "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps"
+  "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps",
+  "df097155-e353-4da1-8fa8-fa094453690e"
  ],
  "topics": [
-  {
-   "ts": "2026-11-06T12:07:42.138639+00:00",
-   "game": "Grand Theft Auto VI",
-   "title": "GTA 6 на ПК выйдет раньше из-за нейросетей?",
-   "src": "\"It's a brave new world\": GTA 6's PC port will release sooner than you think to avoid losing money to AI rip-offs, says former Rockstar tech director"
-  },
   {
    "ts": "2026-11-06T12:09:49.410836+00:00",
    "game": "",
@@ -354,6 +350,12 @@
    "game": "Grand Theft Auto VI",
    "title": "PS5 Pro не тянет GTA 6 в 60 FPS?",
    "src": "Even the PS5 Pro is \"not powerful enough\" to run GTA 6 at 60FPS or 40FPS, Rockstar says"
+  },
+  {
+   "ts": "2026-11-19T06:53:50.217879+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "Отслужил ради GTA 6!",
+   "src": "43 Army Members Reenlisted in Exchange for Paid Time Off to Play GTA 6"
   }
  ]
 }
