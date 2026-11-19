@@ -1798,10 +1798,14 @@
   "https://www.gematsu.com/?p=1088589",
   "https://www.pushsquare.com/#article-208953",
   "https://www.nintendolife.com/#article-209273",
-  "https://www.rockpapershotgun.com/rockstar-firings-tribunal-hears-closing-statements-with-judge-promising-to-deliver-a-verdict-as-quickly-as-i-possibly-can-though-it-may-take-a-while"
+  "https://www.rockpapershotgun.com/rockstar-firings-tribunal-hears-closing-statements-with-judge-promising-to-deliver-a-verdict-as-quickly-as-i-possibly-can-though-it-may-take-a-while",
+  "https://www.eurogamer.net/slay-the-spire-2-8-million-sales-steam-estimates",
+  "https://www.rockpapershotgun.com/pc-remains-gta-6s-last-hope-for-60fps-smoothness-as-rockstar-confirm-such-an-option-isnt-coming-to-even-the-swankiest-consoles",
+  "https://www.rockpapershotgun.com/despite-being-617-million-in-debt-bankrupt-mindseye-devs-build-a-rocket-boy-are-splurging-on-legal-action-against-a-coordinated-campaign-of-negative-online-reviews",
+  "https://www.nintendolife.com/#article-209281",
+  "https://www.eurogamer.net/world-of-warcraft-forever-secret-hunter-pet-green-cat"
  ],
  "titles": [
-  "Круг замкнулся",
   "Плохие новости из мира Civilization",
   "Фиолетовый дракон снова в деле",
   "Конец — это только начало",
@@ -1820,7 +1824,8 @@
   "Жертва идеального тайминга",
   "Контроль над кадрами",
   "Эпохальный день настал",
-  "Суд над Rockstar финишировал"
+  "Суд над Rockstar финишировал",
+  "Поиски неуловимого кота"
  ],
  "queue": [
   {
@@ -1833,6 +1838,12 @@
    "post": "<b>Суд над Rockstar финишировал</b>\n\nСлушания по делу о незаконном увольнении 34 сотрудников Rockstar подошли к концу. Судья пообещала вынести вердикт как можно быстрее, хотя точных сроков пока не назвала — придется немного подождать.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-19T11:15:39.910471+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Поиски неуловимого кота</b>\n\nСообщество World of Warcraft продолжает изучать тайны свежих зон дополнения. На этот раз игрокам удалось выследить и приручить крайне редкого питомца-кошачьего, спрятанного разработчиками в одном из труднодоступных мест.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Template-w-shadow%2C-blue%2C-split%2C-switch-2-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-19T12:45:42.211528+00:00",
    "tries": 0
   }
  ],
