@@ -1866,10 +1866,14 @@
   "https://www.gematsu.com/?p=1088882",
   "https://www.gematsu.com/?p=1088754",
   "https://www.nintendolife.com/#article-106206",
-  "YQgqCjCFTGeZ8qYs3CAoSR"
+  "YQgqCjCFTGeZ8qYs3CAoSR",
+  "https://www.eurogamer.net/gta-6-rockstar-developers-layoffs-worries",
+  "https://www.rockpapershotgun.com/hour-long-total-war-warhammer-40000-campaign-stream-shows-off-ship-battle-less-fleet-management-makes-clear-how-not-ideal-getting-space-marine-armies-killed-is",
+  "https://www.pushsquare.com/#article-209333",
+  "https://www.nintendolife.com/#article-209331",
+  "c7SdGY839JGhcQd7YPLDoT"
  ],
  "titles": [
-  "Рекорд без релиза",
   "Жертвы рекламы на YouTube",
   "Честный криминал без кодов",
   "Адские пули для демониц",
@@ -1888,7 +1892,8 @@
   "Возвращение к истокам мусоку",
   "Магия в кармане",
   "Поезд на край света",
-  "Задержка поколения Zen 6"
+  "Задержка поколения Zen 6",
+  "Искусственный интеллект в железе"
  ],
  "queue": [
   {
@@ -1901,6 +1906,12 @@
    "post": "<b>Задержка поколения Zen 6</b>\n\nПо слухам, AMD сдвинула релиз десктопных процессоров Zen 6 на вторую половину 2027 года. Причиной переноса называют сложный переход на передовой техпроцесс TSMC N2X.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://cdn.mos.cms.futurecdn.net/bmX8yVA7wL2o5HgERs7WmY-2560-80.jpg",
    "ts": "2026-11-20T11:15:53.016616+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Искусственный интеллект в железе</b>\n\nКомпания OpenAI помогла AMD пересобрать один из их графических чипсетов ради повышения эффективности. Разработчики нейросетей заложили в архитектуру собственные оптимизации, и теперь AMD планирует использовать эти наработки в будущих коммерческих продуктах.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/LosgWX2VGL8NLmymLz7zmi-2560-80.jpg",
+   "ts": "2026-11-20T12:45:44.458497+00:00",
    "tries": 0
   }
  ],
