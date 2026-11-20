@@ -1,6 +1,5 @@
 {
  "done": [
-  "вручную 2026-11-03 19:56",
   "2026-11-03 19:00",
   "2026-11-04 12:00",
   "вручную 2026-11-04 12:06",
@@ -59,7 +58,8 @@
   "вручную 2026-11-19 09:53",
   "2026-11-19 12:00",
   "2026-11-19 19:00",
-  "2026-11-20 12:00"
+  "2026-11-20 12:00",
+  "2026-11-20 19:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -118,15 +118,10 @@
   "df097155-e353-4da1-8fa8-fa094453690e",
   "33a7cf34-a6ab-4669-b27b-0f89ae33054d",
   "https://www.eurogamer.net/gta-6-new-zealand-trick-2m-players-early",
-  "XU892Vmo9YbmXBwjuqzm3X"
+  "XU892Vmo9YbmXBwjuqzm3X",
+  "ge89h6qrwTVCRAw3wCLQqQ"
  ],
  "topics": [
-  {
-   "ts": "2026-11-07T16:01:26.758950+00:00",
-   "game": "Grand Theft Auto VI",
-   "title": "GTA 6 без диска: физическое издание на PS5",
-   "src": "GTA 6's PS5 Physical Edition Revealed in First Photo"
-  },
   {
    "ts": "2026-11-07T16:10:26.761728+00:00",
    "game": "Call of Duty: Warzone",
@@ -360,6 +355,12 @@
    "game": "Grand Theft Auto VI",
    "title": "GTA+ для сюжетки GTA 6?",
    "src": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor"
+  },
+  {
+   "ts": "2026-11-20T16:04:16.942811+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "Скамерский порт GTA 6 за 200 баксов",
+   "src": "A 'GTA 6 PC scam kit' using a fake PC port as bait is available for $200 on the dark web, says NordVPN, so watch what you click"
   }
  ]
 }
