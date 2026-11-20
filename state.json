@@ -1889,10 +1889,17 @@
   "https://www.rockpapershotgun.com/remembering-the-back-alley-brawls-of-the-warriors-a-rockstar-city-game-that-isnt-an-open-world",
   "https://www.gematsu.com/?p=1088738",
   "https://www.pushsquare.com/#article-209351",
-  "https://www.nintendolife.com/#article-209419"
+  "https://www.nintendolife.com/#article-209419",
+  "https://www.rockpapershotgun.com/ignore-that-other-game-about-crime-thats-out-and-burgle-some-ugly-farmhouses-in-keepsake-county-a-midwestern-stealth-game-with-a-2000s-cartoon-network-vibe",
+  "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs",
+  "https://www.gematsu.com/?p=1088861",
+  "https://www.pushsquare.com/#article-209359",
+  "https://www.pushsquare.com/#article-209360",
+  "https://www.nintendolife.com/#article-209366",
+  "https://news.xbox.com/en-us/?p=228409",
+  "https://www.nintendolife.com/#article-209423"
  ],
  "titles": [
-  "Адские пули для демониц",
   "Четвертый сезон под вопросом",
   "Жертва идеального тайминга",
   "Контроль над кадрами",
@@ -1911,7 +1918,8 @@
   "Задержка поколения Zen 6",
   "Искусственный интеллект в железе",
   "Профессиональное восхищение",
-  "Эксклюзив по приглашениям"
+  "Эксклюзив по приглашениям",
+  "Уроки математики от Atlus"
  ],
  "queue": [
   {
@@ -1925,15 +1933,16 @@
    "image": "https://images.nintendolife.com/eaad7a33a6355/1280x720.jpg",
    "ts": "2026-11-20T15:45:45.341081+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Уроки математики от Atlus</b>\n\nШестая часть серии еще не получила точной даты релиза, но разработчики уже смотрят в будущее. Генеральный продюсер Кадuhиса Вада пообещал фанатам, что разрыв между Persona 6 и Persona 7 окажется значительно короче.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/137e24710fabd/1280x720.jpg",
+   "ts": "2026-11-20T17:15:41.155509+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-20T17:01:04.621428+00:00",
  "published": [
-  {
-   "ts": "2026-11-12T17:01:05.390104+00:00",
-   "title": "Чемодан, вокзал, не США?",
-   "body": "Действие культовой серии GTA всегда разворачивалось на американских просторах, а единственным исключением за всю историю остался лишь Лондон из дополнения к самой первой части. Однако в Rockstar неожиданно дали фанатам к"
-  },
   {
    "ts": "2026-11-12T18:30:55.227511+00:00",
    "title": "Ретро-путешествие откладывается ненадолго",
