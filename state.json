@@ -1853,10 +1853,13 @@
   "https://www.nintendolife.com/#article-207786",
   "https://www.nintendolife.com/#article-209317",
   "https://www.nintendolife.com/#article-209315",
-  "https://www.gematsu.com/?p=1088890"
+  "https://www.gematsu.com/?p=1088890",
+  "https://www.gematsu.com/?p=1088677",
+  "https://www.gematsu.com/?p=1088735",
+  "https://www.gematsu.com/?p=1088741",
+  "https://www.nintendolife.com/#article-209386"
  ],
  "titles": [
-  "Момент для Toy Story",
   "Досье на беспредельщика",
   "Потеря для Экспедиции",
   "Материнский фактор раздора",
@@ -1875,7 +1878,8 @@
   "Звездный эфир Вайс-Сити",
   "Странные ограничения GTA 6",
   "Тачка как верный скакун",
-  "Двойной удар из прошлого"
+  "Двойной удар из прошлого",
+  "Возвращение к истокам мусоку"
  ],
  "queue": [
   {
@@ -1888,6 +1892,12 @@
    "post": "<b>Двойной удар из прошлого</b>\n\nКомпания Mebius анонсировала сборник Dual Orb Collection для Nintendo Switch. Классическая дилогия RPG вернется на современные экраны 18 марта 2027 года.\n\n#анонс #Nintendo\n\n🎮 Первый игровой",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Dual-Orb-Collection-Ann_11-19-26.jpg",
    "ts": "2026-11-20T05:15:44.093402+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Возвращение к истокам мусоку</b>\n\nKoei Tecmo выпустила крупный патч 1.1.0 для Dynasty Warriors 3: Complete Edition Remastered на Switch 2 и других платформах. Обновление добавило новые языки, удобную настройку управления для двоих игроков, а также исправило множество мелких багов.\n\n#Nintendo\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/722df72fe36b4/1280x720.jpg",
+   "ts": "2026-11-20T06:45:50.977295+00:00",
    "tries": 0
   }
  ],
