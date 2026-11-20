@@ -1,6 +1,5 @@
 {
  "done": [
-  "вручную 2026-11-03 19:54",
   "вручную 2026-11-03 19:56",
   "2026-11-03 19:00",
   "2026-11-04 12:00",
@@ -59,7 +58,8 @@
   "вручную 2026-11-18 21:35",
   "вручную 2026-11-19 09:53",
   "2026-11-19 12:00",
-  "2026-11-19 19:00"
+  "2026-11-19 19:00",
+  "2026-11-20 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -117,15 +117,10 @@
   "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps",
   "df097155-e353-4da1-8fa8-fa094453690e",
   "33a7cf34-a6ab-4669-b27b-0f89ae33054d",
-  "https://www.eurogamer.net/gta-6-new-zealand-trick-2m-players-early"
+  "https://www.eurogamer.net/gta-6-new-zealand-trick-2m-players-early",
+  "XU892Vmo9YbmXBwjuqzm3X"
  ],
  "topics": [
-  {
-   "ts": "2026-11-07T09:01:20.482476+00:00",
-   "game": "",
-   "title": "Роберт Паттинсон — новый Джеймс Бонд?",
-   "src": "Robert Pattinson Reportedly Screen-Tested for 007 in James Bond 26"
-  },
   {
    "ts": "2026-11-07T16:01:26.758950+00:00",
    "game": "Grand Theft Auto VI",
@@ -359,6 +354,12 @@
    "game": "Grand Theft Auto VI",
    "title": "Трюк с Новой Зеландией в GTA 6",
    "src": "Over 2 million Xbox players in the UK and US reportedly used the 'New Zealand trick' to play GTA 6 early - that's more than a third of the country's population"
+  },
+  {
+   "ts": "2026-11-20T09:01:19.276855+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "GTA+ для сюжетки GTA 6?",
+   "src": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor"
   }
  ]
 }
