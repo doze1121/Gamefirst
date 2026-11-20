@@ -1905,10 +1905,13 @@
   "https://www.pushsquare.com/#article-209363",
   "https://www.nintendolife.com/#article-209372",
   "https://www.nintendolife.com/#article-209368",
-  "https://www.eurogamer.net/gta-6-credits-florida-joker-rockstar"
+  "https://www.eurogamer.net/gta-6-credits-florida-joker-rockstar",
+  "W2F4zLtm8k5WZfKi8Bby6X",
+  "https://www.eurogamer.net/wow-forever-weekly-players-15-years",
+  "https://www.nintendolife.com/#article-209314",
+  "https://www.eurogamer.net/gta-6-biggest-entertainment-launch"
  ],
  "titles": [
-  "Жертва идеального тайминга",
   "Контроль над кадрами",
   "Эпохальный день настал",
   "Суд над Rockstar финишировал",
@@ -1927,7 +1930,8 @@
   "Профессиональное восхищение",
   "Эксклюзив по приглашениям",
   "Уроки математики от Atlus",
-  "Тот самый Джокер из Флориды"
+  "Тот самый Джокер из Флориды",
+  "Исторический куш Rockstar"
  ],
  "queue": [
   {
@@ -1940,6 +1944,12 @@
    "post": "<b>Тот самый Джокер из Флориды</b>\n\nПохоже, Rockstar Games всё-таки договорились с Лоуренсом Салливаном, который грозил судом за образ из трейлера GTA 6. Интернет-знаменитость, требовавшая миллионы компенсации, теперь официально попала в титры игры.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/gta-6-trailer-florida-joker.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-20T18:45:42.636094+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Исторический куш Rockstar</b>\n\nGTA 6 официально стала крупнейшим релизом в истории развлекательной индустрии. Игра побила все рекорды аналитиков, собрав безумные 3,79 миллиарда долларов за первые сутки и реализовав 32,5 миллиона предзаказов.\n\n#релиз #индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-20T20:15:45.205799+00:00",
    "tries": 0
   }
  ],
