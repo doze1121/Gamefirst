@@ -1871,10 +1871,20 @@
   "https://www.rockpapershotgun.com/hour-long-total-war-warhammer-40000-campaign-stream-shows-off-ship-battle-less-fleet-management-makes-clear-how-not-ideal-getting-space-marine-armies-killed-is",
   "https://www.pushsquare.com/#article-209333",
   "https://www.nintendolife.com/#article-209331",
-  "c7SdGY839JGhcQd7YPLDoT"
+  "c7SdGY839JGhcQd7YPLDoT",
+  "https://www.eurogamer.net/gta-6-rockstar-tribunal-awaits-verdict",
+  "https://www.eurogamer.net/call-of-duty-modern-warfare-4-october-top-seller",
+  "https://www.eurogamer.net/grand-theft-auto-6-no-web-social-media-apps",
+  "https://www.eurogamer.net/gta-6-discless-release-code-in-a-box-gamestop-ceo",
+  "https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled",
+  "https://www.gematsu.com/?p=1088591",
+  "https://www.pushsquare.com/#article-209330",
+  "https://www.nintendolife.com/#article-209342",
+  "https://www.nintendolife.com/#article-209140",
+  "https://news.xbox.com/en-us/?p=228407",
+  "https://www.pushsquare.com/#article-209378"
  ],
  "titles": [
-  "Жертвы рекламы на YouTube",
   "Честный криминал без кодов",
   "Адские пули для демониц",
   "Четвертый сезон под вопросом",
@@ -1893,7 +1903,8 @@
   "Магия в кармане",
   "Поезд на край света",
   "Задержка поколения Zen 6",
-  "Искусственный интеллект в железе"
+  "Искусственный интеллект в железе",
+  "Профессиональное восхищение"
  ],
  "queue": [
   {
@@ -1906,6 +1917,12 @@
    "post": "<b>Искусственный интеллект в железе</b>\n\nКомпания OpenAI помогла AMD пересобрать один из их графических чипсетов ради повышения эффективности. Разработчики нейросетей заложили в архитектуру собственные оптимизации, и теперь AMD планирует использовать эти наработки в будущих коммерческих продуктах.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://cdn.mos.cms.futurecdn.net/LosgWX2VGL8NLmymLz7zmi-2560-80.jpg",
    "ts": "2026-11-20T12:45:44.458497+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Профессиональное восхищение</b>\n\nГлава CDPR неожиданно тепло высказался о GTA 6, назвав будущий хит от Rockstar настоящим шедевром. По словам руководителя польской студии, создать проект такого масштаба невероятно сложно, но коллегам это явно удается.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/501e9a54f7d1a/1280x720.jpg",
+   "ts": "2026-11-20T14:15:42.311178+00:00",
    "tries": 0
   }
  ],
