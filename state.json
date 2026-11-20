@@ -1882,10 +1882,16 @@
   "https://www.nintendolife.com/#article-209342",
   "https://www.nintendolife.com/#article-209140",
   "https://news.xbox.com/en-us/?p=228407",
-  "https://www.pushsquare.com/#article-209378"
+  "https://www.pushsquare.com/#article-209378",
+  "https://www.eurogamer.net/gta-6-full-cast-list-jason-duval-actor",
+  "https://www.eurogamer.net/gta-6-easy-mode-accessibility-options",
+  "https://www.rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam",
+  "https://www.rockpapershotgun.com/remembering-the-back-alley-brawls-of-the-warriors-a-rockstar-city-game-that-isnt-an-open-world",
+  "https://www.gematsu.com/?p=1088738",
+  "https://www.pushsquare.com/#article-209351",
+  "https://www.nintendolife.com/#article-209419"
  ],
  "titles": [
-  "Честный криминал без кодов",
   "Адские пули для демониц",
   "Четвертый сезон под вопросом",
   "Жертва идеального тайминга",
@@ -1904,7 +1910,8 @@
   "Поезд на край света",
   "Задержка поколения Zen 6",
   "Искусственный интеллект в железе",
-  "Профессиональное восхищение"
+  "Профессиональное восхищение",
+  "Эксклюзив по приглашениям"
  ],
  "queue": [
   {
@@ -1917,6 +1924,12 @@
    "post": "<b>Профессиональное восхищение</b>\n\nГлава CDPR неожиданно тепло высказался о GTA 6, назвав будущий хит от Rockstar настоящим шедевром. По словам руководителя польской студии, создать проект такого масштаба невероятно сложно, но коллегам это явно удается.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://images.pushsquare.com/501e9a54f7d1a/1280x720.jpg",
    "ts": "2026-11-20T14:15:42.311178+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Эксклюзив по приглашениям</b>\n\nNintendo решила продавать коллекционные окарины из Zelda в Европе только по специальным заявкам. Чтобы заполучить обычную игровую модель или электрическую версию от HORI, фанатам придется сначала пройти отбор на официальном сайте компании.\n\n#Nintendo\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/eaad7a33a6355/1280x720.jpg",
+   "ts": "2026-11-20T15:45:45.341081+00:00",
    "tries": 0
   }
  ],
