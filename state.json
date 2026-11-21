@@ -1930,10 +1930,12 @@
   "https://www.nintendolife.com/#article-209383",
   "https://www.nintendolife.com/#article-209380",
   "https://www.nintendolife.com/#article-207785",
-  "https://www.nintendolife.com/#article-209437"
+  "https://www.nintendolife.com/#article-209437",
+  "https://www.eurogamer.net/what-weve-been-playing-its-slow-its-awkward-its-weird-and-its-hard",
+  "39c3de1e-da78-45df-b147-3c55e7bf4e2e",
+  "e633d6e6-589a-4bcb-b4da-8a5d6732091d"
  ],
  "titles": [
-  "Суд над Rockstar финишировал",
   "Поиски неуловимого кота",
   "Миллиардный тупик индустрии",
   "Новозеландская хитрость фанатов",
@@ -1952,7 +1954,8 @@
   "Тот самый Джокер из Флориды",
   "Исторический куш Rockstar",
   "Волк задерживается на Switch",
-  "Народная любовь к классике"
+  "Народная любовь к классике",
+  "Пивной кризис в GTA 6"
  ],
  "queue": [
   {
@@ -1965,6 +1968,12 @@
    "post": "<b>Народная любовь к классике</b>\n\nРе\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/0ff8b95fda54c/1280x720.jpg",
    "ts": "2026-11-21T06:45:56.418207+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Пивной кризис в GTA 6</b>\n\nЖурналист IGN решил выпить пива за шесть долларов в GTA 6, но этот безобидный жест неожиданно запустил цепочку хаоса, паники и криминала. Мелкая покупка в открытом мире привела к комичной, но нервной катастрофе.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assets-prd.ignimgs.com/2026/11/20/1a1f9e1ef3b55-screenshoturl-1-1795194452766.jpg?width=1280&format=jpg&auto=webp&quality=80",
+   "ts": "2026-11-21T08:15:46.364281+00:00",
    "tries": 0
   }
  ],
