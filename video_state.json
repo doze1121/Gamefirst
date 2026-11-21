@@ -1,6 +1,5 @@
 {
  "done": [
-  "2026-11-04 12:00",
   "вручную 2026-11-04 12:06",
   "2026-11-04 19:00",
   "2026-11-05 12:00",
@@ -59,7 +58,8 @@
   "2026-11-19 19:00",
   "2026-11-20 12:00",
   "2026-11-20 19:00",
-  "2026-11-21 12:00"
+  "2026-11-21 12:00",
+  "2026-11-21 19:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -120,15 +120,10 @@
   "https://www.eurogamer.net/gta-6-new-zealand-trick-2m-players-early",
   "XU892Vmo9YbmXBwjuqzm3X",
   "ge89h6qrwTVCRAw3wCLQqQ",
-  "https://www.pushsquare.com/#article-209435"
+  "https://www.pushsquare.com/#article-209435",
+  "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose"
  ],
  "topics": [
-  {
-   "ts": "2026-11-08T09:01:28.259961+00:00",
-   "game": "Assassin's Creed Shadows",
-   "title": "Assassins Creed идет в Древний Рим!",
-   "src": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem"
-  },
   {
    "ts": "2026-11-08T16:01:35.431639+00:00",
    "game": "Among Us",
@@ -362,6 +357,12 @@
    "game": "Grand Theft Auto VI",
    "title": "GTA 6 тонет в оценках?!",
    "src": "'Overrated Game': GTA 6 PS5 Review Bombing Has Started After Record-Breaking Release"
+  },
+  {
+   "ts": "2026-11-21T16:01:57.322657+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "NPC в ГТА 6: Неприкосновенный персонаж",
+   "src": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them"
   }
  ]
 }
