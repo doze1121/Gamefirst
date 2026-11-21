@@ -1909,10 +1909,29 @@
   "W2F4zLtm8k5WZfKi8Bby6X",
   "https://www.eurogamer.net/wow-forever-weekly-players-15-years",
   "https://www.nintendolife.com/#article-209314",
-  "https://www.eurogamer.net/gta-6-biggest-entertainment-launch"
+  "https://www.eurogamer.net/gta-6-biggest-entertainment-launch",
+  "XU892Vmo9YbmXBwjuqzm3X",
+  "Lnukd96PY4Sn3Y2vQyDEci",
+  "B59K9DHwPMvULotGPJgpcX",
+  "Cm8xi7DjUbuAXxQx2khoxJ",
+  "DqeB4Z953fRPD5AyEoSA8D",
+  "Cn4oz7PynycB6UQofxHit7",
+  "cKV6JmLUit4zrTcf2FFs6d",
+  "a92GAMkLf2QiC34TxMHXXU",
+  "https://www.eurogamer.net/ubisoft-assassins-creed-jade-still-in-development-creative-houses-merge",
+  "https://www.eurogamer.net/cyberleek-gta-6-dev-build",
+  "https://www.gematsu.com/?p=1088866",
+  "https://www.gematsu.com/?p=1088867",
+  "https://www.pushsquare.com/#article-209382",
+  "https://www.pushsquare.com/#article-209377",
+  "https://www.pushsquare.com/#article-208163",
+  "https://www.nintendolife.com/#article-209385",
+  "https://www.nintendolife.com/#article-209384",
+  "https://www.nintendolife.com/#article-209383",
+  "https://www.nintendolife.com/#article-209380",
+  "https://www.nintendolife.com/#article-207785"
  ],
  "titles": [
-  "Контроль над кадрами",
   "Эпохальный день настал",
   "Суд над Rockstar финишировал",
   "Поиски неуловимого кота",
@@ -1931,7 +1950,8 @@
   "Эксклюзив по приглашениям",
   "Уроки математики от Atlus",
   "Тот самый Джокер из Флориды",
-  "Исторический куш Rockstar"
+  "Исторический куш Rockstar",
+  "Волк задерживается на Switch"
  ],
  "queue": [
   {
@@ -1944,6 +1964,12 @@
    "post": "<b>Исторический куш Rockstar</b>\n\nGTA 6 официально стала крупнейшим релизом в истории развлекательной индустрии. Игра побила все рекорды аналитиков, собрав безумные 3,79 миллиарда долларов за первые сутки и реализовав 32,5 миллиона предзаказов.\n\n#релиз #индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-20T20:15:45.205799+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Волк задерживается на Switch</b>\n\nTelltale Games решили отложить релиз ремастера The Wolf Among Us на гибридной консоли Nintendo, хотя на остальных платформах игра выйдет вовремя. Шерифу Бигби потребуется еще немного времени на полировку перед встречей с фанатами портатива.\n\n#Nintendo #релиз\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/3768f6736f5ca/1280x720.jpg",
+   "ts": "2026-11-21T05:15:44.300658+00:00",
    "tries": 0
   }
  ],
