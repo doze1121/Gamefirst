@@ -1983,10 +1983,17 @@
   "DUaNJtJiAFKHVDwkGZQN4M",
   "https://www.eurogamer.net/jensen-huang-nvidia-investigation-harassment",
   "https://www.pushsquare.com/#article-209396",
-  "WMGcyq3wKpJ9zmEPy8YhST"
+  "WMGcyq3wKpJ9zmEPy8YhST",
+  "DZMdLpxkJn7PKuabVSc5kF",
+  "VqWZALjGRyhx6WZzsjp3VY",
+  "https://www.eurogamer.net/persona-6-games-come-quicker-atlus",
+  "https://www.gematsu.com/?p=1088465",
+  "https://www.gematsu.com/?p=1088711",
+  "https://www.gematsu.com/?p=1088946",
+  "https://www.pushsquare.com/#article-209426",
+  "https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do"
  ],
  "titles": [
-  "Возвращение к истокам мусоку",
   "Магия в кармане",
   "Поезд на край света",
   "Задержка поколения Zen 6",
@@ -2005,7 +2012,8 @@
   "Сейф в боулинге GTA 6",
   "Война оценок GTA 6",
   "Пиратский контрнаступ",
-  "Доказать скептикам обратное"
+  "Доказать скептикам обратное",
+  "Диагноз: Ктулху"
  ],
  "queue": [
   {
@@ -2018,6 +2026,12 @@
    "post": "<b>Доказать скептикам обратное</b>\n\nКогда Bethesda только забрала права на культовую франшизу Fallout, фанаты оригинальных изометрических RPG встретили новость в штыки. Бывший геймдиректор Skyrim Брюс Несмит признался, что команде пришлось тяжело работать, чтобы преодолеть этот хейт. К счастью, фанатам Fallout 3 в итоге пришлось забрать свои слова обратно.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://cdn.mos.cms.futurecdn.net/Sz4SXMccvrs3ehk26Yrm5-1920-80.jpg",
    "ts": "2026-11-21T18:45:37.910510+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Диагноз: Ктулху</b>\n\nВышел анонс Eldritch Empathy — необычного рогалика, в котором игроку предстоит примерять роль врача для жутких космических тварей. Механика напоминает культовую Papers, Please: анализируем мутации, успокаиваем чудовищ и пытаемся не сойти с ума во время смены.\n\n#анонс\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/eldritch-empathy.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-21T20:15:48.828827+00:00",
    "tries": 0
   }
  ],
