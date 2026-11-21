@@ -1,6 +1,5 @@
 {
  "done": [
-  "2026-11-03 19:00",
   "2026-11-04 12:00",
   "вручную 2026-11-04 12:06",
   "2026-11-04 19:00",
@@ -59,7 +58,8 @@
   "2026-11-19 12:00",
   "2026-11-19 19:00",
   "2026-11-20 12:00",
-  "2026-11-20 19:00"
+  "2026-11-20 19:00",
+  "2026-11-21 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -119,15 +119,10 @@
   "33a7cf34-a6ab-4669-b27b-0f89ae33054d",
   "https://www.eurogamer.net/gta-6-new-zealand-trick-2m-players-early",
   "XU892Vmo9YbmXBwjuqzm3X",
-  "ge89h6qrwTVCRAw3wCLQqQ"
+  "ge89h6qrwTVCRAw3wCLQqQ",
+  "https://www.pushsquare.com/#article-209435"
  ],
  "topics": [
-  {
-   "ts": "2026-11-07T16:10:26.761728+00:00",
-   "game": "Call of Duty: Warzone",
-   "title": "Call of Duty: Warzone на Switch 2!",
-   "src": "ICYMI: Call Of Duty: Warzone Is Now Available For Switch 2"
-  },
   {
    "ts": "2026-11-08T09:01:28.259961+00:00",
    "game": "Assassin's Creed Shadows",
@@ -361,6 +356,12 @@
    "game": "Grand Theft Auto VI",
    "title": "Скамерский порт GTA 6 за 200 баксов",
    "src": "A 'GTA 6 PC scam kit' using a fake PC port as bait is available for $200 on the dark web, says NordVPN, so watch what you click"
+  },
+  {
+   "ts": "2026-11-21T09:01:36.449222+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "GTA 6 тонет в оценках?!",
+   "src": "'Overrated Game': GTA 6 PS5 Review Bombing Has Started After Record-Breaking Release"
   }
  ]
 }
