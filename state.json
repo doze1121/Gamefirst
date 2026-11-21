@@ -1980,10 +1980,12 @@
   "https://www.eurogamer.net/biddy-blas-star-wars-galactic-racer-viral-scrib-doon",
   "https://www.rockpapershotgun.com/nvidias-latest-graphics-card-driver-appears-to-be-unnecessarily-writing-to-pc-ssds-something-thats-dumb-annoying-and-definitely-warrants-reverting",
   "https://www.pushsquare.com/#article-209416",
-  "DUaNJtJiAFKHVDwkGZQN4M"
+  "DUaNJtJiAFKHVDwkGZQN4M",
+  "https://www.eurogamer.net/jensen-huang-nvidia-investigation-harassment",
+  "https://www.pushsquare.com/#article-209396",
+  "WMGcyq3wKpJ9zmEPy8YhST"
  ],
  "titles": [
-  "Двойной удар из прошлого",
   "Возвращение к истокам мусоку",
   "Магия в кармане",
   "Поезд на край света",
@@ -2002,7 +2004,8 @@
   "Затишье после бури",
   "Сейф в боулинге GTA 6",
   "Война оценок GTA 6",
-  "Пиратский контрнаступ"
+  "Пиратский контрнаступ",
+  "Доказать скептикам обратное"
  ],
  "queue": [
   {
@@ -2015,6 +2018,12 @@
    "post": "<b>Пиратский контрнаступ</b>\n\nШанхайская полиция накрыла подпольного торговца поддельными фигурками, а зацепикой стала безвкусная футболка с Tifa из Final Fantasy. Стражи порядка изъяли контрафакт на внушительную сумму и показали, что безопасность улиц касается и аниме-мерча.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://cdn.mos.cms.futurecdn.net/sQNDu82xunDjdg7dpg7EmD-1669-80.jpg",
    "ts": "2026-11-21T17:15:41.230169+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Доказать скептикам обратное</b>\n\nКогда Bethesda только забрала права на культовую франшизу Fallout, фанаты оригинальных изометрических RPG встретили новость в штыки. Бывший геймдиректор Skyrim Брюс Несмит признался, что команде пришлось тяжело работать, чтобы преодолеть этот хейт. К счастью, фанатам Fallout 3 в итоге пришлось забрать свои слова обратно.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/Sz4SXMccvrs3ehk26Yrm5-1920-80.jpg",
+   "ts": "2026-11-21T18:45:37.910510+00:00",
    "tries": 0
   }
  ],
