@@ -2018,10 +2018,14 @@
   "https://www.eurogamer.net/gta-6-video-games-biggest-moment",
   "https://www.nintendolife.com/#article-209400",
   "https://www.rockpapershotgun.com/the-sunday-papers-837",
-  "MnguJ8psE3qRpQv5qfWtz5"
+  "MnguJ8psE3qRpQv5qfWtz5",
+  "260b5327-4df7-47f6-a38d-0e8b03ed25fe",
+  "95071e52-9c8b-47b5-87a4-ecab37eb46af",
+  "E6ffdzmcuGHmaZ3joQZj8Z",
+  "https://www.gematsu.com/?p=1088654",
+  "https://www.eurogamer.net/gta-6-launch-day-engagement-circana"
  ],
  "titles": [
-  "Эксклюзив по приглашениям",
   "Уроки математики от Atlus",
   "Тот самый Джокер из Флориды",
   "Исторический куш Rockstar",
@@ -2040,7 +2044,8 @@
   "Комнатные хищники",
   "Пангоро за бортом",
   "Коллапс индустрии от Rockstar",
-  "Молчаливый профи"
+  "Молчаливый профи",
+  "Каждый второй в деле"
  ],
  "queue": [
   {
@@ -2054,15 +2059,16 @@
    "image": "https://cdn.mos.cms.futurecdn.net/e3fPzBmapimeiWj59SBAiQ-1920-80.jpg",
    "ts": "2026-11-22T11:15:42.863083+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Каждый второй в деле</b>\n\nАналитики Circana подсчитали, что в день релиза GTA 6 больше половины владельцев активных консолей запустили именно ее. Такой ураганный старт в очередной раз доказал, что серия играет в совершенно другой лиге.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/GTA6_5nov-(12).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-22T12:45:44.885323+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-22T12:30:54.117212+00:00",
  "published": [
-  {
-   "ts": "2026-11-14T12:30:56.231751+00:00",
-   "title": "Каждому своё",
-   "body": "Редакция Eurogamer делится игровыми буднями: Мари разглядывает монстров, Коннор снова сдался World of Warcraft, а Келси впервые открывает для себя культовую классику от Nintendo. Тем временем Берти предпочитает зрелищные"
-  },
   {
    "ts": "2026-11-14T14:01:07.848849+00:00",
    "title": "Второй шанс для Лары",
