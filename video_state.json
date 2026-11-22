@@ -1,6 +1,5 @@
 {
  "done": [
-  "2026-11-04 19:00",
   "2026-11-05 12:00",
   "вручную 2026-11-05 19:17",
   "2026-11-05 19:00",
@@ -59,7 +58,8 @@
   "2026-11-20 19:00",
   "2026-11-21 12:00",
   "2026-11-21 19:00",
-  "2026-11-22 12:00"
+  "2026-11-22 12:00",
+  "2026-11-22 19:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -122,15 +122,10 @@
   "ge89h6qrwTVCRAw3wCLQqQ",
   "https://www.pushsquare.com/#article-209435",
   "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
-  "616f6e79-6a4f-4f28-b773-0b89fc84bb7b"
+  "616f6e79-6a4f-4f28-b773-0b89fc84bb7b",
+  "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort"
  ],
  "topics": [
-  {
-   "ts": "2026-11-09T09:03:15.575659+00:00",
-   "game": "",
-   "title": "Скандал с главой Nvidia!",
-   "src": "Nvidia Launches Investigation Into CEO Jensen Huang Following Affair With Alleged Chinese Spy"
-  },
   {
    "ts": "2026-11-09T16:01:36.492683+00:00",
    "game": "Grand Theft Auto VI",
@@ -364,6 +359,12 @@
    "game": "Grand Theft Auto VI",
    "title": "GTA 6 СИЛОЙ МЫСЛИ?!",
    "src": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind"
+  },
+  {
+   "ts": "2026-11-22T16:01:35.162672+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "Бан за фото в GTA 6!",
+   "src": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend"
   }
  ]
 }
