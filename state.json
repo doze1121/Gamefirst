@@ -2023,10 +2023,16 @@
   "95071e52-9c8b-47b5-87a4-ecab37eb46af",
   "E6ffdzmcuGHmaZ3joQZj8Z",
   "https://www.gematsu.com/?p=1088654",
-  "https://www.eurogamer.net/gta-6-launch-day-engagement-circana"
+  "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
+  "b04b7f80-19b3-48fe-a71d-cd873e33b7be",
+  "7f02ea9f-6fe3-4fe2-892c-6bf936024fd3",
+  "fedd2185-4222-4202-82b8-28d69ef2f8c9",
+  "VTM76bAYZcEN2go8UgDjNa",
+  "iygBJXYuGSLrSQTHwiqSa",
+  "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
+  "https://www.nintendolife.com/#article-209389"
  ],
  "titles": [
-  "Уроки математики от Atlus",
   "Тот самый Джокер из Флориды",
   "Исторический куш Rockstar",
   "Волк задерживается на Switch",
@@ -2045,7 +2051,8 @@
   "Пангоро за бортом",
   "Коллапс индустрии от Rockstar",
   "Молчаливый профи",
-  "Каждый второй в деле"
+  "Каждый второй в деле",
+  "Письма редакции Nintendo Life"
  ],
  "queue": [
   {
@@ -2059,15 +2066,16 @@
    "image": "https://assetsio.gnwcdn.com/GTA6_5nov-(12).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-22T12:45:44.885323+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Письма редакции Nintendo Life</b>\n\nВ свежем номере дайджеста пи\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/5890246f89f6b/1280x720.jpg",
+   "ts": "2026-11-22T14:15:39.721665+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-22T14:01:04.426214+00:00",
  "published": [
-  {
-   "ts": "2026-11-14T14:01:07.848849+00:00",
-   "title": "Второй шанс для Лары",
-   "body": "Limited Run Games неожиданно решила сделать исключение из своих строгих правил и выпустить дополнительный тираж физической версии Tomb Raider: Definitive Edition для Switch 2. Идеальная возможность для коллекционеров зап"
-  },
   {
    "ts": "2026-11-14T15:30:55.271097+00:00",
    "title": "Доброе дело в Warzone",
