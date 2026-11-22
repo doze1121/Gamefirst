@@ -1991,10 +1991,30 @@
   "https://www.gematsu.com/?p=1088711",
   "https://www.gematsu.com/?p=1088946",
   "https://www.pushsquare.com/#article-209426",
-  "https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do"
+  "https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do",
+  "18a5db6b-8d16-41db-8707-3248a291d981",
+  "8757be13-2349-4142-9ca4-7734efefdc5c",
+  "9afb9fc4-6ca6-4d32-8fca-4084c3ef5aca",
+  "9ddd4da0-a98a-4b12-85df-37aed83bd38e",
+  "e2acffc3-52d8-4c92-a5cc-681ff6845b9e",
+  "kqeoqyBBYoNBC7AhBTpctZ",
+  "G6wXUDvJHVETDgu33aaBKg",
+  "yhYF3b3K54u8u8nzmGWboG",
+  "eLPGAZu6wSHmxJL4VMDwsH",
+  "QsRzXdiWNVwL7pJeqjwfmV",
+  "soyySA7VZhmUPrxSZVYPMa",
+  "https://www.gematsu.com/?p=1088642",
+  "https://www.gematsu.com/?p=1088954",
+  "https://www.gematsu.com/?p=1088472",
+  "https://www.gematsu.com/?p=1088942",
+  "https://www.gematsu.com/?p=1088550",
+  "https://www.gematsu.com/?p=1088638",
+  "https://www.pushsquare.com/#article-209433",
+  "https://www.pushsquare.com/#article-209431",
+  "https://www.nintendolife.com/#article-209436",
+  "https://www.gematsu.com/?p=1089023"
  ],
  "titles": [
-  "Магия в кармане",
   "Поезд на край света",
   "Задержка поколения Zen 6",
   "Искусственный интеллект в железе",
@@ -2013,7 +2033,8 @@
   "Война оценок GTA 6",
   "Пиратский контрнаступ",
   "Доказать скептикам обратное",
-  "Диагноз: Ктулху"
+  "Диагноз: Ктулху",
+  "Юбилей тактической классики"
  ],
  "queue": [
   {
@@ -2026,6 +2047,12 @@
    "post": "<b>Диагноз: Ктулху</b>\n\nВышел анонс Eldritch Empathy — необычного рогалика, в котором игроку предстоит примерять роль врача для жутких космических тварей. Механика напоминает культовую Papers, Please: анализируем мутации, успокаиваем чудовищ и пытаемся не сойти с ума во время смены.\n\n#анонс\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/eldritch-empathy.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-21T20:15:48.828827+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Юбилей тактической классики</b>\n\nИздательство Entergram намекнуло на скорый анонс нового проекта во вселенной Farland Saga. Серия отмечает свое 30-летие, поэтому фанатов франшизы вскоре могут ждать приятные сюрпризы.\n\n#анонс\n\n🎮 Первый игровой",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Farland-Saga-30th_11-21-26.jpg",
+   "ts": "2026-11-22T05:15:40.180761+00:00",
    "tries": 0
   }
  ],
