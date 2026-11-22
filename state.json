@@ -2014,10 +2014,10 @@
   "https://www.nintendolife.com/#article-209436",
   "https://www.gematsu.com/?p=1089023",
   "824f8a30-ed9f-4b03-b423-3ea4c9464b71",
-  "https://www.nintendolife.com/#article-209445"
+  "https://www.nintendolife.com/#article-209445",
+  "https://www.eurogamer.net/gta-6-video-games-biggest-moment"
  ],
  "titles": [
-  "Искусственный интеллект в железе",
   "Профессиональное восхищение",
   "Эксклюзив по приглашениям",
   "Уроки математики от Atlus",
@@ -2036,7 +2036,8 @@
   "Диагноз: Ктулху",
   "Юбилей тактической классики",
   "Комнатные хищники",
-  "Пангоро за бортом"
+  "Пангоро за бортом",
+  "Коллапс индустрии от Rockstar"
  ],
  "queue": [
   {
@@ -2049,6 +2050,12 @@
    "post": "<b>Пангоро за бортом</b>\n\nКацухиро Харада признался, что отчаянно хотел добавить покемона Pangoro в файтинг Pokken Tournament. К сожалению фанатов, разработчики из Bandai Namco так и не включили грозного медведя в финальный ростер бойцов.\n\n#Nintendo #индустрия\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/8eedb914f197b/1280x720.jpg",
    "ts": "2026-11-22T08:15:43.337993+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Коллапс индустрии от Rockstar</b>\n\nРелиз GTA 6 парализовал всю игровую журналистику в первые же часы. Авторы Euro\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/GTA-6-review-10.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-22T09:45:40.671877+00:00",
    "tries": 0
   }
  ],
