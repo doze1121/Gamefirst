@@ -2052,10 +2052,11 @@
   "6NQUdnk7PfaQdAW87SGU8P",
   "https://www.eurogamer.net/nioh-3-complete-edition-rated-korea",
   "https://www.rockpapershotgun.com/everyone-agrees-its-more-fun-this-way-toby-fox-wont-tell-his-team-how-deltarune-ends-until-theyve-built-enough-of-it",
-  "PXvtHUHzzLKrND4rQP6NYm"
+  "PXvtHUHzzLKrND4rQP6NYm",
+  "9c1ff8e1-8922-4f0b-9516-062b764fbe96",
+  "gF2USUEeupUcPKkoijvW2Y"
  ],
  "titles": [
-  "Волк задерживается на Switch",
   "Народная любовь к классике",
   "Пивной кризис в GTA 6",
   "Полный газ Сакураи",
@@ -2074,7 +2075,8 @@
   "Каждый второй в деле",
   "Письма редакции Nintendo Life",
   "Угон по наводке Мозеса",
-  "Эффект плоской Земли в GTA 6"
+  "Эффект плоской Земли в GTA 6",
+  "Суперкрипы подвезли"
  ],
  "queue": [
   {
@@ -2088,15 +2090,16 @@
    "image": "https://cdn.mos.cms.futurecdn.net/88bmYYeTdzTBy8hNsLoXrc-2560-80.jpg",
    "ts": "2026-11-22T18:45:40.390785+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Суперкрипы подвезли</b>\n\nВ свежем патче для Dota 2 Valve решили ускорить затяжные матчи и добавили артефакт, призывающий суперкрипов сразу на все линии. Такое заимствование идей у более динамичных конкурентов по жанру MOBA должно сделать сражения бодрее.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/rPdj5KUrcUw2ZvWuDYHyZP-2398-80.png",
+   "ts": "2026-11-22T20:15:42.441638+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-22T20:01:02.990545+00:00",
  "published": [
-  {
-   "ts": "2026-11-14T20:01:04.763092+00:00",
-   "title": "Два волка внутри Харви Смита",
-   "body": "Геймдиректор Dishonored 2 Харви Смит рассказал о дилемме при создании immersive sim. По его словам, разработчик вечно разрывается между желанием оправдать каноничные ожидания фанатов жанра и стремлением удивить их свежим"
-  },
   {
    "ts": "2026-11-15T05:01:05.040059+00:00",
    "title": "Очередь за мобами",
