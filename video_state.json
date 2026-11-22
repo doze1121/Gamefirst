@@ -1,6 +1,5 @@
 {
  "done": [
-  "вручную 2026-11-04 12:06",
   "2026-11-04 19:00",
   "2026-11-05 12:00",
   "вручную 2026-11-05 19:17",
@@ -59,7 +58,8 @@
   "2026-11-20 12:00",
   "2026-11-20 19:00",
   "2026-11-21 12:00",
-  "2026-11-21 19:00"
+  "2026-11-21 19:00",
+  "2026-11-22 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -121,15 +121,10 @@
   "XU892Vmo9YbmXBwjuqzm3X",
   "ge89h6qrwTVCRAw3wCLQqQ",
   "https://www.pushsquare.com/#article-209435",
-  "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose"
+  "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
+  "616f6e79-6a4f-4f28-b773-0b89fc84bb7b"
  ],
  "topics": [
-  {
-   "ts": "2026-11-08T16:01:35.431639+00:00",
-   "game": "Among Us",
-   "title": "Спасение через Among Us!",
-   "src": "Missing teenager rescued after reaching out to another player in Among Us"
-  },
   {
    "ts": "2026-11-09T09:03:15.575659+00:00",
    "game": "",
@@ -363,6 +358,12 @@
    "game": "Grand Theft Auto VI",
    "title": "NPC в ГТА 6: Неприкосновенный персонаж",
    "src": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them"
+  },
+  {
+   "ts": "2026-11-22T09:01:37.724851+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "GTA 6 СИЛОЙ МЫСЛИ?!",
+   "src": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind"
   }
  ]
 }
