@@ -2070,10 +2070,12 @@
   "https://www.eurogamer.net/activision-ai-voice-chat-npc-patent",
   "https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride",
   "https://www.nintendolife.com/#article-209388",
-  "https://www.nintendolife.com/#article-209460"
+  "https://www.nintendolife.com/#article-209460",
+  "ujrFjkED6eh83qCz7mrtY4",
+  "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
+  "https://www.pushsquare.com/#article-209470"
  ],
  "titles": [
-  "Сейф в боулинге GTA 6",
   "Война оценок GTA 6",
   "Пиратский контрнаступ",
   "Доказать скептикам обратное",
@@ -2092,7 +2094,8 @@
   "Вселенная Momoko",
   "Пополнение в рядах Мстителей",
   "Каждому по клону",
-  "Утренний кошмар разработчика"
+  "Утренний кошмар разработчика",
+  "Первая заплатка для лос-сантосских будней"
  ],
  "queue": [
   {
@@ -2105,6 +2108,12 @@
    "post": "<b>Утренний кошмар разработчика</b>\n\nРелиз апдейта Repentance+ для The Binding of Isaac обернулся скандалом и шквалом отрицательных отзывов в Steam. Игроки взбунтовались после того, как в новом онлайновом режиме обнаружилась музыка, созданная с помощью искусственного интеллекта. Разработчики оказались шокированы таким сюрпризом в выходные.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/acfee7b630324/1280x720.jpg",
    "ts": "2026-11-23T11:15:41.263516+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Первая заплатка для лос-сантосских будней</b>\n\nRockstar Games выпустила дебютный патч для GTA 6 на консолях. Обновление весит около 600 МБ на PlayStation 5 и чуть больше полутора гигабайт на Xbox Series X/S, но распространяется волновым методом, так что загрузка может прийти с небольшой задержкой.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/14a4f224ce77e/1280x720.jpg",
+   "ts": "2026-11-23T12:45:45.828468+00:00",
    "tries": 0
   }
  ],
