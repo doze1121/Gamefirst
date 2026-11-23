@@ -2067,10 +2067,12 @@
   "https://www.gematsu.com/?p=1089027",
   "d628e0fa-0115-4ff5-97d8-4a5128af6d35",
   "6fc98d91-87fd-4001-a664-ba995e204440",
-  "https://www.eurogamer.net/activision-ai-voice-chat-npc-patent"
+  "https://www.eurogamer.net/activision-ai-voice-chat-npc-patent",
+  "https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride",
+  "https://www.nintendolife.com/#article-209388",
+  "https://www.nintendolife.com/#article-209460"
  ],
  "titles": [
-  "Затишье после бури",
   "Сейф в боулинге GTA 6",
   "Война оценок GTA 6",
   "Пиратский контрнаступ",
@@ -2089,7 +2091,8 @@
   "Японская игротека",
   "Вселенная Momoko",
   "Пополнение в рядах Мстителей",
-  "Каждому по клону"
+  "Каждому по клону",
+  "Утренний кошмар разработчика"
  ],
  "queue": [
   {
@@ -2102,6 +2105,12 @@
    "post": "<b>Каждому по клону</b>\n\nActivision запатентовала нейросеть, которая способна обучаться на голосовом чате реальных игроков в Call of Duty. Полученные данные система использует для озвучки NPC — персонажи смогут говорить голосами живых геймеров и даже подражать их манере общения.\n\n#новости #индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/modern-warfare-4-beta-shot-crop-2.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-23T09:31:06.889210+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Утренний кошмар разработчика</b>\n\nРелиз апдейта Repentance+ для The Binding of Isaac обернулся скандалом и шквалом отрицательных отзывов в Steam. Игроки взбунтовались после того, как в новом онлайновом режиме обнаружилась музыка, созданная с помощью искусственного интеллекта. Разработчики оказались шокированы таким сюрпризом в выходные.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/acfee7b630324/1280x720.jpg",
+   "ts": "2026-11-23T11:15:41.263516+00:00",
    "tries": 0
   }
  ],
