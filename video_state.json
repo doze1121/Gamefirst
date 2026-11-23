@@ -1,6 +1,5 @@
 {
  "done": [
-  "2026-11-05 12:00",
   "вручную 2026-11-05 19:17",
   "2026-11-05 19:00",
   "вручную 2026-11-05 19:39",
@@ -59,7 +58,8 @@
   "2026-11-21 12:00",
   "2026-11-21 19:00",
   "2026-11-22 12:00",
-  "2026-11-22 19:00"
+  "2026-11-22 19:00",
+  "2026-11-23 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -123,15 +123,10 @@
   "https://www.pushsquare.com/#article-209435",
   "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
   "616f6e79-6a4f-4f28-b773-0b89fc84bb7b",
-  "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort"
+  "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
+  "eemE3FBCozCtnnFDsN3f6E"
  ],
  "topics": [
-  {
-   "ts": "2026-11-09T16:01:36.492683+00:00",
-   "game": "Grand Theft Auto VI",
-   "title": "GTA 6: Куртка за 300 000 рублей!",
-   "src": "GTA 6's Exclusive Selfridges Merch Is Daylight Robbery"
-  },
   {
    "ts": "2026-11-09T18:27:27.901418+00:00",
    "game": "",
@@ -365,6 +360,12 @@
    "game": "Grand Theft Auto VI",
    "title": "Бан за фото в GTA 6!",
    "src": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend"
+  },
+  {
+   "ts": "2026-11-23T09:01:36.753527+00:00",
+   "game": "The Binding of Isaac: Rebirth",
+   "title": "Скандал с ИИ в Binding of Isaac!",
+   "src": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled"
   }
  ]
 }
