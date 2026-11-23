@@ -1,6 +1,5 @@
 {
  "done": [
-  "вручную 2026-11-05 19:17",
   "2026-11-05 19:00",
   "вручную 2026-11-05 19:39",
   "вручную 2026-11-05 19:43",
@@ -59,7 +58,8 @@
   "2026-11-21 19:00",
   "2026-11-22 12:00",
   "2026-11-22 19:00",
-  "2026-11-23 12:00"
+  "2026-11-23 12:00",
+  "2026-11-23 19:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -124,15 +124,10 @@
   "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
   "616f6e79-6a4f-4f28-b773-0b89fc84bb7b",
   "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
-  "eemE3FBCozCtnnFDsN3f6E"
+  "eemE3FBCozCtnnFDsN3f6E",
+  "https://www.rockpapershotgun.com/nvidia-reinstate-jensen-huang-as-ceo-following-alleged-affairs-as-us-government-support-renders-please-give-me-my-job-back-go-usa-a-highly-persuasive-plea"
  ],
  "topics": [
-  {
-   "ts": "2026-11-09T18:27:27.901418+00:00",
-   "game": "",
-   "title": "У Сони Плейстейшн Портал появилась память!",
-   "src": "Sony Launches New PS Portal Model in Japan With Internal Storage for 'Future Functionality,' Changes Official Name"
-  },
   {
    "ts": "2026-11-10T09:04:58.899564+00:00",
    "game": "",
@@ -366,6 +361,12 @@
    "game": "The Binding of Isaac: Rebirth",
    "title": "Скандал с ИИ в Binding of Isaac!",
    "src": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled"
+  },
+  {
+   "ts": "2026-11-23T16:02:21.251938+00:00",
+   "game": "",
+   "title": "Дженсен Хуанг вернулся в Nvidia!",
+   "src": "Nvidia reinstate Jensen Huang as CEO following alleged affairs, as US government support renders 'please give me my job back, go USA' a highly persuasive plea"
   }
  ]
 }
