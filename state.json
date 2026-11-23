@@ -2090,10 +2090,10 @@
   "https://www.eurogamer.net/dawn-of-war-4-trailer-vashtorr-chaos-tease",
   "kXbDzpj2GpD7g2U3kogVZJ",
   "aCJyp2DCAXtPEGozmT868J",
-  "https://www.rockpapershotgun.com/28-years-later-grizzled-xcom-style-ww2-tactics-game-soldiers-at-war-gets-a-fresh-tour-of-duty-on-modern-pcs"
+  "https://www.rockpapershotgun.com/28-years-later-grizzled-xcom-style-ww2-tactics-game-soldiers-at-war-gets-a-fresh-tour-of-duty-on-modern-pcs",
+  "https://www.eurogamer.net/deltarune-chapter-6-playable-toby-fox"
  ],
  "titles": [
-  "Юбилей тактической классики",
   "Комнатные хищники",
   "Пангоро за бортом",
   "Коллапс индустрии от Rockstar",
@@ -2112,7 +2112,8 @@
   "Законный разгон для GTA 6",
   "Перерыв на альтернативу",
   "Вархаммер зовет фанатов",
-  "Дедушкина тактика"
+  "Дедушкина тактика",
+  "Финал уже на горизонте"
  ],
  "queue": [
   {
@@ -2125,6 +2126,12 @@
    "post": "<b>Дедушкина тактика</b>\n\nИздательство SNEG вернуло к жизни Soldiers at War — ветеранскую пошаговую стратегию 1998 года про Вторую мировую войну, сильно напоминающую классический X-COM. Теперь культовая игра без проблем запускается на современных ПК и готова снова потрепать нервы любителям хардкорных операций.\n\n#релиз\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/soldiers-at-war.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-23T18:45:44.150371+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Финал уже на горизонте</b>\n\nТоби Фокс поделился свежими новостями о разработке финала Deltarune. По его словам, шестую главу уже можно пройти целиком от начала и до конца, а вот работа над заключительной седьмой частью только-только стартовала.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/deltarune-characters.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-23T20:15:41.865507+00:00",
    "tries": 0
   }
  ],
