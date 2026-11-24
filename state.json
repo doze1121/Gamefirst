@@ -2123,10 +2123,13 @@
   "https://www.pushsquare.com/#article-209482",
   "https://www.pushsquare.com/#article-209451",
   "https://www.pushsquare.com/#article-209463",
-  "https://www.nintendolife.com/#article-209484"
+  "https://www.nintendolife.com/#article-209484",
+  "ErdYkqJdaUSV2f6tmKHn5k",
+  "ga9QheP5ZfiG5tu7hyAE7c",
+  "https://www.pushsquare.com/#article-209489",
+  "https://www.rockpapershotgun.com/hooded-horses-latest-tactics-rpg-is-a-sequel-to-symphony-of-war-one-of-2022s-undersung-favourites"
  ],
  "titles": [
-  "Угон по наводке Мозеса",
   "Эффект плоской Земли в GTA 6",
   "Суперкрипы подвезли",
   "Японская игротека",
@@ -2145,7 +2148,8 @@
   "Привет из будущего",
   "GTA 6 уже на PC? Почти",
   "Миллион у моря",
-  "Скоростной забег по расписанию"
+  "Скоростной забег по расписанию",
+  "Воз"
  ],
  "queue": [
   {
@@ -2159,15 +2163,16 @@
    "image": "https://assetsio.gnwcdn.com/Queen's-Domain.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-24T12:45:52.209289+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Воз\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/Symphony-of-War-2---Key-Art-No-Logo.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-24T14:31:00.048211+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-24T14:01:08.845241+00:00",
  "published": [
-  {
-   "ts": "2026-11-16T14:30:53.426174+00:00",
-   "title": "Кадровый марш-бросок для Battlefield",
-   "body": "EA снова перетасовывает руководящий состав серии Battlefield. Байрон Биди, ранее занимавший пост генерального менеджера франшизы, пошел на повышение и теперь возглавит работу всех студий, причастных к развитию этой культ"
-  },
   {
    "ts": "2026-11-16T16:01:09.294510+00:00",
    "title": "Феноменальная точность",
