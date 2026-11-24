@@ -2103,10 +2103,14 @@
   "https://www.gematsu.com/?p=1089186",
   "https://www.nintendolife.com/#article-209523",
   "https://www.gematsu.com/?p=1089062",
-  "https://www.eurogamer.net/gta-6-cyberleek-leaked-xbox-build-ported-pc"
+  "https://www.eurogamer.net/gta-6-cyberleek-leaked-xbox-build-ported-pc",
+  "https://www.eurogamer.net/queens-domain-review",
+  "https://www.eurogamer.net/grand-theft-auto-6-no-darts-didnt-have-resources",
+  "https://www.gematsu.com/?p=1089066",
+  "https://www.nintendolife.com/#article-209457",
+  "https://www.nintendolife.com/#article-209533"
  ],
  "titles": [
-  "Каждый второй в деле",
   "Письма редакции Nintendo Life",
   "Угон по наводке Мозеса",
   "Эффект плоской Земли в GTA 6",
@@ -2125,7 +2129,8 @@
   "Дандори на кубическом поле",
   "Пушистый релакс",
   "Привет из будущего",
-  "GTA 6 уже на PC? Почти"
+  "GTA 6 уже на PC? Почти",
+  "Миллион у моря"
  ],
  "queue": [
   {
@@ -2138,6 +2143,12 @@
    "post": "<b>GTA 6 уже на PC? Почти</b>\n\nИзвестный датамайнер CyberLeek выложил в сеть недостающий .exe-\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/GTA6_5nov-(14).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-24T09:45:41.951231+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Миллион у моря</b>\n\nУютный симулятор книжной лавки Tiny Bookshop преодолел тираж в миллион копий спустя чуть больше года после релиза. В честь этого издательство Skystone Games и разработчики neoludic анонсировали первое крупное дополнение Arts & Crafts, которое добавит в игру творческие активности уже 5 декабря.\n\n#релиз #анонс\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/950a56c568e45/1280x720.jpg",
+   "ts": "2026-11-24T11:15:41.027583+00:00",
    "tries": 0
   }
  ],
