@@ -1,6 +1,5 @@
 {
  "done": [
-  "вручную 2026-11-05 19:43",
   "вручную 2026-11-05 20:15",
   "вручную 2026-11-05 20:28",
   "2026-11-06 12:00",
@@ -59,7 +58,8 @@
   "2026-11-23 12:00",
   "2026-11-23 19:00",
   "2026-11-24 12:00",
-  "2026-11-24 19:00"
+  "2026-11-24 19:00",
+  "вручную 2026-11-24 19:13"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -126,15 +126,10 @@
   "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
   "eemE3FBCozCtnnFDsN3f6E",
   "https://www.rockpapershotgun.com/nvidia-reinstate-jensen-huang-as-ceo-following-alleged-affairs-as-us-government-support-renders-please-give-me-my-job-back-go-usa-a-highly-persuasive-plea",
-  "https://www.pushsquare.com/#article-209518"
+  "https://www.pushsquare.com/#article-209518",
+  "https://www.pushsquare.com/#article-209449"
  ],
  "topics": [
-  {
-   "ts": "2026-11-10T16:01:35.444945+00:00",
-   "game": "Marathon",
-   "title": "Судьба Marathon под угрозой",
-   "src": "Marathon's Fate Hangs in the Balance as Bungie Details Its Game-Saving PvE Update"
-  },
   {
    "ts": "2026-11-11T09:01:28.255016+00:00",
    "game": "",
@@ -368,6 +363,12 @@
    "game": "God of War Ragnarok",
    "title": "Актриса Год оф Вар вернется к роли!",
    "src": "God of War Laufey Star Will Reprise Role for Live-Action TV Show"
+  },
+  {
+   "ts": "2026-11-24T16:14:28.399212+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "GTA 6 диктует моду!",
+   "src": "GTA 6 Fashion Is Taking Social Media by Storm"
   }
  ]
 }
