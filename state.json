@@ -2152,10 +2152,14 @@
   "https://www.rockpapershotgun.com/might-and-magic-meets-er-paper-in-sunny-new-rpg-rise-of-furax-a-turn-based-island-tale-that-is-entirely-drawn-by-hand",
   "https://www.nintendolife.com/#article-209513",
   "https://www.nintendolife.com/#article-209473",
-  "https://www.eurogamer.net/steam-awards-2026-nominations-open-hall-of-fame"
+  "https://www.eurogamer.net/steam-awards-2026-nominations-open-hall-of-fame",
+  "k2iqpQBHKdEZVCz7oQn5GL",
+  "https://www.eurogamer.net/activision-banjo-kazooie-iconic-gaming-franchise",
+  "https://www.pushsquare.com/#article-208976",
+  "https://news.xbox.com/en-us/?p=228460",
+  "https://www.pushsquare.com/#article-209574"
  ],
  "titles": [
-  "Вселенная Momoko",
   "Пополнение в рядах Мстителей",
   "Каждому по клону",
   "Утренний кошмар разработчика",
@@ -2174,7 +2178,8 @@
   "Воз",
   "Звездные тачки на полной скорости",
   "Уход в спячку",
-  "Десятилетний юбилей Steam Awards"
+  "Десятилетний юбилей Steam Awards",
+  "Партнерство по-крупному"
  ],
  "queue": [
   {
@@ -2187,6 +2192,12 @@
    "post": "<b>Десятилетний юбилей Steam Awards</b>\n\nПремия Steam Awards отмечает свой первый серьезный юбилей — Valve открыла номинации на 2026 год. В честь десятилетия в список наград вернулись старые любимые категории игроков, а также появился специальный Зал славы для главных триумфаторов прошлых лет.\n\n#новости #индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-24-at-18.32.30.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-24T18:45:39.335572+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Партнерство по-крупному</b>\n\nCDPR\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/b902682cc5b6e/1280x720.jpg",
+   "ts": "2026-11-24T20:15:41.467436+00:00",
    "tries": 0
   }
  ],
