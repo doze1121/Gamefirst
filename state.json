@@ -2101,10 +2101,11 @@
   "https://www.pushsquare.com/#article-209450",
   "https://www.nintendolife.com/#article-209524",
   "https://www.gematsu.com/?p=1089186",
-  "https://www.nintendolife.com/#article-209523"
+  "https://www.nintendolife.com/#article-209523",
+  "https://www.gematsu.com/?p=1089062",
+  "https://www.eurogamer.net/gta-6-cyberleek-leaked-xbox-build-ported-pc"
  ],
  "titles": [
-  "Молчаливый профи",
   "Каждый второй в деле",
   "Письма редакции Nintendo Life",
   "Угон по наводке Мозеса",
@@ -2123,7 +2124,8 @@
   "Финал уже на горизонте",
   "Дандори на кубическом поле",
   "Пушистый релакс",
-  "Привет из будущего"
+  "Привет из будущего",
+  "GTA 6 уже на PC? Почти"
  ],
  "queue": [
   {
@@ -2137,15 +2139,16 @@
    "image": "https://images.nintendolife.com/c669eb5359e85/1280x720.jpg",
    "ts": "2026-11-24T08:15:46.147913+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>GTA 6 уже на PC? Почти</b>\n\nИзвестный датамайнер CyberLeek выложил в сеть недостающий .exe-\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/GTA6_5nov-(14).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-24T09:45:41.951231+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-24T09:30:55.050764+00:00",
  "published": [
-  {
-   "ts": "2026-11-16T09:30:56.943403+00:00",
-   "title": "Месть кубических подземелий",
-   "body": "Mojang неожиданно анонсировала первое платное дополнение для Minecraft Dungeons II под названием The Humblers Awaken. Релиз крупного патча и свежего приключения с новыми локациями и лутом состоится уже 1 декабря 2026 год"
-  },
   {
    "ts": "2026-11-16T11:24:17.916844+00:00",
    "title": "Ушла эпоха миниатюр",
