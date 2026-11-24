@@ -1,6 +1,5 @@
 {
  "done": [
-  "2026-11-05 19:00",
   "вручную 2026-11-05 19:39",
   "вручную 2026-11-05 19:43",
   "вручную 2026-11-05 20:15",
@@ -59,7 +58,8 @@
   "2026-11-22 12:00",
   "2026-11-22 19:00",
   "2026-11-23 12:00",
-  "2026-11-23 19:00"
+  "2026-11-23 19:00",
+  "2026-11-24 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -125,15 +125,10 @@
   "616f6e79-6a4f-4f28-b773-0b89fc84bb7b",
   "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
   "eemE3FBCozCtnnFDsN3f6E",
-  "https://www.rockpapershotgun.com/nvidia-reinstate-jensen-huang-as-ceo-following-alleged-affairs-as-us-government-support-renders-please-give-me-my-job-back-go-usa-a-highly-persuasive-plea"
+  "https://www.rockpapershotgun.com/nvidia-reinstate-jensen-huang-as-ceo-following-alleged-affairs-as-us-government-support-renders-please-give-me-my-job-back-go-usa-a-highly-persuasive-plea",
+  "https://www.pushsquare.com/#article-209518"
  ],
  "topics": [
-  {
-   "ts": "2026-11-10T09:04:58.899564+00:00",
-   "game": "",
-   "title": "PS5 без подарков, а Nintendo смогла!",
-   "src": "PS5 Now the Only Console without a Digital Game Gifting Option"
-  },
   {
    "ts": "2026-11-10T16:01:35.444945+00:00",
    "game": "Marathon",
@@ -367,6 +362,12 @@
    "game": "",
    "title": "Дженсен Хуанг вернулся в Nvidia!",
    "src": "Nvidia reinstate Jensen Huang as CEO following alleged affairs, as US government support renders 'please give me my job back, go USA' a highly persuasive plea"
+  },
+  {
+   "ts": "2026-11-24T09:01:23.670067+00:00",
+   "game": "God of War Ragnarok",
+   "title": "Актриса Год оф Вар вернется к роли!",
+   "src": "God of War Laufey Star Will Reprise Role for Live-Action TV Show"
   }
  ]
 }
