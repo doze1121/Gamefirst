@@ -2190,10 +2190,18 @@
   "https://www.eurogamer.net/xbox-live-helix-killing-paid-membership",
   "https://www.pushsquare.com/#article-209508",
   "https://www.nintendolife.com/#article-209527",
-  "https://www.rockpapershotgun.com/delivering-a-more-modern-garrys-mod-is-the-goal-of-spiritual-successor-sboxs-revamped-sandbox-mode-as-classic-gmods-workshop-addon-system-returns"
+  "https://www.rockpapershotgun.com/delivering-a-more-modern-garrys-mod-is-the-goal-of-spiritual-successor-sboxs-revamped-sandbox-mode-as-classic-gmods-workshop-addon-system-returns",
+  "hyaf62Wk9hv9Ur57EAEvrP",
+  "wBS22vx6YELzMwj75kRzjc",
+  "https://www.eurogamer.net/red-dead-redemption-movie-tv-rights-100-million-usd-no-gta",
+  "https://www.eurogamer.net/gta-6-players-getting-very-good-at-heists-despite-challenges",
+  "https://www.eurogamer.net/warhammer-40000-boltgun-2-now-playing",
+  "https://www.rockpapershotgun.com/the-torch-passes-to-the-open-source-recomp-and-emulation-projects-gta-6-leaker-cyberleek-claims-to-have-released-crimsims-xbox-executable-and-denies-crypto-grifting",
+  "https://www.pushsquare.com/#article-209530",
+  "https://www.nintendolife.com/#article-209537",
+  "https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter"
  ],
  "titles": [
-  "Перерыв на альтернативу",
   "Вархаммер зовет фанатов",
   "Дедушкина тактика",
   "Финал уже на горизонте",
@@ -2212,7 +2220,8 @@
   "Каникулы в Вайс-Сити",
   "Работаем на почки",
   "Плавнее, чем у конкурента",
-  "Новая жизнь песочницы"
+  "Новая жизнь песочницы",
+  "Открытый мир мечты"
  ],
  "queue": [
   {
@@ -2225,6 +2234,12 @@
    "post": "<b>Новая жизнь песочницы</b>\n\nСоздатели Rust из Facepunch Studios пытаются исправить запуск S&box. Духовный наследник Garry's Mod стал бесплатным, получил обновленный режим песочницы и возвращение привычной системы модов из мастерской.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/s%26box-sandbox-mode-update-gmod-workshop-addon-system-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-25T11:15:39.578972+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Открытый мир мечты</b>\n\nФанатам GTA 6 будет где разгуляться. Энтузиасты подсчитали, что в игре можно будет зайти почти в 1500 зданий — это примерно 28% от всех построек на карте солнечной Leonida.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/boobie-gta-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-25T12:45:37.344638+00:00",
    "tries": 0
   }
  ],
