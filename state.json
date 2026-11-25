@@ -2157,10 +2157,31 @@
   "https://www.eurogamer.net/activision-banjo-kazooie-iconic-gaming-franchise",
   "https://www.pushsquare.com/#article-208976",
   "https://news.xbox.com/en-us/?p=228460",
-  "https://www.pushsquare.com/#article-209574"
+  "https://www.pushsquare.com/#article-209574",
+  "bgb5qE7fNfoohFhJyQoNQf",
+  "SJKYbnu7BNiqxs8j47SnGL",
+  "4aBLaypDncB2q9Ew8qjEVk",
+  "LeFTJFMTF4nyfjTuFnNNEL",
+  "fsFcdcgoq4ZBFnKjPAM5cY",
+  "K4aUqTzN9mrqGcbr3LEhWa",
+  "a2scrfhVs57kiG5nMqSCyA",
+  "49ex7AkszZhCq9KEAmgWNE",
+  "https://www.gematsu.com/?p=1089165",
+  "https://www.gematsu.com/?p=1089155",
+  "https://www.gematsu.com/?p=1089151",
+  "https://www.gematsu.com/?p=1089121",
+  "https://www.gematsu.com/?p=1089120",
+  "https://www.pushsquare.com/#article-209518",
+  "https://www.pushsquare.com/#article-209511",
+  "https://www.pushsquare.com/#article-209516",
+  "https://www.pushsquare.com/#article-209517",
+  "https://www.nintendolife.com/#article-209522",
+  "https://www.nintendolife.com/#article-209519",
+  "https://www.nintendolife.com/#article-209520",
+  "https://news.xbox.com/en-us/?p=228469",
+  "https://www.nintendolife.com/#article-209582"
  ],
  "titles": [
-  "Пополнение в рядах Мстителей",
   "Каждому по клону",
   "Утренний кошмар разработчика",
   "Первая заплатка для лос-сантосских будней",
@@ -2179,7 +2200,8 @@
   "Звездные тачки на полной скорости",
   "Уход в спячку",
   "Десятилетний юбилей Steam Awards",
-  "Партнерство по-крупному"
+  "Партнерство по-крупному",
+  "Ведьмин уход в спячку отменяется"
  ],
  "queue": [
   {
@@ -2193,15 +2215,16 @@
    "image": "https://images.pushsquare.com/b902682cc5b6e/1280x720.jpg",
    "ts": "2026-11-24T20:15:41.467436+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Ведьмин уход в спячку отменяется</b>\n\nУютный симулятор жизни Witchbrook официально ушел на золото и точно успеет к релизу в начале 2027 года. Разработчики подтвердили, что запуск на консолях Nintendo и других платформах пройдет строго по графику без переносов.\n\n#релиз #Nintendo\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/e93f6b39e566d/1280x720.jpg",
+   "ts": "2026-11-25T05:15:42.199554+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-25T05:01:00.933562+00:00",
  "published": [
-  {
-   "ts": "2026-11-17T05:01:05.783095+00:00",
-   "title": "Синий крах на бирже",
-   "body": "Intel оказалась в эпицентре судебного иска из-за обвинений в сокрытии реальных проблем с продажами ПК. Инвесторы утверждают, что компания ввела их в заблуждение на фоне дефицита комплектующих и бума ИИ, после чего акции "
-  },
   {
    "ts": "2026-11-17T06:30:53.059649+00:00",
    "title": "Редирект на унитазы и компромат",
