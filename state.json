@@ -2219,10 +2219,18 @@
   "https://www.pushsquare.com/#article-209555",
   "https://www.pushsquare.com/#article-209449",
   "https://www.pushsquare.com/#article-209547",
-  "https://www.eurogamer.net/world-of-warcraft-forever-revelation-enchantment-nerfed"
+  "https://www.eurogamer.net/world-of-warcraft-forever-revelation-enchantment-nerfed",
+  "ZfMZb2JJF7MyPybi3wUB2G",
+  "EwAUWB3cP9CuA4ttQmwysa",
+  "MeLuZpqJamT27Xno6TF8vc",
+  "czw4PLdXvdDRtJg7WWEV5T",
+  "https://www.eurogamer.net/grand-theft-auto-6-beer-robberies",
+  "https://www.gematsu.com/?p=1089255",
+  "https://www.pushsquare.com/#article-209554",
+  "https://news.xbox.com/en-us/?p=228449",
+  "https://www.gematsu.com/?p=1089468"
  ],
  "titles": [
-  "Финал уже на горизонте",
   "Дандори на кубическом поле",
   "Пушистый релакс",
   "Привет из будущего",
@@ -2241,7 +2249,8 @@
   "Новая жизнь песочницы",
   "Открытый мир мечты",
   "Дефицит по заказу Вайс-Сити",
-  "Веселье отменяется"
+  "Веселье отменяется",
+  "Новый уровень для хардкорного платформера"
  ],
  "queue": [
   {
@@ -2255,15 +2264,16 @@
    "image": "https://assetsio.gnwcdn.com/world-of-warcraft-skyborne-jpg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-25T16:15:45.580964+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Новый уровень для хардкорного платформера</b>\n\nСтудия Playtonic Games анонсировала Yooka-Laylee and the Impossible Lair: Definitive Edition. Улучшенное переиздание яркого приключения готовится к выходу на PS5, Switch 2 и PC, предлагая игрокам еще более плавный и доработанный игровой процесс.\n\n#анонс\n\n🎮 Первый игровой",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Yooka-Laylee-and-the-Impossible-Lair-Definitive-Edition-Ann_11-25-26.jpg",
+   "ts": "2026-11-25T17:15:54.762536+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-25T17:01:07.350420+00:00",
  "published": [
-  {
-   "ts": "2026-11-17T17:01:08.361464+00:00",
-   "title": "Против цифрового разума",
-   "body": "Европейские игроведы объединились против искусственного интеллекта. Профсоюзы из Великобритании, Германии, Франции, Италии, Испании и Ирландии выпустили манифест с призывом бойкотировать генеративный ИИ в геймдеве ради з"
-  },
   {
    "ts": "2026-11-17T18:30:57.899939+00:00",
    "title": "Туманное будущее Dragon Quest",
