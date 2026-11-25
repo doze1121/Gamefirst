@@ -1,6 +1,5 @@
 {
  "done": [
-  "вручную 2026-11-05 20:28",
   "2026-11-06 12:00",
   "вручную 2026-11-06 12:28",
   "вручную 2026-11-06 15:07",
@@ -59,7 +58,8 @@
   "2026-11-24 12:00",
   "2026-11-24 19:00",
   "вручную 2026-11-24 19:13",
-  "2026-11-25 12:00"
+  "2026-11-25 12:00",
+  "2026-11-25 19:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -128,15 +128,10 @@
   "https://www.rockpapershotgun.com/nvidia-reinstate-jensen-huang-as-ceo-following-alleged-affairs-as-us-government-support-renders-please-give-me-my-job-back-go-usa-a-highly-persuasive-plea",
   "https://www.pushsquare.com/#article-209518",
   "https://www.pushsquare.com/#article-209449",
-  "https://www.pushsquare.com/#article-209576"
+  "https://www.pushsquare.com/#article-209576",
+  "https://www.eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update"
  ],
  "topics": [
-  {
-   "ts": "2026-11-11T18:44:54.794433+00:00",
-   "game": "Grand Theft Auto VI",
-   "title": "GTA 6 без цензуры в Японии?",
-   "src": "GTA 6 might be censored in Japan, if the game's smaller install size and lack of \"strong sexual content\" warning is anything to go by"
-  },
   {
    "ts": "2026-11-11T18:54:08.494336+00:00",
    "game": "",
@@ -370,6 +365,12 @@
    "game": "Lords of the Fallen 2",
    "title": "Lords of the Fallen 2 в апреле",
    "src": "PS5 RPG Lords of the Fallen 2 Locks on to April 2027 Release Date Following Lengthy Delay"
+  },
+  {
+   "ts": "2026-11-25T16:16:10.447306+00:00",
+   "game": "Hollow Knight: Silksong",
+   "title": "Silksong DLC: Sea of Sorrow!",
+   "src": "Hollow Knight: Silksong devs announce a livestream for Friday, promise updates on the hotly-anticipated Sea of Sorrow DLC"
   }
  ]
 }

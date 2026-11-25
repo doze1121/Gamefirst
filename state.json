@@ -2207,10 +2207,21 @@
   "https://www.gematsu.com/?p=1089189",
   "https://www.pushsquare.com/#article-209488",
   "https://www.nintendolife.com/#article-209487",
-  "https://www.pushsquare.com/#article-209609"
+  "https://www.pushsquare.com/#article-209609",
+  "ho9CMGzFmBRDnskjhpyoym",
+  "ASdGoGtAb8hYA5dGuTuqcH",
+  "YM3x3wCw329UmutTVGHrgK",
+  "https://www.eurogamer.net/remedy-max-payne-1-2-remake-rockstar-relationship",
+  "https://www.eurogamer.net/blizzard-world-of-warcraft-forever-gold-exploits",
+  "https://www.rockpapershotgun.com/it-would-end-up-appealing-to-no-one-the-witcher-4-narrative-leads-arent-willing-to-strip-away-the-series-distinct-edge-in-the-name-of-chasing-a-broader-audience",
+  "https://www.rockpapershotgun.com/game-feel-is-impossible-to-copy-ceo-of-probably-stolen-publisher-tinybuild-says-devs-shouldnt-be-afraid-of-ai-clones",
+  "https://www.gematsu.com/?p=1089237",
+  "https://www.pushsquare.com/#article-209555",
+  "https://www.pushsquare.com/#article-209449",
+  "https://www.pushsquare.com/#article-209547",
+  "https://www.eurogamer.net/world-of-warcraft-forever-revelation-enchantment-nerfed"
  ],
  "titles": [
-  "Дедушкина тактика",
   "Финал уже на горизонте",
   "Дандори на кубическом поле",
   "Пушистый релакс",
@@ -2229,7 +2240,8 @@
   "Плавнее, чем у конкурента",
   "Новая жизнь песочницы",
   "Открытый мир мечты",
-  "Дефицит по заказу Вайс-Сити"
+  "Дефицит по заказу Вайс-Сити",
+  "Веселье отменяется"
  ],
  "queue": [
   {
@@ -2242,6 +2254,12 @@
    "post": "<b>Дефицит по заказу Вайс-Сити</b>\n\nРелиз GTA 6 спровоцировал настоящий ажиотаж в США, из-за чего купить консоль перед Черной пятницей стало почти невыполнимой задачей. Запасы PS5 в крупнейших магазинах и на PS Direct моментально испарились, и Sony с трудом успевает за спросом.\n\n#новости #PlayStation\n\n🎮 Первый игровой",
    "image": "https://images.pushsquare.com/d512d5d904f3f/1280x720.jpg",
    "ts": "2026-11-25T14:15:42.649472+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Веселье отменяется</b>\n\nРазработчики World of Warcraft: Forever тихо прикрыли имбовое зачарование для оружия, которое делало AoE-заклинания невероятно мощными. Свежий хотфикс внезапно испортил жизнь многим кастерам, лишив их главного козыря в битвах.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/world-of-warcraft-skyborne-jpg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-25T16:15:45.580964+00:00",
    "tries": 0
   }
  ],
