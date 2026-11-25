@@ -1,6 +1,5 @@
 {
  "done": [
-  "вручную 2026-11-05 20:15",
   "вручную 2026-11-05 20:28",
   "2026-11-06 12:00",
   "вручную 2026-11-06 12:28",
@@ -59,7 +58,8 @@
   "2026-11-23 19:00",
   "2026-11-24 12:00",
   "2026-11-24 19:00",
-  "вручную 2026-11-24 19:13"
+  "вручную 2026-11-24 19:13",
+  "2026-11-25 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -127,15 +127,10 @@
   "eemE3FBCozCtnnFDsN3f6E",
   "https://www.rockpapershotgun.com/nvidia-reinstate-jensen-huang-as-ceo-following-alleged-affairs-as-us-government-support-renders-please-give-me-my-job-back-go-usa-a-highly-persuasive-plea",
   "https://www.pushsquare.com/#article-209518",
-  "https://www.pushsquare.com/#article-209449"
+  "https://www.pushsquare.com/#article-209449",
+  "https://www.pushsquare.com/#article-209576"
  ],
  "topics": [
-  {
-   "ts": "2026-11-11T09:01:28.255016+00:00",
-   "game": "",
-   "title": "Плейстейшн пять пробила сто миллионов!",
-   "src": "PS5 shipments top 100 million"
-  },
   {
    "ts": "2026-11-11T18:44:54.794433+00:00",
    "game": "Grand Theft Auto VI",
@@ -369,6 +364,12 @@
    "game": "Grand Theft Auto VI",
    "title": "GTA 6 диктует моду!",
    "src": "GTA 6 Fashion Is Taking Social Media by Storm"
+  },
+  {
+   "ts": "2026-11-25T09:01:28.458685+00:00",
+   "game": "Lords of the Fallen 2",
+   "title": "Lords of the Fallen 2 в апреле",
+   "src": "PS5 RPG Lords of the Fallen 2 Locks on to April 2027 Release Date Following Lengthy Delay"
   }
  ]
 }
