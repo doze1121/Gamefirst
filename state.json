@@ -2199,10 +2199,17 @@
   "https://www.rockpapershotgun.com/the-torch-passes-to-the-open-source-recomp-and-emulation-projects-gta-6-leaker-cyberleek-claims-to-have-released-crimsims-xbox-executable-and-denies-crypto-grifting",
   "https://www.pushsquare.com/#article-209530",
   "https://www.nintendolife.com/#article-209537",
-  "https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter"
+  "https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter",
+  "https://www.eurogamer.net/nintendo-switch-update-version-2-2-0-borders",
+  "https://www.eurogamer.net/grand-theft-auto-6-project-leonida-discord-github-vanish",
+  "https://www.rockpapershotgun.com/action-rpg-showa-american-story-seemingly-delayed-into-2027-with-no-comment-on-why-from-developer-nekcom",
+  "https://www.gematsu.com/?p=1089191",
+  "https://www.gematsu.com/?p=1089189",
+  "https://www.pushsquare.com/#article-209488",
+  "https://www.nintendolife.com/#article-209487",
+  "https://www.pushsquare.com/#article-209609"
  ],
  "titles": [
-  "Вархаммер зовет фанатов",
   "Дедушкина тактика",
   "Финал уже на горизонте",
   "Дандори на кубическом поле",
@@ -2221,7 +2228,8 @@
   "Работаем на почки",
   "Плавнее, чем у конкурента",
   "Новая жизнь песочницы",
-  "Открытый мир мечты"
+  "Открытый мир мечты",
+  "Дефицит по заказу Вайс-Сити"
  ],
  "queue": [
   {
@@ -2234,6 +2242,12 @@
    "post": "<b>Открытый мир мечты</b>\n\nФанатам GTA 6 будет где разгуляться. Энтузиасты подсчитали, что в игре можно будет зайти почти в 1500 зданий — это примерно 28% от всех построек на карте солнечной Leonida.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/boobie-gta-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-25T12:45:37.344638+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Дефицит по заказу Вайс-Сити</b>\n\nРелиз GTA 6 спровоцировал настоящий ажиотаж в США, из-за чего купить консоль перед Черной пятницей стало почти невыполнимой задачей. Запасы PS5 в крупнейших магазинах и на PS Direct моментально испарились, и Sony с трудом успевает за спросом.\n\n#новости #PlayStation\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/d512d5d904f3f/1280x720.jpg",
+   "ts": "2026-11-25T14:15:42.649472+00:00",
    "tries": 0
   }
  ],
