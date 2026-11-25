@@ -2184,10 +2184,15 @@
   "ek8e7DmjuH36qk5DwBMcgf",
   "https://www.gematsu.com/?p=1089194",
   "https://www.gematsu.com/?p=1089315",
-  "https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5"
+  "https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5",
+  "https://www.eurogamer.net/more-than-39-million-people-have-played-gta-6-on-playstation-alone-sony-says-as-the-game-breaks-all-time-player-numbers-on-the-platform",
+  "https://www.eurogamer.net/gta-6-deluxe-edition-soundtrack-23-extra-tracks",
+  "https://www.eurogamer.net/xbox-live-helix-killing-paid-membership",
+  "https://www.pushsquare.com/#article-209508",
+  "https://www.nintendolife.com/#article-209527",
+  "https://www.rockpapershotgun.com/delivering-a-more-modern-garrys-mod-is-the-goal-of-spiritual-successor-sboxs-revamped-sandbox-mode-as-classic-gmods-workshop-addon-system-returns"
  ],
  "titles": [
-  "Законный разгон для GTA 6",
   "Перерыв на альтернативу",
   "Вархаммер зовет фанатов",
   "Дедушкина тактика",
@@ -2206,7 +2211,8 @@
   "Ведьмин уход в спячку отменяется",
   "Каникулы в Вайс-Сити",
   "Работаем на почки",
-  "Плавнее, чем у конкурента"
+  "Плавнее, чем у конкурента",
+  "Новая жизнь песочницы"
  ],
  "queue": [
   {
@@ -2219,6 +2225,12 @@
    "post": "<b>Плавнее, чем у конкурента</b>\n\nТехнический разбор GTA 6 показал неожиданный результат для владельцев консолей без приставки с пометкой Pro. Оказалось, что на Xbox Series X долгожданный криминальный экшен держит целевые 30 кадров в секунду стабильнее, чем на базовой версии PlayStation 5.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/GTA_6_Mission_List_4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-25T09:42:59.790594+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Новая жизнь песочницы</b>\n\nСоздатели Rust из Facepunch Studios пытаются исправить запуск S&box. Духовный наследник Garry's Mod стал бесплатным, получил обновленный режим песочницы и возвращение привычной системы модов из мастерской.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/s%26box-sandbox-mode-update-gmod-workshop-addon-system-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-25T11:15:39.578972+00:00",
    "tries": 0
   }
  ],
