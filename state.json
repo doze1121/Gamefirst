@@ -2324,10 +2324,13 @@
   "https://www.pushsquare.com/#article-209615",
   "https://www.nintendolife.com/#article-209626",
   "https://www.nintendolife.com/#article-209627",
-  "https://www.eurogamer.net/gta-6-powerwashing-powerwash-simultor-futurlab"
+  "https://www.eurogamer.net/gta-6-powerwashing-powerwash-simultor-futurlab",
+  "https://www.eurogamer.net/ea-sports-fc27-dead-commentator-ai",
+  "https://www.rockpapershotgun.com/nvidia-release-new-graphics-card-driver-hopefully-finally-fixing-that-ssd-hammering-unnecessary-write-bug-the-previous-hotfix-couldnt-seem-to-sort",
+  "https://www.pushsquare.com/#article-208968",
+  "RaEMaWJMkctTC4RbqVRFBC"
  ],
  "titles": [
-  "Ведьмин уход в спячку отменяется",
   "Каникулы в Вайс-Сити",
   "Работаем на почки",
   "Плавнее, чем у конкурента",
@@ -2346,7 +2349,8 @@
   "Чисто ручная",
   "Взлом по картам",
   "Стримы GTA 6 бьют все мыслимые рекорды",
-  "Керхер по-американски"
+  "Керхер по-американски",
+  "Опять прятаться от Team Cherry не будут"
  ],
  "queue": [
   {
@@ -2360,15 +2364,16 @@
    "image": "https://assetsio.gnwcdn.com/gta-powerwash-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-26T17:15:37.620348+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Опять прятаться от Team Cherry не будут</b>\n\nГод назад разработчики из Aeternum Game Studios перенесли релиз своей игры, чтобы случайно не пересечься с Silksong. Теперь они уверяют, что больше не станут подстраиваться под любые возможные анонсы Team Cherry.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/SK9qm2fZ6UsQLxkoi24YSG-1920-80.jpg",
+   "ts": "2026-11-26T18:45:41.637439+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-26T18:30:54.414105+00:00",
  "published": [
-  {
-   "ts": "2026-11-18T18:31:08.871199+00:00",
-   "title": "Материнский фактор раздора",
-   "body": "Фандом Infinity Nikki пригрозил бойкотом уютной одевалке из-за неожиданного рекламного ролика с участием мамы Илона Маска. Игроки возмущены таким коллабом, хотя у появления Мэй Маск в промо вполне может быть логичное и б"
-  },
   {
    "ts": "2026-11-18T20:01:05.909369+00:00",
    "title": "Рекорд без релиза",
