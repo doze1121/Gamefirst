@@ -2328,10 +2328,13 @@
   "https://www.eurogamer.net/ea-sports-fc27-dead-commentator-ai",
   "https://www.rockpapershotgun.com/nvidia-release-new-graphics-card-driver-hopefully-finally-fixing-that-ssd-hammering-unnecessary-write-bug-the-previous-hotfix-couldnt-seem-to-sort",
   "https://www.pushsquare.com/#article-208968",
-  "RaEMaWJMkctTC4RbqVRFBC"
+  "RaEMaWJMkctTC4RbqVRFBC",
+  "efH7yAbjE55k9qR5uEvjDD",
+  "https://www.eurogamer.net/hideki-kamiya-konami-truly-insane-castlevania",
+  "https://www.gematsu.com/?p=1089427",
+  "https://www.eurogamer.net/the-witcher-3-patch-40-mods-bugs"
  ],
  "titles": [
-  "Каникулы в Вайс-Сити",
   "Работаем на почки",
   "Плавнее, чем у конкурента",
   "Новая жизнь песочницы",
@@ -2350,7 +2353,8 @@
   "Взлом по картам",
   "Стримы GTA 6 бьют все мыслимые рекорды",
   "Керхер по-американски",
-  "Опять прятаться от Team Cherry не будут"
+  "Опять прятаться от Team Cherry не будут",
+  "Моды дошли до консолей"
  ],
  "queue": [
   {
@@ -2364,15 +2368,16 @@
    "image": "https://cdn.mos.cms.futurecdn.net/SK9qm2fZ6UsQLxkoi24YSG-1920-80.jpg",
    "ts": "2026-11-26T18:45:41.637439+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Моды дошли до консолей</b>\n\nCD Projekt RED выпустили крупный патч для The Witcher 3, который исправил критические баги и проблемы с освещением. Главным нововведением стали сразу 40 кроссплатформенных модов, доступных теперь не только на ПК, но и на консолях. Разработчики обещают со временем расширить эту подборку.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/geralt-witcher-3-remastered.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-26T20:15:42.222589+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-26T20:01:05.256599+00:00",
  "published": [
-  {
-   "ts": "2026-11-18T20:01:05.909369+00:00",
-   "title": "Рекорд без релиза",
-   "body": "Еще до того, как игра стала доступна геймерам, GTA 6 умудрилась обрушить все рекорды стриминговых платформ. Трансляции по игре на Twitch и других сервисах собрали колоссальную аудиторию, установив исторический максимум з"
-  },
   {
    "ts": "2026-11-19T05:01:13.548323+00:00",
    "title": "Жертвы рекламы на YouTube",
