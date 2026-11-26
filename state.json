@@ -2276,10 +2276,16 @@
   "https://www.gematsu.com/?p=1089304",
   "https://www.pushsquare.com/#article-209591",
   "https://www.pushsquare.com/#article-209584",
-  "https://www.eurogamer.net/world-of-warcraft-forever-alterac-valley-battleground-patched"
+  "https://www.eurogamer.net/world-of-warcraft-forever-alterac-valley-battleground-patched",
+  "https://www.eurogamer.net/cd-projekt-red-signs-new-marketing-partnership-deal-with-sony-for-the-witcher-4-and-to-increase-the-presence-of-its-games-on-playstation",
+  "https://www.rockpapershotgun.com/capcom-dinosaur-shooter-exoprimals-servers-will-go-extinct-next-year-as-shutdown-meteor-looms",
+  "https://www.rockpapershotgun.com/more-than-just-war-and-peace-total-war-medieval-3s-diplomacy-system-will-build-on-three-kingdoms-backstabbing-with-rulers-who-arent-just-focused-on-you",
+  "https://www.gematsu.com/?p=1089464",
+  "https://www.gematsu.com/?p=1089423",
+  "https://www.nintendolife.com/#article-209594",
+  "https://www.eurogamer.net/games-without-ai-steam-event"
  ],
  "titles": [
-  "Звездные тачки на полной скорости",
   "Уход в спячку",
   "Десятилетний юбилей Steam Awards",
   "Партнерство по-крупному",
@@ -2298,7 +2304,8 @@
   "Охота на маньяка в GTA 6",
   "Мышиное дело обрастет новыми подробностями",
   "Консоли идут нарасхват",
-  "Лавочку прикрыли"
+  "Лавочку прикрыли",
+  "Чисто ручная"
  ],
  "queue": [
   {
@@ -2312,15 +2319,16 @@
    "image": "https://assetsio.gnwcdn.com/world-of-warcraft-alterac-valley.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-26T11:15:43.659878+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Чисто ручная\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-26T12:45:41.414511+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-26T12:30:56.211616+00:00",
  "published": [
-  {
-   "ts": "2026-11-18T12:31:05.969027+00:00",
-   "title": "Работа над ошибками меты",
-   "body": "The Pokémon Company готовит крупный патч баланса для free-to-play игры Pokémon Champions на Switch и мобилках. Обновление прибудет 2 декабря 2026 года и принесет правки характеристик, а также изменения в арсенале атак дл"
-  },
   {
    "ts": "2026-11-18T14:01:11.866540+00:00",
    "title": "Момент для Toy Story",
