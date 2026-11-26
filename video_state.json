@@ -1,6 +1,5 @@
 {
  "done": [
-  "2026-11-06 12:00",
   "вручную 2026-11-06 12:28",
   "вручную 2026-11-06 15:07",
   "вручную 2026-11-06 15:09",
@@ -59,7 +58,8 @@
   "2026-11-24 19:00",
   "вручную 2026-11-24 19:13",
   "2026-11-25 12:00",
-  "2026-11-25 19:00"
+  "2026-11-25 19:00",
+  "2026-11-26 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -129,15 +129,10 @@
   "https://www.pushsquare.com/#article-209518",
   "https://www.pushsquare.com/#article-209449",
   "https://www.pushsquare.com/#article-209576",
-  "https://www.eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update"
+  "https://www.eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update",
+  "https://www.nintendolife.com/#article-209645"
  ],
  "topics": [
-  {
-   "ts": "2026-11-11T18:54:08.494336+00:00",
-   "game": "",
-   "title": "Xbox Series S — слабый ребенок?",
-   "src": "Ex-Tekken director savages Xbox Series S in front of senior Xbox staff: ‘feels like having to do extra work for a slightly weaker child’"
-  },
   {
    "ts": "2026-11-12T09:01:20.107215+00:00",
    "game": "The Witcher 3: Wild Hunt",
@@ -371,6 +366,12 @@
    "game": "Hollow Knight: Silksong",
    "title": "Silksong DLC: Sea of Sorrow!",
    "src": "Hollow Knight: Silksong devs announce a livestream for Friday, promise updates on the hotly-anticipated Sea of Sorrow DLC"
+  },
+  {
+   "ts": "2026-11-26T09:01:23.023915+00:00",
+   "game": "The Witcher 4",
+   "title": "The Witcher 4 выйдет везде сразу!",
+   "src": "\"No One Gets Left Behind\" - CDPR On The Witcher 4 Releasing For All Platforms At The Same Time"
   }
  ]
 }
