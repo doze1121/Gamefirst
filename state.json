@@ -2268,10 +2268,17 @@
   "https://www.nintendolife.com/#article-209646",
   "https://www.eurogamer.net/exo-primal-shutting-down-2027",
   "https://www.gematsu.com/?p=1089425",
-  "https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6"
+  "https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6",
+  "56Rcb8u4M4YxZwDwmjmKb",
+  "https://www.eurogamer.net/showa-american-story-delay-2027",
+  "https://www.rockpapershotgun.com/ai-generated-gta-6-pc-ports-get-nuked-in-alleged-rockstar-takedown-spree-as-former-bungie-dev-hails-most-ridiculous-dumpster-fire-ever",
+  "https://www.gematsu.com/?p=1089174",
+  "https://www.gematsu.com/?p=1089304",
+  "https://www.pushsquare.com/#article-209591",
+  "https://www.pushsquare.com/#article-209584",
+  "https://www.eurogamer.net/world-of-warcraft-forever-alterac-valley-battleground-patched"
  ],
  "titles": [
-  "Воз",
   "Звездные тачки на полной скорости",
   "Уход в спячку",
   "Десятилетний юбилей Steam Awards",
@@ -2290,7 +2297,8 @@
   "Схалтурили на нейросетках",
   "Охота на маньяка в GTA 6",
   "Мышиное дело обрастет новыми подробностями",
-  "Консоли идут нарасхват"
+  "Консоли идут нарасхват",
+  "Лавочку прикрыли"
  ],
  "queue": [
   {
@@ -2304,15 +2312,16 @@
    "image": "https://assetsio.gnwcdn.com/gta-6-lucia-duffle-bag-low-angle-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-26T09:45:49.433388+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Лавочку прикрыли</b>\n\nBlizzard экстренно изменила правила на одном из популярных полей боя в World of Warcraft: Forever. Разработчики решили прикрыть лавочку игрокам, которые устроили масштабный фарм репутации и наград.\n\n#новости #индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/world-of-warcraft-alterac-valley.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-26T11:15:43.659878+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-26T11:01:04.439496+00:00",
  "published": [
-  {
-   "ts": "2026-11-18T11:01:08.178080+00:00",
-   "title": "Святая инквизиция в стиле Half-Life",
-   "body": "В Warhammer 40000: Darktide появится новый класс — Sister Novitiate. Арсенал пополнится культовой святой гранатой и мощным арбалетом, способным эффектно пригвоздить еретиков к стенам."
-  },
   {
    "ts": "2026-11-18T12:31:05.969027+00:00",
    "title": "Работа над ошибками меты",
