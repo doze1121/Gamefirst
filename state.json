@@ -2309,10 +2309,24 @@
   "https://www.nintendolife.com/#article-209620",
   "https://www.nintendolife.com/#article-208970",
   "https://news.xbox.com/en-us/?p=228489",
-  "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record"
+  "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
+  "boWbA9r3v2RFV7d5CfNJf5",
+  "7Hh5XLxU5feTwWpitnxxuE",
+  "LSjwKjTFghk6m6jxWEpAuF",
+  "https://www.eurogamer.net/playstation-plus-monthly-games-december-2026",
+  "https://www.eurogamer.net/gta-6-empathy-criminal-profile-why-rockstar-added-it-rob-nelson",
+  "https://www.rockpapershotgun.com/company-of-heroes-3-operation-torch-review",
+  "https://www.rockpapershotgun.com/paradox-grand-strategy-afterworld-has-a-wasteland-band-mechanic-that-sounds-worryingly-like-a-continent-sized-game-of-the-sims",
+  "https://www.gematsu.com/?p=1089538",
+  "https://www.gematsu.com/?p=1089533",
+  "https://www.gematsu.com/?p=1089529",
+  "https://www.pushsquare.com/#article-209628",
+  "https://www.pushsquare.com/#article-209615",
+  "https://www.nintendolife.com/#article-209626",
+  "https://www.nintendolife.com/#article-209627",
+  "https://www.eurogamer.net/gta-6-powerwashing-powerwash-simultor-futurlab"
  ],
  "titles": [
-  "Партнерство по-крупному",
   "Ведьмин уход в спячку отменяется",
   "Каникулы в Вайс-Сити",
   "Работаем на почки",
@@ -2331,7 +2345,8 @@
   "Лавочку прикрыли",
   "Чисто ручная",
   "Взлом по картам",
-  "Стримы GTA 6 бьют все мыслимые рекорды"
+  "Стримы GTA 6 бьют все мыслимые рекорды",
+  "Керхер по-американски"
  ],
  "queue": [
   {
@@ -2345,15 +2360,16 @@
    "image": "https://assetsio.gnwcdn.com/gta-6-vice-city-characters-gold-ak-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-26T15:45:42.957116+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Керхер по-американски</b>\n\nВ GTA 6 игрокам удастся не только устраивать беспредел, но и заняться вполне медитативной мойкой катера Джейсона. Журналисты Eurogamer поинтересовались у создателей PowerWash Simulator 2, как они оценивают физику струи и внимание Rockstar к деталям в этой мини-игре. Жаль только, что полноценной профессией мойка в открытом мире не станет.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/gta-powerwash-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-26T17:15:37.620348+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-26T17:01:08.545748+00:00",
  "published": [
-  {
-   "ts": "2026-11-18T17:01:14.193992+00:00",
-   "title": "Потеря для Экспедиции",
-   "body": "Главный сценарист нашумевшей Clair Obscur: Expedition 33 Дженнифер Сведберг-Йен неожиданно покинула студию Sandfall Interactive. Новость всплыла сразу после того, как разработчица получила престижную премию BAFTA Breakth"
-  },
   {
    "ts": "2026-11-18T18:31:08.871199+00:00",
    "title": "Материнский фактор раздора",
