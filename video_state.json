@@ -1,6 +1,5 @@
 {
  "done": [
-  "вручную 2026-11-06 12:28",
   "вручную 2026-11-06 15:07",
   "вручную 2026-11-06 15:09",
   "2026-11-06 19:00",
@@ -59,7 +58,8 @@
   "вручную 2026-11-24 19:13",
   "2026-11-25 12:00",
   "2026-11-25 19:00",
-  "2026-11-26 12:00"
+  "2026-11-26 12:00",
+  "2026-11-26 19:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -130,15 +130,10 @@
   "https://www.pushsquare.com/#article-209449",
   "https://www.pushsquare.com/#article-209576",
   "https://www.eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update",
-  "https://www.nintendolife.com/#article-209645"
+  "https://www.nintendolife.com/#article-209645",
+  "https://www.eurogamer.net/gta-6-30-percent-buy-flowers-punch-cats"
  ],
  "topics": [
-  {
-   "ts": "2026-11-12T09:01:20.107215+00:00",
-   "game": "The Witcher 3: Wild Hunt",
-   "title": "ИИ озвучил Геральта из Ведьмака!",
-   "src": "Witcher 3's New Expansion Pairs Geralt's Polish Voice Actor With AI, But It's A \"Special Case\""
-  },
   {
    "ts": "2026-11-12T16:01:44.908664+00:00",
    "game": "Grand Theft Auto VI",
@@ -372,6 +367,12 @@
    "game": "The Witcher 4",
    "title": "The Witcher 4 выйдет везде сразу!",
    "src": "\"No One Gets Left Behind\" - CDPR On The Witcher 4 Releasing For All Platforms At The Same Time"
+  },
+  {
+   "ts": "2026-11-26T16:01:36.089960+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "Что игроки делают в GTA 6?",
+   "src": "After playing the game, 30% of polled GTA 6 players want to buy flowers for a loved one, 9% accidentally punched cats"
   }
  ]
 }
