@@ -2283,10 +2283,21 @@
   "https://www.gematsu.com/?p=1089464",
   "https://www.gematsu.com/?p=1089423",
   "https://www.nintendolife.com/#article-209594",
-  "https://www.eurogamer.net/games-without-ai-steam-event"
+  "https://www.eurogamer.net/games-without-ai-steam-event",
+  "https://www.eurogamer.net/im-having-a-much-better-time-in-gta-6-now-ive-disabled-its-pesky-criminal-profile-pings",
+  "https://www.eurogamer.net/diablo-4-season-16-keeping-season-15-diablo-2-anniversary",
+  "https://www.eurogamer.net/gta-6-23-lesser-known-gems-that-might-beat-it-at-its-own-game",
+  "https://www.rockpapershotgun.com/official-gta-6-pc-port-proper-first-person-mode-would-be-biggest-ace-in-the-hole",
+  "https://www.rockpapershotgun.com/inside-retro-reset-the-really-inspirational-father-and-son-project-teaching-kids-about-classic-games-hardware-from-aboard-a-converted-bus",
+  "https://www.gematsu.com/?p=1089502",
+  "https://www.pushsquare.com/#article-209605",
+  "https://www.pushsquare.com/#article-209597",
+  "https://www.nintendolife.com/#article-209150",
+  "https://www.nintendolife.com/#article-209603",
+  "https://www.nintendolife.com/#article-209604",
+  "https://www.gematsu.com/?p=1089699"
  ],
  "titles": [
-  "Уход в спячку",
   "Десятилетний юбилей Steam Awards",
   "Партнерство по-крупному",
   "Ведьмин уход в спячку отменяется",
@@ -2305,7 +2316,8 @@
   "Мышиное дело обрастет новыми подробностями",
   "Консоли идут нарасхват",
   "Лавочку прикрыли",
-  "Чисто ручная"
+  "Чисто ручная",
+  "Взлом по картам"
  ],
  "queue": [
   {
@@ -2318,6 +2330,12 @@
    "post": "<b>Чисто ручная\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-26T12:45:41.414511+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Взлом по картам</b>\n\nИздательство PQube взяло под свое крыло необычный инди-проект Hack ’95 от Village Studio. Нас ждет смесь приключенческого жанра и карточной механики, завязанная на хакерской тематике девяностых.\n\n#анонс #индустрия\n\n🎮 Первый игровой",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Hack-95_11-26-26.jpg",
+   "ts": "2026-11-26T14:15:40.319767+00:00",
    "tries": 0
   }
  ],
