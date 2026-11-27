@@ -2374,10 +2374,22 @@
   "https://www.gematsu.com/?p=1089571",
   "https://www.nintendolife.com/#article-209670",
   "https://news.xbox.com/en-us/?p=228531",
-  "https://www.pushsquare.com/#article-209730"
+  "https://www.pushsquare.com/#article-209730",
+  "8ms8WQqkjjF9miWooe3dCg",
+  "JNtsv9TTawTmf7zAjraoLY",
+  "https://www.eurogamer.net/rockstar-games-employees-vote-against-union-recognition",
+  "https://www.eurogamer.net/citizen-sleeper-creator-gen-ai-human-made-games-signet-city",
+  "https://www.rockpapershotgun.com/ubisoft-now-require-their-devs-to-explain-why-they-arent-using-genai-in-game-pitches-claims-report-though-the-assassins-creed-publishers-deny-theyre-mandating-it",
+  "https://www.gematsu.com/?p=1089179",
+  "https://www.gematsu.com/?p=1089702",
+  "https://www.pushsquare.com/#article-209682",
+  "https://www.pushsquare.com/#article-209674",
+  "https://www.pushsquare.com/#article-209669",
+  "https://www.nintendolife.com/#article-209672",
+  "https://www.nintendolife.com/#article-209668",
+  "https://www.rockpapershotgun.com/keep-the-lighthouse-on-and-the-villagers-obedient-in-glagstone-an-eerie-island-city-builder-with-macintosh-style-graphics"
  ],
  "titles": [
-  "Cherry Time уже в эту пятницу",
   "Новый стандарт сказки",
   "Схалтурили на нейросетках",
   "Охота на маньяка в GTA 6",
@@ -2396,7 +2408,8 @@
   "Черная пятница для тренеров",
   "Успеть до праздников",
   "Дождался спустя 16 лет",
-  "Десять лет ради одной роли"
+  "Десять лет ради одной роли",
+  "Маяк не гасить, жителей держать в узде"
  ],
  "queue": [
   {
@@ -2410,15 +2423,16 @@
    "image": "https://images.pushsquare.com/1b607d50d7255/1280x720.jpg",
    "ts": "2026-11-27T14:15:41.553314+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Маяк не гасить, жителей держать в узде</b>\n\nВ Steam готовится к выходу мрачный градостроительный симулятор Glagstone с уникальной графикой в стиле классических игр для Macintosh конца 80-х. Игрокам предстоит примерить роль губернатора удаленного северного острова, богатого ресурсами, который постепенно сводит своего правителя с ума.\n\n#анонс\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/glagstone.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-27T15:45:39.270211+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-27T15:30:54.662446+00:00",
  "published": [
-  {
-   "ts": "2026-11-19T15:31:07.454993+00:00",
-   "title": "Суд над Rockstar финишировал",
-   "body": "Слушания по делу о незаконном увольнении 34 сотрудников Rockstar подошли к концу. Судья пообещала вынести вердикт как можно быстрее, хотя точных сроков пока не назвала — придется немного подождать."
-  },
   {
    "ts": "2026-11-19T17:01:07.820512+00:00",
    "title": "Поиски неуловимого кота",
