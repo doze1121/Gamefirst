@@ -2365,10 +2365,18 @@
   "https://www.eurogamer.net/ubisoft-reportedly-goes-all-in-on-company-wide-generative-ai-use-and-if-developers-dont-want-to-use-it-they-have-to-explain-why-in-detail",
   "https://www.rockpapershotgun.com/clearly-not-everything-has-gone-well-during-fables-lengthy-creation-says-playground-boss-but-the-original-vision-remains-intact-despite-taking-cues-from-other-rpgs",
   "https://www.nintendolife.com/#article-209663",
-  "https://www.eurogamer.net/faraway-eliss-annapurna-interactive-16-years-finally-here"
+  "https://www.eurogamer.net/faraway-eliss-annapurna-interactive-16-years-finally-here",
+  "VsMTdwJda5RJXni7LYbr2P",
+  "https://www.eurogamer.net/gta-6-30-percent-buy-flowers-punch-cats",
+  "https://www.eurogamer.net/citizen-sleeper-signet-city-fungalpunk-1980s-rpg",
+  "https://www.eurogamer.net/umamusame-pretty-derby-ai-clone-taken-off-mobile-after-reports",
+  "https://www.gematsu.com/?p=1089034",
+  "https://www.gematsu.com/?p=1089571",
+  "https://www.nintendolife.com/#article-209670",
+  "https://news.xbox.com/en-us/?p=228531",
+  "https://www.pushsquare.com/#article-209730"
  ],
  "titles": [
-  "Новый уровень для хардкорного платформера",
   "Cherry Time уже в эту пятницу",
   "Новый стандарт сказки",
   "Схалтурили на нейросетках",
@@ -2387,7 +2395,8 @@
   "Коллаборация века или просто шутка?",
   "Черная пятница для тренеров",
   "Успеть до праздников",
-  "Дождался спустя 16 лет"
+  "Дождался спустя 16 лет",
+  "Десять лет ради одной роли"
  ],
  "queue": [
   {
@@ -2400,6 +2409,12 @@
    "post": "<b>Дождался спустя 16 лет</b>\n\nАвтор Eurogamer наконец-то смог опробовать мобильный проект Faraway про загадочный полет кометы, анонсированный еще в эпоху зарождения смартфонов. Интригующий космический трейлер игры засел в памяти журналиста на долгие годы ожидания.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/20261026151726_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-27T12:45:42.065219+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Десять лет ради одной роли</b>\n\nМанни Л. Перес, сыгравшая Люсию в GTA 6, впервые обратилась к фанатам после релиза игры. Актриса призналась, что работа над образом главной героини заняла почти целое десятилетие, а последние дни превратились для нее в настоящий вихрь из эмоций и внимания.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://images.pushsquare.com/1b607d50d7255/1280x720.jpg",
+   "ts": "2026-11-27T14:15:41.553314+00:00",
    "tries": 0
   }
  ],
