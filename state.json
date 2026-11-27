@@ -2360,10 +2360,14 @@
   "https://www.gematsu.com/?p=1089690",
   "https://www.nintendolife.com/#article-209654",
   "https://www.nintendolife.com/#article-209649",
-  "https://www.nintendolife.com/#article-209703"
+  "https://www.nintendolife.com/#article-209703",
+  "xPtpwBULDoQ3HPJwicpBUX",
+  "https://www.eurogamer.net/ubisoft-reportedly-goes-all-in-on-company-wide-generative-ai-use-and-if-developers-dont-want-to-use-it-they-have-to-explain-why-in-detail",
+  "https://www.rockpapershotgun.com/clearly-not-everything-has-gone-well-during-fables-lengthy-creation-says-playground-boss-but-the-original-vision-remains-intact-despite-taking-cues-from-other-rpgs",
+  "https://www.nintendolife.com/#article-209663",
+  "https://www.eurogamer.net/faraway-eliss-annapurna-interactive-16-years-finally-here"
  ],
  "titles": [
-  "Веселье отменяется",
   "Новый уровень для хардкорного платформера",
   "Cherry Time уже в эту пятницу",
   "Новый стандарт сказки",
@@ -2382,7 +2386,8 @@
   "Собираем карманный гардероб",
   "Коллаборация века или просто шутка?",
   "Черная пятница для тренеров",
-  "Успеть до праздников"
+  "Успеть до праздников",
+  "Дождался спустя 16 лет"
  ],
  "queue": [
   {
@@ -2395,6 +2400,12 @@
    "post": "<b>Успеть до праздников</b>\n\nЗарубежные ритейлеры начали масштабную распродажу перед новогодними праздниками, чтобы освободить склады. В центре внимания оказались редкие скидки на консоль Switch 2 и популярные игры для нее. Самые выгодные предложения в США и Великобритании собирают и обновляют в реальном времени.\n\n#Nintendo\n\n🎮 Первый игровой",
    "image": "https://images.nintendolife.com/66e38e402d7cc/1280x720.jpg",
    "ts": "2026-11-27T11:15:41.312307+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Дождался спустя 16 лет</b>\n\nАвтор Eurogamer наконец-то смог опробовать мобильный проект Faraway про загадочный полет кометы, анонсированный еще в эпоху зарождения смартфонов. Интригующий космический трейлер игры засел в памяти журналиста на долгие годы ожидания.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/20261026151726_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-27T12:45:42.065219+00:00",
    "tries": 0
   }
  ],
