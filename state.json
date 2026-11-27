@@ -2415,10 +2415,12 @@
   "https://www.nintendolife.com/#article-209667",
   "https://www.nintendolife.com/#article-209640",
   "wRUkbSZPup9kqBKBhrdsa6",
-  "https://www.eurogamer.net/simpsons-hit-and-run-remake-rumored-cancelled"
+  "https://www.eurogamer.net/simpsons-hit-and-run-remake-rumored-cancelled",
+  "https://www.rockpapershotgun.com/hark-the-ghoul-is-a-victorian-gothic-dungeon-crawler-rpg-that-features-a-trench-coat-wearing-rat-man-who-wants-to-sell-you-rats-a-la-counterfeit-watches",
+  "https://www.nintendolife.com/#article-209678",
+  "https://www.eurogamer.net/warframe-tau-dev-stream-december-9th"
  ],
  "titles": [
-  "Охота на маньяка в GTA 6",
   "Мышиное дело обрастет новыми подробностями",
   "Консоли идут нарасхват",
   "Лавочку прикрыли",
@@ -2437,7 +2439,8 @@
   "Десять лет ради одной роли",
   "Маяк не гасить, жителей держать в узде",
   "Не дождались в Спрингфилде",
-  "Не дождались в Спрингфилде"
+  "Не дождались в Спрингфилде",
+  "Warframe потянет на сиквел"
  ],
  "queue": [
   {
@@ -2450,6 +2453,12 @@
    "post": "<b>Не дождались в Спрингфилде</b>\n\nКультовая The Simpsons: Hit & Run вряд ли получит долгожданное переиздание. Один из разработчиков проговорился, что их амбициозный проект свернули, хотя фанаты годами молили о камбэке игры.\n\n#индустрия\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/OOgTcp23xRHycNyLw2Zdyj0nrVKNWh.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-27T18:45:43.645998+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Warframe потянет на сиквел</b>\n\nDigital Extremes раскрыли детали масштабного декабрьского обновления для Warframe, которое добавит целую звездную систему Tau. Игроков ждет двухчасовой сюжетный квест, новые регионы для исследования и даже вечерние прогулки с собаками. Релиз состоится уже 9 декабря.\n\n#анонс\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/WF_TauUpdate_MajorKeyart_1080p.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-27T20:15:39.288922+00:00",
    "tries": 0
   }
  ],
