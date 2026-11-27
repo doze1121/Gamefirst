@@ -1,6 +1,5 @@
 {
  "done": [
-  "вручную 2026-11-06 15:07",
   "вручную 2026-11-06 15:09",
   "2026-11-06 19:00",
   "2026-11-07 12:00",
@@ -59,7 +58,8 @@
   "2026-11-25 12:00",
   "2026-11-25 19:00",
   "2026-11-26 12:00",
-  "2026-11-26 19:00"
+  "2026-11-26 19:00",
+  "2026-11-27 12:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -131,15 +131,10 @@
   "https://www.pushsquare.com/#article-209576",
   "https://www.eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update",
   "https://www.nintendolife.com/#article-209645",
-  "https://www.eurogamer.net/gta-6-30-percent-buy-flowers-punch-cats"
+  "https://www.eurogamer.net/gta-6-30-percent-buy-flowers-punch-cats",
+  "https://www.pushsquare.com/#article-209695"
  ],
  "topics": [
-  {
-   "ts": "2026-11-12T16:01:44.908664+00:00",
-   "game": "Grand Theft Auto VI",
-   "title": "GTA 6 под угрозой из-за пенисов!",
-   "src": "'Genital Exposure Has Never Appeared This Frequently': GTA 6 Was Almost Refused Release in South Korea"
-  },
   {
    "ts": "2026-11-12T18:47:33.965924+00:00",
    "game": "",
@@ -373,6 +368,12 @@
    "game": "Grand Theft Auto VI",
    "title": "Что игроки делают в GTA 6?",
    "src": "After playing the game, 30% of polled GTA 6 players want to buy flowers for a loved one, 9% accidentally punched cats"
+  },
+  {
+   "ts": "2026-11-27T09:01:48.446853+00:00",
+   "game": "Grand Theft Auto VI",
+   "title": "Физику машин в GTA 6 делал профи из Gran Turismo!",
+   "src": "GTA 6's Car Physics Were Tuned by a Gran Turismo Pro"
   }
  ]
 }
