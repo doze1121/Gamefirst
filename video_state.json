@@ -1,6 +1,5 @@
 {
  "done": [
-  "вручную 2026-11-06 15:09",
   "2026-11-06 19:00",
   "2026-11-07 12:00",
   "2026-11-07 19:00",
@@ -59,7 +58,8 @@
   "2026-11-25 19:00",
   "2026-11-26 12:00",
   "2026-11-26 19:00",
-  "2026-11-27 12:00"
+  "2026-11-27 12:00",
+  "2026-11-27 19:00"
  ],
  "used": [
   "https://www.pushsquare.com/#article-208542",
@@ -132,15 +132,10 @@
   "https://www.eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update",
   "https://www.nintendolife.com/#article-209645",
   "https://www.eurogamer.net/gta-6-30-percent-buy-flowers-punch-cats",
-  "https://www.pushsquare.com/#article-209695"
+  "https://www.pushsquare.com/#article-209695",
+  "https://www.rockpapershotgun.com/go-fishing-and-fire-hornet-out-of-a-cannon-in-silksongs-december-bound-sea-of-sorrow-expansion-which-team-cherry-say-is-unlike-anything-weve-done-before"
  ],
  "topics": [
-  {
-   "ts": "2026-11-12T18:47:33.965924+00:00",
-   "game": "",
-   "title": "Глава Xbox про искусственный интеллект",
-   "src": "Xbox CEO looks to the future as Microsoft's console turns 25: 'A single person will soon be able to wield capabilities that once required entire nations'"
-  },
   {
    "ts": "2026-11-13T09:01:21.266047+00:00",
    "game": "Wolfenstein III",
@@ -374,6 +369,12 @@
    "game": "Grand Theft Auto VI",
    "title": "Физику машин в GTA 6 делал профи из Gran Turismo!",
    "src": "GTA 6's Car Physics Were Tuned by a Gran Turismo Pro"
+  },
+  {
+   "ts": "2026-11-27T16:01:25.709583+00:00",
+   "game": "Hollow Knight: Silksong",
+   "title": "Silksong получает DLC Sea of Sorrow!",
+   "src": "Go fishing and fire Hornet out of a cannon in Silksong's December-bound Sea of Sorrow expansion, which Team Cherry say is \"unlike anything we’ve done before\""
   }
  ]
 }
