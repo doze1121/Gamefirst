@@ -2387,10 +2387,26 @@
   "https://www.pushsquare.com/#article-209669",
   "https://www.nintendolife.com/#article-209672",
   "https://www.nintendolife.com/#article-209668",
-  "https://www.rockpapershotgun.com/keep-the-lighthouse-on-and-the-villagers-obedient-in-glagstone-an-eerie-island-city-builder-with-macintosh-style-graphics"
+  "https://www.rockpapershotgun.com/keep-the-lighthouse-on-and-the-villagers-obedient-in-glagstone-an-eerie-island-city-builder-with-macintosh-style-graphics",
+  "qrV4mMqSqihK2kLPgivfrM",
+  "yYuQdVDWWXwc3xidmzrqek",
+  "kA9F75msKwjqeQd7UEVqCS",
+  "mGzmSTjpmWKcrF6VTLjAyh",
+  "BfuRrfSKYYuFCk6YojE7h",
+  "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-takes-aim-at-mods-nicking-all-of-geralts-possessions-disappearing-buildings-and-an-outbreak-of-overly-bright-red-npc-leg-areas",
+  "https://www.rockpapershotgun.com/this-isnt-a-sign-to-retreat-rockstars-historic-union-vote-has-failed-with-75-voting-against-but-the-organisers-are-going-to-keep-fighting",
+  "https://www.rockpapershotgun.com/an-apology-from-rps",
+  "https://www.gematsu.com/?p=1089676",
+  "https://www.pushsquare.com/#article-209687",
+  "https://www.pushsquare.com/#article-209684",
+  "https://www.pushsquare.com/#article-209681",
+  "https://www.nintendolife.com/#article-209686",
+  "https://www.nintendolife.com/#article-209677",
+  "https://www.nintendolife.com/#article-209469",
+  "https://news.xbox.com/en-us/?p=228566",
+  "https://www.rockpapershotgun.com/rumoured-simpsons-hit-run-remake-could-be-dead-in-the-water-as-new-radical-games-devs-suggest-their-unannounced-games-been-cancelled"
  ],
  "titles": [
-  "Новый стандарт сказки",
   "Схалтурили на нейросетках",
   "Охота на маньяка в GTA 6",
   "Мышиное дело обрастет новыми подробностями",
@@ -2409,7 +2425,8 @@
   "Успеть до праздников",
   "Дождался спустя 16 лет",
   "Десять лет ради одной роли",
-  "Маяк не гасить, жителей держать в узде"
+  "Маяк не гасить, жителей держать в узде",
+  "Не дождались в Спрингфилде"
  ],
  "queue": [
   {
@@ -2422,6 +2439,12 @@
    "post": "<b>Маяк не гасить, жителей держать в узде</b>\n\nВ Steam готовится к выходу мрачный градостроительный симулятор Glagstone с уникальной графикой в стиле классических игр для Macintosh конца 80-х. Игрокам предстоит примерить роль губернатора удаленного северного острова, богатого ресурсами, который постепенно сводит своего правителя с ума.\n\n#анонс\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/glagstone.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-27T15:45:39.270211+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Не дождались в Спрингфилде</b>\n\nКазалось бы, фанаты культовой Simpsons: Hit & Run наконец-то дождались возвращения легенды, но студия New Radical Games, похоже, свернула разработку своего секретного проекта. Создатели оригинальной игры вновь расстроили игроков отменой долгожданного возвращения.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://assetsio.gnwcdn.com/simpsons-hit-and-run.large.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "ts": "2026-11-27T17:15:39.507518+00:00",
    "tries": 0
   }
  ],
