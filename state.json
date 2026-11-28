@@ -2437,10 +2437,11 @@
   "https://www.nintendolife.com/#article-209749",
   "1addb911-db7c-456e-b78f-03720ed7891b",
   "https://www.pushsquare.com/#article-209747",
-  "https://www.eurogamer.net/what-weve-been-playing-woman-on-a-bus"
+  "https://www.eurogamer.net/what-weve-been-playing-woman-on-a-bus",
+  "24705400-3482-4206-9342-b26d6acf09f8",
+  "https://www.nintendolife.com/#article-209748"
  ],
  "titles": [
-  "Чисто ручная",
   "Взлом по картам",
   "Стримы GTA 6 бьют все мыслимые рекорды",
   "Керхер по-американски",
@@ -2459,7 +2460,8 @@
   "Warframe потянет на сиквел",
   "Mii-драйв подвезли в наушники",
   "Деньги возвращаются в кошелек",
-  "Косые взгляды и шарлатаны"
+  "Косые взгляды и шарлатаны",
+  "Мягкий старт нового поколения"
  ],
  "queue": [
   {
@@ -2472,6 +2474,12 @@
    "post": "<b>Косые взгляды и шарлатаны</b>\n\nРедакция Eurogamer снова делится тем, во что залипла на этой неделе. Пока Берти исследует живописную сельскую Англию XVII века, Коннор отыгрывает полного мерзавца за решеткой, а Дом вновь собирает косые взгляды прохожих.\n\n#новости\n\n🎮 Первый игровой",
    "image": "https://assetsio.gnwcdn.com/the-binding-of-isaac-repentance-nintendo-switch-2-screenshot-art-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
    "ts": "2026-11-28T08:15:38.803573+00:00",
+   "tries": 0
+  },
+  {
+   "post": "<b>Мягкий старт нового поколения</b>\n\nВ Японии уже в следующем месяце стартуют продажи мерча по грядущим Pokémon Winds & Waves. По традиции серию сопровождают плюшевые стартовые покемоны новой волны, которых фанаты смогут добавить в свои коллекции.\n\n#Nintendo #анонс\n\n🎮 Первый игровой",
+   "image": "https://images.nintendolife.com/9ba5fff5f265a/1280x720.jpg",
+   "ts": "2026-11-28T09:45:39.220451+00:00",
    "tries": 0
   }
  ],
