@@ -2453,10 +2453,19 @@
   "x53he7kC3MurGzpzDKhuQb",
   "https://www.rockpapershotgun.com/a-new-era-for-vermintide-2-modding-dawneth-as-fatshark-release-powerful-new-tools-for-custom-levels-models-and-animations",
   "https://www.nintendolife.com/#article-209728",
-  "5Zv25zUCrf6emKZ5tfKNXD"
+  "5Zv25zUCrf6emKZ5tfKNXD",
+  "W2Ln6Ng4kTWkTWngULWKi8",
+  "https://www.eurogamer.net/hollow-knight-silksongs-first-big-expansion-sea-of-sorrows-comes-out-in-two-weeks-and-seems-to-include-a-fishing-minigame",
+  "https://www.eurogamer.net/gta-6-cinematic-camera-hidden-gem",
+  "https://www.gematsu.com/?p=1089729",
+  "https://www.gematsu.com/?p=1089813",
+  "https://www.gematsu.com/?p=1089812",
+  "https://www.gematsu.com/?p=1089811",
+  "https://www.nintendolife.com/#article-209709",
+  "https://news.xbox.com/en-us/?p=228526",
+  "yszDoGBwM76QQdG2qahVQV"
  ],
  "titles": [
-  "Опять прятаться от Team Cherry не будут",
   "Моды дошли до консолей",
   "Миллион японских кроссвордов",
   "Собираем карманный гардероб",
@@ -2475,7 +2484,8 @@
   "Мягкий старт нового поколения",
   "Убийца легенды",
   "Спрингфилд остался без ремастера",
-  "Роботы не заменят самураев"
+  "Роботы не заменят самураев",
+  "Драконы уходят в отрыв"
  ],
  "queue": [
   {
@@ -2489,15 +2499,16 @@
    "image": "https://cdn.mos.cms.futurecdn.net/xV5zNsdmdv7q43RuGfdGxb-1920-80.jpg",
    "ts": "2026-11-28T14:15:40.187180+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Драконы уходят в отрыв</b>\n\nСтудия Night Street Games выпустила командный шутер Last Flag, созданный при участии Imagine Dragons. Нестандартный взгляд на режим захвата флага делает проект одним из самых любопытных жанровых экспериментов года, хотя широкого признания он пока не получил.\n\n#новости\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/wcrhQxUfagCcLxicbTER9R-2560-80.jpg",
+   "ts": "2026-11-28T15:45:43.587949+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-28T15:30:53.836914+00:00",
  "published": [
-  {
-   "ts": "2026-11-20T15:31:00.139700+00:00",
-   "title": "Задержка поколения Zen 6",
-   "body": "По слухам, AMD сдвинула релиз десктопных процессоров Zen 6 на вторую половину 2027 года. Причиной переноса называют сложный переход на передовой техпроцесс TSMC N2X."
-  },
   {
    "ts": "2026-11-20T17:01:04.621428+00:00",
    "title": "Искусственный интеллект в железе",
