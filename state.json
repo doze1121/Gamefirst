@@ -2439,10 +2439,11 @@
   "https://www.pushsquare.com/#article-209747",
   "https://www.eurogamer.net/what-weve-been-playing-woman-on-a-bus",
   "24705400-3482-4206-9342-b26d6acf09f8",
-  "https://www.nintendolife.com/#article-209748"
+  "https://www.nintendolife.com/#article-209748",
+  "https://www.eurogamer.net/marvelous-developer-volentary-redundancy-amidst-console-business-restructuring",
+  "8F9JDB9RMGcfdJZzjznv5n"
  ],
  "titles": [
-  "Взлом по картам",
   "Стримы GTA 6 бьют все мыслимые рекорды",
   "Керхер по-американски",
   "Опять прятаться от Team Cherry не будут",
@@ -2461,7 +2462,8 @@
   "Mii-драйв подвезли в наушники",
   "Деньги возвращаются в кошелек",
   "Косые взгляды и шарлатаны",
-  "Мягкий старт нового поколения"
+  "Мягкий старт нового поколения",
+  "Убийца легенды"
  ],
  "queue": [
   {
@@ -2475,15 +2477,16 @@
    "image": "https://images.nintendolife.com/9ba5fff5f265a/1280x720.jpg",
    "ts": "2026-11-28T09:45:39.220451+00:00",
    "tries": 0
+  },
+  {
+   "post": "<b>Убийца легенды</b>\n\nОтмененный Doom 4 на самом деле был отличным и веселым шутером, если верить бывшим разработчикам из id Software. Главной бедой проекта оказалось то, что он слишком сильно напоминал Call of Duty и совсем не ощущался как настоящий Doom. В итоге игру отправили в мусорку и сделали тот самый драйвовый перезапуск 2016 года.\n\n#индустрия\n\n🎮 Первый игровой",
+   "image": "https://cdn.mos.cms.futurecdn.net/FeS6q43BnJJKoPdLipuD8J-1920-80.jpg",
+   "ts": "2026-11-28T11:15:46.855238+00:00",
+   "tries": 0
   }
  ],
  "last_post": "2026-11-28T11:01:05.706787+00:00",
  "published": [
-  {
-   "ts": "2026-11-20T11:01:11.910055+00:00",
-   "title": "Возвращение к истокам мусоку",
-   "body": "Koei Tecmo выпустила крупный патч 1.1.0 для Dynasty Warriors 3: Complete Edition Remastered на Switch 2 и других платформах. Обновление добавило новые языки, удобную настройку управления для двоих игроков, а также исправ"
-  },
   {
    "ts": "2026-11-20T12:31:02.266659+00:00",
    "title": "Магия в кармане",
